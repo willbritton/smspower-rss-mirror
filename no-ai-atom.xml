@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-10-29T19:40:30Z</modified>
+  <modified>2026-10-29T19:50:28Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: General question about Sega Mark III cartridges and specific question about Y's</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141280#141280" />
+    <dc:creator>AtariBorn</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>AtariBorn</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141280#141280</id>
+    <issued>2026-10-29T19:48:10Z</issued>
+    <modified>2026-10-29T19:48:10Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398" target="_blank"&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Oct 29, 2026 7:48 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	The Mark III PCB uses the same setup as the western release.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141276#141276" />
@@ -37,20 +53,4 @@
 	@old_pirate: can you provide more details about the porting process (and was it AI-assisted or not) ?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141270#141270" />
-    <dc:creator>Tom</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>Tom</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141270#141270</id>
-    <issued>2026-10-29T14:14:02Z</issued>
-    <modified>2026-10-29T14:14:02Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=115" target="_blank"&gt;Tom&lt;/a&gt;&lt;br /&gt;
-	Posted: Thu Oct 29, 2026 2:14 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I sold my collection a few years ago, but it turns out my taste wasn't that bad, given that I used to own the top three games on that list... and Chuck Rock II for some reason.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  </feed>
+</feed>

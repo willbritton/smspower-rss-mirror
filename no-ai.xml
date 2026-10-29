@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 19:40:29 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 19:50:27 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,22 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: General question about Sega Mark III cartridges and specific question about Y's</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141280#141280</link>
+<pubDate>Thu, 29 Oct 2026 19:48:10 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141280#141280</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398" target="_blank"&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Oct 29, 2026 7:48 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;The Mark III PCB uses the same setup as the western release.&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>AtariBorn</dc:creator>
+<dc:subject>Main</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141035#141035" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141280</comments>
+</item>
 <item>
 <title>Development :: RE: Duck Hunt [SMS]</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141276#141276</link>
@@ -47,22 +63,6 @@ Posted: Thu Oct 29, 2026 2:44 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141271</comments>
-</item>
-<item>
-<title>Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141270#141270</link>
-<pubDate>Thu, 29 Oct 2026 14:14:02 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141270#141270</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=115" target="_blank"&gt;Tom&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Oct 29, 2026 2:14 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I sold my collection a few years ago, but it turns out my taste wasn't that bad, given that I used to own the top three games on that list... and Chuck Rock II for some reason.&lt;br /&gt;
-
-</description>
-<dc:creator>Tom</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141214#141214" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141270</comments>
 </item>
 </channel>
 </rss>

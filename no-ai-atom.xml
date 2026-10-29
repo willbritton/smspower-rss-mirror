@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="0.3">
+
+  <title>SMS Power!</title>
+  <generator>RSS Feed 2.2.3</generator>
+  <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
+  <modified>2026-10-29T17:31:12Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141271#141271" />
+    <dc:creator>sverx</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>sverx</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141271#141271</id>
+    <issued>2026-10-29T14:44:49Z</issued>
+    <modified>2026-10-29T14:44:49Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Oct 29, 2026 3:44 pm (GMT 1.00)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	@old_pirate: can you provide more details about the porting process (and was it AI-assisted or not) ?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141270#141270" />
+    <dc:creator>Tom</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>Tom</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141270#141270</id>
+    <issued>2026-10-29T14:14:02Z</issued>
+    <modified>2026-10-29T14:14:02Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=115" target="_blank"&gt;Tom&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Oct 29, 2026 3:14 pm (GMT 1.00)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I sold my collection a few years ago, but it turns out my taste wasn't that bad, given that I used to own the top three games on that list... and Chuck Rock II for some reason.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  </feed>

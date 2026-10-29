@@ -1,0 +1,32 @@
+name: Update
+
+on:
+  # schedule:
+  #   - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+    - name: Download
+      continue-on-error: false
+      run: |
+        wget -O rss.xml https://www.smspower.org:443/forums/rss.php && \
+        wget -O atom.xml https://www.smspower.org:443/forums/rss.php?atom && \
+        cat rss.xml | python3 scripts/filter_out.py > no-ai.xml && \
+        cat rss.xml | python3 scripts/filter_in.py > only-ai.xml
+        cat atom.xml | python3 scripts/filter_out.py > no-ai-atom.xml && \
+        cat atom.xml | python3 scripts/filter_in.py > only-ai-atom.xml
+    - name: Commit
+      continue-on-error: true
+      run: |
+        git config --global user.email "will@undeveloper.com"
+        git config --global user.name "WBritton"
+        git add *.xml
+        git commit -m 'Update'
+        git push
+      env:
+        GH_TOKEN: ${{ github.token }}

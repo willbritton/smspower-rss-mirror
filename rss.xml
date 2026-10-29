@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 20:00:52 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 20:10:28 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,26 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Competitions :: RE: Competitions 2027 - 30th Anniversary!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141281#141281</link>
+<pubDate>Thu, 29 Oct 2026 20:02:41 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141281#141281</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=3&quot; target=&quot;_blank&quot;&gt;Bock&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Oct 29, 2026 8:02 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Quote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--	var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));	SXBB[id] = new _SXBB(id);	SXBB[id].T['select'] = 'Select';	SXBB[id].T['expand'] = '[+]';	SXBB[id].T['contract'] = '[-]';	SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--      SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;We reserve the right to reject entries for these criteria:
+&lt;br /&gt;
+- Too much AI. (&amp;quot;Too much&amp;quot; is up to the whims of the SMS Power! elves and cannot be defined.)     &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+We may want to clarify this a little better before the competition happens, but in the current climate the general intention is that an entry where e.g. ~10% of the work is aided by AI would likely be accepted (e.g. an additional language, selected artwork), but an entry where ~50% of the work is done by AI wouldn't. This is not a firm rule here, but sort of aim to provide a general background intent about this.&lt;br /&gt;
+
+</description>
+<dc:creator>Bock</dc:creator>
+<dc:subject>Competitions</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=138755#138755" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141281</comments>
+</item>
 <item>
 <title>Main :: RE: General question about Sega Mark III cartridges and specific question about Y's</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141280#141280</link>
@@ -210,22 +230,6 @@ I don’t think that people reading this who were planning to showcase their AI 
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141272</comments>
-</item>
-<item>
-<title>Development :: RE: Duck Hunt [SMS]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141271#141271</link>
-<pubDate>Thu, 29 Oct 2026 14:44:49 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141271#141271</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Oct 29, 2026 2:44 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;@old_pirate: can you provide more details about the porting process (and was it AI-assisted or not) ?&lt;br /&gt;
-
-</description>
-<dc:creator>sverx</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141271</comments>
 </item>
 </channel>
 </rss>

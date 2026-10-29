@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 16:26:01 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 18:30:46 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -18,30 +18,62 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<height>56</height>
 </image>
 <item>
+<title>Main :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141275#141275</link>
+<pubDate>Thu, 29 Oct 2026 17:16:07 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141275#141275</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=3&quot; target=&quot;_blank&quot;&gt;Bock&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Oct 29, 2026 5:16 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;haroldoop wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;No worries, I can stop posting AI ports.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+We're currently discussing things and I don't want to rush it. The general idea is likely not to prevent you or anyone from posting things, but to be considerate that several people are losing motivation and interest in their work and the community given the amount of stuff released, particularly the amount of half-finished stuff. Perhaps a good solution would be to collate stuff in topics, e.g. &amp;quot;AI Ports by Haroldoop&amp;quot;.&lt;br /&gt;
+
+</description>
+<dc:creator>Bock</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141275</comments>
+</item>
+<item>
+<title>Main :: RE: [AI] Asterix and the Secret Mission (SMS/GG) Spanish, Italian, Catalan translations</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141274#141274</link>
+<pubDate>Thu, 29 Oct 2026 16:47:22 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141274#141274</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4634&quot; target=&quot;_blank&quot;&gt;Aranya&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Oct 29, 2026 4:47 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I don't have any particular goal in mind, just to share with the community, as I've been doing for many years.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Perhaps what you consider doing something half-heartedly means something different to someone else.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Think about it.&lt;br /&gt;
+
+</description>
+<dc:creator>Aranya</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141274</comments>
+</item>
+<item>
 <title>Main :: RE: [AI] Asterix and the Secret Mission (SMS/GG) Spanish, Italian, Catalan translations</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141273#141273</link>
 <pubDate>Thu, 29 Oct 2026 16:21:31 GMT</pubDate>
 <guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141273#141273</guid>
 <description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=28591&quot; target=&quot;_blank&quot;&gt;Bits Passats&lt;/a&gt;&lt;br /&gt;
 
-Posted: Thu Oct 29, 2026 5:21 pm (GMT 1.00)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Aranya wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Nobody has questioned anyone’s right to express their opinion or criticise someone else’s work. I’m simply saying that constructive criticism, as the name itself suggests, always helps to make something better. If we complain about the low quality of many AI projects, I don’t think non-constructive criticism helps at all, encourages people to make an effort, or even contributes to a positive atmosphere.
+Posted: Thu Oct 29, 2026 4:21 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Aranya wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Nobody has questioned anyone’s right to express their opinion or criticise someone else’s work. I’m simply saying that constructive criticism, as the name itself suggests, always helps to make something better. If we complain about the low quality of many AI projects, I don’t think non-constructive criticism helps at all, encourages people to make an effort, or even contributes to a positive atmosphere.
 &lt;br /&gt;
 
 &lt;br /&gt;
-I don’t think that people reading this who were planning to showcase their AI projects are any more enthusiastic about sharing the results now than they were before.    &lt;script type=&quot;text/javascript&quot;&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+I don’t think that people reading this who were planning to showcase their AI projects are any more enthusiastic about sharing the results now than they were before.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
 &lt;br /&gt;
 
 &lt;br /&gt;
@@ -68,7 +100,7 @@ If you have to do it, do it with your heart. Do it because you love it, put effo
 <guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141272#141272</guid>
 <description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4634&quot; target=&quot;_blank&quot;&gt;Aranya&lt;/a&gt;&lt;br /&gt;
 
-Posted: Thu Oct 29, 2026 4:47 pm (GMT 1.00)&lt;br /&gt;
+Posted: Thu Oct 29, 2026 3:47 pm (GMT 0)&lt;br /&gt;
 &lt;br /&gt;Nobody has questioned anyone’s right to express their opinion or criticise someone else’s work. I’m simply saying that constructive criticism, as the name itself suggests, always helps to make something better. If we complain about the low quality of many AI projects, I don’t think non-constructive criticism helps at all, encourages people to make an effort, or even contributes to a positive atmosphere.
 &lt;br /&gt;
 
@@ -88,7 +120,7 @@ I don’t think that people reading this who were planning to showcase their AI 
 <guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141271#141271</guid>
 <description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
 
-Posted: Thu Oct 29, 2026 3:44 pm (GMT 1.00)&lt;br /&gt;
+Posted: Thu Oct 29, 2026 2:44 pm (GMT 0)&lt;br /&gt;
 &lt;br /&gt;@old_pirate: can you provide more details about the porting process (and was it AI-assisted or not) ?&lt;br /&gt;
 
 </description>
@@ -104,7 +136,7 @@ Posted: Thu Oct 29, 2026 3:44 pm (GMT 1.00)&lt;br /&gt;
 <guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141270#141270</guid>
 <description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=115&quot; target=&quot;_blank&quot;&gt;Tom&lt;/a&gt;&lt;br /&gt;
 
-Posted: Thu Oct 29, 2026 3:14 pm (GMT 1.00)&lt;br /&gt;
+Posted: Thu Oct 29, 2026 2:14 pm (GMT 0)&lt;br /&gt;
 &lt;br /&gt;I sold my collection a few years ago, but it turns out my taste wasn't that bad, given that I used to own the top three games on that list... and Chuck Rock II for some reason.&lt;br /&gt;
 
 </description>
@@ -120,7 +152,7 @@ Posted: Thu Oct 29, 2026 3:14 pm (GMT 1.00)&lt;br /&gt;
 <guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141269#141269</guid>
 <description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=20104&quot; target=&quot;_blank&quot;&gt;undeveloper&lt;/a&gt;&lt;br /&gt;
 
-Posted: Thu Oct 29, 2026 3:07 pm (GMT 1.00)&lt;br /&gt;
+Posted: Thu Oct 29, 2026 2:07 pm (GMT 0)&lt;br /&gt;
 &lt;br /&gt;I think Bits Passats' feedback was appropriately delivered, remaining constructive whilst not mincing any words, and is appropriate to deliver publicly.
 &lt;br /&gt;
 
@@ -144,7 +176,7 @@ Bits Passats is totally within rights to publicly suggest a higher bar. Anyone (
 <guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141268#141268</guid>
 <description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4634&quot; target=&quot;_blank&quot;&gt;Aranya&lt;/a&gt;&lt;br /&gt;
 
-Posted: Thu Oct 29, 2026 2:55 pm (GMT 1.00)&lt;br /&gt;
+Posted: Thu Oct 29, 2026 1:55 pm (GMT 0)&lt;br /&gt;
 &lt;br /&gt;Hi again, I completely understand where you're coming from because I'm Valencian myself. In my opinion, the author doesn't mean any harm. Perhaps they're not aware of it, or perhaps they don't attach enough importance to symbols to have noticed these details.
 &lt;br /&gt;
 
@@ -168,16 +200,8 @@ At least, that's what I would have appreciated if I had been the author of the A
 <guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141267#141267</guid>
 <description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=28591&quot; target=&quot;_blank&quot;&gt;Bits Passats&lt;/a&gt;&lt;br /&gt;
 
-Posted: Thu Oct 29, 2026 2:41 pm (GMT 1.00)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Aranya wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Hi, I'd like to share my opinion on this.
+Posted: Thu Oct 29, 2026 1:41 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Aranya wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Hi, I'd like to share my opinion on this.
 &lt;br /&gt;
 
 &lt;br /&gt;
@@ -185,11 +209,7 @@ I think AI has democratised access to hacks, translations, game development, and
 &lt;br /&gt;
 
 &lt;br /&gt;
-Rather than rejecting or looking down on projects simply because they were made using AI, I think we could do EXACTLY THE SAME as we would with a manually created project: give the author feedback to encourage them to improve it and share our points of view.    &lt;script type=&quot;text/javascript&quot;&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+Rather than rejecting or looking down on projects simply because they were made using AI, I think we could do EXACTLY THE SAME as we would with a manually created project: give the author feedback to encourage them to improve it and share our points of view.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
 &lt;br /&gt;
 
 &lt;br /&gt;
@@ -224,7 +244,7 @@ Have a nice day&lt;br /&gt;
 <guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141266#141266</guid>
 <description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4634&quot; target=&quot;_blank&quot;&gt;Aranya&lt;/a&gt;&lt;br /&gt;
 
-Posted: Thu Oct 29, 2026 2:22 pm (GMT 1.00)&lt;br /&gt;
+Posted: Thu Oct 29, 2026 1:22 pm (GMT 0)&lt;br /&gt;
 &lt;br /&gt;Hi, I'd like to share my opinion on this.
 &lt;br /&gt;
 
@@ -240,90 +260,6 @@ Rather than rejecting or looking down on projects simply because they were made 
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141266</comments>
-</item>
-<item>
-<title>Main :: RE: [AI] Asterix and the Secret Mission (SMS/GG) Spanish, Italian, Catalan translations</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141265#141265</link>
-<pubDate>Thu, 29 Oct 2026 12:52:35 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141265#141265</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=12239&quot; target=&quot;_blank&quot;&gt;PinoBatch&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Oct 29, 2026 1:52 pm (GMT 1.00)&lt;br /&gt;
-&lt;br /&gt;I get the point: nine stripes are as important to La Senyera as 13 are to the US flag.
-&lt;br /&gt;
-
-&lt;br /&gt;
-This should correct the proportions for two of the flags.&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>PinoBatch</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141265</comments>
-</item>
-<item>
-<title>Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141264#141264</link>
-<pubDate>Thu, 29 Oct 2026 12:44:55 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141264#141264</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5915&quot; target=&quot;_blank&quot;&gt;kusfo&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Oct 29, 2026 1:44 pm (GMT 1.00)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;baude wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;kusfo wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;
-&lt;br /&gt;
-Actually, and this may surprise a lot of people, but I've explained it some other times with other audiences, Popolous for SMS has the best controls of all versions, Amiga and PC included, and considering that no content was cut,  that makes it the best version for playing Popolous, on any platform. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-&amp;quot;What are you saying Kusfo? a strategy game is always better with a mouse&amp;quot;. Well, that it's with modern UIs etc, but the Amiga version for instance, have two problems: 
-&lt;br /&gt;
-&lt;ul&gt;
-&lt;br /&gt;
-- You have to navigate in and out of the playing field to different sides of the screen, with a terribly slow cursor
-&lt;br /&gt;
-- The cursor has the famous problem that you have to click in very specific parts of the elements to have the click succeed.&lt;/ul&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Instead, the Master System version allows you to move from field to the specific options with just one button, very fast (Something that the Megadrive version didn't copy).    &lt;script type=&quot;text/javascript&quot;&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I’m with you: I played the Master System version until I was completely worn out—getting past world 2.000 without cheats, and past world 5.000 with them—spending hundreds of hours on it. I thought it was a spectacular game, even before I had the chance to compare it to other versions. I realize it wasn’t the best platform, nor the ideal time, for people to enjoy a game like this, but I certainly did—so much so that a friend and I became huge Populous fans (all thanks to that Master System version). We both later tried the Mega Drive and Amiga versions: while they were certainly more visually impressive, the Master System version was far more enjoyable to play.    &lt;script type=&quot;text/javascript&quot;&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-twin souls! &amp;lt;3&lt;br /&gt;
-
-</description>
-<dc:creator>kusfo</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141214#141214" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141264</comments>
 </item>
 </channel>
 </rss>

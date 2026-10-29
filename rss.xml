@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 18:40:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 18:50:28 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: Duck Hunt [SMS]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141276#141276</link>
+<pubDate>Thu, 29 Oct 2026 18:43:31 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141276#141276</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=10722&quot; target=&quot;_blank&quot;&gt;NewHorizon&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Oct 29, 2026 6:43 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Would be cool to see this with an All Stars style makeover like the SMB port.&lt;br /&gt;
+
+</description>
+<dc:creator>NewHorizon</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141276</comments>
+</item>
 <item>
 <title>Main :: RE: Ports created by [AI]</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141275#141275</link>
@@ -236,30 +252,6 @@ Have a nice day&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141267</comments>
-</item>
-<item>
-<title>Main :: RE: [AI] Asterix and the Secret Mission (SMS/GG) Spanish, Italian, Catalan translations</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141266#141266</link>
-<pubDate>Thu, 29 Oct 2026 13:22:09 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141266#141266</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4634&quot; target=&quot;_blank&quot;&gt;Aranya&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Oct 29, 2026 1:22 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Hi, I'd like to share my opinion on this.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I think AI has democratised access to hacks, translations, game development, and so on. In my opinion, this is fantastic, but it also leads to a significant increase in the number of projects and, consequently, a decrease in their average quality.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Rather than rejecting or looking down on projects simply because they were made using AI, I think we could do EXACTLY THE SAME as we would with a manually created project: give the author feedback to encourage them to improve it and share our points of view.&lt;br /&gt;
-
-</description>
-<dc:creator>Aranya</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141266</comments>
 </item>
 </channel>
 </rss>

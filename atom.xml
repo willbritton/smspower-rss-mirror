@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-10-29T18:40:31Z</modified>
+  <modified>2026-10-29T18:50:29Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141276#141276"/>
+    <dc:creator>NewHorizon</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>NewHorizon</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141276#141276</id>
+    <issued>2026-10-29T18:43:31Z</issued>
+    <modified>2026-10-29T18:43:31Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=10722&quot; target=&quot;_blank&quot;&gt;NewHorizon&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Oct 29, 2026 6:43 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Would be cool to see this with an All Stars style makeover like the SMB port.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Ports created by [AI]</title>
     <link rel="alternate" type="text/html"
@@ -236,31 +253,6 @@ And everything revolves around a blatant lack of supervision of the process and 
 
 &lt;br /&gt;
 Have a nice day&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: [AI] Asterix and the Secret Mission (SMS/GG) Spanish, Italian, Catalan translations</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141266#141266"/>
-    <dc:creator>Aranya</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>Aranya</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141266#141266</id>
-    <issued>2026-10-29T13:22:09Z</issued>
-    <modified>2026-10-29T13:22:09Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4634&quot; target=&quot;_blank&quot;&gt;Aranya&lt;/a&gt;&lt;br /&gt;
-	Posted: Thu Oct 29, 2026 1:22 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Hi, I'd like to share my opinion on this.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I think AI has democratised access to hacks, translations, game development, and so on. In my opinion, this is fantastic, but it also leads to a significant increase in the number of projects and, consequently, a decrease in their average quality.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Rather than rejecting or looking down on projects simply because they were made using AI, I think we could do EXACTLY THE SAME as we would with a manually created project: give the author feedback to encourage them to improve it and share our points of view.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

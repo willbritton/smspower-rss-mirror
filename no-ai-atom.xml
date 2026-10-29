@@ -4,7 +4,29 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-10-29T23:40:28Z</modified>
+  <modified>2026-10-29T23:50:27Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Phantasy Star and Y's Cartridges with FM sound (and question about Golden Axe Warrior PCB)</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141283#141283" />
+    <dc:creator>AtariBorn</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>AtariBorn</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141283#141283</id>
+    <issued>2026-10-29T23:43:17Z</issued>
+    <modified>2026-10-29T23:43:17Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398" target="_blank"&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Oct 29, 2026 11:43 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Another update...
+&lt;br /&gt;
+
+&lt;br /&gt;
+
+&lt;br /&gt;
+SRAM showed up today and the hacked rom boots properly, saves and loads. Just waiting on battery holders.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Competitions :: RE: Competitions 2027 - 30th Anniversary!</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141281#141281" />

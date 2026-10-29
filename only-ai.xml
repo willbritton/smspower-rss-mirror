@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 19:20:28 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 19:30:45 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,74 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141278#141278</link>
+<pubDate>Thu, 29 Oct 2026 19:26:18 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141278#141278</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4634" target="_blank"&gt;Aranya&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Oct 29, 2026 7:26 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;haroldoop wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Yes, a subforum for the AI threads sounds like a good idea.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+I agree. I only see advantages. Anyone who isn't interested knows they won't find anything for them in there.&lt;br /&gt;
+
+</description>
+<dc:creator>Aranya</dc:creator>
+<dc:subject>Main</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141278</comments>
+</item>
+<item>
+<title>Main :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141277#141277</link>
+<pubDate>Thu, 29 Oct 2026 19:22:02 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141277#141277</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7980" target="_blank"&gt;Centrale&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Oct 29, 2026 7:22 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;Bock wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;The general idea is likely not to prevent you or anyone from posting things, but to be considerate that several people are losing motivation and interest in their work and the community given the amount of stuff released, particularly the amount of half-finished stuff.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Motivation must be intrinsic, now more than ever. External validation is nice to have and helpful, but this matter of a skillful and relatively rare ability being augmented/replaced by automation has repeated over and over throughout history. The people who appreciate and (at least partially) understand the effort and skill that goes into coding still remain appreciative and should continue to be encouraging. Not to mention the personal satisfaction that comes from a job well done. That's why there are still calligraphers, drummers, etc.&lt;br /&gt;
+
+</description>
+<dc:creator>Centrale</dc:creator>
+<dc:subject>Main</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141277</comments>
+</item>
 <item>
 <title>Main :: RE: Ports created by [AI]</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141275#141275</link>
@@ -159,86 +227,6 @@ Bits Passats is totally within rights to publicly suggest a higher bar. Anyone (
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141269</comments>
-</item>
-<item>
-<title>Main :: RE: [AI] Asterix and the Secret Mission (SMS/GG) Spanish, Italian, Catalan translations</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141268#141268</link>
-<pubDate>Thu, 29 Oct 2026 13:55:18 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141268#141268</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4634" target="_blank"&gt;Aranya&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Oct 29, 2026 1:55 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Hi again, I completely understand where you're coming from because I'm Valencian myself. In my opinion, the author doesn't mean any harm. Perhaps they're not aware of it, or perhaps they don't attach enough importance to symbols to have noticed these details.
-&lt;br /&gt;
-
-&lt;br /&gt;
-In any case, what I mean is simply sending them a message encouraging them to correct these details.
-&lt;br /&gt;
-
-&lt;br /&gt;
-At least, that's what I would have appreciated if I had been the author of the AI-assisted hack.&lt;br /&gt;
-
-</description>
-<dc:creator>Aranya</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141268</comments>
-</item>
-<item>
-<title>Main :: RE: [AI] Asterix and the Secret Mission (SMS/GG) Spanish, Italian, Catalan translations</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141267#141267</link>
-<pubDate>Thu, 29 Oct 2026 13:41:19 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141267#141267</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=28591" target="_blank"&gt;Bits Passats&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Oct 29, 2026 1:41 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;Aranya wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Hi, I'd like to share my opinion on this.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I think AI has democratised access to hacks, translations, game development, and so on. In my opinion, this is fantastic, but it also leads to a significant increase in the number of projects and, consequently, a decrease in their average quality.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Rather than rejecting or looking down on projects simply because they were made using AI, I think we could do EXACTLY THE SAME as we would with a manually created project: give the author feedback to encourage them to improve it and share our points of view.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Hello Aranya,
-&lt;br /&gt;
-
-&lt;br /&gt;
-My piece of advice... do never let AI carelessly process without supervision sensible information, such as symbols. Symbology is a very powerful tool, but when misused it brings problems.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I am not looking down. I said exactly what it was wrong and why.
-&lt;br /&gt;
-
-&lt;br /&gt;
-And everything revolves around a blatant lack of supervision of the process and its results.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Have a nice day&lt;br /&gt;
-
-</description>
-<dc:creator>Bits Passats</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141267</comments>
 </item>
 </channel>
 </rss>

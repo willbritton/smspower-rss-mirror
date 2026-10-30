@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-10-30T22:30:41Z</modified>
+  <modified>2026-10-30T22:40:27Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141305#141305" />
+    <dc:creator>bbayles</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>bbayles</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141305#141305</id>
+    <issued>2026-10-30T22:35:50Z</issued>
+    <modified>2026-10-30T22:35:50Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35467" target="_blank"&gt;bbayles&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Oct 30, 2026 10:35 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	OK, &amp;quot;A member of Devo is... sneezing clouds of cocaine onto member of Devo until a counter runs out&amp;quot; really got me - hahaha.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141304#141304" />
@@ -263,4 +279,4 @@ Check it out!&lt;/span&gt;&lt;br /&gt;
 While I relied solely on my own intuition when creating &lt;a href="https://old-pirate.itch.io/battle-city-sms" target="_blank" class="postlink"&gt;Battle City&lt;/a&gt;, this time I made use of the game's decompilation for the NES. I also utilized AI, which guided me on how to implement a light gun for the SMS. Furthermore, the AI ​​handled the sound effects—a task I personally dislike the most when it comes to video game development.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

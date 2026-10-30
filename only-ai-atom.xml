@@ -1,24 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="0.3">
+<feed xmlns="http://purl.org/atom/ns#" version="0.3">
 
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-10-30T22:30:41Z</modified>
-  <entry>
-    <title mode="escaped">Main :: RE: Ports created by [AI]</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141294#141294" />
-    <dc:creator>D</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>D</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141294#141294</id>
-    <issued>2026-10-30T11:12:15Z</issued>
-    <modified>2026-10-30T11:12:15Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=186" target="_blank"&gt;D&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Oct 30, 2026 11:12 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I agree with you, Segarule.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  <modified>2026-10-30T22:40:27Z</modified>
+  </feed>

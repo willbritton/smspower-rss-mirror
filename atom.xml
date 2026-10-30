@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-10-30T22:30:41Z</modified>
+  <modified>2026-10-30T22:40:27Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141305#141305"/>
+    <dc:creator>bbayles</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>bbayles</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141305#141305</id>
+    <issued>2026-10-30T22:35:50Z</issued>
+    <modified>2026-10-30T22:35:50Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35467&quot; target=&quot;_blank&quot;&gt;bbayles&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Oct 30, 2026 10:35 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	OK, &amp;quot;A member of Devo is... sneezing clouds of cocaine onto member of Devo until a counter runs out&amp;quot; really got me - hahaha.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
     <link rel="alternate" type="text/html"
@@ -202,23 +219,6 @@ Check it out!&lt;/span&gt;&lt;br /&gt;
 	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;@old_pirate: can you provide more details about the porting process (and was it AI-assisted or not) ?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
 &lt;br /&gt;
 While I relied solely on my own intuition when creating &lt;a href=&quot;https://old-pirate.itch.io/battle-city-sms&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;Battle City&lt;/a&gt;, this time I made use of the game's decompilation for the NES. I also utilized AI, which guided me on how to implement a light gun for the SMS. Furthermore, the AI ​​handled the sound effects—a task I personally dislike the most when it comes to video game development.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: Ports created by [AI]</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141294#141294"/>
-    <dc:creator>D</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>D</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141294#141294</id>
-    <issued>2026-10-30T11:12:15Z</issued>
-    <modified>2026-10-30T11:12:15Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=186&quot; target=&quot;_blank&quot;&gt;D&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Oct 30, 2026 11:12 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I agree with you, Segarule.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

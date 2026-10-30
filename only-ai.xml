@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+<rss version="2.0">
 <channel>
 <title>SMS Power!</title>
 <link>https://www.smspower.org:443/forums/</link>
@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 22:30:40 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:40:27 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,21 +16,5 @@
 	<width>122</width>
 	<height>56</height>
 </image>
-<item>
-<title>Main :: RE: Ports created by [AI]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141294#141294</link>
-<pubDate>Fri, 30 Oct 2026 11:12:15 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141294#141294</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=186" target="_blank"&gt;D&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 11:12 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I agree with you, Segarule.&lt;br /&gt;
-
-</description>
-<dc:creator>D</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141294</comments>
-</item>
 </channel>
 </rss>

@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-10-30T07:30:43Z</modified>
+  <modified>2026-10-30T07:40:29Z</modified>
   <entry>
     <title mode="escaped">Competitions :: RE: Competitions 2027 - 30th Anniversary!</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141284#141284" />
@@ -99,20 +99,4 @@ We may want to clarify this a little better before the competition happens, but 
 	The Mark III PCB uses the same setup as the western release.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141276#141276" />
-    <dc:creator>NewHorizon</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>NewHorizon</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141276#141276</id>
-    <issued>2026-10-29T18:43:31Z</issued>
-    <modified>2026-10-29T18:43:31Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=10722" target="_blank"&gt;NewHorizon&lt;/a&gt;&lt;br /&gt;
-	Posted: Thu Oct 29, 2026 6:43 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Would be cool to see this with an All Stars style makeover like the SMB port.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 14:50:31 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 15:00:56 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,26 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141298#141298</link>
+<pubDate>Fri, 30 Oct 2026 14:52:52 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141298#141298</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413&quot; target=&quot;_blank&quot;&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Oct 30, 2026 2:52 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Latest main episode is up
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;https://rss.com/podcasts/are-you-alex-kidding/3279634&quot; target=&quot;_blank&quot;&gt;https://rss.com/podcasts/are-you-alex-kidding/3279634&lt;/a&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>PatrickBateman</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141298</comments>
+</item>
 <item>
 <title>Main :: RE: OBAKE - New SG-1000 game released</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141297#141297</link>
@@ -248,46 +268,6 @@ Furthermore, I believe that providing feedback on AI-assisted creations can enco
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141288</comments>
-</item>
-<item>
-<title>Main :: RE: Ports created by [AI]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141287#141287</link>
-<pubDate>Fri, 30 Oct 2026 08:05:30 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141287#141287</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=9683&quot; target=&quot;_blank&quot;&gt;baude&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 8:05 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;My take.
-&lt;br /&gt;
-
-&lt;br /&gt;
-In my line of work (I’m an analyst programmer), I use AI—increasingly so. Anyone who uses AI beyond a casual, superficial level knows that we neither should nor can assume the final result will be what we want unless we put in the necessary effort ourselves. Ultimately, the people who produce great work today with the help of AI are the very same people who were producing great work yesterday, without it.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I agree that, lately, this forum has seen too many submissions of projects created almost entirely (or perhaps entirely) using AI, where the quality reflects a near-total lack of human effort. The individuals behind these low-quality games likely wouldn't have been able to create a game at all—or, if they had, it would have been of equally poor quality.
-&lt;br /&gt;
-
-&lt;br /&gt;
-On the other hand, there have also been several recent submissions of games generated—partially or entirely—with AI that are of exceptionally high quality. I won’t name names; I think we’re all familiar with such examples. The creators behind these projects clearly know what they’re doing; they approach their work with care, attention to detail, and genuine effort. Is there a difference compared to those who build everything from scratch, the &amp;quot;artisanal&amp;quot; way? Obviously, yes: they have a machine to assist them in their efforts. But... so what?
-&lt;br /&gt;
-
-&lt;br /&gt;
-No, really—that’s my conclusion: so what?
-&lt;br /&gt;
-
-&lt;br /&gt;
-I don’t want to miss out on these extraordinary projects from talented people who happen to use AI as a tool. And with this sort of anti-AI sentiment that seems to be taking root, I get the feeling that we’re already starting to lose some of them.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I think a dedicated subforum for AI-assisted projects would be a good idea. I don’t see it as a &amp;quot;ghetto&amp;quot; or a form of segregation; rather, I believe those of us who truly understand that AI, quality, and hard work are not mutually exclusive—and I suspect we are the majority—will continue to engage with that subforum with the same enthusiasm we bring to this great forum.&lt;br /&gt;
-
-</description>
-<dc:creator>baude</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141287</comments>
 </item>
 </channel>
 </rss>

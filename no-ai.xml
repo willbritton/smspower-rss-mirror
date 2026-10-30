@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 08:20:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 08:30:44 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,22 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Competitions :: RE: Competitions 2027 - 30th Anniversary!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141290#141290</link>
+<pubDate>Fri, 30 Oct 2026 08:22:19 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141290#141290</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Oct 30, 2026 8:22 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I believe the best we can do is to explain how much we prefer entries that don't use any AI and that we're willing to accept some &lt;i&gt;minimal&lt;/i&gt; usage of AI, all of that subject to the admins' judgment - I trust you guys to be the people to stop submissions that are over the threshold, and I trust the entrants to be fully transparent about their entries.&lt;br /&gt;
+
+</description>
+<dc:creator>sverx</dc:creator>
+<dc:subject>Competitions</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=138755#138755" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141290</comments>
+</item>
 <item>
 <title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141289#141289</link>
@@ -77,54 +93,6 @@ SRAM showed up today and the hacked rom boots properly, saves and loads. Just wa
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=139898#139898" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141283</comments>
-</item>
-<item>
-<title>Competitions :: RE: Competitions 2027 - 30th Anniversary!</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141281#141281</link>
-<pubDate>Thu, 29 Oct 2026 20:02:41 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141281#141281</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=3" target="_blank"&gt;Bock&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Oct 29, 2026 8:02 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;Quote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-	var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));	SXBB[id] = new _SXBB(id);	SXBB[id].T['select'] = 'Select';	SXBB[id].T['expand'] = '[+]';	SXBB[id].T['contract'] = '[-]';	SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-      SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;We reserve the right to reject entries for these criteria:
-&lt;br /&gt;
-- Too much AI. (&amp;quot;Too much&amp;quot; is up to the whims of the SMS Power! elves and cannot be defined.)     &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-We may want to clarify this a little better before the competition happens, but in the current climate the general intention is that an entry where e.g. ~10% of the work is aided by AI would likely be accepted (e.g. an additional language, selected artwork), but an entry where ~50% of the work is done by AI wouldn't. This is not a firm rule here, but sort of aim to provide a general background intent about this.&lt;br /&gt;
-
-</description>
-<dc:creator>Bock</dc:creator>
-<dc:subject>Competitions</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=138755#138755" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141281</comments>
-</item>
-<item>
-<title>Main :: RE: General question about Sega Mark III cartridges and specific question about Y's</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141280#141280</link>
-<pubDate>Thu, 29 Oct 2026 19:48:10 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141280#141280</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398" target="_blank"&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Oct 29, 2026 7:48 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;The Mark III PCB uses the same setup as the western release.&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>AtariBorn</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141035#141035" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141280</comments>
 </item>
 </channel>
 </rss>

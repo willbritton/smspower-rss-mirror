@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-10-30T08:10:31Z</modified>
+  <modified>2026-10-30T08:20:28Z</modified>
+  <entry>
+    <title mode="escaped">Website :: RE: Homebrew projects still missing from the Homebrew page</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141289#141289" />
+    <dc:creator>sverx</dc:creator>
+    <dc:subject>Website</dc:subject>
+    <author>
+		<name>sverx</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141289#141289</id>
+    <issued>2026-10-30T08:16:02Z</issued>
+    <modified>2026-10-30T08:16:02Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Oct 30, 2026 8:16 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;a href="https://www.smspower.org/forums/21239-OBAKENewSG1000GameReleased" target="_blank"&gt;https://www.smspower.org/forums/21239-OBAKENewSG1000GameReleased&lt;/a&gt; (now there's also a free demo on their itch.io page!)&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Competitions :: RE: Competitions 2027 - 30th Anniversary!</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141284#141284" />
@@ -99,4 +115,4 @@ We may want to clarify this a little better before the competition happens, but 
 	The Mark III PCB uses the same setup as the western release.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

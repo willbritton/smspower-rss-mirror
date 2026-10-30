@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 08:10:31 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 08:20:28 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,22 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141289#141289</link>
+<pubDate>Fri, 30 Oct 2026 08:16:02 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141289#141289</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Oct 30, 2026 8:16 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;a href="https://www.smspower.org/forums/21239-OBAKENewSG1000GameReleased" target="_blank"&gt;https://www.smspower.org/forums/21239-OBAKENewSG1000GameReleased&lt;/a&gt; (now there's also a free demo on their itch.io page!)&lt;br /&gt;
+
+</description>
+<dc:creator>sverx</dc:creator>
+<dc:subject>Website</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141289</comments>
+</item>
 <item>
 <title>Competitions :: RE: Competitions 2027 - 30th Anniversary!</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141284#141284</link>

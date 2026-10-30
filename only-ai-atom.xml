@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-10-30T11:10:31Z</modified>
+  <modified>2026-10-30T11:20:29Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Ports created by [AI]</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141294#141294" />
+    <dc:creator>D</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>D</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141294#141294</id>
+    <issued>2026-10-30T11:12:15Z</issued>
+    <modified>2026-10-30T11:12:15Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=186" target="_blank"&gt;D&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Oct 30, 2026 11:12 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I agree with you, Segarule.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Ports created by [AI]</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141293#141293" />
@@ -311,4 +327,4 @@ But I would rather see AI banned here than end up with two communities that donâ
 What objection do you have to having a subforum for AI-generated projects while keeping the rest of the forum for non AI projects?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 11:10:31 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 11:20:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141294#141294</link>
+<pubDate>Fri, 30 Oct 2026 11:12:15 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141294#141294</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=186&quot; target=&quot;_blank&quot;&gt;D&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Oct 30, 2026 11:12 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I agree with you, Segarule.&lt;br /&gt;
+
+</description>
+<dc:creator>D</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141294</comments>
+</item>
 <item>
 <title>Main :: RE: Ports created by [AI]</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141293#141293</link>
@@ -282,30 +298,6 @@ What objection do you have to having a subforum for AI-generated projects while 
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141285</comments>
-</item>
-<item>
-<title>Competitions :: RE: Competitions 2027 - 30th Anniversary!</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141284#141284</link>
-<pubDate>Fri, 30 Oct 2026 01:54:34 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141284#141284</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 1:54 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I think it is impossible to define a percentage scale that people can agree on. Some people are easily triggered by AI cover art, for example, even if the rest is created traditionally. That seems like it’s &amp;lt;10% to me. On the other hand, if 10% of the code was “vibed” that seems like a lot to me. And that’s still assuming I can make an accurate measure of that percentage. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-By making the boundary vague I hope that means people will err on the side of caution. I’m hoping the “AI disclosure” requirement will ensure people give a clear picture of how much it was used and that can help provide some examples for us to set clearer boundaries in future. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-One thing I’d like to rule out - at least for the next competition - is an AI-positive category.&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Competitions</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=138755#138755" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141284</comments>
 </item>
 </channel>
 </rss>

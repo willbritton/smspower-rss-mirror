@@ -8,7 +8,28 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-10-30T08:30:44Z</modified>
+  <modified>2026-10-30T08:40:29Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Ports created by [AI]</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141292#141292"/>
+    <dc:creator>undeveloper</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>undeveloper</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141292#141292</id>
+    <issued>2026-10-30T08:40:04Z</issued>
+    <modified>2026-10-30T08:40:04Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=20104&quot; target=&quot;_blank&quot;&gt;undeveloper&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Oct 30, 2026 8:40 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	And for the record: I think a separate sub-forum would be the most appropriate and equitable way to organise this. I DON'T think that AI work should be excluded from the community or marginalised. I also think putting it into one big mega-thread would be treating it like a second-class citizen and asking those participating in it to work with different ergonomics to everyone else which isn't fair.
+&lt;br /&gt;
+
+&lt;br /&gt;
+We already use sub-forums to organise broad topics based on interest area, and we should continue to use that precedent.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Ports created by [AI]</title>
     <link rel="alternate" type="text/html"
@@ -39,7 +60,7 @@ Democratisation? Do you realise how loaded your language is? You advised someone
 &lt;br /&gt;
 
 &lt;br /&gt;
-Many of the people who are involved in this forum have a professional connection to the software industry. Many do not. Many are using AI professionally now. Many are not. Many members have been actively &lt;i&gt;helping&lt;/i&gt; to make it easier for people to get involved in retro game dev in many different ways. Many do not. There are many more dimensions to consider but one thing is true - there is no general correlation between the many diverse and wonderful people who use this forum and their stance on AI.
+Many of the people who are involved in this forum have a professional connection to the software industry. Many do not. Many are using AI professionally now. Many are not. Many members have been actively &lt;i&gt;helping&lt;/i&gt; to make it easier for people to get involved in retro game dev in many different ways. Many have not. There are many more dimensions to consider but one thing is true - there is no general correlation between the many diverse and wonderful people who use this forum and their stance on AI.
 &lt;br /&gt;
 
 &lt;br /&gt;
@@ -260,27 +281,6 @@ One thing I’d like to rule out - at least for the next competition - is an AI-
 
 &lt;br /&gt;
 SRAM showed up today and the hacked rom boots properly, saves and loads. Just waiting on battery holders.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: Ports created by [AI]</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141282#141282"/>
-    <dc:creator>mateusbond</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>mateusbond</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141282#141282</id>
-    <issued>2026-10-29T21:10:59Z</issued>
-    <modified>2026-10-29T21:10:59Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826&quot; target=&quot;_blank&quot;&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
-	Posted: Thu Oct 29, 2026 9:10 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Bock wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;[...]several people are losing motivation and interest in their work and the community given the amount of stuff released, particularly the amount of half-finished stuff.[...]    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-And it's not only among creators. My own interest on homebrew as a &lt;b&gt;gamer&lt;/b&gt; has dropped to its lowest levels ever since these things started showing everywhere. All the power to people who enjoy it, but as a former actor myself, I lean more towards creative stuff.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

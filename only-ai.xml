@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 21:50:44 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:00:50 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -135,62 +135,6 @@ We already use sub-forums to organise broad topics based on interest area, and w
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141292</comments>
-</item>
-<item>
-<title>Main :: RE: Ports created by [AI]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141291#141291</link>
-<pubDate>Fri, 30 Oct 2026 08:29:19 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141291#141291</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=20104" target="_blank"&gt;undeveloper&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 8:29 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;Aranya wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;In my opinion, although I'm neither an AI user nor someone who has ever done any programming, I can only see objections coming from a section of the community which, in my view, doesn't seem to have taken very well to the &amp;quot;democratisation&amp;quot; of access to creating content for the console.
-&lt;br /&gt;
-    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-I'm sorry, I normally don't like to engage in online arguments like this, but some of your recent comments have been so full of nonsense.
-&lt;br /&gt;
-
-&lt;br /&gt;
-What on earth are you actually talking about?
-&lt;br /&gt;
-
-&lt;br /&gt;
-Democratisation? Do you realise how loaded your language is? You advised someone on another thread to &amp;quot;think about it&amp;quot; recently. I would strongly suggest you take your own advice and think very hard about what you are really saying before you start wading into a discussion throwing loaded accusations around that those who reasonably raise concerns about the nature of content in a community they are invested in is implicitly acting in bad faith or &amp;quot;undemocratically&amp;quot;.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Many of the people who are involved in this forum have a professional connection to the software industry. Many do not. Many are using AI professionally now. Many are not. Many members have been actively &lt;i&gt;helping&lt;/i&gt; to make it easier for people to get involved in retro game dev in many different ways. Many have not. There are many more dimensions to consider but one thing is true - there is no general correlation between the many diverse and wonderful people who use this forum and their stance on AI.
-&lt;br /&gt;
-
-&lt;br /&gt;
-It is true that emotions are running high around this. This is to be expected - it's a big change and change is hard. Most of the long time members of this forum are lovely people who care deeply about the subject and feel like they have a stake in it. Most of them are - if you actually pay attention - engaging in a process of reasonable and civil, if sometimes heated, debate while they wrestle with their own feelings and opinions at the same time.
-&lt;br /&gt;
-
-&lt;br /&gt;
-By the way, THAT is democracy.
-&lt;br /&gt;
-
-&lt;br /&gt;
-You are not helping by slinging thinly veiled accusations around about people's inner motivations. My advice before the next time you say something like this: Think about it.&lt;br /&gt;
-
-</description>
-<dc:creator>undeveloper</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141291</comments>
 </item>
 </channel>
 </rss>

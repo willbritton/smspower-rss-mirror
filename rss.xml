@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 21:50:44 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:00:50 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,48 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: Duck Hunt [SMS]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141302#141302</link>
+<pubDate>Fri, 30 Oct 2026 21:59:11 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141302#141302</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245&quot; target=&quot;_blank&quot;&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Oct 30, 2026 9:59 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Does it work on modern TVs?&lt;br /&gt;
+
+</description>
+<dc:creator>KalexPidd</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141302</comments>
+</item>
+<item>
+<title>Development :: RE: Phantasy Star and Y's Cartridges with FM sound (and question about Golden Axe Warrior PCB)</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141301#141301</link>
+<pubDate>Fri, 30 Oct 2026 21:57:27 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141301#141301</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245&quot; target=&quot;_blank&quot;&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Oct 30, 2026 9:57 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;AtariBorn wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Another update...
+&lt;br /&gt;
+
+&lt;br /&gt;
+
+&lt;br /&gt;
+SRAM showed up today and the hacked rom boots properly, saves and loads. Just waiting on battery holders.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Is this on the PCB you ordered from retrocircuits?&lt;br /&gt;
+
+</description>
+<dc:creator>KalexPidd</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=139898#139898" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141301</comments>
+</item>
 <item>
 <title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141300#141300</link>
@@ -204,66 +246,6 @@ We already use sub-forums to organise broad topics based on interest area, and w
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141292</comments>
-</item>
-<item>
-<title>Main :: RE: Ports created by [AI]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141291#141291</link>
-<pubDate>Fri, 30 Oct 2026 08:29:19 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141291#141291</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=20104&quot; target=&quot;_blank&quot;&gt;undeveloper&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 8:29 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Aranya wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;In my opinion, although I'm neither an AI user nor someone who has ever done any programming, I can only see objections coming from a section of the community which, in my view, doesn't seem to have taken very well to the &amp;quot;democratisation&amp;quot; of access to creating content for the console.
-&lt;br /&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-I'm sorry, I normally don't like to engage in online arguments like this, but some of your recent comments have been so full of nonsense.
-&lt;br /&gt;
-
-&lt;br /&gt;
-What on earth are you actually talking about?
-&lt;br /&gt;
-
-&lt;br /&gt;
-Democratisation? Do you realise how loaded your language is? You advised someone on another thread to &amp;quot;think about it&amp;quot; recently. I would strongly suggest you take your own advice and think very hard about what you are really saying before you start wading into a discussion throwing loaded accusations around that those who reasonably raise concerns about the nature of content in a community they are invested in is implicitly acting in bad faith or &amp;quot;undemocratically&amp;quot;.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Many of the people who are involved in this forum have a professional connection to the software industry. Many do not. Many are using AI professionally now. Many are not. Many members have been actively &lt;i&gt;helping&lt;/i&gt; to make it easier for people to get involved in retro game dev in many different ways. Many have not. There are many more dimensions to consider but one thing is true - there is no general correlation between the many diverse and wonderful people who use this forum and their stance on AI.
-&lt;br /&gt;
-
-&lt;br /&gt;
-It is true that emotions are running high around this. This is to be expected - it's a big change and change is hard. Most of the long time members of this forum are lovely people who care deeply about the subject and feel like they have a stake in it. Most of them are - if you actually pay attention - engaging in a process of reasonable and civil, if sometimes heated, debate while they wrestle with their own feelings and opinions at the same time.
-&lt;br /&gt;
-
-&lt;br /&gt;
-By the way, THAT is democracy.
-&lt;br /&gt;
-
-&lt;br /&gt;
-You are not helping by slinging thinly veiled accusations around about people's inner motivations. My advice before the next time you say something like this: Think about it.&lt;br /&gt;
-
-</description>
-<dc:creator>undeveloper</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141291</comments>
-</item>
-<item>
-<title>Competitions :: RE: Competitions 2027 - 30th Anniversary!</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141290#141290</link>
-<pubDate>Fri, 30 Oct 2026 08:22:19 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141290#141290</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 8:22 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I believe the best we can do is to explain how much we prefer entries that don't use any AI and that we're willing to accept some &lt;i&gt;minimal&lt;/i&gt; usage of AI, all of that subject to the admins' judgment - I trust you guys to be the people to stop submissions that are over the threshold, and I trust the entrants to be fully transparent about their entries.&lt;br /&gt;
-
-</description>
-<dc:creator>sverx</dc:creator>
-<dc:subject>Competitions</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=138755#138755" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141290</comments>
 </item>
 </channel>
 </rss>

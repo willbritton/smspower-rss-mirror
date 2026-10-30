@@ -4,7 +4,61 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-10-30T21:50:45Z</modified>
+  <modified>2026-10-30T22:00:51Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141302#141302" />
+    <dc:creator>KalexPidd</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>KalexPidd</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141302#141302</id>
+    <issued>2026-10-30T21:59:11Z</issued>
+    <modified>2026-10-30T21:59:11Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245" target="_blank"&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Oct 30, 2026 9:59 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Does it work on modern TVs?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">Development :: RE: Phantasy Star and Y's Cartridges with FM sound (and question about Golden Axe Warrior PCB)</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141301#141301" />
+    <dc:creator>KalexPidd</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>KalexPidd</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141301#141301</id>
+    <issued>2026-10-30T21:57:27Z</issued>
+    <modified>2026-10-30T21:57:27Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245" target="_blank"&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Oct 30, 2026 9:57 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class="attribution"&gt;AtariBorn wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Another update...
+&lt;br /&gt;
+
+&lt;br /&gt;
+
+&lt;br /&gt;
+SRAM showed up today and the hacked rom boots properly, saves and loads. Just waiting on battery holders.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Is this on the PCB you ordered from retrocircuits?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Website :: RE: Homebrew projects still missing from the Homebrew page</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141300#141300" />
@@ -145,20 +199,4 @@ Check it out!&lt;/span&gt;&lt;br /&gt;
 While I relied solely on my own intuition when creating &lt;a href="https://old-pirate.itch.io/battle-city-sms" target="_blank" class="postlink"&gt;Battle City&lt;/a&gt;, this time I made use of the game's decompilation for the NES. I also utilized AI, which guided me on how to implement a light gun for the SMS. Furthermore, the AI ​​handled the sound effects—a task I personally dislike the most when it comes to video game development.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Competitions :: RE: Competitions 2027 - 30th Anniversary!</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141290#141290" />
-    <dc:creator>sverx</dc:creator>
-    <dc:subject>Competitions</dc:subject>
-    <author>
-		<name>sverx</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141290#141290</id>
-    <issued>2026-10-30T08:22:19Z</issued>
-    <modified>2026-10-30T08:22:19Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Oct 30, 2026 8:22 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I believe the best we can do is to explain how much we prefer entries that don't use any AI and that we're willing to accept some &lt;i&gt;minimal&lt;/i&gt; usage of AI, all of that subject to the admins' judgment - I trust you guys to be the people to stop submissions that are over the threshold, and I trust the entrants to be fully transparent about their entries.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

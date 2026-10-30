@@ -8,7 +8,34 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-10-30T13:10:30Z</modified>
+  <modified>2026-10-30T13:20:29Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: OBAKE - New SG-1000 game released</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141297#141297"/>
+    <dc:creator>Andrs</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>Andrs</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141297#141297</id>
+    <issued>2026-10-30T13:19:44Z</issued>
+    <modified>2026-10-30T13:19:44Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35527&quot; target=&quot;_blank&quot;&gt;Andrs&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Oct 30, 2026 1:19 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;It looks nice! :)
+&lt;br /&gt;
+Please consider releasing a playable demo with a few levels so that people can test the game. We'll add that to the homebrew section here with a link to the full version on your itch.io webpage.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+I have added a free demo version with 8 rounds.
+&lt;br /&gt;
+The last round is Halloween-themed! 
+&lt;br /&gt;
+Check it out!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
     <link rel="alternate" type="text/html"
@@ -262,39 +289,6 @@ I don’t want to miss out on these extraordinary projects from talented people 
 
 &lt;br /&gt;
 I think a dedicated subforum for AI-assisted projects would be a good idea. I don’t see it as a &amp;quot;ghetto&amp;quot; or a form of segregation; rather, I believe those of us who truly understand that AI, quality, and hard work are not mutually exclusive—and I suspect we are the majority—will continue to engage with that subforum with the same enthusiasm we bring to this great forum.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: Ports created by [AI]</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141286#141286"/>
-    <dc:creator>Guy</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>Guy</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141286#141286</id>
-    <issued>2026-10-30T07:32:50Z</issued>
-    <modified>2026-10-30T07:32:50Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=15675&quot; target=&quot;_blank&quot;&gt;Guy&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Oct 30, 2026 7:32 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	If the sole purpose of a dedicated sub-forum is to quarantine all AI users regardless of their specific projects, how they use the technology or their participation in the rest of the forum by hiding them away or removing them from search indexes then I am not in favor of it.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I created homebrew content before the advent of AI, now I use it in my projects : it’s a useful tool and everyone responsibility to use it (or not use it) in line with its underlying philosophy.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I understand that enthusiasts who invest their passion, time, work and teaming to doing everything by hand hold a certain vision of homebrewing are losing visibility. That's unfair.
-&lt;br /&gt;
-
-&lt;br /&gt;
-So in  my view, it makes more sense to give greater visibility to those who choose to develop everything from scratch.
-&lt;br /&gt;
-
-&lt;br /&gt;
-But I would rather see AI banned here than end up with two communities that don’t speak to each other.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

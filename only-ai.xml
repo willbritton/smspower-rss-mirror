@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 13:10:30 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 13:20:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -259,38 +259,6 @@ I think a dedicated subforum for AI-assisted projects would be a good idea. I do
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141287</comments>
-</item>
-<item>
-<title>Main :: RE: Ports created by [AI]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141286#141286</link>
-<pubDate>Fri, 30 Oct 2026 07:32:50 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141286#141286</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=15675" target="_blank"&gt;Guy&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 7:32 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;If the sole purpose of a dedicated sub-forum is to quarantine all AI users regardless of their specific projects, how they use the technology or their participation in the rest of the forum by hiding them away or removing them from search indexes then I am not in favor of it.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I created homebrew content before the advent of AI, now I use it in my projects : it’s a useful tool and everyone responsibility to use it (or not use it) in line with its underlying philosophy.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I understand that enthusiasts who invest their passion, time, work and teaming to doing everything by hand hold a certain vision of homebrewing are losing visibility. That's unfair.
-&lt;br /&gt;
-
-&lt;br /&gt;
-So in  my view, it makes more sense to give greater visibility to those who choose to develop everything from scratch.
-&lt;br /&gt;
-
-&lt;br /&gt;
-But I would rather see AI banned here than end up with two communities that don’t speak to each other.&lt;br /&gt;
-
-</description>
-<dc:creator>Guy</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141286</comments>
 </item>
 </channel>
 </rss>

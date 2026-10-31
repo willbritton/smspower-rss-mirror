@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 11:20:29 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 11:30:42 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,48 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: Duck Hunt [SMS]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141312#141312</link>
+<pubDate>Sat, 31 Oct 2026 11:20:53 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141312#141312</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=31904" target="_blank"&gt;EnricoPallazzo&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Oct 31, 2026 11:20 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;old_pirate wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;
+&lt;br /&gt;
+When the light gun's trigger is pulled, the game freezes—this is because, in the original version, a black screen with white squares would be drawn at that moment. We don’t need the black screen, but we do want the experience to be as close to the original as possible.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+I think it is customary to flash a white screen for a frame. On the NES, I think it goes (1) black screen, (2) black screen with white squares, (3) black screen, (4) background with no sprites, (5) back to normal, but it never feels like it freezes
+&lt;br /&gt;
+
+&lt;br /&gt;
+According to Emulicious it is using 100% cpu all the time, out of curiosity why is it coded like that? Is this just from the AI coding?
+&lt;br /&gt;
+
+&lt;br /&gt;
+Also during the opening dog animation, the sprite tiles are streamed in, but there is plenty of VRAM for all the sprite tiles to begin with, so why are they streamed? I feel like this might be why the music seems to speed up and slow down&lt;br /&gt;
+
+</description>
+<dc:creator>EnricoPallazzo</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141312</comments>
+</item>
 <item>
 <title>Development :: RE: Different approaches to fade routines</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141311#141311</link>
@@ -249,22 +291,6 @@ Yes. It's a Retrocircuits PCB.&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=139898#139898" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141303</comments>
-</item>
-<item>
-<title>Development :: RE: Duck Hunt [SMS]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141302#141302</link>
-<pubDate>Fri, 30 Oct 2026 21:59:11 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141302#141302</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245" target="_blank"&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 9:59 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Does it work on modern TVs?&lt;br /&gt;
-
-</description>
-<dc:creator>KalexPidd</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141302</comments>
 </item>
 </channel>
 </rss>

@@ -4,7 +4,49 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-10-31T11:20:30Z</modified>
+  <modified>2026-10-31T11:30:42Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141312#141312" />
+    <dc:creator>EnricoPallazzo</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>EnricoPallazzo</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141312#141312</id>
+    <issued>2026-10-31T11:20:53Z</issued>
+    <modified>2026-10-31T11:20:53Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=31904" target="_blank"&gt;EnricoPallazzo&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Oct 31, 2026 11:20 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class="attribution"&gt;old_pirate wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;
+&lt;br /&gt;
+When the light gun's trigger is pulled, the game freezes—this is because, in the original version, a black screen with white squares would be drawn at that moment. We don’t need the black screen, but we do want the experience to be as close to the original as possible.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+I think it is customary to flash a white screen for a frame. On the NES, I think it goes (1) black screen, (2) black screen with white squares, (3) black screen, (4) background with no sprites, (5) back to normal, but it never feels like it freezes
+&lt;br /&gt;
+
+&lt;br /&gt;
+According to Emulicious it is using 100% cpu all the time, out of curiosity why is it coded like that? Is this just from the AI coding?
+&lt;br /&gt;
+
+&lt;br /&gt;
+Also during the opening dog animation, the sprite tiles are streamed in, but there is plenty of VRAM for all the sprite tiles to begin with, so why are they streamed? I feel like this might be why the music seems to speed up and slow down&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: Different approaches to fade routines</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141311#141311" />
@@ -237,22 +279,6 @@ If it requires the Sega Light Phaser, no. You would need a CRT.&lt;/span&gt;&lt;
 
 &lt;br /&gt;
 Yes. It's a Retrocircuits PCB.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141302#141302" />
-    <dc:creator>KalexPidd</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>KalexPidd</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141302#141302</id>
-    <issued>2026-10-30T21:59:11Z</issued>
-    <modified>2026-10-30T21:59:11Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245" target="_blank"&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Oct 30, 2026 9:59 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Does it work on modern TVs?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

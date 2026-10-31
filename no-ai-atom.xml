@@ -4,7 +4,37 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-10-31T07:30:41Z</modified>
+  <modified>2026-10-31T07:40:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141308#141308" />
+    <dc:creator>Gudako12</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Gudako12</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141308#141308</id>
+    <issued>2026-10-31T07:31:45Z</issued>
+    <modified>2026-10-31T07:31:45Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35284" target="_blank"&gt;Gudako12&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Oct 31, 2026 7:31 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class="attribution"&gt;Darakutenshi wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;The graphics on this need to be updated and a SMB/Duck Hunt cart needs to be made.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+Calm down, the graphics are perfectly fine as is&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141307#141307" />
@@ -225,26 +255,6 @@ Cool game. It kinda feels like a slower version of Moggy Master. If anybody coul
 
 &lt;br /&gt;
 On the other hand, Bart vs The Space Mutants is the worst game I ever played on SMS (and probably on any system for that matter). Yet somehow the SMS version gets a 78 average! Absolute madness.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141298#141298" />
-    <dc:creator>PatrickBateman</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>PatrickBateman</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141298#141298</id>
-    <issued>2026-10-30T14:52:52Z</issued>
-    <modified>2026-10-30T14:52:52Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413" target="_blank"&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Oct 30, 2026 2:52 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Latest main episode is up
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href="https://rss.com/podcasts/are-you-alex-kidding/3279634" target="_blank"&gt;https://rss.com/podcasts/are-you-alex-kidding/3279634&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 07:30:41 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 07:40:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,24 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: Duck Hunt [SMS]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141308#141308</link>
+<pubDate>Sat, 31 Oct 2026 07:31:45 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141308#141308</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35284&quot; target=&quot;_blank&quot;&gt;Gudako12&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Oct 31, 2026 7:31 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Darakutenshi wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;The graphics on this need to be updated and a SMB/Duck Hunt cart needs to be made.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+Calm down, the graphics are perfectly fine as is&lt;br /&gt;
+
+</description>
+<dc:creator>Gudako12</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141308</comments>
+</item>
 <item>
 <title>Development :: RE: Duck Hunt [SMS]</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141307#141307</link>
@@ -190,26 +208,6 @@ On the other hand, Bart vs The Space Mutants is the worst game I ever played on 
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141214#141214" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141299</comments>
-</item>
-<item>
-<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141298#141298</link>
-<pubDate>Fri, 30 Oct 2026 14:52:52 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141298#141298</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413&quot; target=&quot;_blank&quot;&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 2:52 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Latest main episode is up
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href=&quot;https://rss.com/podcasts/are-you-alex-kidding/3279634&quot; target=&quot;_blank&quot;&gt;https://rss.com/podcasts/are-you-alex-kidding/3279634&lt;/a&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>PatrickBateman</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141298</comments>
 </item>
 </channel>
 </rss>

@@ -4,7 +4,43 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-10-31T02:50:28Z</modified>
+  <modified>2026-10-31T03:00:54Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141307#141307" />
+    <dc:creator>EnricoPallazzo</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>EnricoPallazzo</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141307#141307</id>
+    <issued>2026-10-31T02:59:03Z</issued>
+    <modified>2026-10-31T02:59:03Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=31904" target="_blank"&gt;EnricoPallazzo&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Oct 31, 2026 2:59 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I'm using Emulicious to run this, and it seems like when the trigger is pulled, the game freezes for a few frames. Is this intentional? Is it part of the light phaser code?
+&lt;br /&gt;
+
+&lt;br /&gt;
+Also the opening dog animation feels sluggish somehow, like it is dropping frames. Is it just my imagination, or just my system?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141306#141306" />
+    <dc:creator>Darakutenshi</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Darakutenshi</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141306#141306</id>
+    <issued>2026-10-31T02:51:25Z</issued>
+    <modified>2026-10-31T02:51:25Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=8013" target="_blank"&gt;Darakutenshi&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Oct 31, 2026 2:51 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	The graphics on this need to be updated and a SMB/Duck Hunt cart needs to be made.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141305#141305" />
@@ -209,74 +245,6 @@ On the other hand, Bart vs The Space Mutants is the worst game I ever played on 
 
 &lt;br /&gt;
 &lt;a href="https://rss.com/podcasts/are-you-alex-kidding/3279634" target="_blank"&gt;https://rss.com/podcasts/are-you-alex-kidding/3279634&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: OBAKE - New SG-1000 game released</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141297#141297" />
-    <dc:creator>Andrs</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>Andrs</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141297#141297</id>
-    <issued>2026-10-30T13:19:44Z</issued>
-    <modified>2026-10-30T13:19:44Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35527" target="_blank"&gt;Andrs&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Oct 30, 2026 1:19 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;sverx wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;It looks nice! :)
-&lt;br /&gt;
-Please consider releasing a playable demo with a few levels so that people can test the game. We'll add that to the homebrew section here with a link to the full version on your itch.io webpage.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I have added a free demo version with 8 rounds.
-&lt;br /&gt;
-The last round is Halloween-themed! 
-&lt;br /&gt;
-Check it out!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141295#141295" />
-    <dc:creator>old_pirate</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>old_pirate</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141295#141295</id>
-    <issued>2026-10-30T13:06:41Z</issued>
-    <modified>2026-10-30T13:06:41Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27589" target="_blank"&gt;old_pirate&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Oct 30, 2026 1:06 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;sverx wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;@old_pirate: can you provide more details about the porting process (and was it AI-assisted or not) ?    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-While I relied solely on my own intuition when creating &lt;a href="https://old-pirate.itch.io/battle-city-sms" target="_blank" class="postlink"&gt;Battle City&lt;/a&gt;, this time I made use of the game's decompilation for the NES. I also utilized AI, which guided me on how to implement a light gun for the SMS. Furthermore, the AI ​​handled the sound effects—a task I personally dislike the most when it comes to video game development.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

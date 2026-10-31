@@ -1,224 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
-xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<channel>
-<title>SMS Power!</title>
-<link>https://www.smspower.org:443/forums/</link>
-<description>Sega 8-bit Discussion</description>
-<managingEditor>noreply@smspower.org</managingEditor>
-<docs>http://blogs.law.harvard.edu/tech/rss</docs>
-<generator>RSS Feed 2.2.3</generator>
-<language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 00:50:27 GMT</lastBuildDate>
-<image>
-	<url>http://www.smspower.org/images/smspower.gif</url>
-	<title>SMS Power!</title>
-	<link>https://www.smspower.org:443/forums/</link>
-	<width>122</width>
-	<height>56</height>
-</image>
-<item>
-<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141305#141305</link>
-<pubDate>Fri, 30 Oct 2026 22:35:50 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141305#141305</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35467&quot; target=&quot;_blank&quot;&gt;bbayles&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 10:35 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;OK, &amp;quot;A member of Devo is... sneezing clouds of cocaine onto member of Devo until a counter runs out&amp;quot; really got me - hahaha.&lt;br /&gt;
-
-</description>
-<dc:creator>bbayles</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141305</comments>
-</item>
-<item>
-<title>Development :: RE: Duck Hunt [SMS]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141304#141304</link>
-<pubDate>Fri, 30 Oct 2026 22:20:36 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141304#141304</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 10:20 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;KalexPidd wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Does it work on modern TVs?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I fit requires the Sega Light Phaser, no. You would need a CRT.&lt;br /&gt;
-
-</description>
-<dc:creator>AtariBorn</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141304</comments>
-</item>
-<item>
-<title>Development :: RE: Phantasy Star and Y's Cartridges with FM sound (and question about Golden Axe Warrior PCB)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141303#141303</link>
-<pubDate>Fri, 30 Oct 2026 22:17:38 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141303#141303</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 10:17 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;KalexPidd wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Is this on the PCB you ordered from retrocircuits?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Yes. It's a Retrocircuits PCB.&lt;br /&gt;
-
-</description>
-<dc:creator>AtariBorn</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=139898#139898" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141303</comments>
-</item>
-<item>
-<title>Development :: RE: Duck Hunt [SMS]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141302#141302</link>
-<pubDate>Fri, 30 Oct 2026 21:59:11 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141302#141302</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245&quot; target=&quot;_blank&quot;&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 9:59 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Does it work on modern TVs?&lt;br /&gt;
-
-</description>
-<dc:creator>KalexPidd</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141302</comments>
-</item>
-<item>
-<title>Development :: RE: Phantasy Star and Y's Cartridges with FM sound (and question about Golden Axe Warrior PCB)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141301#141301</link>
-<pubDate>Fri, 30 Oct 2026 21:57:27 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141301#141301</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245&quot; target=&quot;_blank&quot;&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 9:57 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;AtariBorn wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Another update...
-&lt;br /&gt;
-
-&lt;br /&gt;
-
-&lt;br /&gt;
-SRAM showed up today and the hacked rom boots properly, saves and loads. Just waiting on battery holders.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Is this on the PCB you ordered from retrocircuits?&lt;br /&gt;
-
-</description>
-<dc:creator>KalexPidd</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=139898#139898" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141301</comments>
-</item>
-<item>
-<title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141300#141300</link>
-<pubDate>Fri, 30 Oct 2026 21:40:47 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141300#141300</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826&quot; target=&quot;_blank&quot;&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 9:40 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;https://www.smspower.org/forums/21239-OBAKENewSG1000GameReleased (now there's also a free demo on their itch.io page!)    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Cool game. It kinda feels like a slower version of Moggy Master. If anybody could provide screenshots of the full version, that would be very helpful.&lt;br /&gt;
-
-</description>
-<dc:creator>mateusbond</dc:creator>
-<dc:subject>Website</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141300</comments>
-</item>
-<item>
-<title>Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141299#141299</link>
-<pubDate>Fri, 30 Oct 2026 19:25:17 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141299#141299</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=85&quot; target=&quot;_blank&quot;&gt;TheAssassin&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 7:25 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Streets of Rage II was my favorite SMS game, I wish it got more recognition. Obviously it can't compare to the 16-bit MD version, but for what it is, the SMS version deserves more than a 68 average!
-&lt;br /&gt;
-
-&lt;br /&gt;
-On the other hand, Bart vs The Space Mutants is the worst game I ever played on SMS (and probably on any system for that matter). Yet somehow the SMS version gets a 78 average! Absolute madness.&lt;br /&gt;
-
-</description>
-<dc:creator>TheAssassin</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141214#141214" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141299</comments>
-</item>
-<item>
-<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141298#141298</link>
-<pubDate>Fri, 30 Oct 2026 14:52:52 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141298#141298</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413&quot; target=&quot;_blank&quot;&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 2:52 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Latest main episode is up
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href=&quot;https://rss.com/podcasts/are-you-alex-kidding/3279634&quot; target=&quot;_blank&quot;&gt;https://rss.com/podcasts/are-you-alex-kidding/3279634&lt;/a&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>PatrickBateman</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141298</comments>
-</item>
-<item>
-<title>Main :: RE: OBAKE - New SG-1000 game released</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141297#141297</link>
-<pubDate>Fri, 30 Oct 2026 13:19:44 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141297#141297</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35527&quot; target=&quot;_blank&quot;&gt;Andrs&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 1:19 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;It looks nice! :)
-&lt;br /&gt;
-Please consider releasing a playable demo with a few levels so that people can test the game. We'll add that to the homebrew section here with a link to the full version on your itch.io webpage.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I have added a free demo version with 8 rounds.
-&lt;br /&gt;
-The last round is Halloween-themed! 
-&lt;br /&gt;
-Check it out!&lt;br /&gt;
-
-</description>
-<dc:creator>Andrs</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141255#141255" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141297</comments>
-</item>
-<item>
-<title>Development :: RE: Duck Hunt [SMS]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141295#141295</link>
-<pubDate>Fri, 30 Oct 2026 13:06:41 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141295#141295</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27589&quot; target=&quot;_blank&quot;&gt;old_pirate&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 1:06 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;@old_pirate: can you provide more details about the porting process (and was it AI-assisted or not) ?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-While I relied solely on my own intuition when creating &lt;a href=&quot;https://old-pirate.itch.io/battle-city-sms&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;Battle City&lt;/a&gt;, this time I made use of the game's decompilation for the NES. I also utilized AI, which guided me on how to implement a light gun for the SMS. Furthermore, the AI ​​handled the sound effects—a task I personally dislike the most when it comes to video game development.&lt;br /&gt;
-
-</description>
-<dc:creator>old_pirate</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141295</comments>
-</item>
-</channel>
-</rss>
-

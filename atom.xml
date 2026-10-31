@@ -8,7 +8,38 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-10-31T20:20:30Z</modified>
+  <modified>2026-10-31T20:30:41Z</modified>
+  <entry>
+    <title mode="escaped">Music :: Ninja Gaiden (SMS) oddities</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320"/>
+    <dc:creator>Splats</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <author>
+		<name>Splats</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320</id>
+    <issued>2026-10-31T20:22:33Z</issued>
+    <modified>2026-10-31T20:22:33Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=33851&quot; target=&quot;_blank&quot;&gt;Splats&lt;/a&gt;&lt;br /&gt;
+	Subject: Ninja Gaiden (SMS) oddities&lt;br /&gt;Posted: Sat Oct 31, 2026 8:22 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Okay, so this is a forum thread about a set that hasn't been touched in a couple of decades. I don't think there are any ripping errors, but I wanted to mention a couple of things.
+&lt;br /&gt;
+
+&lt;br /&gt;
+First, the set still has the chapter names from the prototype. For the final, the developers changed some of them:
+&lt;br /&gt;
+*Pursit in Tokyo [sic] - Pursuit in Tokyo
+&lt;br /&gt;
+*Samurai in Tsutenkaku - Samurai in Kendo
+&lt;br /&gt;
+*The Land of Enemy - Enemy Turf
+&lt;br /&gt;
+
+&lt;br /&gt;
+Second, shouldn't the set be in PAL format, since the game was only released in Europe and Brazil? I've noticed a few other sets were changed like this (like both &lt;i&gt;Lemmings&lt;/i&gt; games), so I guess it could fit here.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
     <link rel="alternate" type="text/html"
@@ -650,31 +681,6 @@ Also during the opening dog animation, the sprite tiles are streamed in, but the
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7411&quot; target=&quot;_blank&quot;&gt;Kagesan&lt;/a&gt;&lt;br /&gt;
 	Posted: Sat Oct 31, 2026 10:15 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;i&gt;Flight of Pigarus&lt;/i&gt; uses flicker to &amp;quot;fade out&amp;quot; the dying bosses. My previous games, too, but there the effect doesn't work quite as well.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Different approaches to fade routines</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141310#141310"/>
-    <dc:creator>slogra</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>slogra</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141310#141310</id>
-    <issued>2026-10-31T09:27:23Z</issued>
-    <modified>2026-10-31T09:27:23Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7598&quot; target=&quot;_blank&quot;&gt;slogra&lt;/a&gt;&lt;br /&gt;
-	Posted: Sat Oct 31, 2026 9:27 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Also, recently I remember seeing some homebrew that was using fast palette updates to create sort of in-betweens - but damn I can't remember which one at the moment :|    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I used flicker to make the red fade smoother in this small Robocop demo. Perhaps that is what is what you were thinking about.
-&lt;br /&gt;
-
-&lt;br /&gt;
-It worked well with red. I haven't tried this approach for an actual full color fade yet.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

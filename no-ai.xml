@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 09:20:29 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 09:30:41 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,42 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: Different approaches to fade routines</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141310#141310</link>
+<pubDate>Sat, 31 Oct 2026 09:27:23 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141310#141310</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7598" target="_blank"&gt;slogra&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Oct 31, 2026 9:27 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;sverx wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Also, recently I remember seeing some homebrew that was using fast palette updates to create sort of in-betweens - but damn I can't remember which one at the moment :|    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+I used flicker to make the red fade smoother in this small Robocop demo. Perhaps that is what is what you were thinking about.
+&lt;br /&gt;
+
+&lt;br /&gt;
+It worked well with red. I haven't tried this approach for an actual full color fade yet.&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>slogra</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141227#141227" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141310</comments>
+</item>
 <item>
 <title>Development :: RE: Duck Hunt [SMS]</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141309#141309</link>
@@ -251,38 +287,6 @@ Is this on the PCB you ordered from retrocircuits?&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=139898#139898" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141301</comments>
-</item>
-<item>
-<title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141300#141300</link>
-<pubDate>Fri, 30 Oct 2026 21:40:47 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141300#141300</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826" target="_blank"&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 9:40 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;sverx wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;https://www.smspower.org/forums/21239-OBAKENewSG1000GameReleased (now there's also a free demo on their itch.io page!)    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Cool game. It kinda feels like a slower version of Moggy Master. If anybody could provide screenshots of the full version, that would be very helpful.&lt;br /&gt;
-
-</description>
-<dc:creator>mateusbond</dc:creator>
-<dc:subject>Website</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141300</comments>
 </item>
 </channel>
 </rss>

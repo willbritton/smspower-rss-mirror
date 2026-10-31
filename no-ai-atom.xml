@@ -4,7 +4,43 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-10-31T08:30:40Z</modified>
+  <modified>2026-10-31T08:40:28Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141309#141309" />
+    <dc:creator>old_pirate</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>old_pirate</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141309#141309</id>
+    <issued>2026-10-31T08:34:23Z</issued>
+    <modified>2026-10-31T08:34:23Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27589" target="_blank"&gt;old_pirate&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Oct 31, 2026 8:34 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class="attribution"&gt;EnricoPallazzo wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;I'm using Emulicious to run this, and it seems like when the trigger is pulled, the game freezes for a few frames. Is this intentional? Is it part of the light phaser code?
+&lt;br /&gt;
+
+&lt;br /&gt;
+Also the opening dog animation feels sluggish somehow, like it is dropping frames. Is it just my imagination, or just my system?    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+When the light gun's trigger is pulled, the game freezes—this is because, in the original version, a black screen with white squares would be drawn at that moment. We don’t need the black screen, but we do want the experience to be as close to the original as possible.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141308#141308" />
@@ -235,26 +271,6 @@ Is this on the PCB you ordered from retrocircuits?&lt;/span&gt;&lt;br /&gt;
 
 &lt;br /&gt;
 Cool game. It kinda feels like a slower version of Moggy Master. If anybody could provide screenshots of the full version, that would be very helpful.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141299#141299" />
-    <dc:creator>TheAssassin</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>TheAssassin</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141299#141299</id>
-    <issued>2026-10-30T19:25:17Z</issued>
-    <modified>2026-10-30T19:25:17Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=85" target="_blank"&gt;TheAssassin&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Oct 30, 2026 7:25 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Streets of Rage II was my favorite SMS game, I wish it got more recognition. Obviously it can't compare to the 16-bit MD version, but for what it is, the SMS version deserves more than a 68 average!
-&lt;br /&gt;
-
-&lt;br /&gt;
-On the other hand, Bart vs The Space Mutants is the worst game I ever played on SMS (and probably on any system for that matter). Yet somehow the SMS version gets a 78 average! Absolute madness.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

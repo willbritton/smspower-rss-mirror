@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-10-31T10:10:28Z</modified>
+  <modified>2026-10-31T10:20:29Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Different approaches to fade routines</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141311#141311"/>
+    <dc:creator>Kagesan</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Kagesan</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141311#141311</id>
+    <issued>2026-10-31T10:15:15Z</issued>
+    <modified>2026-10-31T10:15:15Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7411&quot; target=&quot;_blank&quot;&gt;Kagesan&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Oct 31, 2026 10:15 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;i&gt;Flight of Pigarus&lt;/i&gt; uses flicker to &amp;quot;fade out&amp;quot; the dying bosses. My previous games, too, but there the effect doesn't work quite as well.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: Different approaches to fade routines</title>
     <link rel="alternate" type="text/html"
@@ -190,33 +207,6 @@ Yes. It's a Retrocircuits PCB.&lt;/span&gt;&lt;br /&gt;
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245&quot; target=&quot;_blank&quot;&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
 	Posted: Fri Oct 30, 2026 9:59 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Does it work on modern TVs?&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Phantasy Star and Y's Cartridges with FM sound (and question about Golden Axe Warrior PCB)</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141301#141301"/>
-    <dc:creator>KalexPidd</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>KalexPidd</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141301#141301</id>
-    <issued>2026-10-30T21:57:27Z</issued>
-    <modified>2026-10-30T21:57:27Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245&quot; target=&quot;_blank&quot;&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Oct 30, 2026 9:57 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;AtariBorn wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Another update...
-&lt;br /&gt;
-
-&lt;br /&gt;
-
-&lt;br /&gt;
-SRAM showed up today and the hacked rom boots properly, saves and loads. Just waiting on battery holders.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Is this on the PCB you ordered from retrocircuits?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

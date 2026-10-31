@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
 <channel>
 <title>SMS Power!</title>
 <link>https://www.smspower.org:443/forums/</link>
@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 16:10:28 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 16:20:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,5 +16,21 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: [AI] SpellCaster — Brazilian Portuguese Translation for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141315#141315</link>
+<pubDate>Sat, 31 Oct 2026 16:20:22 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141315#141315</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35403" target="_blank"&gt;cristiano.mariano&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Oct 31, 2026 4:20 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Muito obrigado pelo elogio! Fico muito feliz que você tenha gostado do resultado. Foi um projeto longo, e comentários assim dão muita motivação para continuar trabalhando em novas traduções e restaurações para jogos clássicos.&lt;br /&gt;
+
+</description>
+<dc:creator>cristiano.mariano</dc:creator>
+<dc:subject>Main</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140670#140670" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141315</comments>
+</item>
 </channel>
 </rss>

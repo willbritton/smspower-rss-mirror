@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 16:10:28 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 16:20:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -261,22 +261,6 @@ Posted: Sat Oct 31, 2026 2:51 am (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141306</comments>
-</item>
-<item>
-<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141305#141305</link>
-<pubDate>Fri, 30 Oct 2026 22:35:50 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141305#141305</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35467" target="_blank"&gt;bbayles&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Oct 30, 2026 10:35 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;OK, &amp;quot;A member of Devo is... sneezing clouds of cocaine onto member of Devo until a counter runs out&amp;quot; really got me - hahaha.&lt;br /&gt;
-
-</description>
-<dc:creator>bbayles</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141305</comments>
 </item>
 </channel>
 </rss>

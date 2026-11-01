@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 19:10:29 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 19:20:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -103,26 +103,6 @@ Posted: Sun Nov 01, 2026 12:32 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Music</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141327</comments>
-</item>
-<item>
-<title>Main :: RE: Who Done What: Tiertex Ltd</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141326#141326</link>
-<pubDate>Sun, 01 Nov 2026 10:02:22 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141326#141326</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=74" target="_blank"&gt;CRV&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 10:02 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Retired game programmer Kevin Edwards found a brochure for Tiertex. It features some Master System games.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href="https://bsky.app/profile/kevedwardsretro.bsky.social/post/3mxtyo2iahs2d" target="_blank"&gt;https://bsky.app/profile/kevedwardsretro.bsky.social/post/3mxtyo2iahs2d&lt;/a&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>CRV</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=33033#33033" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141326</comments>
 </item>
 </channel>
 </rss>

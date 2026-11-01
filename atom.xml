@@ -8,7 +8,36 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-01T01:30:40Z</modified>
+  <modified>2026-11-01T01:40:29Z</modified>
+  <entry>
+    <title mode="escaped">Music :: RE: Ninja Gaiden (SMS) oddities</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141322#141322"/>
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141322#141322</id>
+    <issued>2026-11-01T01:35:21Z</issued>
+    <modified>2026-11-01T01:35:21Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 01, 2026 1:35 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	In the early years of VGM pack creation, we were a bit lax on the speed because it seemed simple to allow players to adjust it, and because there was an argument that all Japanese developed games were tested at 60Hz by the composer. That’s no longer the case, so I’m keen to rip at appropriate speeds. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+Brazil is a problem here because it is a PAL-60 region - they got the faster music, assuming the game doesn’t adjust for speed. My approach is to treat Europe+Brazil releases as intended for 50Hz and Brazil only releases as 60Hz. I’ve done a few SMS packs this way while working through the GG set. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+I’m happy to have suggestions on packs to target first.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The argument for recording analogue audio from a real console is not necessarily the same as VGM’s goal, which is to produce a version that can be looped arbitrarily (it seems this is still not a possibility with common players of PCM audio formats) and is “perfect” - no slowdown, no SFX, no timeouts. It’s still only as accurate as the emulation and hackery underneath the rip, though. The same applies to emulated formats like SGC.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Music :: RE: Ninja Gaiden (SMS) oddities</title>
     <link rel="alternate" type="text/html"
@@ -678,37 +707,6 @@ Yes, that was it! I think it looks really cool, and indeed it seems much smoothe
 	Thank you!
 &lt;br /&gt;
 If you could provide some screenshots (256×192 pixels, PNG format) from the full version for the homebrew page, that would be very helpful :)&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Duck Hunt [SMS]</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141312#141312"/>
-    <dc:creator>EnricoPallazzo</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>EnricoPallazzo</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141312#141312</id>
-    <issued>2026-10-31T11:20:53Z</issued>
-    <modified>2026-10-31T11:20:53Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=31904&quot; target=&quot;_blank&quot;&gt;EnricoPallazzo&lt;/a&gt;&lt;br /&gt;
-	Posted: Sat Oct 31, 2026 11:20 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;old_pirate wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
-&lt;br /&gt;
-When the light gun's trigger is pulled, the game freezes—this is because, in the original version, a black screen with white squares would be drawn at that moment. We don’t need the black screen, but we do want the experience to be as close to the original as possible.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I think it is customary to flash a white screen for a frame. On the NES, I think it goes (1) black screen, (2) black screen with white squares, (3) black screen, (4) background with no sprites, (5) back to normal, but it never feels like it freezes
-&lt;br /&gt;
-
-&lt;br /&gt;
-According to Emulicious it is using 100% cpu all the time, out of curiosity why is it coded like that? Is this just from the AI coding?
-&lt;br /&gt;
-
-&lt;br /&gt;
-Also during the opening dog animation, the sprite tiles are streamed in, but there is plenty of VRAM for all the sprite tiles to begin with, so why are they streamed? I feel like this might be why the music seems to speed up and slow down&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

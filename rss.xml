@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 14:00:49 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 14:10:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,24 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141331#141331</link>
+<pubDate>Sun, 01 Nov 2026 14:10:17 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141331#141331</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 2:10 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Maxim wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I’m sorry to further break the intent of this thread, but I am planning to add an AI homebrew forum when I get back from holiday, subject to some discussions with Bock.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+I consider a good idea. Maybe a tag &amp;quot;AI&amp;quot; different of &amp;quot;Homebrew&amp;quot; for roms and maybe a subforum for discussions. I dont know but i liked of idea.&lt;br /&gt;
+
+</description>
+<dc:creator>segarule</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141331</comments>
+</item>
 <item>
 <title>Main :: RE: Ports created by [AI]</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141330#141330</link>
@@ -190,50 +208,6 @@ The argument for recording analogue audio from a real console is not necessarily
 <dc:subject>Music</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141322</comments>
-</item>
-<item>
-<title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141321#141321</link>
-<pubDate>Sun, 01 Nov 2026 01:25:25 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141321#141321</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17545&quot; target=&quot;_blank&quot;&gt;Adrian&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 1:25 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;This is common all over the internet, not just SMS Power! 
-&lt;br /&gt;
-
-&lt;br /&gt;
-There's two ways to view and archive historical VGM soundtracks, the first is the common way (that I don't personally like) by ignoring anything that played or forced the music to run slower than it was actually intended by the composer and that results in about 75/80% of everything only always being archived in 60Hz. It completely ignores the fact that not everybody got to hear it this way and that many people around the world got used to hearing it a little slower by way of the console and the TV refresh rate.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The second way is the (proper) way to archive VGM soundtracks from retro consoles. With every music pack there should always be a 50Hz pack actually recorded from a 50Hz source for the best quality and a 60Hz pack recorded from a 60Hz source for the best quality. When a 60Hz soundtrack has been forcefully been played at 50Hz it doesn't sound as good as what it would had it been recorded at 50Hz and actually played at 50Hz and vice versa for 60Hz. A common thing i've noticed is a lot of the PAL audio optimised game soundtracks end up sounding better at 50Hz than 60Hz, the percussion is always stronger and sharper. A few examples of this are titles like (Moonwalker, Golden Axe Warrior, Shadow Dancer and Heavyweight Champ or James Buster Douglas Boxing in the U.S.)
-&lt;br /&gt;
-
-&lt;br /&gt;
-Anyway, this second option is the (true) way to archive VGM soundtracks for historical significants but nobody adopts it.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I'm 99% sure Ninja Gaiden's soundtrack on the SMS was intended for PAL 50Hz having never received a Game Gear port to cross-reference with as the Game Gear got a completely different and inferior version of Ninja Gaiden. This also means in Brazil they would have it faster at 60Hz as Brazil doesn't use a true PAL signal like the rest of the PAL regions. PAL M is just odd to me, Brazil might as well be NTSC 60Hz like the U.S.A.
-&lt;br /&gt;
-
-&lt;br /&gt;
-In saying all that, the good news I think is that Maxim is making new packs of every title on the SMS and Game Gear at both 50Hz and 60Hz so nobody is left out.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I have a Youtube video on the entire soundtrack at 50Hz for now if anybody is interested. It comes with time stamps for each track. It was also recorded from the actual game using it's hidden sound test.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/tkjD1zAX8wk&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>Adrian</dc:creator>
-<dc:subject>Music</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141321</comments>
 </item>
 </channel>
 </rss>

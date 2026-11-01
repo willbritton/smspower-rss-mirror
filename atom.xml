@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-01T08:50:31Z</modified>
+  <modified>2026-11-01T09:00:49Z</modified>
+  <entry>
+    <title mode="escaped">Music :: RE: Ninja Gaiden (SMS) oddities</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141325#141325"/>
+    <dc:creator>CRV</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <author>
+		<name>CRV</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141325#141325</id>
+    <issued>2026-11-01T08:51:31Z</issued>
+    <modified>2026-11-01T08:51:31Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=74&quot; target=&quot;_blank&quot;&gt;CRV&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 01, 2026 8:51 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Ninja Gaiden was also released in South Korea, which used NTSC.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
     <link rel="alternate" type="text/html"
@@ -684,23 +701,6 @@ Yeah that would take more doing, but it's a pretty good alternative when your co
 
 &lt;br /&gt;
 You might also &amp;quot;fizzle&amp;quot; on a per-tile basis rather than per-pixel, much less demanding of VRAM bandwidth and doesn't run into issues with tile mirroring.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: [AI] SpellCaster — Brazilian Portuguese Translation for Sega Master System</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141315#141315"/>
-    <dc:creator>cristiano.mariano</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>cristiano.mariano</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141315#141315</id>
-    <issued>2026-10-31T16:20:22Z</issued>
-    <modified>2026-10-31T16:20:22Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35403&quot; target=&quot;_blank&quot;&gt;cristiano.mariano&lt;/a&gt;&lt;br /&gt;
-	Posted: Sat Oct 31, 2026 4:20 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Muito obrigado pelo elogio! Fico muito feliz que você tenha gostado do resultado. Foi um projeto longo, e comentários assim dão muita motivação para continuar trabalhando em novas traduções e restaurações para jogos clássicos.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 08:50:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 09:00:49 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141325#141325</link>
+<pubDate>Sun, 01 Nov 2026 08:51:31 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141325#141325</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=74&quot; target=&quot;_blank&quot;&gt;CRV&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 8:51 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Ninja Gaiden was also released in South Korea, which used NTSC.&lt;br /&gt;
+
+</description>
+<dc:creator>CRV</dc:creator>
+<dc:subject>Music</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141325</comments>
+</item>
 <item>
 <title>Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141324#141324</link>
@@ -684,22 +700,6 @@ You might also &amp;quot;fizzle&amp;quot; on a per-tile basis rather than per-pi
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141227#141227" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141316</comments>
-</item>
-<item>
-<title>Main :: RE: [AI] SpellCaster — Brazilian Portuguese Translation for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141315#141315</link>
-<pubDate>Sat, 31 Oct 2026 16:20:22 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141315#141315</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35403&quot; target=&quot;_blank&quot;&gt;cristiano.mariano&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sat Oct 31, 2026 4:20 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Muito obrigado pelo elogio! Fico muito feliz que você tenha gostado do resultado. Foi um projeto longo, e comentários assim dão muita motivação para continuar trabalhando em novas traduções e restaurações para jogos clássicos.&lt;br /&gt;
-
-</description>
-<dc:creator>cristiano.mariano</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140670#140670" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141315</comments>
 </item>
 </channel>
 </rss>

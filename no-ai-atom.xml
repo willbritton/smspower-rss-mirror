@@ -4,7 +4,27 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-01T23:00:53Z</modified>
+  <modified>2026-11-01T23:10:31Z</modified>
+  <entry>
+    <title mode="escaped">MEKA :: RE: Meka 0.80 with new sound engine *TESTERS WANTED!*</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339" />
+    <dc:creator>armixer24</dc:creator>
+    <dc:subject>MEKA</dc:subject>
+    <author>
+		<name>armixer24</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339</id>
+    <issued>2026-11-01T23:05:05Z</issued>
+    <modified>2026-11-01T23:05:05Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17668" target="_blank"&gt;armixer24&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 01, 2026 11:05 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Attempting to run this build of Meka on my Mac (OS 26-ish), the app crashes upon startup. It complains that libfreetype.6.dylib is not in the expected path (&lt;i&gt;/opt/local/lib/libfreetype.6.dylib&lt;/i&gt;).
+&lt;br /&gt;
+
+&lt;br /&gt;
+I'm a bit nooby when it comes to libraries on Mac OS. I do have freetype installed in &amp;quot;homebrew&amp;quot; (the package manager), is there not a way to let meka look for it there ? Otherwise I'll try copy-pasting it in the expected path but I think I may end up doing this for more libraries... :P&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141338#141338" />

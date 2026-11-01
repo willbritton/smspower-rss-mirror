@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 23:00:53 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 23:10:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,26 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>MEKA :: RE: Meka 0.80 with new sound engine *TESTERS WANTED!*</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339</link>
+<pubDate>Sun, 01 Nov 2026 23:05:05 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17668&quot; target=&quot;_blank&quot;&gt;armixer24&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 11:05 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Attempting to run this build of Meka on my Mac (OS 26-ish), the app crashes upon startup. It complains that libfreetype.6.dylib is not in the expected path (&lt;i&gt;/opt/local/lib/libfreetype.6.dylib&lt;/i&gt;).
+&lt;br /&gt;
+
+&lt;br /&gt;
+I'm a bit nooby when it comes to libraries on Mac OS. I do have freetype installed in &amp;quot;homebrew&amp;quot; (the package manager), is there not a way to let meka look for it there ? Otherwise I'll try copy-pasting it in the expected path but I think I may end up doing this for more libraries... :P&lt;br /&gt;
+
+</description>
+<dc:creator>armixer24</dc:creator>
+<dc:subject>MEKA</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=65448#65448" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141339</comments>
+</item>
 <item>
 <title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141338#141338</link>
@@ -176,36 +196,6 @@ Posted: Sun Nov 01, 2026 1:06 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141330</comments>
-</item>
-<item>
-<title>Main :: RE: Ports created by [AI]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141329#141329</link>
-<pubDate>Sun, 01 Nov 2026 12:45:38 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141329#141329</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=29&quot; target=&quot;_blank&quot;&gt;unfnknblvbl&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 12:45 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I don't know how much my thoughts count in this, given how little I engage with this forum anymore, but I agree that shunting AI ports into their own subforum is probably the best idea. There's loads of great projects out there, and there's even more not-so-great ones. For me, I'm using AI as a tool to answer dumb questions I've had over the years that I could never hope to answer myself, or get somebody to answer for me.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I thought DoomRPG was a really clever way to solve the &amp;quot;can it run Doom?&amp;quot; question, and I'd actually drafted up a challenge post about it several times over the years but never went through with it because I figured nobody else would be interested enough to take up the challenge.
-&lt;br /&gt;
-In a similar vein, I got Quake running on the 32X with AI because for &lt;i&gt;years&lt;/i&gt; I was waiting for an update on a single forum post I saw on the topic - as is the way of the internet. Until two weeks ago, nobody had actually followed through on it.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Using AI for these ports is pretty fun, but it takes a skill in itself to check the results and make sure it's not actually lying to you (or that you've made the wrong assumptions).
-&lt;br /&gt;
-
-&lt;br /&gt;
-Shoving all AI ports into a single thread though, reduces their visibility. I am assuming (hoping) everyone is releasing their source along with them, so if they're in their own separate subforum, maybe some will attract enough attention that other devs may wish to contribute.&lt;br /&gt;
-
-</description>
-<dc:creator>unfnknblvbl</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141329</comments>
 </item>
 </channel>
 </rss>

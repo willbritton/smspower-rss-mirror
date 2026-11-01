@@ -8,7 +8,28 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-01T23:00:53Z</modified>
+  <modified>2026-11-01T23:10:31Z</modified>
+  <entry>
+    <title mode="escaped">MEKA :: RE: Meka 0.80 with new sound engine *TESTERS WANTED!*</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339"/>
+    <dc:creator>armixer24</dc:creator>
+    <dc:subject>MEKA</dc:subject>
+    <author>
+		<name>armixer24</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339</id>
+    <issued>2026-11-01T23:05:05Z</issued>
+    <modified>2026-11-01T23:05:05Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17668&quot; target=&quot;_blank&quot;&gt;armixer24&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 01, 2026 11:05 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Attempting to run this build of Meka on my Mac (OS 26-ish), the app crashes upon startup. It complains that libfreetype.6.dylib is not in the expected path (&lt;i&gt;/opt/local/lib/libfreetype.6.dylib&lt;/i&gt;).
+&lt;br /&gt;
+
+&lt;br /&gt;
+I'm a bit nooby when it comes to libraries on Mac OS. I do have freetype installed in &amp;quot;homebrew&amp;quot; (the package manager), is there not a way to let meka look for it there ? Otherwise I'll try copy-pasting it in the expected path but I think I may end up doing this for more libraries... :P&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
     <link rel="alternate" type="text/html"
@@ -176,37 +197,6 @@ I consider a good idea. Maybe a tag &amp;quot;AI&amp;quot; different of &amp;quo
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
 	Posted: Sun Nov 01, 2026 1:06 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	I’m sorry to further break the intent of this thread, but I am planning to add an AI homebrew forum when I get back from holiday, subject to some discussions with Bock.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: Ports created by [AI]</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141329#141329"/>
-    <dc:creator>unfnknblvbl</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>unfnknblvbl</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141329#141329</id>
-    <issued>2026-11-01T12:45:38Z</issued>
-    <modified>2026-11-01T12:45:38Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=29&quot; target=&quot;_blank&quot;&gt;unfnknblvbl&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 01, 2026 12:45 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I don't know how much my thoughts count in this, given how little I engage with this forum anymore, but I agree that shunting AI ports into their own subforum is probably the best idea. There's loads of great projects out there, and there's even more not-so-great ones. For me, I'm using AI as a tool to answer dumb questions I've had over the years that I could never hope to answer myself, or get somebody to answer for me.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I thought DoomRPG was a really clever way to solve the &amp;quot;can it run Doom?&amp;quot; question, and I'd actually drafted up a challenge post about it several times over the years but never went through with it because I figured nobody else would be interested enough to take up the challenge.
-&lt;br /&gt;
-In a similar vein, I got Quake running on the 32X with AI because for &lt;i&gt;years&lt;/i&gt; I was waiting for an update on a single forum post I saw on the topic - as is the way of the internet. Until two weeks ago, nobody had actually followed through on it.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Using AI for these ports is pretty fun, but it takes a skill in itself to check the results and make sure it's not actually lying to you (or that you've made the wrong assumptions).
-&lt;br /&gt;
-
-&lt;br /&gt;
-Shoving all AI ports into a single thread though, reduces their visibility. I am assuming (hoping) everyone is releasing their source along with them, so if they're in their own separate subforum, maybe some will attract enough attention that other devs may wish to contribute.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

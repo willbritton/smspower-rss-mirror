@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-01T07:40:29Z</modified>
+  <modified>2026-11-01T07:50:29Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141324#141324"/>
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141324#141324</id>
+    <issued>2026-11-01T07:47:13Z</issued>
+    <modified>2026-11-01T07:47:13Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 01, 2026 7:47 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	While Forth seems like a nightmare to me, this is very impressive and I’m glad you’ve documented it in such an entertaining and easy to read way. And the lack of LLMisms is sadly a refreshing change… so thanks for keeping it human.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
     <link rel="alternate" type="text/html"
@@ -684,27 +701,6 @@ You might also &amp;quot;fizzle&amp;quot; on a per-tile basis rather than per-pi
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35403&quot; target=&quot;_blank&quot;&gt;cristiano.mariano&lt;/a&gt;&lt;br /&gt;
 	Posted: Sat Oct 31, 2026 4:20 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Muito obrigado pelo elogio! Fico muito feliz que você tenha gostado do resultado. Foi um projeto longo, e comentários assim dão muita motivação para continuar trabalhando em novas traduções e restaurações para jogos clássicos.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Different approaches to fade routines</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141314#141314"/>
-    <dc:creator>sverx</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>sverx</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141314#141314</id>
-    <issued>2026-10-31T15:57:22Z</issued>
-    <modified>2026-10-31T15:57:22Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
-	Posted: Sat Oct 31, 2026 3:57 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;slogra wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I used flicker to make the red fade smoother in this small Robocop demo. Perhaps that is what is what you were thinking about.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Yes, that was it! I think it looks really cool, and indeed it seems much smoother than simply two steps.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

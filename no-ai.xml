@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 13:00:47 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 13:10:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -187,36 +187,6 @@ I have a Youtube video on the entire soundtrack at 50Hz for now if anybody is in
 <dc:subject>Music</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141321</comments>
-</item>
-<item>
-<title>Music :: Ninja Gaiden (SMS) oddities</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320</link>
-<pubDate>Sat, 31 Oct 2026 20:22:33 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=33851" target="_blank"&gt;Splats&lt;/a&gt;&lt;br /&gt;
-Subject: Ninja Gaiden (SMS) oddities&lt;br /&gt;
-Posted: Sat Oct 31, 2026 8:22 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Okay, so this is a forum thread about a set that hasn't been touched in a couple of decades. I don't think there are any ripping errors, but I wanted to mention a couple of things.
-&lt;br /&gt;
-
-&lt;br /&gt;
-First, the set still has the chapter names from the prototype. For the final, the developers changed some of them:
-&lt;br /&gt;
-*Pursit in Tokyo [sic] - Pursuit in Tokyo
-&lt;br /&gt;
-*Samurai in Tsutenkaku - Samurai in Kendo
-&lt;br /&gt;
-*The Land of Enemy - Enemy Turf
-&lt;br /&gt;
-
-&lt;br /&gt;
-Second, shouldn't the set be in PAL format, since the game was only released in Europe and Brazil? I've noticed a few other sets were changed like this (like both &lt;i&gt;Lemmings&lt;/i&gt; games), so I guess it could fit here.&lt;br /&gt;
-
-</description>
-<dc:creator>Splats</dc:creator>
-<dc:subject>Music</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141320</comments>
 </item>
 </channel>
 </rss>

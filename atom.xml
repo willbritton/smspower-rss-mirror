@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-01T13:00:48Z</modified>
+  <modified>2026-11-01T13:10:30Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Ports created by [AI]</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141330#141330"/>
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141330#141330</id>
+    <issued>2026-11-01T13:06:45Z</issued>
+    <modified>2026-11-01T13:06:45Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 01, 2026 1:06 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I’m sorry to further break the intent of this thread, but I am planning to add an AI homebrew forum when I get back from holiday, subject to some discussions with Bock.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Ports created by [AI]</title>
     <link rel="alternate" type="text/html"
@@ -218,37 +235,6 @@ I have a Youtube video on the entire soundtrack at 50Hz for now if anybody is in
 
 &lt;br /&gt;
 &lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/tkjD1zAX8wk&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Music :: Ninja Gaiden (SMS) oddities</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320"/>
-    <dc:creator>Splats</dc:creator>
-    <dc:subject>Music</dc:subject>
-    <author>
-		<name>Splats</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320</id>
-    <issued>2026-10-31T20:22:33Z</issued>
-    <modified>2026-10-31T20:22:33Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=33851&quot; target=&quot;_blank&quot;&gt;Splats&lt;/a&gt;&lt;br /&gt;
-	Subject: Ninja Gaiden (SMS) oddities&lt;br /&gt;Posted: Sat Oct 31, 2026 8:22 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Okay, so this is a forum thread about a set that hasn't been touched in a couple of decades. I don't think there are any ripping errors, but I wanted to mention a couple of things.
-&lt;br /&gt;
-
-&lt;br /&gt;
-First, the set still has the chapter names from the prototype. For the final, the developers changed some of them:
-&lt;br /&gt;
-*Pursit in Tokyo [sic] - Pursuit in Tokyo
-&lt;br /&gt;
-*Samurai in Tsutenkaku - Samurai in Kendo
-&lt;br /&gt;
-*The Land of Enemy - Enemy Turf
-&lt;br /&gt;
-
-&lt;br /&gt;
-Second, shouldn't the set be in PAL format, since the game was only released in Europe and Brazil? I've noticed a few other sets were changed like this (like both &lt;i&gt;Lemmings&lt;/i&gt; games), so I guess it could fit here.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

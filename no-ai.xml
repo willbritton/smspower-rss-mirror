@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 15:40:29 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 15:50:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -135,22 +135,6 @@ Posted: Sun Nov 01, 2026 7:47 am (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141145#141145" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141324</comments>
-</item>
-<item>
-<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141323#141323</link>
-<pubDate>Sun, 01 Nov 2026 03:54:53 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141323#141323</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413" target="_blank"&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 3:54 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Thanks, man, glad you're enjoying it!&lt;br /&gt;
-
-</description>
-<dc:creator>PatrickBateman</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141323</comments>
 </item>
 </channel>
 </rss>

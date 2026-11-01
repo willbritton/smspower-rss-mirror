@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-01T15:40:29Z</modified>
+  <modified>2026-11-01T15:50:31Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Ports created by [AI]</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141333#141333"/>
+    <dc:creator>sverx</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>sverx</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141333#141333</id>
+    <issued>2026-11-01T15:45:04Z</issued>
+    <modified>2026-11-01T15:45:04Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 01, 2026 3:45 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Whatever makes it possible for this community to survive the flood is welcome.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Music :: RE: Ninja Gaiden (SMS) oddities</title>
     <link rel="alternate" type="text/html"
@@ -188,23 +205,6 @@ Shoving all AI ports into a single thread though, reduces their visibility. I am
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
 	Posted: Sun Nov 01, 2026 7:47 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	While Forth seems like a nightmare to me, this is very impressive and I’m glad you’ve documented it in such an entertaining and easy to read way. And the lack of LLMisms is sadly a refreshing change… so thanks for keeping it human.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141323#141323"/>
-    <dc:creator>PatrickBateman</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>PatrickBateman</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141323#141323</id>
-    <issued>2026-11-01T03:54:53Z</issued>
-    <modified>2026-11-01T03:54:53Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413&quot; target=&quot;_blank&quot;&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 01, 2026 3:54 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Thanks, man, glad you're enjoying it!&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

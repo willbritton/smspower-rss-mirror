@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 14:10:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 14:20:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,42 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141332#141332</link>
+<pubDate>Sun, 01 Nov 2026 14:15:39 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141332#141332</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=33851" target="_blank"&gt;Splats&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 2:15 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;Maxim wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;We tend to ignore Brazil and Korea in favour of Japan, USA and Europe for “where was it released”.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Yeah, that makes sense. At the time, the latter three regions were the &amp;quot;main&amp;quot; gaming territories, while gamers elsewhere mostly had bootlegs and rebranded versions like the Samsung Gam*Boy.
+&lt;br /&gt;
+
+&lt;br /&gt;
+And man, I didn't think this thread would get so in-depth, but it's for the best. Sometimes, mistakes can stick because nobody bothers to correct them, especially with ancient video games.&lt;br /&gt;
+
+</description>
+<dc:creator>Splats</dc:creator>
+<dc:subject>Music</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141332</comments>
+</item>
 <item>
 <title>Main :: RE: Who Done What: Tiertex Ltd</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141328#141328</link>
@@ -115,34 +151,6 @@ Posted: Sun Nov 01, 2026 3:54 am (GMT 0)&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141323</comments>
-</item>
-<item>
-<title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141322#141322</link>
-<pubDate>Sun, 01 Nov 2026 01:35:21 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141322#141322</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 1:35 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;In the early years of VGM pack creation, we were a bit lax on the speed because it seemed simple to allow players to adjust it, and because there was an argument that all Japanese developed games were tested at 60Hz by the composer. That’s no longer the case, so I’m keen to rip at appropriate speeds. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-Brazil is a problem here because it is a PAL-60 region - they got the faster music, assuming the game doesn’t adjust for speed. My approach is to treat Europe+Brazil releases as intended for 50Hz and Brazil only releases as 60Hz. I’ve done a few SMS packs this way while working through the GG set. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-I’m happy to have suggestions on packs to target first.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The argument for recording analogue audio from a real console is not necessarily the same as VGM’s goal, which is to produce a version that can be looped arbitrarily (it seems this is still not a possibility with common players of PCM audio formats) and is “perfect” - no slowdown, no SFX, no timeouts. It’s still only as accurate as the emulation and hackery underneath the rip, though. The same applies to emulated formats like SGC.&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Music</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141322</comments>
 </item>
 </channel>
 </rss>

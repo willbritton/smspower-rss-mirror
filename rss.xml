@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 20:50:29 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 21:00:52 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,38 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141338#141338</link>
+<pubDate>Sun, 01 Nov 2026 20:52:58 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141338#141338</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35515&quot; target=&quot;_blank&quot;&gt;Edgar&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 8:52 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;It's so nice to listen to a podcast that ISN'T about Ni****do!  It's a proper bonus that it happens to be about the best 8 bit console out there - SEGA Master System Race FTW. :)&lt;br /&gt;
+
+</description>
+<dc:creator>Edgar</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141338</comments>
+</item>
+<item>
+<title>Development :: RE: Chuckie Egg Remake</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141337#141337</link>
+<pubDate>Sun, 01 Nov 2026 20:51:12 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141337#141337</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35515&quot; target=&quot;_blank&quot;&gt;Edgar&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 8:51 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Just wanted to say thank you for sharing your hard work. :)&lt;br /&gt;
+
+</description>
+<dc:creator>Edgar</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140117#140117" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141337</comments>
+</item>
 <item>
 <title>Main :: RE: Ports created by [AI]</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141336#141336</link>
@@ -174,38 +206,6 @@ Shoving all AI ports into a single thread though, reduces their visibility. I am
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141329</comments>
-</item>
-<item>
-<title>Main :: RE: Who Done What: Tiertex Ltd</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141328#141328</link>
-<pubDate>Sun, 01 Nov 2026 12:33:29 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141328#141328</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 12:33 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Can you attach it here for preservation?&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=33033#33033" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141328</comments>
-</item>
-<item>
-<title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141327#141327</link>
-<pubDate>Sun, 01 Nov 2026 12:32:52 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141327#141327</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 12:32 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;We tend to ignore Brazil and Korea in favour of Japan, USA and Europe for “where was it released”. In this case I guess a rerip at both speeds is the right approach.&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Music</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141327</comments>
 </item>
 </channel>
 </rss>

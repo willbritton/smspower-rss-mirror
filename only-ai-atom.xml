@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-01T20:50:29Z</modified>
+  <modified>2026-11-01T21:00:53Z</modified>
   <entry>
     <title mode="escaped">Main :: RE: Ports created by [AI]</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141336#141336" />
@@ -143,4 +143,4 @@ Using AI for these ports is pretty fun, but it takes a skill in itself to check 
 Shoving all AI ports into a single thread though, reduces their visibility. I am assuming (hoping) everyone is releasing their source along with them, so if they're in their own separate subforum, maybe some will attract enough attention that other devs may wish to contribute.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

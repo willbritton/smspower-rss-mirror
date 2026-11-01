@@ -8,7 +8,7 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-01T23:40:28Z</modified>
+  <modified>2026-11-01T23:50:29Z</modified>
   <entry>
     <title mode="escaped">MEKA :: RE: Meka 0.80 with new sound engine *TESTERS WANTED!*</title>
     <link rel="alternate" type="text/html"
@@ -27,7 +27,11 @@
 &lt;br /&gt;
 
 &lt;br /&gt;
-I'm a bit nooby when it comes to libraries on Mac OS. I do have freetype installed in &amp;quot;homebrew&amp;quot; (the package manager), is there not a way to let meka look for it there ? Otherwise I'll try copy-pasting it in the expected path but I think I may end up doing this for more libraries... :P&lt;/span&gt;&lt;br /&gt;
+I'm a bit nooby when it comes to libraries on Mac OS. I do have freetype installed in &amp;quot;homebrew&amp;quot; (the package manager), is there not a way to let meka look for it there ? Otherwise I'll try copy-pasting it in the expected path but I think I may end up doing this for more libraries... :P
+&lt;br /&gt;
+
+&lt;br /&gt;
+EDIT: I added a simlink for both libfreetype and libpng from their path in homebrew to the expected paths by meka. This was a bit annoying to do, but it launches now...&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>

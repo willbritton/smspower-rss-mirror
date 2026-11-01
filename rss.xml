@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 23:40:28 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 23:50:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -29,7 +29,11 @@ Posted: Sun Nov 01, 2026 11:05 pm (GMT 0)&lt;br /&gt;
 &lt;br /&gt;
 
 &lt;br /&gt;
-I'm a bit nooby when it comes to libraries on Mac OS. I do have freetype installed in &amp;quot;homebrew&amp;quot; (the package manager), is there not a way to let meka look for it there ? Otherwise I'll try copy-pasting it in the expected path but I think I may end up doing this for more libraries... :P&lt;br /&gt;
+I'm a bit nooby when it comes to libraries on Mac OS. I do have freetype installed in &amp;quot;homebrew&amp;quot; (the package manager), is there not a way to let meka look for it there ? Otherwise I'll try copy-pasting it in the expected path but I think I may end up doing this for more libraries... :P
+&lt;br /&gt;
+
+&lt;br /&gt;
+EDIT: I added a simlink for both libfreetype and libpng from their path in homebrew to the expected paths by meka. This was a bit annoying to do, but it launches now...&lt;br /&gt;
 
 </description>
 <dc:creator>armixer24</dc:creator>

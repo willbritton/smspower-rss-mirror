@@ -4,7 +4,27 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-01T16:40:29Z</modified>
+  <modified>2026-11-01T16:50:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141334#141334" />
+    <dc:creator>leadedsolder</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>leadedsolder</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141334#141334</id>
+    <issued>2026-11-01T16:45:39Z</issued>
+    <modified>2026-11-01T16:45:39Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11330" target="_blank"&gt;leadedsolder&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 01, 2026 4:45 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I'm not going to deny that it's hard to read, but it's surprisingly fluent to write. If you're used to the &amp;quot;pipe&amp;quot; operator in ML or Haskell, or even just partial application in FP, there's a comforting amount of overlap. I wonder if Japanese folks have an easier time with the syntax, too.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks for the nice words! I'm not sure where this project will go next, but I'm putting it on the shelf for a bit to go back to other projects.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Music :: RE: Ninja Gaiden (SMS) oddities</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141332#141332" />
@@ -107,22 +127,6 @@ And man, I didn't think this thread would get so in-depth, but it's for the best
 	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=74" target="_blank"&gt;CRV&lt;/a&gt;&lt;br /&gt;
 	Posted: Sun Nov 01, 2026 8:51 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Ninja Gaiden was also released in South Korea, which used NTSC.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141324#141324" />
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141324#141324</id>
-    <issued>2026-11-01T07:47:13Z</issued>
-    <modified>2026-11-01T07:47:13Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 01, 2026 7:47 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	While Forth seems like a nightmare to me, this is very impressive and I’m glad you’ve documented it in such an entertaining and easy to read way. And the lack of LLMisms is sadly a refreshing change… so thanks for keeping it human.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

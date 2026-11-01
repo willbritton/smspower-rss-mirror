@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 16:40:28 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 16:50:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,26 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141334#141334</link>
+<pubDate>Sun, 01 Nov 2026 16:45:39 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141334#141334</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11330&quot; target=&quot;_blank&quot;&gt;leadedsolder&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 4:45 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I'm not going to deny that it's hard to read, but it's surprisingly fluent to write. If you're used to the &amp;quot;pipe&amp;quot; operator in ML or Haskell, or even just partial application in FP, there's a comforting amount of overlap. I wonder if Japanese folks have an easier time with the syntax, too.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks for the nice words! I'm not sure where this project will go next, but I'm putting it on the shelf for a bit to go back to other projects.&lt;br /&gt;
+
+</description>
+<dc:creator>leadedsolder</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141145#141145" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141334</comments>
+</item>
 <item>
 <title>Main :: RE: Ports created by [AI]</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141333#141333</link>
@@ -188,22 +208,6 @@ Posted: Sun Nov 01, 2026 8:51 am (GMT 0)&lt;br /&gt;
 <dc:subject>Music</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141325</comments>
-</item>
-<item>
-<title>Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141324#141324</link>
-<pubDate>Sun, 01 Nov 2026 07:47:13 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141324#141324</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 7:47 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;While Forth seems like a nightmare to me, this is very impressive and I’m glad you’ve documented it in such an entertaining and easy to read way. And the lack of LLMisms is sadly a refreshing change… so thanks for keeping it human.&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141145#141145" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141324</comments>
 </item>
 </channel>
 </rss>

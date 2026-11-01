@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 03:50:29 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 04:00:46 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141323#141323</link>
+<pubDate>Sun, 01 Nov 2026 03:54:53 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141323#141323</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413&quot; target=&quot;_blank&quot;&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 3:54 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Thanks, man, glad you're enjoying it!&lt;br /&gt;
+
+</description>
+<dc:creator>PatrickBateman</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141323</comments>
+</item>
 <item>
 <title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141322#141322</link>
@@ -688,24 +704,6 @@ Yes, that was it! I think it looks really cool, and indeed it seems much smoothe
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141227#141227" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141314</comments>
-</item>
-<item>
-<title>Main :: RE: OBAKE - New SG-1000 game released</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141313#141313</link>
-<pubDate>Sat, 31 Oct 2026 15:55:17 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141313#141313</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sat Oct 31, 2026 3:55 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Thank you!
-&lt;br /&gt;
-If you could provide some screenshots (256×192 pixels, PNG format) from the full version for the homebrew page, that would be very helpful :)&lt;br /&gt;
-
-</description>
-<dc:creator>sverx</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141255#141255" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141313</comments>
 </item>
 </channel>
 </rss>

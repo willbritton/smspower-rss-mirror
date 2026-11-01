@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-01T03:50:30Z</modified>
+  <modified>2026-11-01T04:00:47Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141323#141323"/>
+    <dc:creator>PatrickBateman</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>PatrickBateman</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141323#141323</id>
+    <issued>2026-11-01T03:54:53Z</issued>
+    <modified>2026-11-01T03:54:53Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413&quot; target=&quot;_blank&quot;&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 01, 2026 3:54 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Thanks, man, glad you're enjoying it!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Music :: RE: Ninja Gaiden (SMS) oddities</title>
     <link rel="alternate" type="text/html"
@@ -688,25 +705,6 @@ You might also &amp;quot;fizzle&amp;quot; on a per-tile basis rather than per-pi
 
 &lt;br /&gt;
 Yes, that was it! I think it looks really cool, and indeed it seems much smoother than simply two steps.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: OBAKE - New SG-1000 game released</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141313#141313"/>
-    <dc:creator>sverx</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>sverx</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141313#141313</id>
-    <issued>2026-10-31T15:55:17Z</issued>
-    <modified>2026-10-31T15:55:17Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
-	Posted: Sat Oct 31, 2026 3:55 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Thank you!
-&lt;br /&gt;
-If you could provide some screenshots (256×192 pixels, PNG format) from the full version for the homebrew page, that would be very helpful :)&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 12:40:31 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 12:50:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,36 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141329#141329</link>
+<pubDate>Sun, 01 Nov 2026 12:45:38 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141329#141329</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=29&quot; target=&quot;_blank&quot;&gt;unfnknblvbl&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 12:45 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I don't know how much my thoughts count in this, given how little I engage with this forum anymore, but I agree that shunting AI ports into their own subforum is probably the best idea. There's loads of great projects out there, and there's even more not-so-great ones. For me, I'm using AI as a tool to answer dumb questions I've had over the years that I could never hope to answer myself, or get somebody to answer for me.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I thought DoomRPG was a really clever way to solve the &amp;quot;can it run Doom?&amp;quot; question, and I'd actually drafted up a challenge post about it several times over the years but never went through with it because I figured nobody else would be interested enough to take up the challenge.
+&lt;br /&gt;
+In a similar vein, I got Quake running on the 32X with AI because for &lt;i&gt;years&lt;/i&gt; I was waiting for an update on a single forum post I saw on the topic - as is the way of the internet. Until two weeks ago, nobody had actually followed through on it.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Using AI for these ports is pretty fun, but it takes a skill in itself to check the results and make sure it's not actually lying to you (or that you've made the wrong assumptions).
+&lt;br /&gt;
+
+&lt;br /&gt;
+Shoving all AI ports into a single thread though, reduces their visibility. I am assuming (hoping) everyone is releasing their source along with them, so if they're in their own separate subforum, maybe some will attract enough attention that other devs may wish to contribute.&lt;br /&gt;
+
+</description>
+<dc:creator>unfnknblvbl</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141329</comments>
+</item>
 <item>
 <title>Main :: RE: Who Done What: Tiertex Ltd</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141328#141328</link>
@@ -218,34 +248,6 @@ Second, shouldn't the set be in PAL format, since the game was only released in 
 <dc:subject>Music</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141320</comments>
-</item>
-<item>
-<title>Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141319#141319</link>
-<pubDate>Sat, 31 Oct 2026 18:51:03 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141319#141319</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5915&quot; target=&quot;_blank&quot;&gt;kusfo&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sat Oct 31, 2026 6:51 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;TheAssassin wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Streets of Rage II was my favorite SMS game, I wish it got more recognition. Obviously it can't compare to the 16-bit MD version, but for what it is, the SMS version deserves more than a 68 average!
-&lt;br /&gt;
-
-&lt;br /&gt;
-On the other hand, Bart vs The Space Mutants is the worst game I ever played on SMS (and probably on any system for that matter). Yet somehow the SMS version gets a 78 average! Absolute madness.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Streets Of Rage II on the SMS is quite mediocre, specially compared with the first one, that did a good job adapting the 16 bit one. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-Bart vs The Space Mutants is a good version of a not very good game, 78 sounds ok for me.&lt;br /&gt;
-
-</description>
-<dc:creator>kusfo</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141214#141214" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141319</comments>
 </item>
 </channel>
 </rss>

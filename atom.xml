@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-01T17:10:29Z</modified>
+  <modified>2026-11-01T17:20:30Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Ports created by [AI]</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141335#141335"/>
+    <dc:creator>AtariBorn</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>AtariBorn</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141335#141335</id>
+    <issued>2026-11-01T17:12:00Z</issued>
+    <modified>2026-11-01T17:12:00Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 01, 2026 5:12 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	smsaipower.org :P&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
     <link rel="alternate" type="text/html"
@@ -192,23 +209,6 @@ Shoving all AI ports into a single thread though, reduces their visibility. I am
 
 &lt;br /&gt;
 &lt;a href=&quot;https://bsky.app/profile/kevedwardsretro.bsky.social/post/3mxtyo2iahs2d&quot; target=&quot;_blank&quot;&gt;https://bsky.app/profile/kevedwardsretro.bsky.social/post/3mxtyo2iahs2d&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Music :: RE: Ninja Gaiden (SMS) oddities</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141325#141325"/>
-    <dc:creator>CRV</dc:creator>
-    <dc:subject>Music</dc:subject>
-    <author>
-		<name>CRV</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141325#141325</id>
-    <issued>2026-11-01T08:51:31Z</issued>
-    <modified>2026-11-01T08:51:31Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=74&quot; target=&quot;_blank&quot;&gt;CRV&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 01, 2026 8:51 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Ninja Gaiden was also released in South Korea, which used NTSC.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

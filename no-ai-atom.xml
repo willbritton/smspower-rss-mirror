@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-02T13:30:54Z</modified>
+  <modified>2026-11-02T13:40:29Z</modified>
   <entry>
     <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141342#141342" />
@@ -133,24 +133,4 @@ EDIT: I added a simlink for both libfreetype and libpng from their path in homeb
 	Just wanted to say thank you for sharing your hard work. :)&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141334#141334" />
-    <dc:creator>leadedsolder</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>leadedsolder</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141334#141334</id>
-    <issued>2026-11-01T16:45:39Z</issued>
-    <modified>2026-11-01T16:45:39Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11330" target="_blank"&gt;leadedsolder&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 01, 2026 4:45 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I'm not going to deny that it's hard to read, but it's surprisingly fluent to write. If you're used to the &amp;quot;pipe&amp;quot; operator in ML or Haskell, or even just partial application in FP, there's a comforting amount of overlap. I wonder if Japanese folks have an easier time with the syntax, too.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks for the nice words! I'm not sure where this project will go next, but I'm putting it on the shelf for a bit to go back to other projects.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

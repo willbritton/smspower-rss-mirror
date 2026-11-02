@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 13:30:53 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 13:40:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,32 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141344#141344</link>
+<pubDate>Mon, 02 Nov 2026 13:36:19 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141344#141344</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 02, 2026 1:36 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I will got the oportunity to annouce my projects, considering that i dont will entry in any competition:
+&lt;br /&gt;
+1 - Rolling Thunder - Initial
+&lt;br /&gt;
+2 - Maniac Mansion - advanced (i have some stuff running well);
+&lt;br /&gt;
+3 - Metal Gear (msx2) - Stopped;
+&lt;br /&gt;
+4 - Test Drive 2 - Not initiated.
+&lt;br /&gt;
+If would like the SMS with these floods.&lt;br /&gt;
+
+</description>
+<dc:creator>segarule</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141344</comments>
+</item>
 <item>
 <title>Main :: RE: Ports created by [AI]</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141343#141343</link>
@@ -188,26 +214,6 @@ Posted: Sun Nov 01, 2026 5:12 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141335</comments>
-</item>
-<item>
-<title>Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141334#141334</link>
-<pubDate>Sun, 01 Nov 2026 16:45:39 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141334#141334</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11330&quot; target=&quot;_blank&quot;&gt;leadedsolder&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 4:45 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I'm not going to deny that it's hard to read, but it's surprisingly fluent to write. If you're used to the &amp;quot;pipe&amp;quot; operator in ML or Haskell, or even just partial application in FP, there's a comforting amount of overlap. I wonder if Japanese folks have an easier time with the syntax, too.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks for the nice words! I'm not sure where this project will go next, but I'm putting it on the shelf for a bit to go back to other projects.&lt;br /&gt;
-
-</description>
-<dc:creator>leadedsolder</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141145#141145" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141334</comments>
 </item>
 </channel>
 </rss>

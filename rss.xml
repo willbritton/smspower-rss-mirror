@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<channel>
+<title>SMS Power!</title>
+<link>https://www.smspower.org:443/forums/</link>
+<description>Sega 8-bit Discussion</description>
+<managingEditor>noreply@smspower.org</managingEditor>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>RSS Feed 2.2.3</generator>
+<language>en</language>
+<lastBuildDate>Mon, 02 Nov 2026 01:20:29 GMT</lastBuildDate>
+<image>
+	<url>http://www.smspower.org/images/smspower.gif</url>
+	<title>SMS Power!</title>
+	<link>https://www.smspower.org:443/forums/</link>
+	<width>122</width>
+	<height>56</height>
+</image>
+<item>
+<title>MEKA :: RE: Meka 0.80 with new sound engine *TESTERS WANTED!*</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339</link>
+<pubDate>Sun, 01 Nov 2026 23:05:05 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17668&quot; target=&quot;_blank&quot;&gt;armixer24&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 11:05 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Attempting to run this build of Meka on my Mac (OS 26-ish), the app crashes upon startup. It complains that libfreetype.6.dylib is not in the expected path (&lt;i&gt;/opt/local/lib/libfreetype.6.dylib&lt;/i&gt;).
+&lt;br /&gt;
+
+&lt;br /&gt;
+I'm a bit nooby when it comes to libraries on Mac OS. I do have freetype installed in &amp;quot;homebrew&amp;quot; (the package manager), is there not a way to let meka look for it there ? Otherwise I'll try copy-pasting it in the expected path but I think I may end up doing this for more libraries... :P
+&lt;br /&gt;
+
+&lt;br /&gt;
+EDIT: I added a simlink for both libfreetype and libpng from their path in homebrew to the expected paths by meka. This was a bit annoying to do, but it launches now...&lt;br /&gt;
+
+</description>
+<dc:creator>armixer24</dc:creator>
+<dc:subject>MEKA</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=65448#65448" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141339</comments>
+</item>
+<item>
+<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141338#141338</link>
+<pubDate>Sun, 01 Nov 2026 20:52:58 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141338#141338</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35515&quot; target=&quot;_blank&quot;&gt;Edgar&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 8:52 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;It's so nice to listen to a podcast that ISN'T about Ni****do!  It's a proper bonus that it happens to be about the best 8 bit console out there - SEGA Master System Race FTW. :)&lt;br /&gt;
+
+</description>
+<dc:creator>Edgar</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141338</comments>
+</item>
+<item>
+<title>Development :: RE: Chuckie Egg Remake</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141337#141337</link>
+<pubDate>Sun, 01 Nov 2026 20:51:12 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141337#141337</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35515&quot; target=&quot;_blank&quot;&gt;Edgar&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 8:51 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Just wanted to say thank you for sharing your hard work. :)&lt;br /&gt;
+
+</description>
+<dc:creator>Edgar</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140117#140117" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141337</comments>
+</item>
+<item>
+<title>Main :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141336#141336</link>
+<pubDate>Sun, 01 Nov 2026 19:13:10 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141336#141336</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 7:13 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Whatever makes it possible for this community to survive the flood is welcome.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+Not is bad. If the people have time to flood topics means that have time left. I hope dont see excuses for competition &amp;quot;Sorry, guys. I dont had time...&amp;quot;.&lt;br /&gt;
+
+</description>
+<dc:creator>segarule</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141336</comments>
+</item>
+<item>
+<title>Main :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141335#141335</link>
+<pubDate>Sun, 01 Nov 2026 17:12:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141335#141335</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 5:12 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;smsaipower.org :P&lt;br /&gt;
+
+</description>
+<dc:creator>AtariBorn</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141335</comments>
+</item>
+<item>
+<title>Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141334#141334</link>
+<pubDate>Sun, 01 Nov 2026 16:45:39 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141334#141334</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11330&quot; target=&quot;_blank&quot;&gt;leadedsolder&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 4:45 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I'm not going to deny that it's hard to read, but it's surprisingly fluent to write. If you're used to the &amp;quot;pipe&amp;quot; operator in ML or Haskell, or even just partial application in FP, there's a comforting amount of overlap. I wonder if Japanese folks have an easier time with the syntax, too.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks for the nice words! I'm not sure where this project will go next, but I'm putting it on the shelf for a bit to go back to other projects.&lt;br /&gt;
+
+</description>
+<dc:creator>leadedsolder</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141145#141145" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141334</comments>
+</item>
+<item>
+<title>Main :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141333#141333</link>
+<pubDate>Sun, 01 Nov 2026 15:45:04 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141333#141333</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 3:45 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Whatever makes it possible for this community to survive the flood is welcome.&lt;br /&gt;
+
+</description>
+<dc:creator>sverx</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141333</comments>
+</item>
+<item>
+<title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141332#141332</link>
+<pubDate>Sun, 01 Nov 2026 14:15:39 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141332#141332</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=33851&quot; target=&quot;_blank&quot;&gt;Splats&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 2:15 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Maxim wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;We tend to ignore Brazil and Korea in favour of Japan, USA and Europe for “where was it released”.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Yeah, that makes sense. At the time, the latter three regions were the &amp;quot;main&amp;quot; gaming territories, while gamers elsewhere mostly had bootlegs and rebranded versions like the Samsung Gam*Boy.
+&lt;br /&gt;
+
+&lt;br /&gt;
+And man, I didn't think this thread would get so in-depth, but it's for the best. Sometimes, mistakes can stick because nobody bothers to correct them, especially with ancient video games.&lt;br /&gt;
+
+</description>
+<dc:creator>Splats</dc:creator>
+<dc:subject>Music</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141332</comments>
+</item>
+<item>
+<title>Main :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141331#141331</link>
+<pubDate>Sun, 01 Nov 2026 14:10:17 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141331#141331</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 2:10 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Maxim wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I’m sorry to further break the intent of this thread, but I am planning to add an AI homebrew forum when I get back from holiday, subject to some discussions with Bock.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+I consider a good idea. Maybe a tag &amp;quot;AI&amp;quot; different of &amp;quot;Homebrew&amp;quot; for roms and maybe a subforum for discussions. I dont know but i liked of idea.&lt;br /&gt;
+
+</description>
+<dc:creator>segarule</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141331</comments>
+</item>
+<item>
+<title>Main :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141330#141330</link>
+<pubDate>Sun, 01 Nov 2026 13:06:45 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141330#141330</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 01, 2026 1:06 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I’m sorry to further break the intent of this thread, but I am planning to add an AI homebrew forum when I get back from holiday, subject to some discussions with Bock.&lt;br /&gt;
+
+</description>
+<dc:creator>Maxim</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141330</comments>
+</item>
+</channel>
+</rss>
+

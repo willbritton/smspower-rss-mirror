@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 10:40:29 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 10:50:35 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141342#141342</link>
+<pubDate>Mon, 02 Nov 2026 10:46:48 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141342#141342</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413&quot; target=&quot;_blank&quot;&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 02, 2026 10:46 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Damn straight!&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>PatrickBateman</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141342</comments>
+</item>
 <item>
 <title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141341#141341</link>
@@ -186,30 +202,6 @@ Posted: Sun Nov 01, 2026 3:45 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141333</comments>
-</item>
-<item>
-<title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141332#141332</link>
-<pubDate>Sun, 01 Nov 2026 14:15:39 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141332#141332</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=33851&quot; target=&quot;_blank&quot;&gt;Splats&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 2:15 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Maxim wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;We tend to ignore Brazil and Korea in favour of Japan, USA and Europe for “where was it released”.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Yeah, that makes sense. At the time, the latter three regions were the &amp;quot;main&amp;quot; gaming territories, while gamers elsewhere mostly had bootlegs and rebranded versions like the Samsung Gam*Boy.
-&lt;br /&gt;
-
-&lt;br /&gt;
-And man, I didn't think this thread would get so in-depth, but it's for the best. Sometimes, mistakes can stick because nobody bothers to correct them, especially with ancient video games.&lt;br /&gt;
-
-</description>
-<dc:creator>Splats</dc:creator>
-<dc:subject>Music</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141332</comments>
 </item>
 </channel>
 </rss>

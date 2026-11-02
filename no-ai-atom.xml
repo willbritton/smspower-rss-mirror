@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-02T16:30:50Z</modified>
+  <modified>2026-11-02T16:40:31Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141346#141346" />
+    <dc:creator>leadedsolder</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>leadedsolder</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141346#141346</id>
+    <issued>2026-11-02T16:40:27Z</issued>
+    <modified>2026-11-02T16:40:27Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11330" target="_blank"&gt;leadedsolder&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 02, 2026 4:40 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Thanks! It sounds weird but I'm the most proud of the pumpkins.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141345#141345" />
@@ -149,4 +165,4 @@ EDIT: I added a simlink for both libfreetype and libpng from their path in homeb
 	Just wanted to say thank you for sharing your hard work. :)&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

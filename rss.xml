@@ -1,226 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
-xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<channel>
-<title>SMS Power!</title>
-<link>https://www.smspower.org:443/forums/</link>
-<description>Sega 8-bit Discussion</description>
-<managingEditor>noreply@smspower.org</managingEditor>
-<docs>http://blogs.law.harvard.edu/tech/rss</docs>
-<generator>RSS Feed 2.2.3</generator>
-<language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 00:00:57 GMT</lastBuildDate>
-<image>
-	<url>http://www.smspower.org/images/smspower.gif</url>
-	<title>SMS Power!</title>
-	<link>https://www.smspower.org:443/forums/</link>
-	<width>122</width>
-	<height>56</height>
-</image>
-<item>
-<title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141347#141347</link>
-<pubDate>Mon, 02 Nov 2026 18:40:56 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141347#141347</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826&quot; target=&quot;_blank&quot;&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 02, 2026 6:40 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Here it is:
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href=&quot;https://www.smspower.org/Homebrew/Obake-SG&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;https://www.smspower.org/Homebrew/Obake-SG&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks for both sverx and the author himself, Andrs, for helping with the screenshots!&lt;br /&gt;
-
-</description>
-<dc:creator>mateusbond</dc:creator>
-<dc:subject>Website</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141347</comments>
-</item>
-<item>
-<title>Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141346#141346</link>
-<pubDate>Mon, 02 Nov 2026 16:40:27 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141346#141346</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11330&quot; target=&quot;_blank&quot;&gt;leadedsolder&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 02, 2026 4:40 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Thanks! It sounds weird but I'm the most proud of the pumpkins.&lt;br /&gt;
-
-</description>
-<dc:creator>leadedsolder</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141145#141145" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141346</comments>
-</item>
-<item>
-<title>Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141345#141345</link>
-<pubDate>Mon, 02 Nov 2026 14:23:28 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141345#141345</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5915&quot; target=&quot;_blank&quot;&gt;kusfo&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 02, 2026 2:23 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I also really enjoyed reading you  articles, congratulations!&lt;br /&gt;
-
-</description>
-<dc:creator>kusfo</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141145#141145" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141345</comments>
-</item>
-<item>
-<title>Main :: RE: Ports created by [AI]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141344#141344</link>
-<pubDate>Mon, 02 Nov 2026 13:36:19 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141344#141344</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 02, 2026 1:36 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I will got the oportunity to annouce my projects, considering that i dont will entry in any competition:
-&lt;br /&gt;
-1 - Rolling Thunder - Initial
-&lt;br /&gt;
-2 - Maniac Mansion - advanced (i have some stuff running well);
-&lt;br /&gt;
-3 - Metal Gear (msx2) - Stopped;
-&lt;br /&gt;
-4 - Test Drive 2 - Not initiated.
-&lt;br /&gt;
-If would like the SMS with these floods.&lt;br /&gt;
-
-</description>
-<dc:creator>segarule</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141344</comments>
-</item>
-<item>
-<title>Main :: RE: Ports created by [AI]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141343#141343</link>
-<pubDate>Mon, 02 Nov 2026 12:34:26 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141343#141343</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 02, 2026 12:34 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;segarule wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Whatever makes it possible for this community to survive the flood is welcome.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-Not is bad. If the people have time to flood topics means that have time left. I hope dont see excuses for competition &amp;quot;Sorry, guys. I dont had time...&amp;quot;.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I really meant to say 'sometimes in the future' as in &amp;quot;when everyone on this planet could be able to release a (often low quality) port of any game each single day&amp;quot;. That is 'the flood', not what we've seen already.&lt;br /&gt;
-
-</description>
-<dc:creator>sverx</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141343</comments>
-</item>
-<item>
-<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141342#141342</link>
-<pubDate>Mon, 02 Nov 2026 10:46:48 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141342#141342</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413&quot; target=&quot;_blank&quot;&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 02, 2026 10:46 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Damn straight!&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>PatrickBateman</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141342</comments>
-</item>
-<item>
-<title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141341#141341</link>
-<pubDate>Mon, 02 Nov 2026 08:48:49 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141341#141341</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17545&quot; target=&quot;_blank&quot;&gt;Adrian&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 02, 2026 8:48 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Splats wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-And man, I didn't think this thread would get so in-depth, but it's for the best. Sometimes, mistakes can stick because nobody bothers to correct them, especially with ancient video games.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-You got a free 50Hz soundtrack out of the thread as well. Pretty cool ay?&lt;br /&gt;
-
-</description>
-<dc:creator>Adrian</dc:creator>
-<dc:subject>Music</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141341</comments>
-</item>
-<item>
-<title>Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141340#141340</link>
-<pubDate>Mon, 02 Nov 2026 08:09:23 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141340#141340</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7411&quot; target=&quot;_blank&quot;&gt;Kagesan&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 02, 2026 8:09 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;That was both an interesting and an entertaining read. Thank you for writing it down.
-&lt;br /&gt;
-
-&lt;br /&gt;
-P.S.: Those pumpkins are &lt;i&gt;really&lt;/i&gt; cute.&lt;br /&gt;
-
-</description>
-<dc:creator>Kagesan</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141145#141145" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141340</comments>
-</item>
-<item>
-<title>MEKA :: RE: Meka 0.80 with new sound engine *TESTERS WANTED!*</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339</link>
-<pubDate>Sun, 01 Nov 2026 23:05:05 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17668&quot; target=&quot;_blank&quot;&gt;armixer24&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 11:05 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Attempting to run this build of Meka on my Mac (OS 26-ish), the app crashes upon startup. It complains that libfreetype.6.dylib is not in the expected path (&lt;i&gt;/opt/local/lib/libfreetype.6.dylib&lt;/i&gt;).
-&lt;br /&gt;
-
-&lt;br /&gt;
-I'm a bit nooby when it comes to libraries on Mac OS. I do have freetype installed in &amp;quot;homebrew&amp;quot; (the package manager), is there not a way to let meka look for it there ? Otherwise I'll try copy-pasting it in the expected path but I think I may end up doing this for more libraries... :P
-&lt;br /&gt;
-
-&lt;br /&gt;
-EDIT: I added a simlink for both libfreetype and libpng from their path in homebrew to the expected paths by meka. This was a bit annoying to do, but it launches now...&lt;br /&gt;
-
-</description>
-<dc:creator>armixer24</dc:creator>
-<dc:subject>MEKA</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=65448#65448" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141339</comments>
-</item>
-<item>
-<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141338#141338</link>
-<pubDate>Sun, 01 Nov 2026 20:52:58 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141338#141338</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35515&quot; target=&quot;_blank&quot;&gt;Edgar&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 8:52 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;It's so nice to listen to a podcast that ISN'T about Ni****do!  It's a proper bonus that it happens to be about the best 8 bit console out there - SEGA Master System Race FTW. :)&lt;br /&gt;
-
-</description>
-<dc:creator>Edgar</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141338</comments>
-</item>
-</channel>
-</rss>
-

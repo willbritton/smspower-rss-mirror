@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 10:40:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 10:50:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -32,7 +32,11 @@ Personally, my interpretation was that it was specifically about AI-enabled home
 &lt;br /&gt;
 
 &lt;br /&gt;
-On a semi-related note though @Materion it's a shame your repo only includes a zip upload and not source code. Source would allow experienced folks to make a more reasoned opinion as to the quality of your project.&lt;br /&gt;
+On a semi-related note though @Materion it's a shame your repo only includes a zip upload and not source code. Source would allow experienced folks to make a more reasoned opinion as to the quality of your project.
+&lt;br /&gt;
+
+&lt;br /&gt;
+(EDIT: Also, note there is already a &amp;quot;MasterBasic&amp;quot; from circa 1990 associated with the ZX Spectrum, just to make you aware)&lt;br /&gt;
 
 </description>
 <dc:creator>undeveloper</dc:creator>

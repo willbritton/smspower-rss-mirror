@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 14:30:45 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 14:40:33 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,46 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: Duck Hunt [SMS]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141359#141359</link>
+<pubDate>Tue, 03 Nov 2026 14:38:30 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141359#141359</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27589&quot; target=&quot;_blank&quot;&gt;old_pirate&lt;/a&gt;&lt;br /&gt;
+Subject: duckhunt_v1.1.sms&lt;br /&gt;
+Posted: Tue Nov 03, 2026 2:38 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;a href=&quot;https://old-pirate.itch.io/duck-hunt&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;&lt;b&gt;duckhunt_v1.1&lt;/b&gt;.sms&lt;/a&gt;  - The game has stopped lagging in certain spots. In other words, the FPS has increased.&lt;br /&gt;
+
+</description>
+<dc:creator>old_pirate</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141359</comments>
+</item>
+<item>
+<title>Development :: RE: Duck Hunt [SMS]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141358#141358</link>
+<pubDate>Tue, 03 Nov 2026 14:36:41 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141358#141358</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27589&quot; target=&quot;_blank&quot;&gt;old_pirate&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 2:36 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;EnricoPallazzo wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Also during the opening dog animation, the sprite tiles are streamed in, but there is plenty of VRAM for all the sprite tiles to begin with, so why are they streamed? I feel like this might be why the music seems to speed up and slow down    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+No, this is not related to loading tiles into VRAM.&lt;br /&gt;
+
+</description>
+<dc:creator>old_pirate</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141358</comments>
+</item>
 <item>
 <title>Development :: RE: New programming language MasterBASIC</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141357#141357</link>
@@ -204,54 +244,6 @@ Even if it's not a game? It' s a programming language. Well okay. Just wanted to
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141350</comments>
-</item>
-<item>
-<title>Development :: RE: New programming language MasterBASIC</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141349#141349</link>
-<pubDate>Tue, 03 Nov 2026 08:58:13 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141349#141349</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641&quot; target=&quot;_blank&quot;&gt;toxa&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 03, 2026 8:58 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;You can’t post AI generated stuff here. See the pinned announcement in this forum branch.&lt;br /&gt;
-
-</description>
-<dc:creator>toxa</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141349</comments>
-</item>
-<item>
-<title>Development :: New programming language MasterBASIC</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348</link>
-<pubDate>Tue, 03 Nov 2026 08:14:38 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
-Subject: New programming language MasterBASIC&lt;br /&gt;
-Posted: Tue Nov 03, 2026 8:14 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Hello,
-&lt;br /&gt;
-
-&lt;br /&gt;
-I created MasterBASIC language using Claude (LLM/AI) for game creation for Master System. It's BASIC that compiles into native Z80 machine code and creates .sms ROM file containing game. It's easy to learn and use. Currently compiler is built for LInux but right now I am compiling Windows version :).
-&lt;br /&gt;
-
-&lt;br /&gt;
-you can find my github with googling (as new member I can't post links unfortunately) &lt;a href=&quot;https://github.com/MaterzokMateusz/MasterBASIC/releases/tag/Release1.0&quot; target=&quot;_blank&quot;&gt;https://github.com/MaterzokMateusz/MasterBASIC/releases/tag/Release1.0&lt;/a&gt; that contains zip file containing compiler, tools, examples. Also you can find PDFs with Reference and Beginner's Guide. There is also .vsix file for Visual Studio Code for syntax highlighting and code suggestions.
-&lt;br /&gt;
-
-&lt;br /&gt;
-@EDIT
-&lt;br /&gt;
-
-&lt;br /&gt;
-If someone can post links on this forum could you please reply to this post with link to my github? Would be very thankful :)&lt;br /&gt;
-
-</description>
-<dc:creator>Materion</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141348</comments>
 </item>
 </channel>
 </rss>

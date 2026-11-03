@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-03T08:50:30Z</modified>
+  <modified>2026-11-03T09:00:56Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141349#141349"/>
+    <dc:creator>toxa</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>toxa</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141349#141349</id>
+    <issued>2026-11-03T08:58:13Z</issued>
+    <modified>2026-11-03T08:58:13Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641&quot; target=&quot;_blank&quot;&gt;toxa&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 03, 2026 8:58 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	You can’t post AI generated stuff here. See the pinned announcement in this forum branch.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html"
@@ -212,31 +229,6 @@ You got a free 50Hz soundtrack out of the thread as well. Pretty cool ay?&lt;/sp
 
 &lt;br /&gt;
 P.S.: Those pumpkins are &lt;i&gt;really&lt;/i&gt; cute.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">MEKA :: RE: Meka 0.80 with new sound engine *TESTERS WANTED!*</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339"/>
-    <dc:creator>armixer24</dc:creator>
-    <dc:subject>MEKA</dc:subject>
-    <author>
-		<name>armixer24</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339</id>
-    <issued>2026-11-01T23:05:05Z</issued>
-    <modified>2026-11-01T23:05:05Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17668&quot; target=&quot;_blank&quot;&gt;armixer24&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 01, 2026 11:05 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Attempting to run this build of Meka on my Mac (OS 26-ish), the app crashes upon startup. It complains that libfreetype.6.dylib is not in the expected path (&lt;i&gt;/opt/local/lib/libfreetype.6.dylib&lt;/i&gt;).
-&lt;br /&gt;
-
-&lt;br /&gt;
-I'm a bit nooby when it comes to libraries on Mac OS. I do have freetype installed in &amp;quot;homebrew&amp;quot; (the package manager), is there not a way to let meka look for it there ? Otherwise I'll try copy-pasting it in the expected path but I think I may end up doing this for more libraries... :P
-&lt;br /&gt;
-
-&lt;br /&gt;
-EDIT: I added a simlink for both libfreetype and libpng from their path in homebrew to the expected paths by meka. This was a bit annoying to do, but it launches now...&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

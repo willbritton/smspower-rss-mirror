@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 08:50:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 09:00:55 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141349#141349</link>
+<pubDate>Tue, 03 Nov 2026 08:58:13 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141349#141349</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641&quot; target=&quot;_blank&quot;&gt;toxa&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 8:58 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;You can’t post AI generated stuff here. See the pinned announcement in this forum branch.&lt;br /&gt;
+
+</description>
+<dc:creator>toxa</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141349</comments>
+</item>
 <item>
 <title>Development :: New programming language MasterBASIC</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348</link>
@@ -212,30 +228,6 @@ P.S.: Those pumpkins are &lt;i&gt;really&lt;/i&gt; cute.&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141145#141145" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141340</comments>
-</item>
-<item>
-<title>MEKA :: RE: Meka 0.80 with new sound engine *TESTERS WANTED!*</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339</link>
-<pubDate>Sun, 01 Nov 2026 23:05:05 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141339#141339</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17668&quot; target=&quot;_blank&quot;&gt;armixer24&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 11:05 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Attempting to run this build of Meka on my Mac (OS 26-ish), the app crashes upon startup. It complains that libfreetype.6.dylib is not in the expected path (&lt;i&gt;/opt/local/lib/libfreetype.6.dylib&lt;/i&gt;).
-&lt;br /&gt;
-
-&lt;br /&gt;
-I'm a bit nooby when it comes to libraries on Mac OS. I do have freetype installed in &amp;quot;homebrew&amp;quot; (the package manager), is there not a way to let meka look for it there ? Otherwise I'll try copy-pasting it in the expected path but I think I may end up doing this for more libraries... :P
-&lt;br /&gt;
-
-&lt;br /&gt;
-EDIT: I added a simlink for both libfreetype and libpng from their path in homebrew to the expected paths by meka. This was a bit annoying to do, but it launches now...&lt;br /&gt;
-
-</description>
-<dc:creator>armixer24</dc:creator>
-<dc:subject>MEKA</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=65448#65448" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141339</comments>
 </item>
 </channel>
 </rss>

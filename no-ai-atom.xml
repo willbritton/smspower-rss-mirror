@@ -4,7 +4,39 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-03T10:00:53Z</modified>
+  <modified>2026-11-03T10:10:28Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141354#141354" />
+    <dc:creator>fanglespangle</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>fanglespangle</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141354#141354</id>
+    <issued>2026-11-03T10:06:40Z</issued>
+    <modified>2026-11-03T10:06:40Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=6557" target="_blank"&gt;fanglespangle&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 03, 2026 10:06 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I think it should be clarified. AI generated content shouldn't be posted in the Development forum. It should be posted in the Main forum. I believe it was to prevent a wave of AI ports from drowning out the more traditional hand crafted stuff.
+&lt;br /&gt;
+
+&lt;br /&gt;
+However, your second point about if something being made my hand with an AI built tool should be posted here... err... I dunno actually! If it is a fully developed program that can be run locally without the use of tokens to create games with then there is a clear degree of separation.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Personally, I applaud the fact that you used it to actually make your life easier and not to actually do the work for you. To me, it does feel very distinct from vibe coding. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+But I also get that people do not want AI near anything that they do and with understandable reasons. I personally hate AI generated &amp;quot;art&amp;quot; and music... but I'm an artist and musician so of course I do. But I'm not a tool maker. I don't care how the tool was made, only that it does what I want it to so I can create MY art. However, tool making is its own art and someone like Sverx, Bock or Maxim who have made tools for master system development may take issue with the idea. If they saw someone using something made by AI, might they feel the same way I do when I see people use AI generated images? Only they could answer that really.
+&lt;br /&gt;
+
+&lt;br /&gt;
+That isn't to say that what you did was bad or anything. Just that I hope I have communicated WHY people could take issue with the tool not being considered AI use. It is murky water for sure though.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141353#141353" />
@@ -18,7 +50,7 @@
     <modified>2026-11-03T10:00:36Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
 	Posted: Tue Nov 03, 2026 10:00 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Are we hating AI so much that we'd reject a game made by hand that was made using a custom BASIC dialect, just because the &lt;b&gt;compiler&lt;/b&gt; happened to be made using AI?
+	Are we hating AI so much that we'd reject a game made &lt;b&gt;by hand&lt;/b&gt; that was made using a custom BASIC dialect, just because the &lt;b&gt;compiler&lt;/b&gt; happened to be made using AI?
 &lt;br /&gt;
 
 &lt;br /&gt;
@@ -269,4 +301,4 @@ Thanks for both sverx and the author himself, Andrs, for helping with the screen
 	I also really enjoyed reading you  articles, congratulations!&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

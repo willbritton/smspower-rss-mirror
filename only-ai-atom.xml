@@ -1,34 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="0.3">
+<feed xmlns="http://purl.org/atom/ns#" version="0.3">
 
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-03T10:00:53Z</modified>
-  <entry>
-    <title mode="escaped">Main :: RE: Ports created by [AI]</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141344#141344" />
-    <dc:creator>segarule</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>segarule</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141344#141344</id>
-    <issued>2026-11-02T13:36:19Z</issued>
-    <modified>2026-11-02T13:36:19Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689" target="_blank"&gt;segarule&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 02, 2026 1:36 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I will got the oportunity to annouce my projects, considering that i dont will entry in any competition:
-&lt;br /&gt;
-1 - Rolling Thunder - Initial
-&lt;br /&gt;
-2 - Maniac Mansion - advanced (i have some stuff running well);
-&lt;br /&gt;
-3 - Metal Gear (msx2) - Stopped;
-&lt;br /&gt;
-4 - Test Drive 2 - Not initiated.
-&lt;br /&gt;
-If would like the SMS with these floods.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  <modified>2026-11-03T10:10:28Z</modified>
+  </feed>

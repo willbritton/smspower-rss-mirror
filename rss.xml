@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 08:10:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 08:20:28 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,34 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348</link>
+<pubDate>Tue, 03 Nov 2026 08:14:38 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+Subject: New programming language MasterBASIC&lt;br /&gt;
+Posted: Tue Nov 03, 2026 8:14 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Hello,
+&lt;br /&gt;
+
+&lt;br /&gt;
+I created MasterBASIC language for game creation for Master System. It's BASIC that compiles into native Z80 machine code and creates .sms ROM file containing game.
+&lt;br /&gt;
+
+&lt;br /&gt;
+you can find my github with googling (as new member I can't post links unfortunately) MasterBASIC (MaterzokMateusz/MasterBASIC) that contains zip file containing compiler, tools, examples. Also you can find PDFs with Reference and Beginner's Guide. There is also .vsix file for Visual Studio Code for syntax highlighting and code suggestions.
+&lt;br /&gt;
+
+&lt;br /&gt;
+MaterzokMateusz/MasterBASIC/releases/tag/Release1.0&lt;br /&gt;
+
+</description>
+<dc:creator>Materion</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141348</comments>
+</item>
 <item>
 <title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141347#141347</link>
@@ -204,22 +232,6 @@ EDIT: I added a simlink for both libfreetype and libpng from their path in homeb
 <dc:subject>MEKA</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=65448#65448" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141339</comments>
-</item>
-<item>
-<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141338#141338</link>
-<pubDate>Sun, 01 Nov 2026 20:52:58 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141338#141338</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35515&quot; target=&quot;_blank&quot;&gt;Edgar&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 01, 2026 8:52 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;It's so nice to listen to a podcast that ISN'T about Ni****do!  It's a proper bonus that it happens to be about the best 8 bit console out there - SEGA Master System Race FTW. :)&lt;br /&gt;
-
-</description>
-<dc:creator>Edgar</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141338</comments>
 </item>
 </channel>
 </rss>

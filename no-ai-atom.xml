@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-03T08:40:28Z</modified>
+  <modified>2026-11-03T08:50:30Z</modified>
   <entry>
     <title mode="escaped">Development :: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
@@ -22,7 +22,7 @@
 &lt;br /&gt;
 
 &lt;br /&gt;
-I created MasterBASIC language for game creation for Master System. It's BASIC that compiles into native Z80 machine code and creates .sms ROM file containing game. It's easy to learn and use.
+I created MasterBASIC language for game creation for Master System. It's BASIC that compiles into native Z80 machine code and creates .sms ROM file containing game. It's easy to learn and use. Currently compiler is built for LInux but right now I am compiling Windows version :).
 &lt;br /&gt;
 
 &lt;br /&gt;

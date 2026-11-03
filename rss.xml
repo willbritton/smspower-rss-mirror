@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 08:40:28 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 08:50:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -29,7 +29,7 @@ Posted: Tue Nov 03, 2026 8:14 am (GMT 0)&lt;br /&gt;
 &lt;br /&gt;
 
 &lt;br /&gt;
-I created MasterBASIC language for game creation for Master System. It's BASIC that compiles into native Z80 machine code and creates .sms ROM file containing game. It's easy to learn and use.
+I created MasterBASIC language for game creation for Master System. It's BASIC that compiles into native Z80 machine code and creates .sms ROM file containing game. It's easy to learn and use. Currently compiler is built for LInux but right now I am compiling Windows version :).
 &lt;br /&gt;
 
 &lt;br /&gt;

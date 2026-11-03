@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 15:20:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 15:30:47 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -25,7 +25,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
 
 Posted: Tue Nov 03, 2026 2:57 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;You are welcome, hope it will help someone get into creating games for Master System!! :).&lt;br /&gt;
+&lt;br /&gt;You are welcome, hope it will help someone get into creating games for Master System!! :). Right now there is only 32KB for code - assets can be as large as 1MB. I am trying to add more space for code using mappers. Will post if there will be an update :).&lt;br /&gt;
 
 </description>
 <dc:creator>Materion</dc:creator>

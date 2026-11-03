@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 11:50:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 12:00:56 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,26 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141356#141356</link>
+<pubDate>Tue, 03 Nov 2026 11:58:22 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141356#141356</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 11:58 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;AI tools are OK but this LLM use should be clearly stated. I guess that means all tools and homebrew needs to state the LLM use. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+Games made using an LLM tool will be allowed for the competition based on the extent to which the creator “made” them vs “generated” them. It’s not bad to have easy tools, it is bad to have lazy entries.&lt;br /&gt;
+
+</description>
+<dc:creator>Maxim</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141356</comments>
+</item>
 <item>
 <title>Development :: RE: New programming language MasterBASIC</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141355#141355</link>
@@ -307,22 +327,6 @@ Thanks for both sverx and the author himself, Andrs, for helping with the screen
 <dc:subject>Website</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141347</comments>
-</item>
-<item>
-<title>Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141346#141346</link>
-<pubDate>Mon, 02 Nov 2026 16:40:27 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141346#141346</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11330" target="_blank"&gt;leadedsolder&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 02, 2026 4:40 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Thanks! It sounds weird but I'm the most proud of the pumpkins.&lt;br /&gt;
-
-</description>
-<dc:creator>leadedsolder</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141145#141145" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141346</comments>
 </item>
 </channel>
 </rss>

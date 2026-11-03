@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 20:20:38 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 20:30:56 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -32,7 +32,29 @@ Posted: Tue Nov 03, 2026 2:57 pm (GMT 0)&lt;br /&gt;
 &lt;br /&gt;
 
 &lt;br /&gt;
-Okay update is done, changed the release 1.0 files to new version where code can be larger than 32KB (it can be as large as needed) - BASIC is switching banks with code automatically so you don't have to worry to manually switch banks.&lt;br /&gt;
+Okay update is done, changed the release 1.0 files to new version where code can be larger than 32KB (it can be as large as needed) - BASIC is switching banks with code automatically so you don't have to worry to manually switch banks.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Another update - average 1.4x speedup without need to change code at all. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+BYTE loop counter with array updates	2.8×
+&lt;br /&gt;
+PRINT	2.0×
+&lt;br /&gt;
+a(i) = a(i) + 1	1.9×
+&lt;br /&gt;
+Multiply / divide / MOD by a variable	1.6×
+&lt;br /&gt;
+PUTSPRITE, arithmetic	1.4×
+&lt;br /&gt;
+MAPAT, FOR loops	1.3×
+&lt;br /&gt;
+Map scrolling	1.2×
+&lt;br /&gt;
+Whole benchmark	1.40×&lt;br /&gt;
 
 </description>
 <dc:creator>Materion</dc:creator>

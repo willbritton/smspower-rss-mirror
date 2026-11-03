@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 08:30:46 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 08:40:28 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -32,7 +32,15 @@ I created MasterBASIC language for game creation for Master System. It's BASIC t
 &lt;br /&gt;
 
 &lt;br /&gt;
-you can find my github with googling (as new member I can't post links unfortunately) MaterzokMateusz/MasterBASIC/releases/tag/Release1.0 that contains zip file containing compiler, tools, examples. Also you can find PDFs with Reference and Beginner's Guide. There is also .vsix file for Visual Studio Code for syntax highlighting and code suggestions.&lt;br /&gt;
+you can find my github with googling (as new member I can't post links unfortunately) MaterzokMateusz/MasterBASIC/releases/tag/Release1.0 that contains zip file containing compiler, tools, examples. Also you can find PDFs with Reference and Beginner's Guide. There is also .vsix file for Visual Studio Code for syntax highlighting and code suggestions.
+&lt;br /&gt;
+
+&lt;br /&gt;
+@EDIT
+&lt;br /&gt;
+
+&lt;br /&gt;
+If someone can post links on this forum could you please reply to this post with link to my github? Would be very thankful :)&lt;br /&gt;
 
 </description>
 <dc:creator>Materion</dc:creator>

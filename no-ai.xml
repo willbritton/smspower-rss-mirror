@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 12:40:28 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 12:50:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -308,7 +308,7 @@ I created MasterBASIC language using Claude (LLM/AI) for game creation for Maste
 &lt;br /&gt;
 
 &lt;br /&gt;
-you can find my github with googling (as new member I can't post links unfortunately) MaterzokMateusz/MasterBASIC/releases/tag/Release1.0 that contains zip file containing compiler, tools, examples. Also you can find PDFs with Reference and Beginner's Guide. There is also .vsix file for Visual Studio Code for syntax highlighting and code suggestions.
+you can find my github with googling (as new member I can't post links unfortunately) &lt;a href="https://github.com/MaterzokMateusz/MasterBASIC/releases/tag/Release1.0" target="_blank"&gt;https://github.com/MaterzokMateusz/MasterBASIC/releases/tag/Release1.0&lt;/a&gt; that contains zip file containing compiler, tools, examples. Also you can find PDFs with Reference and Beginner's Guide. There is also .vsix file for Visual Studio Code for syntax highlighting and code suggestions.
 &lt;br /&gt;
 
 &lt;br /&gt;

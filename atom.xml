@@ -8,7 +8,7 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-03T12:40:29Z</modified>
+  <modified>2026-11-03T12:50:30Z</modified>
   <entry>
     <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html"
@@ -244,7 +244,7 @@ I created MasterBASIC language using Claude (LLM/AI) for game creation for Maste
 &lt;br /&gt;
 
 &lt;br /&gt;
-you can find my github with googling (as new member I can't post links unfortunately) MaterzokMateusz/MasterBASIC/releases/tag/Release1.0 that contains zip file containing compiler, tools, examples. Also you can find PDFs with Reference and Beginner's Guide. There is also .vsix file for Visual Studio Code for syntax highlighting and code suggestions.
+you can find my github with googling (as new member I can't post links unfortunately) &lt;a href=&quot;https://github.com/MaterzokMateusz/MasterBASIC/releases/tag/Release1.0&quot; target=&quot;_blank&quot;&gt;https://github.com/MaterzokMateusz/MasterBASIC/releases/tag/Release1.0&lt;/a&gt; that contains zip file containing compiler, tools, examples. Also you can find PDFs with Reference and Beginner's Guide. There is also .vsix file for Visual Studio Code for syntax highlighting and code suggestions.
 &lt;br /&gt;
 
 &lt;br /&gt;

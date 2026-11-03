@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 09:50:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 10:00:53 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -41,52 +41,6 @@ If would like the SMS with these floods.&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141344</comments>
-</item>
-<item>
-<title>Main :: RE: Ports created by [AI]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141343#141343</link>
-<pubDate>Mon, 02 Nov 2026 12:34:26 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141343#141343</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 02, 2026 12:34 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;segarule wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;sverx wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Whatever makes it possible for this community to survive the flood is welcome.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-Not is bad. If the people have time to flood topics means that have time left. I hope dont see excuses for competition &amp;quot;Sorry, guys. I dont had time...&amp;quot;.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I really meant to say 'sometimes in the future' as in &amp;quot;when everyone on this planet could be able to release a (often low quality) port of any game each single day&amp;quot;. That is 'the flood', not what we've seen already.&lt;br /&gt;
-
-</description>
-<dc:creator>sverx</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141343</comments>
 </item>
 </channel>
 </rss>

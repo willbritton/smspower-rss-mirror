@@ -8,7 +8,32 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-03T10:30:43Z</modified>
+  <modified>2026-11-03T10:40:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141355#141355"/>
+    <dc:creator>undeveloper</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>undeveloper</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141355#141355</id>
+    <issued>2026-11-03T10:38:59Z</issued>
+    <modified>2026-11-03T10:38:59Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=20104&quot; target=&quot;_blank&quot;&gt;undeveloper&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 03, 2026 10:38 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Clearly some more clarity needed about the intention of the sticky directive here, before we all lose our sh*t again!
+&lt;br /&gt;
+
+&lt;br /&gt;
+Personally, my interpretation was that it was specifically about AI-enabled homebrew games. I agree that it seems absurd to try and mandate a zero-AI policy around tooling. I very much doubt we're going to see a flood of &amp;quot;vibe-tools&amp;quot; as we have been seeing for games. People can judge for themselves whether a tool is useful for them and if they want to avoid it because it's written with AI that's up to them.
+&lt;br /&gt;
+
+&lt;br /&gt;
+On a semi-related note though @Materion it's a shame your repo only includes a zip upload and not source code. Source would allow experienced folks to make a more reasoned opinion as to the quality of your project.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html"
@@ -224,23 +249,6 @@ Thanks for both sverx and the author himself, Andrs, for helping with the screen
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11330&quot; target=&quot;_blank&quot;&gt;leadedsolder&lt;/a&gt;&lt;br /&gt;
 	Posted: Mon Nov 02, 2026 4:40 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Thanks! It sounds weird but I'm the most proud of the pumpkins.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141345#141345"/>
-    <dc:creator>kusfo</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>kusfo</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141345#141345</id>
-    <issued>2026-11-02T14:23:28Z</issued>
-    <modified>2026-11-02T14:23:28Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5915&quot; target=&quot;_blank&quot;&gt;kusfo&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 02, 2026 2:23 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I also really enjoyed reading you  articles, congratulations!&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 10:30:43 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 10:40:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,30 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141355#141355</link>
+<pubDate>Tue, 03 Nov 2026 10:38:59 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141355#141355</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=20104" target="_blank"&gt;undeveloper&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 10:38 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Clearly some more clarity needed about the intention of the sticky directive here, before we all lose our sh*t again!
+&lt;br /&gt;
+
+&lt;br /&gt;
+Personally, my interpretation was that it was specifically about AI-enabled homebrew games. I agree that it seems absurd to try and mandate a zero-AI policy around tooling. I very much doubt we're going to see a flood of &amp;quot;vibe-tools&amp;quot; as we have been seeing for games. People can judge for themselves whether a tool is useful for them and if they want to avoid it because it's written with AI that's up to them.
+&lt;br /&gt;
+
+&lt;br /&gt;
+On a semi-related note though @Materion it's a shame your repo only includes a zip upload and not source code. Source would allow experienced folks to make a more reasoned opinion as to the quality of your project.&lt;br /&gt;
+
+</description>
+<dc:creator>undeveloper</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141355</comments>
+</item>
 <item>
 <title>Development :: RE: New programming language MasterBASIC</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141354#141354</link>
@@ -295,22 +319,6 @@ Posted: Mon Nov 02, 2026 4:40 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141145#141145" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141346</comments>
-</item>
-<item>
-<title>Development :: RE: CamelForth for SG-1000 (RetroChallenge 2026/10)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141345#141345</link>
-<pubDate>Mon, 02 Nov 2026 14:23:28 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141345#141345</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5915" target="_blank"&gt;kusfo&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 02, 2026 2:23 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I also really enjoyed reading you  articles, congratulations!&lt;br /&gt;
-
-</description>
-<dc:creator>kusfo</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141145#141145" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141345</comments>
 </item>
 </channel>
 </rss>

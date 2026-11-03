@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 08:20:28 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 08:30:46 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -29,15 +29,11 @@ Posted: Tue Nov 03, 2026 8:14 am (GMT 0)&lt;br /&gt;
 &lt;br /&gt;
 
 &lt;br /&gt;
-I created MasterBASIC language for game creation for Master System. It's BASIC that compiles into native Z80 machine code and creates .sms ROM file containing game.
+I created MasterBASIC language for game creation for Master System. It's BASIC that compiles into native Z80 machine code and creates .sms ROM file containing game. It's easy to learn and use.
 &lt;br /&gt;
 
 &lt;br /&gt;
-you can find my github with googling (as new member I can't post links unfortunately) MasterBASIC (MaterzokMateusz/MasterBASIC) that contains zip file containing compiler, tools, examples. Also you can find PDFs with Reference and Beginner's Guide. There is also .vsix file for Visual Studio Code for syntax highlighting and code suggestions.
-&lt;br /&gt;
-
-&lt;br /&gt;
-MaterzokMateusz/MasterBASIC/releases/tag/Release1.0&lt;br /&gt;
+you can find my github with googling (as new member I can't post links unfortunately) MaterzokMateusz/MasterBASIC/releases/tag/Release1.0 that contains zip file containing compiler, tools, examples. Also you can find PDFs with Reference and Beginner's Guide. There is also .vsix file for Visual Studio Code for syntax highlighting and code suggestions.&lt;br /&gt;
 
 </description>
 <dc:creator>Materion</dc:creator>

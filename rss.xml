@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 12:00:56 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 12:10:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141357#141357</link>
+<pubDate>Tue, 03 Nov 2026 12:01:25 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141357#141357</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 12:01 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I'm sorry I should state this is LLM created tool you are right - will edit post. Thank you for all your responses and discussion :). Yeah I want to create my game by hand using this tool as it's easy to understand and kinda quick to code in it :). I don't like to use AI to do things cause it takes the fun of creating things manually. I just wanted an easy tool to code for Master System that I will understand and hope others will do too that's why I created this BASIC using Claude as I'm too weak to do such thing (code a language for computer/console) myself.&lt;br /&gt;
+
+</description>
+<dc:creator>Materion</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141357</comments>
+</item>
 <item>
 <title>Development :: RE: New programming language MasterBASIC</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141356#141356</link>
@@ -29,7 +45,11 @@ Posted: Tue Nov 03, 2026 11:58 am (GMT 0)&lt;br /&gt;
 &lt;br /&gt;
 
 &lt;br /&gt;
-Games made using an LLM tool will be allowed for the competition based on the extent to which the creator “made” them vs “generated” them. It’s not bad to have easy tools, it is bad to have lazy entries.&lt;br /&gt;
+Games made using an LLM tool will be allowed for the competition based on the extent to which the creator “made” them vs “generated” them. It’s not bad to have easy tools, it is bad to have lazy entries.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Also worth mentioning… I can’t help but see the common prefix with another word spelled masterba…&lt;br /&gt;
 
 </description>
 <dc:creator>Maxim</dc:creator>
@@ -213,7 +233,7 @@ Posted: Tue Nov 03, 2026 8:14 am (GMT 0)&lt;br /&gt;
 &lt;br /&gt;
 
 &lt;br /&gt;
-I created MasterBASIC language for game creation for Master System. It's BASIC that compiles into native Z80 machine code and creates .sms ROM file containing game. It's easy to learn and use. Currently compiler is built for LInux but right now I am compiling Windows version :).
+I created MasterBASIC language using Claude (LLM/AI) for game creation for Master System. It's BASIC that compiles into native Z80 machine code and creates .sms ROM file containing game. It's easy to learn and use. Currently compiler is built for LInux but right now I am compiling Windows version :).
 &lt;br /&gt;
 
 &lt;br /&gt;
@@ -232,30 +252,6 @@ If someone can post links on this forum could you please reply to this post with
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141348</comments>
-</item>
-<item>
-<title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141347#141347</link>
-<pubDate>Mon, 02 Nov 2026 18:40:56 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141347#141347</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826&quot; target=&quot;_blank&quot;&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 02, 2026 6:40 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Here it is:
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href=&quot;https://www.smspower.org/Homebrew/Obake-SG&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;https://www.smspower.org/Homebrew/Obake-SG&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks for both sverx and the author himself, Andrs, for helping with the screenshots!&lt;br /&gt;
-
-</description>
-<dc:creator>mateusbond</dc:creator>
-<dc:subject>Website</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141347</comments>
 </item>
 </channel>
 </rss>

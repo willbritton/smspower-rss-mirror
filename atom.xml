@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-03T12:00:57Z</modified>
+  <modified>2026-11-03T12:10:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141357#141357"/>
+    <dc:creator>Materion</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Materion</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141357#141357</id>
+    <issued>2026-11-03T12:01:25Z</issued>
+    <modified>2026-11-03T12:01:25Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 03, 2026 12:01 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I'm sorry I should state this is LLM created tool you are right - will edit post. Thank you for all your responses and discussion :). Yeah I want to create my game by hand using this tool as it's easy to understand and kinda quick to code in it :). I don't like to use AI to do things cause it takes the fun of creating things manually. I just wanted an easy tool to code for Master System that I will understand and hope others will do too that's why I created this BASIC using Claude as I'm too weak to do such thing (code a language for computer/console) myself.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html"
@@ -20,14 +37,18 @@
     </author>
     <id>https://www.smspower.org:443/forums/viewtopic.php?p=141356#141356</id>
     <issued>2026-11-03T11:58:22Z</issued>
-    <modified>2026-11-03T11:58:22Z</modified>
+    <modified>2026-11-03T12:02:36Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
 	Posted: Tue Nov 03, 2026 11:58 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	AI tools are OK but this LLM use should be clearly stated. I guess that means all tools and homebrew needs to state the LLM use. 
 &lt;br /&gt;
 
 &lt;br /&gt;
-Games made using an LLM tool will be allowed for the competition based on the extent to which the creator “made” them vs “generated” them. It’s not bad to have easy tools, it is bad to have lazy entries.&lt;/span&gt;&lt;br /&gt;
+Games made using an LLM tool will be allowed for the competition based on the extent to which the creator “made” them vs “generated” them. It’s not bad to have easy tools, it is bad to have lazy entries.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Also worth mentioning… I can’t help but see the common prefix with another word spelled masterba…&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>
@@ -212,14 +233,14 @@ Even if it's not a game? It' s a programming language. Well okay. Just wanted to
     </author>
     <id>https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348</id>
     <issued>2026-11-03T08:14:38Z</issued>
-    <modified>2026-11-03T08:14:38Z</modified>
+    <modified>2026-11-03T12:01:58Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
 	Subject: New programming language MasterBASIC&lt;br /&gt;Posted: Tue Nov 03, 2026 8:14 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Hello,
 &lt;br /&gt;
 
 &lt;br /&gt;
-I created MasterBASIC language for game creation for Master System. It's BASIC that compiles into native Z80 machine code and creates .sms ROM file containing game. It's easy to learn and use. Currently compiler is built for LInux but right now I am compiling Windows version :).
+I created MasterBASIC language using Claude (LLM/AI) for game creation for Master System. It's BASIC that compiles into native Z80 machine code and creates .sms ROM file containing game. It's easy to learn and use. Currently compiler is built for LInux but right now I am compiling Windows version :).
 &lt;br /&gt;
 
 &lt;br /&gt;
@@ -232,31 +253,6 @@ you can find my github with googling (as new member I can't post links unfortuna
 
 &lt;br /&gt;
 If someone can post links on this forum could you please reply to this post with link to my github? Would be very thankful :)&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Website :: RE: Homebrew projects still missing from the Homebrew page</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141347#141347"/>
-    <dc:creator>mateusbond</dc:creator>
-    <dc:subject>Website</dc:subject>
-    <author>
-		<name>mateusbond</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141347#141347</id>
-    <issued>2026-11-02T18:40:56Z</issued>
-    <modified>2026-11-02T18:40:56Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826&quot; target=&quot;_blank&quot;&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 02, 2026 6:40 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Here it is:
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href=&quot;https://www.smspower.org/Homebrew/Obake-SG&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;https://www.smspower.org/Homebrew/Obake-SG&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks for both sverx and the author himself, Andrs, for helping with the screenshots!&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 22:30:48 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 22:40:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,42 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: using game gear colors in cv basic</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141362#141362</link>
+<pubDate>Wed, 04 Nov 2026 22:39:50 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141362#141362</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7166" target="_blank"&gt;nanochess&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 04, 2026 10:39 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I just have added support for Game Gear to CVBasic v0.9.3
+&lt;br /&gt;
+
+&lt;br /&gt;
+Currently it is a Work-In-Progress, but I've put together a Windows executable for people wanting to test it. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+Basically it is using the switch --gamegear instead of --sms
+&lt;br /&gt;
+
+&lt;br /&gt;
+And the PALETTE format is now 16 bits to handle the 4K colors possibilities.
+&lt;br /&gt;
+
+&lt;br /&gt;
+ &lt;a href="https://forums.atariage.com/topic/384096-colecovision-fantalicious-basic-compiler-cvbasic-v092-now-with-nesfamicommsx2fm-support/page/5/#findComment-5914063" target="_blank" class="postlink"&gt;https://forums.atariage.com/topic/384096-colecovision-fantalicious-basic-compiler-cvbasic-v092-now-with-nesfamicommsx2fm-support/page/5/#findComment-5914063&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+As always the source code is in the git.[/url]&lt;br /&gt;
+
+</description>
+<dc:creator>nanochess</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=136629#136629" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141362</comments>
+</item>
 <item>
 <title>Development :: RE: New programming language MasterBASIC</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141361#141361</link>
@@ -265,68 +301,6 @@ If we take that logic to the extreme, the game itself would have to be developed
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141353</comments>
-</item>
-<item>
-<title>Development :: RE: New programming language MasterBASIC</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141352#141352</link>
-<pubDate>Tue, 03 Nov 2026 09:16:25 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141352#141352</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539" target="_blank"&gt;Materion&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 03, 2026 9:16 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;segarule wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;Materion wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;toxa wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;You can’t post AI generated stuff here. See the pinned announcement in this forum branch.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Even if it's not a game? It' s a programming language. Well okay. Just wanted to share a way for people to create own games in it WITHOUT USING AI. Another question if I made a game in this AI generated language MYSELF without using an AI will it be accepted here?? :)    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-For now or other moment? yes. For competition? NO.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I don't understand - I will code and create everything MYSELF without using an AI including graphics/music/sound/coding  - only programming language is created using AI - it's just a tool. It's no different than using C language with SMS SDK and doing everything manually...&lt;br /&gt;
-
-</description>
-<dc:creator>Materion</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141352</comments>
 </item>
 </channel>
 </rss>

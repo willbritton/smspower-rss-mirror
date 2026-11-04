@@ -8,7 +8,44 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-04T22:30:49Z</modified>
+  <modified>2026-11-04T22:40:29Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: using game gear colors in cv basic</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141362#141362"/>
+    <dc:creator>nanochess</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>nanochess</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141362#141362</id>
+    <issued>2026-11-04T22:39:50Z</issued>
+    <modified>2026-11-04T22:39:50Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7166&quot; target=&quot;_blank&quot;&gt;nanochess&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 04, 2026 10:39 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I just have added support for Game Gear to CVBasic v0.9.3
+&lt;br /&gt;
+
+&lt;br /&gt;
+Currently it is a Work-In-Progress, but I've put together a Windows executable for people wanting to test it. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+Basically it is using the switch --gamegear instead of --sms
+&lt;br /&gt;
+
+&lt;br /&gt;
+And the PALETTE format is now 16 bits to handle the 4K colors possibilities.
+&lt;br /&gt;
+
+&lt;br /&gt;
+ &lt;a href=&quot;https://forums.atariage.com/topic/384096-colecovision-fantalicious-basic-compiler-cvbasic-v092-now-with-nesfamicommsx2fm-support/page/5/#findComment-5914063&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;https://forums.atariage.com/topic/384096-colecovision-fantalicious-basic-compiler-cvbasic-v092-now-with-nesfamicommsx2fm-support/page/5/#findComment-5914063&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+As always the source code is in the git.[/url]&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html"
@@ -242,33 +279,6 @@ That isn't to say that what you did was bad or anything. Just that I hope I have
 
 &lt;br /&gt;
 If we take that logic to the extreme, the game itself would have to be developed on an old version of Windows/Linux because the newer versions of those OS's are at least partially made with AI?&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141352#141352"/>
-    <dc:creator>Materion</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>Materion</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141352#141352</id>
-    <issued>2026-11-03T09:16:25Z</issued>
-    <modified>2026-11-03T09:16:25Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 03, 2026 9:16 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;segarule wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Materion wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;toxa wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;You can’t post AI generated stuff here. See the pinned announcement in this forum branch.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Even if it's not a game? It' s a programming language. Well okay. Just wanted to share a way for people to create own games in it WITHOUT USING AI. Another question if I made a game in this AI generated language MYSELF without using an AI will it be accepted here?? :)    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-For now or other moment? yes. For competition? NO.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I don't understand - I will code and create everything MYSELF without using an AI including graphics/music/sound/coding  - only programming language is created using AI - it's just a tool. It's no different than using C language with SMS SDK and doing everything manually...&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

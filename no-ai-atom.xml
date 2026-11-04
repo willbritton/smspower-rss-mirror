@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-04T22:40:29Z</modified>
+  <modified>2026-11-04T22:50:29Z</modified>
   <entry>
     <title mode="escaped">Development :: RE: using game gear colors in cv basic</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141362#141362" />
@@ -38,7 +38,11 @@ And the PALETTE format is now 16 bits to handle the 4K colors possibilities.
 &lt;br /&gt;
 
 &lt;br /&gt;
-As always the source code is in the git.[/url]&lt;/span&gt;&lt;br /&gt;
+As always the source code is in the git.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;a href="https://github.com/nanochess/cvbasic" target="_blank" class="postlink"&gt;https://github.com/nanochess/cvbasic&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>

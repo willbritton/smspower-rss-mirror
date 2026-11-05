@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<channel>
+<title>SMS Power!</title>
+<link>https://www.smspower.org:443/forums/</link>
+<description>Sega 8-bit Discussion</description>
+<managingEditor>noreply@smspower.org</managingEditor>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>RSS Feed 2.2.3</generator>
+<language>en</language>
+<lastBuildDate>Thu, 05 Nov 2026 02:00:57 GMT</lastBuildDate>
+<image>
+	<url>http://www.smspower.org/images/smspower.gif</url>
+	<title>SMS Power!</title>
+	<link>https://www.smspower.org:443/forums/</link>
+	<width>122</width>
+	<height>56</height>
+</image>
+<item>
+<title>Development :: RE: using game gear colors in cv basic</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141362#141362</link>
+<pubDate>Wed, 04 Nov 2026 22:39:50 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141362#141362</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7166&quot; target=&quot;_blank&quot;&gt;nanochess&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 04, 2026 10:39 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I just have added support for Game Gear to CVBasic v0.9.3
+&lt;br /&gt;
+
+&lt;br /&gt;
+Currently it is a Work-In-Progress, but I've put together a Windows executable for people wanting to test it. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+Basically it is using the switch --gamegear instead of --sms
+&lt;br /&gt;
+
+&lt;br /&gt;
+And the PALETTE format is now 16 bits to handle the 4K colors possibilities.
+&lt;br /&gt;
+
+&lt;br /&gt;
+ &lt;a href=&quot;https://forums.atariage.com/topic/384096-colecovision-fantalicious-basic-compiler-cvbasic-v092-now-with-nesfamicommsx2fm-support/page/5/#findComment-5914063&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;https://forums.atariage.com/topic/384096-colecovision-fantalicious-basic-compiler-cvbasic-v092-now-with-nesfamicommsx2fm-support/page/5/#findComment-5914063&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+As always the source code is in the git.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/nanochess/cvbasic&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;https://github.com/nanochess/cvbasic&lt;/a&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>nanochess</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=136629#136629" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141362</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141361#141361</link>
+<pubDate>Tue, 03 Nov 2026 14:57:27 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141361#141361</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 2:57 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;You are welcome, hope it will help someone get into creating games for Master System!! :). Right now there is only 32KB for code - assets can be as large as 1MB. I am trying to add more space for code using mappers. Will post if there will be an update :).
+&lt;br /&gt;
+
+&lt;br /&gt;
+@EDIT
+&lt;br /&gt;
+
+&lt;br /&gt;
+Okay update is done, changed the release 1.0 files to new version where code can be larger than 32KB (it can be as large as needed) - BASIC is switching banks with code automatically so you don't have to worry to manually switch banks.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Another update - average 1.4x speedup without need to change code at all. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+BYTE loop counter with array updates	2.8×
+&lt;br /&gt;
+PRINT	2.0×
+&lt;br /&gt;
+a(i) = a(i) + 1	1.9×
+&lt;br /&gt;
+Multiply / divide / MOD by a variable	1.6×
+&lt;br /&gt;
+PUTSPRITE, arithmetic	1.4×
+&lt;br /&gt;
+MAPAT, FOR loops	1.3×
+&lt;br /&gt;
+Map scrolling	1.2×
+&lt;br /&gt;
+Whole benchmark	1.40×&lt;br /&gt;
+
+</description>
+<dc:creator>Materion</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141361</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141360#141360</link>
+<pubDate>Tue, 03 Nov 2026 14:43:03 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141360#141360</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=10722&quot; target=&quot;_blank&quot;&gt;NewHorizon&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 2:43 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Materion wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I'm sorry I should  have state this is LLM created tool you are right - will edit post. Thank you for all your responses and discussion :). Yeah I want to create my game by hand using this tool as it's easy to understand and kinda quick to code in it :). I don't like to use AI to do things cause it takes the fun of creating things manually. I just wanted an easy tool to code for Master System that I will understand and hope others will do too that's why I created this BASIC using Claude as I'm too weak to do such thing (code a language for computer/console) myself.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks for providing the new tool!&lt;br /&gt;
+
+</description>
+<dc:creator>NewHorizon</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141360</comments>
+</item>
+<item>
+<title>Development :: RE: Duck Hunt [SMS]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141359#141359</link>
+<pubDate>Tue, 03 Nov 2026 14:38:30 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141359#141359</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27589&quot; target=&quot;_blank&quot;&gt;old_pirate&lt;/a&gt;&lt;br /&gt;
+Subject: duckhunt_v1.1.sms&lt;br /&gt;
+Posted: Tue Nov 03, 2026 2:38 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;a href=&quot;https://old-pirate.itch.io/duck-hunt&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;&lt;b&gt;duckhunt_v1.1&lt;/b&gt;.sms&lt;/a&gt;  - The game has stopped lagging in certain spots. In other words, the FPS has increased.&lt;br /&gt;
+
+</description>
+<dc:creator>old_pirate</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141359</comments>
+</item>
+<item>
+<title>Development :: RE: Duck Hunt [SMS]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141358#141358</link>
+<pubDate>Tue, 03 Nov 2026 14:36:41 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141358#141358</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27589&quot; target=&quot;_blank&quot;&gt;old_pirate&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 2:36 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;EnricoPallazzo wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Also during the opening dog animation, the sprite tiles are streamed in, but there is plenty of VRAM for all the sprite tiles to begin with, so why are they streamed? I feel like this might be why the music seems to speed up and slow down    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+No, this is not related to loading tiles into VRAM.&lt;br /&gt;
+
+</description>
+<dc:creator>old_pirate</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141358</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141357#141357</link>
+<pubDate>Tue, 03 Nov 2026 12:01:25 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141357#141357</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 12:01 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I'm sorry I should  have state this is LLM created tool you are right - will edit post. Thank you for all your responses and discussion :). Yeah I want to create my game by hand using this tool as it's easy to understand and kinda quick to code in it :). I don't like to use AI to do things cause it takes the fun of creating things manually. I just wanted an easy tool to code for Master System that I will understand and hope others will do too that's why I created this BASIC using Claude as I'm too weak to do such thing (code a language for computer/console) myself.&lt;br /&gt;
+
+</description>
+<dc:creator>Materion</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141357</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141356#141356</link>
+<pubDate>Tue, 03 Nov 2026 11:58:22 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141356#141356</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 11:58 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;AI tools are OK but this LLM use should be clearly stated. I guess that means all tools and homebrew needs to state the LLM use. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+Games made using an LLM tool will be allowed for the competition based on the extent to which the creator “made” them vs “generated” them. It’s not bad to have easy tools, it is bad to have lazy entries.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Also worth mentioning… I can’t help but see the common prefix with another word spelled masterba…&lt;br /&gt;
+
+</description>
+<dc:creator>Maxim</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141356</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141355#141355</link>
+<pubDate>Tue, 03 Nov 2026 10:38:59 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141355#141355</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=20104&quot; target=&quot;_blank&quot;&gt;undeveloper&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 10:38 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Clearly some more clarity needed about the intention of the sticky directive here, before we all lose our sh*t again!
+&lt;br /&gt;
+
+&lt;br /&gt;
+Personally, my interpretation was that it was specifically about AI-enabled homebrew games. I agree that it seems absurd to try and mandate a zero-AI policy around tooling. I very much doubt we're going to see a flood of &amp;quot;vibe-tools&amp;quot; as we have been seeing for games. People can judge for themselves whether a tool is useful for them and if they want to avoid it because it's written with AI that's up to them.
+&lt;br /&gt;
+
+&lt;br /&gt;
+On a semi-related note though @Materion it's a shame your repo only includes a zip upload and not source code. Source would allow experienced folks to make a more reasoned opinion as to the quality of your project.
+&lt;br /&gt;
+
+&lt;br /&gt;
+(EDIT: Also, note there is already a &amp;quot;MasterBasic&amp;quot; from circa 1990 associated with the ZX Spectrum, just to make you aware)&lt;br /&gt;
+
+</description>
+<dc:creator>undeveloper</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141355</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141354#141354</link>
+<pubDate>Tue, 03 Nov 2026 10:06:40 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141354#141354</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=6557&quot; target=&quot;_blank&quot;&gt;fanglespangle&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 10:06 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I think it should be clarified. AI generated content shouldn't be posted in the Development forum. It should be posted in the Main forum. I believe it was to prevent a wave of AI ports from drowning out the more traditional hand crafted stuff.
+&lt;br /&gt;
+
+&lt;br /&gt;
+However, your second point about if something being made my hand with an AI built tool should be posted here... err... I dunno actually! If it is a fully developed program that can be run locally without the use of tokens to create games with then there is a clear degree of separation.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Personally, I applaud the fact that you used it to actually make your life easier and not to actually do the work for you. To me, it does feel very distinct from vibe coding. (EDIT - I know vibe coding isn't technically as straight forward as it does the work for you, but by and large that is how it's used. I generalised for the sake of brevity.)
+&lt;br /&gt;
+
+&lt;br /&gt;
+But I also get that people do not want AI near anything that they do and with understandable reasons. I personally hate AI generated &amp;quot;art&amp;quot; and music... but I'm an artist and musician so of course I do. But I'm not a tool maker. I don't care how the tool was made, only that it does what I want it to so I can create MY art. However, tool making is its own art and someone like Sverx, Bock or Maxim who have made tools for master system development may take issue with the idea. If they saw someone using something made by AI, might they feel the same way I do when I see people use AI generated images? Only they could answer that really.
+&lt;br /&gt;
+
+&lt;br /&gt;
+That isn't to say that what you did was bad or anything. Just that I hope I have communicated WHY people could take issue with the tool not being considered AI use. It is murky water for sure though.&lt;br /&gt;
+
+</description>
+<dc:creator>fanglespangle</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141354</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141353#141353</link>
+<pubDate>Tue, 03 Nov 2026 10:00:36 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141353#141353</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 10:00 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Are we hating AI so much that we'd reject a game made &lt;b&gt;by hand&lt;/b&gt; that was made using a custom BASIC dialect, just because the &lt;b&gt;compiler&lt;/b&gt; happened to be made using AI?
+&lt;br /&gt;
+
+&lt;br /&gt;
+If we take that logic to the extreme, the game itself would have to be developed on an old version of Windows/Linux because the newer versions of those OS's are at least partially made with AI?&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141353</comments>
+</item>
+</channel>
+</rss>
+

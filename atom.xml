@@ -8,7 +8,48 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-05T06:30:43Z</modified>
+  <modified>2026-11-05T06:40:29Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141363#141363"/>
+    <dc:creator>Materion</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Materion</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141363#141363</id>
+    <issued>2026-11-05T06:35:09Z</issued>
+    <modified>2026-11-05T06:35:09Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 05, 2026 6:35 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Update 1.5.0
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/MaterzokMateusz/MasterBASIC/releases/tag/Release1.5&quot; target=&quot;_blank&quot;&gt;https://github.com/MaterzokMateusz/MasterBASIC/releases/tag/Release1.5&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+MasterBASIC 1.5.0 can now load music from text files: each song or sound effect can live in its own .txt file. The Master System has no disk, so the files are read when you build the game and copied into the cartridge; the game can’t load new files while it runs.
+&lt;br /&gt;
+
+&lt;br /&gt;
+MUSIC theme = &amp;quot;music/theme.txt&amp;quot;          ' one song per text file
+&lt;br /&gt;
+MUSIC fanfare = &amp;quot;music/fanfare.txt&amp;quot; ONCE ' a jingle that plays once
+&lt;br /&gt;
+SFX boing = &amp;quot;music/boing.txt&amp;quot;            ' one sound effect per text file
+&lt;br /&gt;
+SOUND &amp;quot;music/more.pml&amp;quot;                   ' a file with many songs (can be used several times)
+&lt;br /&gt;
+
+&lt;br /&gt;
+PLAYMUSIC theme
+&lt;br /&gt;
+PLAYSFX boing&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: using game gear colors in cv basic</title>
     <link rel="alternate" type="text/html"
@@ -262,27 +303,6 @@ But I also get that people do not want AI near anything that they do and with un
 
 &lt;br /&gt;
 That isn't to say that what you did was bad or anything. Just that I hope I have communicated WHY people could take issue with the tool not being considered AI use. It is murky water for sure though.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141353#141353"/>
-    <dc:creator>haroldoop</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>haroldoop</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141353#141353</id>
-    <issued>2026-11-03T10:00:36Z</issued>
-    <modified>2026-11-03T10:00:36Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 03, 2026 10:00 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Are we hating AI so much that we'd reject a game made &lt;b&gt;by hand&lt;/b&gt; that was made using a custom BASIC dialect, just because the &lt;b&gt;compiler&lt;/b&gt; happened to be made using AI?
-&lt;br /&gt;
-
-&lt;br /&gt;
-If we take that logic to the extreme, the game itself would have to be developed on an old version of Windows/Linux because the newer versions of those OS's are at least partially made with AI?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

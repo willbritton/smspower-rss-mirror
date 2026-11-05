@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 13:20:29 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 13:30:44 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,290 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: Kujaku Ou — Brazilian Portuguese Translation and Restoration for Sega Mark III / Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141367#141367</link>
+<pubDate>Thu, 05 Nov 2026 13:26:43 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141367#141367</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35403&quot; target=&quot;_blank&quot;&gt;cristiano.mariano&lt;/a&gt;&lt;br /&gt;
+Subject: Kujaku Ou — Brazilian Portuguese Translation and Restoration for Sega Mark III / Master System&lt;br /&gt;
+Posted: Thu Nov 05, 2026 1:26 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Hello everyone,
+&lt;br /&gt;
+
+&lt;br /&gt;
+I am Cristiano Mariano from Newportgame, and this is my Brazilian Portuguese translation and technical restoration of Kujaku Ou (孔雀王) for the Sega Mark III / Sega Master System.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Kujaku Ou was originally released by Sega in Japan in 1988. It later received a heavily adapted western version known as SpellCaster, which changed several names, characters, cultural references, locations, magical concepts, and parts of the original narrative.
+&lt;br /&gt;
+
+&lt;br /&gt;
+This project was translated directly from the Japanese version to preserve the original identity and context of the game. It restores the story of Kujaku, the young Buddhist exorcist, together with the original mythological, religious, historical, and geographical references.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The project includes:
+&lt;br /&gt;
+
+&lt;br /&gt;
+- Complete Brazilian Portuguese translation based on the Japanese version;
+&lt;br /&gt;
+- Dialogues, menus, status screens, items, credits, and ending;
+&lt;br /&gt;
+- Translation and integration of the original manga-style ending;
+&lt;br /&gt;
+- Native Brazilian Portuguese accent support;
+&lt;br /&gt;
+- Restoration of original names, places, characters, and cultural references;
+&lt;br /&gt;
+- Technical validation in emulators and on real hardware.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The work involved reverse engineering of the Z80 code, VDP and VRAM routines, text encoding, font data, pointer tables, banked ROM structures, graphics data, and the game's text-space limitations. Since Portuguese generally requires more space than Japanese, the internal text structure had to be reorganized so the complete translation could fit without forced abbreviations.
+&lt;br /&gt;
+
+&lt;br /&gt;
+This project does not diminish SpellCaster, which has its own identity and historical value. SpellCaster is a western adaptation with shorter and more accessible fantasy-oriented dialogue, while Kujaku Ou preserves the original Japanese cultural and spiritual context. Both versions are now available in Brazilian Portuguese, each with its own purpose and character.
+&lt;br /&gt;
+
+&lt;br /&gt;
+PROJECT INFORMATION
+&lt;br /&gt;
+
+&lt;br /&gt;
+Game: Kujaku Ou (孔雀王 / Peacock King)
+&lt;br /&gt;
+Platform: Sega Mark III / Sega Master System
+&lt;br /&gt;
+Original release: 1988
+&lt;br /&gt;
+Genre: First-person adventure, 2D action/platforming, and RPG elements
+&lt;br /&gt;
+Original developer/publisher: Sega
+&lt;br /&gt;
+Original source: The Kujaku Ou manga by Makoto Ogino
+&lt;br /&gt;
+Patch version: v1.0.0 — Gold Master
+&lt;br /&gt;
+Translator and technical restoration: Cristiano Mariano
+&lt;br /&gt;
+Project: Newportgame
+&lt;br /&gt;
+
+&lt;br /&gt;
+BASE ROM INFORMATION
+&lt;br /&gt;
+
+&lt;br /&gt;
+The patch must be applied to an original, clean, compatible Japanese ROM.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Recommended filename: Kujaku Ou (Japan).sms
+&lt;br /&gt;
+ROM size: 524,288 bytes (512 KB)
+&lt;br /&gt;
+Patch format: IPS
+&lt;br /&gt;
+
+&lt;br /&gt;
+The original commercial ROM is not distributed with this project.
+&lt;br /&gt;
+
+&lt;br /&gt;
+OFFICIAL DOWNLOAD
+&lt;br /&gt;
+
+&lt;br /&gt;
+GitHub release:
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/tag/v1.0.0&quot; target=&quot;_blank&quot; title=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/tag/v1.0.0&quot;&gt;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/tag/v1.0....&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Direct IPS download:
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/download/v1.0.0/KujakuOu_PTBR_Newportgame.ips&quot; target=&quot;_blank&quot; title=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/download/v1.0.0/KujakuOu_PTBR_Newportgame.ips&quot;&gt;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/download/...&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+HOW TO APPLY THE PATCH
+&lt;br /&gt;
+
+&lt;br /&gt;
+1. Open Rom Patcher JS:
+&lt;br /&gt;
+&lt;a href=&quot;https://www.marcrobledo.com/RomPatcher.js/&quot; target=&quot;_blank&quot;&gt;https://www.marcrobledo.com/RomPatcher.js/&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+2. Select the original Japanese ROM in the “ROM file” field.
+&lt;br /&gt;
+3. Select KujakuOu_PTBR_Newportgame.ips in the “Patch file” field.
+&lt;br /&gt;
+4. Click “Apply patch” and save the translated ROM.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The patch can also be applied with Lunar IPS or Floating IPS (Flips).
+&lt;br /&gt;
+
+&lt;br /&gt;
+TOOLS AND ACKNOWLEDGEMENTS
+&lt;br /&gt;
+
+&lt;br /&gt;
+The project used custom Python tools developed by Newportgame for ROM analysis, text extraction, pointer reconstruction, font investigation, memory expansion, and validation. Emulicious was used for low-level debugging, including Z80 debugging, memory inspection, tilemap analysis, and VRAM investigation.
+&lt;br /&gt;
+
+&lt;br /&gt;
+AI tools were used only as assistance for calculations, consultations, and repetitive tasks. Translation decisions, technical direction, revisions, testing, and final validation were performed manually by Cristiano Mariano.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The project distributes only the IPS patch and related documentation. Complete ROM images are not distributed.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thank you to everyone involved in the preservation, documentation, translation, reverse engineering, and study of classic Sega hardware and software.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-------------------------------------------------------------------------------
+&lt;br /&gt;
+
+&lt;br /&gt;
+Português:
+&lt;br /&gt;
+
+&lt;br /&gt;
+Olá, pessoal!
+&lt;br /&gt;
+
+&lt;br /&gt;
+Sou Cristiano Mariano, da Newportgame, e esta é minha tradução para português brasileiro e restauração técnica de Kujaku Ou (孔雀王) para Sega Mark III / Sega Master System.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Kujaku Ou foi lançado originalmente pela Sega no Japão em 1988. Posteriormente, recebeu uma versão ocidental bastante adaptada, conhecida como SpellCaster, que alterou nomes, personagens, referências culturais, locais, conceitos mágicos e partes da narrativa original.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Este projeto foi traduzido diretamente da versão japonesa para preservar a identidade e o contexto originais do jogo. A tradução resgata a história de Kujaku, o jovem monge budista especializado em exorcismo, juntamente com as referências mitológicas, religiosas, históricas e geográficas presentes na obra original.
+&lt;br /&gt;
+
+&lt;br /&gt;
+O projeto inclui:
+&lt;br /&gt;
+
+&lt;br /&gt;
+- Tradução completa para português brasileiro baseada na versão japonesa;
+&lt;br /&gt;
+- Diálogos, menus, telas de status, itens, créditos e encerramento;
+&lt;br /&gt;
+- Tradução e integração do final original apresentado em formato de mangá;
+&lt;br /&gt;
+- Suporte nativo aos acentos do português brasileiro;
+&lt;br /&gt;
+- Restauração de nomes, locais, personagens e referências culturais originais;
+&lt;br /&gt;
+- Validação técnica em emuladores e hardware real.
+&lt;br /&gt;
+
+&lt;br /&gt;
+O trabalho envolveu engenharia reversa do código Z80, rotinas da VDP e da VRAM, codificação de texto, dados de fontes, tabelas de ponteiros, estruturas de bancos de ROM, dados gráficos e as limitações de espaço do texto no jogo. Como o português geralmente exige mais espaço que o japonês, foi necessário reorganizar a estrutura interna dos textos para inserir a tradução completa sem abreviações forçadas.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Este projeto não pretende diminuir SpellCaster, que possui identidade e valor histórico próprios. SpellCaster é uma adaptação ocidental, com diálogos mais curtos e uma abordagem de fantasia mais universal, enquanto Kujaku Ou preserva o contexto cultural e espiritual japonês original. Agora, ambas as versões estão disponíveis em português brasileiro, cada uma com sua própria proposta.
+&lt;br /&gt;
+
+&lt;br /&gt;
+INFORMAÇÕES DA ROM-BASE
+&lt;br /&gt;
+
+&lt;br /&gt;
+O patch deve ser aplicado a uma ROM japonesa original, limpa e compatível.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Nome recomendado: Kujaku Ou (Japan).sms
+&lt;br /&gt;
+Tamanho: 524.288 bytes (512 KB)
+&lt;br /&gt;
+Formato do patch: IPS
+&lt;br /&gt;
+
+&lt;br /&gt;
+A ROM comercial original não é distribuída com este projeto.
+&lt;br /&gt;
+
+&lt;br /&gt;
+DOWNLOAD OFICIAL
+&lt;br /&gt;
+
+&lt;br /&gt;
+Página do release no GitHub:
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/tag/v1.0.0&quot; target=&quot;_blank&quot; title=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/tag/v1.0.0&quot;&gt;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/tag/v1.0....&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Download direto do IPS:
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/download/v1.0.0/KujakuOu_PTBR_Newportgame.ips&quot; target=&quot;_blank&quot; title=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/download/v1.0.0/KujakuOu_PTBR_Newportgame.ips&quot;&gt;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/download/...&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+COMO APLICAR O PATCH
+&lt;br /&gt;
+
+&lt;br /&gt;
+1. Acesse o Rom Patcher JS:
+&lt;br /&gt;
+&lt;a href=&quot;https://www.marcrobledo.com/RomPatcher.js/&quot; target=&quot;_blank&quot;&gt;https://www.marcrobledo.com/RomPatcher.js/&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+2. Selecione a ROM japonesa original no campo “ROM file”.
+&lt;br /&gt;
+3. Selecione KujakuOu_PTBR_Newportgame.ips no campo “Patch file”.
+&lt;br /&gt;
+4. Clique em “Apply patch” e salve a ROM traduzida.
+&lt;br /&gt;
+
+&lt;br /&gt;
+O patch também pode ser aplicado com Lunar IPS ou Floating IPS (Flips).
+&lt;br /&gt;
+
+&lt;br /&gt;
+FERRAMENTAS E AGRADECIMENTOS
+&lt;br /&gt;
+
+&lt;br /&gt;
+O projeto utilizou ferramentas próprias em Python, desenvolvidas pela Newportgame para análise de ROM, extração de textos, reconstrução de ponteiros, investigação de fontes, expansão de memória e validação. O Emulicious foi utilizado para depuração de baixo nível, incluindo análise do Z80, inspeção de memória, investigação de tilemaps e análise de VRAM.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Ferramentas de inteligência artificial foram utilizadas apenas como apoio para cálculos, consultas e tarefas repetitivas. As decisões de tradução, a direção técnica, as revisões, os testes e a validação final foram realizados manualmente por Cristiano Mariano.
+&lt;br /&gt;
+
+&lt;br /&gt;
+O projeto distribui somente o patch IPS e a documentação relacionada. ROMs completas não são distribuídas.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Agradeço a todos que contribuem para a preservação, documentação, tradução, engenharia reversa e pesquisa de hardware e software clássicos da Sega.&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>cristiano.mariano</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141367#141367" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141367</comments>
+</item>
 <item>
 <title>Development :: RE: New programming language MasterBASIC</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141363#141363</link>
@@ -270,38 +554,6 @@ On a semi-related note though @Materion it's a shame your repo only includes a z
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141355</comments>
-</item>
-<item>
-<title>Development :: RE: New programming language MasterBASIC</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141354#141354</link>
-<pubDate>Tue, 03 Nov 2026 10:06:40 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141354#141354</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=6557&quot; target=&quot;_blank&quot;&gt;fanglespangle&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 03, 2026 10:06 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I think it should be clarified. AI generated content shouldn't be posted in the Development forum. It should be posted in the Main forum. I believe it was to prevent a wave of AI ports from drowning out the more traditional hand crafted stuff.
-&lt;br /&gt;
-
-&lt;br /&gt;
-However, your second point about if something being made my hand with an AI built tool should be posted here... err... I dunno actually! If it is a fully developed program that can be run locally without the use of tokens to create games with then there is a clear degree of separation.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Personally, I applaud the fact that you used it to actually make your life easier and not to actually do the work for you. To me, it does feel very distinct from vibe coding. (EDIT - I know vibe coding isn't technically as straight forward as it does the work for you, but by and large that is how it's used. I generalised for the sake of brevity.)
-&lt;br /&gt;
-
-&lt;br /&gt;
-But I also get that people do not want AI near anything that they do and with understandable reasons. I personally hate AI generated &amp;quot;art&amp;quot; and music... but I'm an artist and musician so of course I do. But I'm not a tool maker. I don't care how the tool was made, only that it does what I want it to so I can create MY art. However, tool making is its own art and someone like Sverx, Bock or Maxim who have made tools for master system development may take issue with the idea. If they saw someone using something made by AI, might they feel the same way I do when I see people use AI generated images? Only they could answer that really.
-&lt;br /&gt;
-
-&lt;br /&gt;
-That isn't to say that what you did was bad or anything. Just that I hope I have communicated WHY people could take issue with the tool not being considered AI use. It is murky water for sure though.&lt;br /&gt;
-
-</description>
-<dc:creator>fanglespangle</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141354</comments>
 </item>
 </channel>
 </rss>

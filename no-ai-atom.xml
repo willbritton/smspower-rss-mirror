@@ -4,7 +4,33 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-05T22:01:13Z</modified>
+  <modified>2026-11-05T22:10:32Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141369#141369" />
+    <dc:creator>IllusionOfMana</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>IllusionOfMana</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141369#141369</id>
+    <issued>2026-11-05T22:06:23Z</issued>
+    <modified>2026-11-05T22:06:23Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11045" target="_blank"&gt;IllusionOfMana&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 05, 2026 10:06 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Going to be a bit critical here...
+&lt;br /&gt;
+And maybe its because I can't see the viability of this over the range of development options we already have for the SMS...
+&lt;br /&gt;
+I dont see why anyone would pick this over like a visual code node based dev environment, if they wanted to go easy. We also have the C implementation, for those looking for a middle ground between that and ASM.
+&lt;br /&gt;
+Heck, I met someone the other day that made a C# like implementation that builds to GB, NES, GG, and SMS...
+&lt;br /&gt;
+
+&lt;br /&gt;
+Im just curious. Why would I or anyone be compelled to pick this over those options? A good answer to that may help others get over the AI junk that's surrounding this.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: Kujaku Ou — Brazilian Portuguese Translation and Restoration for Sega Mark III / Master System</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141367#141367" />
@@ -513,30 +539,6 @@ No, this is not related to loading tiles into VRAM.&lt;/span&gt;&lt;br /&gt;
 	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539" target="_blank"&gt;Materion&lt;/a&gt;&lt;br /&gt;
 	Posted: Tue Nov 03, 2026 12:01 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	I'm sorry I should  have state this is LLM created tool you are right - will edit post. Thank you for all your responses and discussion :). Yeah I want to create my game by hand using this tool as it's easy to understand and kinda quick to code in it :). I don't like to use AI to do things cause it takes the fun of creating things manually. I just wanted an easy tool to code for Master System that I will understand and hope others will do too that's why I created this BASIC using Claude as I'm too weak to do such thing (code a language for computer/console) myself.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141356#141356" />
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141356#141356</id>
-    <issued>2026-11-03T11:58:22Z</issued>
-    <modified>2026-11-03T12:02:36Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 03, 2026 11:58 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	AI tools are OK but this LLM use should be clearly stated. I guess that means all tools and homebrew needs to state the LLM use. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-Games made using an LLM tool will be allowed for the competition based on the extent to which the creator “made” them vs “generated” them. It’s not bad to have easy tools, it is bad to have lazy entries.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Also worth mentioning… I can’t help but see the common prefix with another word spelled masterba…&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

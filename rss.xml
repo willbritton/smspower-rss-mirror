@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 22:01:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 22:10:31 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,32 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141369#141369</link>
+<pubDate>Thu, 05 Nov 2026 22:06:23 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141369#141369</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11045&quot; target=&quot;_blank&quot;&gt;IllusionOfMana&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Nov 05, 2026 10:06 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Going to be a bit critical here...
+&lt;br /&gt;
+And maybe its because I can't see the viability of this over the range of development options we already have for the SMS...
+&lt;br /&gt;
+I dont see why anyone would pick this over like a visual code node based dev environment, if they wanted to go easy. We also have the C implementation, for those looking for a middle ground between that and ASM.
+&lt;br /&gt;
+Heck, I met someone the other day that made a C# like implementation that builds to GB, NES, GG, and SMS...
+&lt;br /&gt;
+
+&lt;br /&gt;
+Im just curious. Why would I or anyone be compelled to pick this over those options? A good answer to that may help others get over the AI junk that's surrounding this.&lt;br /&gt;
+
+</description>
+<dc:creator>IllusionOfMana</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141369</comments>
+</item>
 <item>
 <title>Main :: RE: Ports created by [AI]</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141368#141368</link>
@@ -524,30 +550,6 @@ Posted: Tue Nov 03, 2026 12:01 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141357</comments>
-</item>
-<item>
-<title>Development :: RE: New programming language MasterBASIC</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141356#141356</link>
-<pubDate>Tue, 03 Nov 2026 11:58:22 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141356#141356</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 03, 2026 11:58 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;AI tools are OK but this LLM use should be clearly stated. I guess that means all tools and homebrew needs to state the LLM use. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-Games made using an LLM tool will be allowed for the competition based on the extent to which the creator “made” them vs “generated” them. It’s not bad to have easy tools, it is bad to have lazy entries.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Also worth mentioning… I can’t help but see the common prefix with another word spelled masterba…&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141356</comments>
 </item>
 </channel>
 </rss>

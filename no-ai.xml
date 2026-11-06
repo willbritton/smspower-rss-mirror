@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 06:30:42 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 06:40:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -487,52 +487,6 @@ As always the source code is in the git.
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=136629#136629" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141362</comments>
-</item>
-<item>
-<title>Development :: RE: New programming language MasterBASIC</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141361#141361</link>
-<pubDate>Tue, 03 Nov 2026 14:57:27 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141361#141361</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539" target="_blank"&gt;Materion&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 03, 2026 2:57 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;You are welcome, hope it will help someone get into creating games for Master System!! :). Right now there is only 32KB for code - assets can be as large as 1MB. I am trying to add more space for code using mappers. Will post if there will be an update :).
-&lt;br /&gt;
-
-&lt;br /&gt;
-@EDIT
-&lt;br /&gt;
-
-&lt;br /&gt;
-Okay update is done, changed the release 1.0 files to new version where code can be larger than 32KB (it can be as large as needed) - BASIC is switching banks with code automatically so you don't have to worry to manually switch banks.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Another update - average 1.4x speedup without need to change code at all. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-BYTE loop counter with array updates	2.8×
-&lt;br /&gt;
-PRINT	2.0×
-&lt;br /&gt;
-a(i) = a(i) + 1	1.9×
-&lt;br /&gt;
-Multiply / divide / MOD by a variable	1.6×
-&lt;br /&gt;
-PUTSPRITE, arithmetic	1.4×
-&lt;br /&gt;
-MAPAT, FOR loops	1.3×
-&lt;br /&gt;
-Map scrolling	1.2×
-&lt;br /&gt;
-Whole benchmark	1.40×&lt;br /&gt;
-
-</description>
-<dc:creator>Materion</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141361</comments>
 </item>
 </channel>
 </rss>

@@ -8,7 +8,32 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-06T08:10:29Z</modified>
+  <modified>2026-11-06T08:20:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141375#141375"/>
+    <dc:creator>Tom</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Tom</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141375#141375</id>
+    <issued>2026-11-06T08:18:58Z</issued>
+    <modified>2026-11-06T08:18:58Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=115&quot; target=&quot;_blank&quot;&gt;Tom&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 06, 2026 8:18 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Because some people actually &lt;i&gt;like&lt;/i&gt; Basic. As much as I &lt;i&gt;can&lt;/i&gt; program in C and even C# if I'm forced to, Basic is always going to feel more natural to me. Everything I released around here over the years, such as the Slider editor, has been programmed in Visual Basic 5 (and would work in both Windows 95 and 11 without much fuss). I'll never get the point of this obsession with &amp;quot;modern&amp;quot; things. If something works, &lt;i&gt;let it work&lt;/i&gt;.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I don't know where this is going, and I doubt I'm actually going to use this, because I don't have the motivation to keep up at this point of my life (I barely even post anymore, both here and on Sonic Retro), but I'm sure there are other Basic enthusiasts out there.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Let people have different preferences.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: [AI] Asterix and the Secret Mission (SMS/GG) Spanish, Italian, Catalan translations</title>
     <link rel="alternate" type="text/html"
@@ -526,47 +551,6 @@ SOUND &amp;quot;music/more.pml&amp;quot;                   ' a file with many so
 PLAYMUSIC theme
 &lt;br /&gt;
 PLAYSFX boing&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: using game gear colors in cv basic</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141362#141362"/>
-    <dc:creator>nanochess</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>nanochess</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141362#141362</id>
-    <issued>2026-11-04T22:39:50Z</issued>
-    <modified>2026-11-04T22:39:50Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7166&quot; target=&quot;_blank&quot;&gt;nanochess&lt;/a&gt;&lt;br /&gt;
-	Posted: Wed Nov 04, 2026 10:39 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I just have added support for Game Gear to CVBasic v0.9.3
-&lt;br /&gt;
-
-&lt;br /&gt;
-Currently it is a Work-In-Progress, but I've put together a Windows executable for people wanting to test it. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-Basically it is using the switch --gamegear instead of --sms
-&lt;br /&gt;
-
-&lt;br /&gt;
-And the PALETTE format is now 16 bits to handle the 4K colors possibilities.
-&lt;br /&gt;
-
-&lt;br /&gt;
- &lt;a href=&quot;https://forums.atariage.com/topic/384096-colecovision-fantalicious-basic-compiler-cvbasic-v092-now-with-nesfamicommsx2fm-support/page/5/#findComment-5914063&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;https://forums.atariage.com/topic/384096-colecovision-fantalicious-basic-compiler-cvbasic-v092-now-with-nesfamicommsx2fm-support/page/5/#findComment-5914063&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-As always the source code is in the git.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href=&quot;https://github.com/nanochess/cvbasic&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;https://github.com/nanochess/cvbasic&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

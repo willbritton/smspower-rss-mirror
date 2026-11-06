@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 08:10:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 08:20:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,30 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141375#141375</link>
+<pubDate>Fri, 06 Nov 2026 08:18:58 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141375#141375</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=115" target="_blank"&gt;Tom&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 8:18 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Because some people actually &lt;i&gt;like&lt;/i&gt; Basic. As much as I &lt;i&gt;can&lt;/i&gt; program in C and even C# if I'm forced to, Basic is always going to feel more natural to me. Everything I released around here over the years, such as the Slider editor, has been programmed in Visual Basic 5 (and would work in both Windows 95 and 11 without much fuss). I'll never get the point of this obsession with &amp;quot;modern&amp;quot; things. If something works, &lt;i&gt;let it work&lt;/i&gt;.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I don't know where this is going, and I doubt I'm actually going to use this, because I don't have the motivation to keep up at this point of my life (I barely even post anymore, both here and on Sonic Retro), but I'm sure there are other Basic enthusiasts out there.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Let people have different preferences.&lt;br /&gt;
+
+</description>
+<dc:creator>Tom</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141375</comments>
+</item>
 <item>
 <title>Main :: RE: General question about Sega Mark III cartridges and specific question about Y's</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141373#141373</link>
@@ -447,46 +471,6 @@ PLAYSFX boing&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141363</comments>
-</item>
-<item>
-<title>Development :: RE: using game gear colors in cv basic</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141362#141362</link>
-<pubDate>Wed, 04 Nov 2026 22:39:50 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141362#141362</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7166" target="_blank"&gt;nanochess&lt;/a&gt;&lt;br /&gt;
-
-Posted: Wed Nov 04, 2026 10:39 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I just have added support for Game Gear to CVBasic v0.9.3
-&lt;br /&gt;
-
-&lt;br /&gt;
-Currently it is a Work-In-Progress, but I've put together a Windows executable for people wanting to test it. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-Basically it is using the switch --gamegear instead of --sms
-&lt;br /&gt;
-
-&lt;br /&gt;
-And the PALETTE format is now 16 bits to handle the 4K colors possibilities.
-&lt;br /&gt;
-
-&lt;br /&gt;
- &lt;a href="https://forums.atariage.com/topic/384096-colecovision-fantalicious-basic-compiler-cvbasic-v092-now-with-nesfamicommsx2fm-support/page/5/#findComment-5914063" target="_blank" class="postlink"&gt;https://forums.atariage.com/topic/384096-colecovision-fantalicious-basic-compiler-cvbasic-v092-now-with-nesfamicommsx2fm-support/page/5/#findComment-5914063&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-As always the source code is in the git.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href="https://github.com/nanochess/cvbasic" target="_blank" class="postlink"&gt;https://github.com/nanochess/cvbasic&lt;/a&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>nanochess</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=136629#136629" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141362</comments>
 </item>
 </channel>
 </rss>

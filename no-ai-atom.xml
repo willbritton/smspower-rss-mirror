@@ -4,7 +4,43 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-06T20:20:30Z</modified>
+  <modified>2026-11-06T20:30:45Z</modified>
+  <entry>
+    <title mode="escaped">Website :: RE: Homebrew projects still missing from the Homebrew page</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141389#141389" />
+    <dc:creator>mateusbond</dc:creator>
+    <dc:subject>Website</dc:subject>
+    <author>
+		<name>mateusbond</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141389#141389</id>
+    <issued>2026-11-06T20:23:23Z</issued>
+    <modified>2026-11-06T20:23:23Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826" target="_blank"&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 06, 2026 8:23 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class="attribution"&gt;sverx wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;uhm, I guess there really should be no 'noAI' tag
+&lt;br /&gt;
+
+&lt;br /&gt;
+let's clearly mark those homebrews that did use AI, explain how, and everything else doesn't really need to remind us that it's been made by humans (or at least that's what I hope)    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Makes sense. Does everybody else agree with this? I do, but what about the rest of you guys?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141388#141388" />
@@ -267,26 +303,6 @@ Master Basic Application Tool Environment
 
 &lt;br /&gt;
 You are all Masters at Baiting! 😁&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Website :: RE: Homebrew projects still missing from the Homebrew page</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141379#141379" />
-    <dc:creator>sverx</dc:creator>
-    <dc:subject>Website</dc:subject>
-    <author>
-		<name>sverx</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141379#141379</id>
-    <issued>2026-11-06T11:01:46Z</issued>
-    <modified>2026-11-06T11:01:46Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 06, 2026 11:01 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	uhm, I guess there really should be no 'noAI' tag
-&lt;br /&gt;
-
-&lt;br /&gt;
-let's clearly mark those homebrews that did use AI, explain how, and everything else doesn't really need to remind us that it's been made by humans (or at least that's what I hope)&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

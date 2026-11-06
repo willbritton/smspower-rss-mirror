@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 17:20:30 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 17:30:46 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,30 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141384#141384</link>
+<pubDate>Fri, 06 Nov 2026 17:28:29 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141384#141384</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11045&quot; target=&quot;_blank&quot;&gt;IllusionOfMana&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 5:28 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Materion wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I mainly created this language for myself as I like BASIC (as young kid programmed a lot own games on Amiga 500 using AMOS BASIC). Shared it here cause I though someone is like me and like BASIC language and would like to code in it for Master System :).    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+A pretty good answer, I think that answers my question, at least for me personally. It isnt just some passive agro response or straight to the typical shallow AI response either. Thanks for sharing. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+I can get with that a lot more. I think making a tool/game/program for yourself first is probably the most important step in creating anything. I'm not an AI doomer, though I get the dislike for it. So my question was fixating on the why rather than the how it's made.&lt;br /&gt;
+
+</description>
+<dc:creator>IllusionOfMana</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141384</comments>
+</item>
 <item>
 <title>Development :: RE: New programming language MasterBASIC</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141383#141383</link>
@@ -238,60 +262,6 @@ Let people have different preferences.&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141375</comments>
-</item>
-<item>
-<title>Main :: RE: [AI] Asterix and the Secret Mission (SMS/GG) Spanish, Italian, Catalan translations</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141374#141374</link>
-<pubDate>Fri, 06 Nov 2026 06:32:42 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141374#141374</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=28591&quot; target=&quot;_blank&quot;&gt;Bits Passats&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Nov 06, 2026 6:32 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Disclaimer: the 'b', 'n', 'm' in my laptop's keyboard are jammed, so if you see multiple of them when they shouldn't or an absence of them, it is for this reason. I revise and correct, but I am human and something might escape the revision. Thanks for your comprehension.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;KalexPidd wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Bits Passats wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
-&lt;br /&gt;
-And the Catalan flag has &lt;b&gt;four&lt;/b&gt; red stripes, not three like Twitter/X pretends    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-When did X pretend that the Catalan flag has three red stripes? This is a genuine question, I'm not trying to spark any debate.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Hello
-&lt;br /&gt;
-
-&lt;br /&gt;
-The &amp;quot;when&amp;quot;, I don't know exactly since when did they apply their emoji designs. But there's the &amp;quot;how&amp;quot;.
-&lt;br /&gt;
-
-&lt;br /&gt;
-La Senyera does not appear as a standalone flag, as Catalonia is not a country. However it appears as an embedded flag in the coat of arms of other flags. Flags like Andorra and Spain.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The Andorran coat of arms is formed by four quarters, each two of them represent one of the sides of the signatories of the Pariages from the XIIIth Century (the fundational documents of the country). There are the two cows of Béarn (the ones that got us that small moment of joy when in The Big Bang Theory made a joke about us in Fun With Flags), the Bishop's mitra, the Foix flag (which consists in three red stripes over a yellow background) and finally but not least (I left it for last basically to emphatize it, it is usually the first to be told) La Senyera, which should consist in four red stripes over a yellow background. However, the graphic designers at X/Twitter lazily copied the Foix flag again.
-&lt;br /&gt;
-
-&lt;br /&gt;
-So, in X/Twitter the Andorran flag is defaced. And it is defaced because La Senyera is defaced. Will they change it? I don't know. We are small and easy to ignore.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Again I insist, sybols are graphs which have a eaning behind them. Not all symbols are of equal importance. Flags represent people, and getting them wrong will certainly anger people. So, as with other sybols, flags need a special care when handling.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thank you for asking. Have a nice day!&lt;br /&gt;
-
-</description>
-<dc:creator>Bits Passats</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141374</comments>
 </item>
 </channel>
 </rss>

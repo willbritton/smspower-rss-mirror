@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-06T19:00:58Z</modified>
+  <modified>2026-11-06T19:10:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141386#141386"/>
+    <dc:creator>IllusionOfMana</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>IllusionOfMana</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141386#141386</id>
+    <issued>2026-11-06T19:08:01Z</issued>
+    <modified>2026-11-06T19:08:01Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11045&quot; target=&quot;_blank&quot;&gt;IllusionOfMana&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 06, 2026 7:08 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Good luck on your game project. I look forward to seeing it.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html"
@@ -236,25 +253,6 @@ Master Basic Application Tool Environment
 
 &lt;br /&gt;
 (or something to that effect)&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141376#141376"/>
-    <dc:creator>PatrickBateman</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>PatrickBateman</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141376#141376</id>
-    <issued>2026-11-06T09:26:46Z</issued>
-    <modified>2026-11-06T09:26:46Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413&quot; target=&quot;_blank&quot;&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 06, 2026 9:26 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Latest minisode is out...
-&lt;br /&gt;
-&lt;a href=&quot;https://rss.com/podcasts/are-you-alex-kidding/3298896/&quot; target=&quot;_blank&quot;&gt;https://rss.com/podcasts/are-you-alex-kidding/3298896/&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

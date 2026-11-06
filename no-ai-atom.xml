@@ -4,7 +4,27 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-06T11:00:56Z</modified>
+  <modified>2026-11-06T11:10:30Z</modified>
+  <entry>
+    <title mode="escaped">Website :: RE: Homebrew projects still missing from the Homebrew page</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141379#141379" />
+    <dc:creator>sverx</dc:creator>
+    <dc:subject>Website</dc:subject>
+    <author>
+		<name>sverx</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141379#141379</id>
+    <issued>2026-11-06T11:01:46Z</issued>
+    <modified>2026-11-06T11:01:46Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 06, 2026 11:01 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	uhm, I guess there really should be no 'noAI' tag
+&lt;br /&gt;
+
+&lt;br /&gt;
+let's clearly mark those homebrews that did use AI, explain how, and everything else doesn't really need to remind us that it's been made by humans (or at least that's what I hope)&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Website :: RE: Homebrew projects still missing from the Homebrew page</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141378#141378" />
@@ -209,30 +229,4 @@ Thank you for your reply.
 I’m looking forward to it.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141369#141369" />
-    <dc:creator>IllusionOfMana</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>IllusionOfMana</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141369#141369</id>
-    <issued>2026-11-05T22:06:23Z</issued>
-    <modified>2026-11-05T22:06:23Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11045" target="_blank"&gt;IllusionOfMana&lt;/a&gt;&lt;br /&gt;
-	Posted: Thu Nov 05, 2026 10:06 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Going to be a bit critical here...
-&lt;br /&gt;
-And maybe its because I can't see the viability of this over the range of development options we already have for the SMS...
-&lt;br /&gt;
-I dont see why anyone would pick this over like a visual code node based dev environment, if they wanted to go easy. We also have the C implementation, for those looking for a middle ground between that and ASM.
-&lt;br /&gt;
-Heck, I met someone the other day that made a C# like implementation that builds to GB, NES, GG, and SMS...
-&lt;br /&gt;
-
-&lt;br /&gt;
-Im just curious. Why would I or anyone be compelled to pick this over those options? A good answer to that may help others get over the AI junk that's surrounding this.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

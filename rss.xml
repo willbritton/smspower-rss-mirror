@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 02:10:29 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 02:20:28 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,32 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>News :: RE: Phantasy Star XXXVIIIth Anniversary retranslation update</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141371#141371</link>
+<pubDate>Fri, 06 Nov 2026 02:15:33 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141371#141371</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35486&quot; target=&quot;_blank&quot;&gt;datchy&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 2:15 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Maxim wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;datchy wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;This might be a bit off-topic, but...
+&lt;br /&gt;
+Could you create a hack that adds a sound test and an options menu to the Japanese version?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+An enhanced Japanese version is somewhat planned, but would require quite a lot of work.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thank you for your reply.
+&lt;br /&gt;
+I’m looking forward to it.&lt;br /&gt;
+
+</description>
+<dc:creator>datchy</dc:creator>
+<dc:subject>News</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=136972#136972" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141371</comments>
+</item>
 <item>
 <title>Main :: RE: [AI] Asterix and the Secret Mission (SMS/GG) Spanish, Italian, Catalan translations</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141370#141370</link>
@@ -526,30 +552,6 @@ Posted: Tue Nov 03, 2026 2:38 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141359</comments>
-</item>
-<item>
-<title>Development :: RE: Duck Hunt [SMS]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141358#141358</link>
-<pubDate>Tue, 03 Nov 2026 14:36:41 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141358#141358</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27589&quot; target=&quot;_blank&quot;&gt;old_pirate&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 03, 2026 2:36 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;EnricoPallazzo wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Also during the opening dog animation, the sprite tiles are streamed in, but there is plenty of VRAM for all the sprite tiles to begin with, so why are they streamed? I feel like this might be why the music seems to speed up and slow down    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-No, this is not related to loading tiles into VRAM.&lt;br /&gt;
-
-</description>
-<dc:creator>old_pirate</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141358</comments>
 </item>
 </channel>
 </rss>

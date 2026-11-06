@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-06T18:40:28Z</modified>
+  <modified>2026-11-06T18:50:29Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141385#141385"/>
+    <dc:creator>Materion</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Materion</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141385#141385</id>
+    <issued>2026-11-06T18:47:11Z</issued>
+    <modified>2026-11-06T18:47:11Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 06, 2026 6:47 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Thank you :). Yes, I get it why people dislike AI creations and I'm not gonna fight that :). Everyone have free will and right to own opinion on different matters. I have a vision for nice game for Master System and this BASIC is a tool to make it happen :).&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html"
@@ -238,31 +255,6 @@ Master Basic Application Tool Environment
 	Latest minisode is out...
 &lt;br /&gt;
 &lt;a href=&quot;https://rss.com/podcasts/are-you-alex-kidding/3298896/&quot; target=&quot;_blank&quot;&gt;https://rss.com/podcasts/are-you-alex-kidding/3298896/&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141375#141375"/>
-    <dc:creator>Tom</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>Tom</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141375#141375</id>
-    <issued>2026-11-06T08:18:58Z</issued>
-    <modified>2026-11-06T08:18:58Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=115&quot; target=&quot;_blank&quot;&gt;Tom&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 06, 2026 8:18 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Because some people actually &lt;i&gt;like&lt;/i&gt; Basic. As much as I &lt;i&gt;can&lt;/i&gt; program in C and even C# if I'm forced to, Basic is always going to feel more natural to me. Everything I released around here over the years, such as the Slider editor, has been programmed in Visual Basic 5 (and would work in both Windows 95 and 11 without much fuss). I'll never get the point of this obsession with &amp;quot;modern&amp;quot; things. If something works, &lt;i&gt;let it work&lt;/i&gt;.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I don't know where this is going, and I doubt I'm actually going to use this, because I don't have the motivation to keep up at this point of my life (I barely even post anymore, both here and on Sonic Retro), but I'm sure there are other Basic enthusiasts out there.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Let people have different preferences.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

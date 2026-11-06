@@ -8,7 +8,30 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-06T12:00:57Z</modified>
+  <modified>2026-11-06T12:10:29Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: SG-1000 Aseprite to graphics data script</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141382#141382"/>
+    <dc:creator>bofner</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>bofner</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141382#141382</id>
+    <issued>2026-11-06T12:03:29Z</issued>
+    <modified>2026-11-06T12:03:29Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603&quot; target=&quot;_blank&quot;&gt;bofner&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 06, 2026 12:03 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Interesting exporter!
+&lt;br /&gt;
+I think it would also be very nice to be able to export the same data in binary format, so that it could also be used with other tools apart from assemblers (and many assemblers can use binary files too anyway).    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Only took me most the year to get around to it, but I added BIN export support! I only did a quick check to make sure it was working, but all of the BIN outputs and the INC outputs look to be the same!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html"
@@ -274,29 +297,6 @@ Thank you for asking. Have a nice day!&lt;/span&gt;&lt;br /&gt;
 
 &lt;br /&gt;
 What a bummer...&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: [AI] Asterix and the Secret Mission (SMS/GG) Spanish, Italian, Catalan translations</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141372#141372"/>
-    <dc:creator>KalexPidd</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>KalexPidd</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141372#141372</id>
-    <issued>2026-11-06T03:43:34Z</issued>
-    <modified>2026-11-06T03:43:34Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245&quot; target=&quot;_blank&quot;&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 06, 2026 3:43 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Bits Passats wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
-&lt;br /&gt;
-And the Catalan flag has &lt;b&gt;four&lt;/b&gt; red stripes, not three like Twitter/X pretends    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-When did X pretend that the Catalan flag has three red stripes? This is a genuine question, I'm not trying to spark any debate.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

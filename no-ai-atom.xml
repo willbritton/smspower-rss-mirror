@@ -4,7 +4,41 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-06T12:00:57Z</modified>
+  <modified>2026-11-06T12:10:29Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: SG-1000 Aseprite to graphics data script</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141382#141382" />
+    <dc:creator>bofner</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>bofner</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141382#141382</id>
+    <issued>2026-11-06T12:03:29Z</issued>
+    <modified>2026-11-06T12:03:29Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603" target="_blank"&gt;bofner&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 06, 2026 12:03 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class="attribution"&gt;sverx wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Interesting exporter!
+&lt;br /&gt;
+I think it would also be very nice to be able to export the same data in binary format, so that it could also be used with other tools apart from assemblers (and many assemblers can use binary files too anyway).    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Only took me most the year to get around to it, but I added BIN export support! I only did a quick check to make sure it was working, but all of the BIN outputs and the INC outputs look to be the same!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141381#141381" />
@@ -293,4 +327,4 @@ Let people have different preferences.&lt;/span&gt;&lt;br /&gt;
 What a bummer...&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

@@ -4,7 +4,31 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-06T10:40:30Z</modified>
+  <modified>2026-11-06T10:50:30Z</modified>
+  <entry>
+    <title mode="escaped">Website :: RE: Homebrew projects still missing from the Homebrew page</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141378#141378" />
+    <dc:creator>badcomputer</dc:creator>
+    <dc:subject>Website</dc:subject>
+    <author>
+		<name>badcomputer</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141378#141378</id>
+    <issued>2026-11-06T10:41:54Z</issued>
+    <modified>2026-11-06T10:41:54Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27488" target="_blank"&gt;badcomputer&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 06, 2026 10:41 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Why is there now a &amp;quot;NoAI&amp;quot; tag if we already have an &amp;quot;AI&amp;quot; tag that is easier to apply to new projects?
+&lt;br /&gt;
+
+&lt;br /&gt;
+It also could suggest older projects that don't have &amp;quot;NoAI&amp;quot; could have AI even when they don't.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Example of NoAI tag used: &lt;a href="https://www.smspower.org/Homebrew/Obake-SG" target="_blank"&gt;https://www.smspower.org/Homebrew/Obake-SG&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141377#141377" />
@@ -211,4 +235,4 @@ Heck, I met someone the other day that made a C# like implementation that builds
 Im just curious. Why would I or anyone be compelled to pick this over those options? A good answer to that may help others get over the AI junk that's surrounding this.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

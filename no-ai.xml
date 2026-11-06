@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 10:40:29 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 10:50:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,30 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141378#141378</link>
+<pubDate>Fri, 06 Nov 2026 10:41:54 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141378#141378</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27488" target="_blank"&gt;badcomputer&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 10:41 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Why is there now a &amp;quot;NoAI&amp;quot; tag if we already have an &amp;quot;AI&amp;quot; tag that is easier to apply to new projects?
+&lt;br /&gt;
+
+&lt;br /&gt;
+It also could suggest older projects that don't have &amp;quot;NoAI&amp;quot; could have AI even when they don't.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Example of NoAI tag used: &lt;a href="https://www.smspower.org/Homebrew/Obake-SG" target="_blank"&gt;https://www.smspower.org/Homebrew/Obake-SG&lt;/a&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>badcomputer</dc:creator>
+<dc:subject>Website</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141378</comments>
+</item>
 <item>
 <title>Development :: RE: New programming language MasterBASIC</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141377#141377</link>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<channel>
+<title>SMS Power!</title>
+<link>https://www.smspower.org:443/forums/</link>
+<description>Sega 8-bit Discussion</description>
+<managingEditor>noreply@smspower.org</managingEditor>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>RSS Feed 2.2.3</generator>
+<language>en</language>
+<lastBuildDate>Fri, 06 Nov 2026 02:40:29 GMT</lastBuildDate>
+<image>
+	<url>http://www.smspower.org/images/smspower.gif</url>
+	<title>SMS Power!</title>
+	<link>https://www.smspower.org:443/forums/</link>
+	<width>122</width>
+	<height>56</height>
+</image>
+<item>
+<title>News :: RE: Phantasy Star XXXVIIIth Anniversary retranslation update</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141371#141371</link>
+<pubDate>Fri, 06 Nov 2026 02:15:33 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141371#141371</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35486&quot; target=&quot;_blank&quot;&gt;datchy&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 2:15 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Maxim wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;datchy wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;This might be a bit off-topic, but...
+&lt;br /&gt;
+Could you create a hack that adds a sound test and an options menu to the Japanese version?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+An enhanced Japanese version is somewhat planned, but would require quite a lot of work.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thank you for your reply.
+&lt;br /&gt;
+I’m looking forward to it.&lt;br /&gt;
+
+</description>
+<dc:creator>datchy</dc:creator>
+<dc:subject>News</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=136972#136972" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141371</comments>
+</item>
+<item>
+<title>Main :: RE: [AI] Asterix and the Secret Mission (SMS/GG) Spanish, Italian, Catalan translations</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141370#141370</link>
+<pubDate>Fri, 06 Nov 2026 02:10:20 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141370#141370</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35549&quot; target=&quot;_blank&quot;&gt;Fveralv&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 2:10 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Here it is, Asterix and the Secret Mission. This is three flags release.&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>Fveralv</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141370</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141369#141369</link>
+<pubDate>Thu, 05 Nov 2026 22:06:23 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141369#141369</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11045&quot; target=&quot;_blank&quot;&gt;IllusionOfMana&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Nov 05, 2026 10:06 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Going to be a bit critical here...
+&lt;br /&gt;
+And maybe its because I can't see the viability of this over the range of development options we already have for the SMS...
+&lt;br /&gt;
+I dont see why anyone would pick this over like a visual code node based dev environment, if they wanted to go easy. We also have the C implementation, for those looking for a middle ground between that and ASM.
+&lt;br /&gt;
+Heck, I met someone the other day that made a C# like implementation that builds to GB, NES, GG, and SMS...
+&lt;br /&gt;
+
+&lt;br /&gt;
+Im just curious. Why would I or anyone be compelled to pick this over those options? A good answer to that may help others get over the AI junk that's surrounding this.&lt;br /&gt;
+
+</description>
+<dc:creator>IllusionOfMana</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141369</comments>
+</item>
+<item>
+<title>Main :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141368#141368</link>
+<pubDate>Thu, 05 Nov 2026 15:36:53 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141368#141368</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35446&quot; target=&quot;_blank&quot;&gt;bandidox&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Nov 05, 2026 3:36 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;segarule wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
+&lt;br /&gt;
+2 - Maniac Mansion - advanced (i have some stuff running well);
+&lt;br /&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+😍 I can't wait to see it!&lt;br /&gt;
+
+</description>
+<dc:creator>bandidox</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141368</comments>
+</item>
+<item>
+<title>Main :: Kujaku Ou — Brazilian Portuguese Translation and Restoration for Sega Mark III / Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141367#141367</link>
+<pubDate>Thu, 05 Nov 2026 13:26:43 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141367#141367</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35403&quot; target=&quot;_blank&quot;&gt;cristiano.mariano&lt;/a&gt;&lt;br /&gt;
+Subject: Kujaku Ou — Brazilian Portuguese Translation and Restoration for Sega Mark III / Master System&lt;br /&gt;
+Posted: Thu Nov 05, 2026 1:26 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Hello everyone,
+&lt;br /&gt;
+
+&lt;br /&gt;
+I am Cristiano Mariano from Newportgame, and this is my Brazilian Portuguese translation and technical restoration of Kujaku Ou (孔雀王) for the Sega Mark III / Sega Master System.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Kujaku Ou was originally released by Sega in Japan in 1988. It later received a heavily adapted western version known as SpellCaster, which changed several names, characters, cultural references, locations, magical concepts, and parts of the original narrative.
+&lt;br /&gt;
+
+&lt;br /&gt;
+This project was translated directly from the Japanese version to preserve the original identity and context of the game. It restores the story of Kujaku, the young Buddhist exorcist, together with the original mythological, religious, historical, and geographical references.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The project includes:
+&lt;br /&gt;
+
+&lt;br /&gt;
+- Complete Brazilian Portuguese translation based on the Japanese version;
+&lt;br /&gt;
+- Dialogues, menus, status screens, items, credits, and ending;
+&lt;br /&gt;
+- Translation and integration of the original manga-style ending;
+&lt;br /&gt;
+- Native Brazilian Portuguese accent support;
+&lt;br /&gt;
+- Restoration of original names, places, characters, and cultural references;
+&lt;br /&gt;
+- Technical validation in emulators and on real hardware.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The work involved reverse engineering of the Z80 code, VDP and VRAM routines, text encoding, font data, pointer tables, banked ROM structures, graphics data, and the game's text-space limitations. Since Portuguese generally requires more space than Japanese, the internal text structure had to be reorganized so the complete translation could fit without forced abbreviations.
+&lt;br /&gt;
+
+&lt;br /&gt;
+This project does not diminish SpellCaster, which has its own identity and historical value. SpellCaster is a western adaptation with shorter and more accessible fantasy-oriented dialogue, while Kujaku Ou preserves the original Japanese cultural and spiritual context. Both versions are now available in Brazilian Portuguese, each with its own purpose and character.
+&lt;br /&gt;
+
+&lt;br /&gt;
+PROJECT INFORMATION
+&lt;br /&gt;
+
+&lt;br /&gt;
+Game: Kujaku Ou (孔雀王 / Peacock King)
+&lt;br /&gt;
+Platform: Sega Mark III / Sega Master System
+&lt;br /&gt;
+Original release: 1988
+&lt;br /&gt;
+Genre: First-person adventure, 2D action/platforming, and RPG elements
+&lt;br /&gt;
+Original developer/publisher: Sega
+&lt;br /&gt;
+Original source: The Kujaku Ou manga by Makoto Ogino
+&lt;br /&gt;
+Patch version: v1.0.0 — Gold Master
+&lt;br /&gt;
+Translator and technical restoration: Cristiano Mariano
+&lt;br /&gt;
+Project: Newportgame
+&lt;br /&gt;
+
+&lt;br /&gt;
+BASE ROM INFORMATION
+&lt;br /&gt;
+
+&lt;br /&gt;
+The patch must be applied to an original, clean, compatible Japanese ROM.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Recommended filename: Kujaku Ou (Japan).sms
+&lt;br /&gt;
+ROM size: 524,288 bytes (512 KB)
+&lt;br /&gt;
+Patch format: IPS
+&lt;br /&gt;
+
+&lt;br /&gt;
+The original commercial ROM is not distributed with this project.
+&lt;br /&gt;
+
+&lt;br /&gt;
+OFFICIAL DOWNLOAD
+&lt;br /&gt;
+
+&lt;br /&gt;
+GitHub release:
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/tag/v1.0.0&quot; target=&quot;_blank&quot; title=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/tag/v1.0.0&quot;&gt;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/tag/v1.0....&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Direct IPS download:
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/download/v1.0.0/KujakuOu_PTBR_Newportgame.ips&quot; target=&quot;_blank&quot; title=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/download/v1.0.0/KujakuOu_PTBR_Newportgame.ips&quot;&gt;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/download/...&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+HOW TO APPLY THE PATCH
+&lt;br /&gt;
+
+&lt;br /&gt;
+1. Open Rom Patcher JS:
+&lt;br /&gt;
+&lt;a href=&quot;https://www.marcrobledo.com/RomPatcher.js/&quot; target=&quot;_blank&quot;&gt;https://www.marcrobledo.com/RomPatcher.js/&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+2. Select the original Japanese ROM in the “ROM file” field.
+&lt;br /&gt;
+3. Select KujakuOu_PTBR_Newportgame.ips in the “Patch file” field.
+&lt;br /&gt;
+4. Click “Apply patch” and save the translated ROM.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The patch can also be applied with Lunar IPS or Floating IPS (Flips).
+&lt;br /&gt;
+
+&lt;br /&gt;
+TOOLS AND ACKNOWLEDGEMENTS
+&lt;br /&gt;
+
+&lt;br /&gt;
+The project used custom Python tools developed by Newportgame for ROM analysis, text extraction, pointer reconstruction, font investigation, memory expansion, and validation. Emulicious was used for low-level debugging, including Z80 debugging, memory inspection, tilemap analysis, and VRAM investigation.
+&lt;br /&gt;
+
+&lt;br /&gt;
+AI tools were used only as assistance for calculations, consultations, and repetitive tasks. Translation decisions, technical direction, revisions, testing, and final validation were performed manually by Cristiano Mariano.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The project distributes only the IPS patch and related documentation. Complete ROM images are not distributed.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thank you to everyone involved in the preservation, documentation, translation, reverse engineering, and study of classic Sega hardware and software.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-------------------------------------------------------------------------------
+&lt;br /&gt;
+
+&lt;br /&gt;
+Português:
+&lt;br /&gt;
+
+&lt;br /&gt;
+Olá, pessoal!
+&lt;br /&gt;
+
+&lt;br /&gt;
+Sou Cristiano Mariano, da Newportgame, e esta é minha tradução para português brasileiro e restauração técnica de Kujaku Ou (孔雀王) para Sega Mark III / Sega Master System.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Kujaku Ou foi lançado originalmente pela Sega no Japão em 1988. Posteriormente, recebeu uma versão ocidental bastante adaptada, conhecida como SpellCaster, que alterou nomes, personagens, referências culturais, locais, conceitos mágicos e partes da narrativa original.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Este projeto foi traduzido diretamente da versão japonesa para preservar a identidade e o contexto originais do jogo. A tradução resgata a história de Kujaku, o jovem monge budista especializado em exorcismo, juntamente com as referências mitológicas, religiosas, históricas e geográficas presentes na obra original.
+&lt;br /&gt;
+
+&lt;br /&gt;
+O projeto inclui:
+&lt;br /&gt;
+
+&lt;br /&gt;
+- Tradução completa para português brasileiro baseada na versão japonesa;
+&lt;br /&gt;
+- Diálogos, menus, telas de status, itens, créditos e encerramento;
+&lt;br /&gt;
+- Tradução e integração do final original apresentado em formato de mangá;
+&lt;br /&gt;
+- Suporte nativo aos acentos do português brasileiro;
+&lt;br /&gt;
+- Restauração de nomes, locais, personagens e referências culturais originais;
+&lt;br /&gt;
+- Validação técnica em emuladores e hardware real.
+&lt;br /&gt;
+
+&lt;br /&gt;
+O trabalho envolveu engenharia reversa do código Z80, rotinas da VDP e da VRAM, codificação de texto, dados de fontes, tabelas de ponteiros, estruturas de bancos de ROM, dados gráficos e as limitações de espaço do texto no jogo. Como o português geralmente exige mais espaço que o japonês, foi necessário reorganizar a estrutura interna dos textos para inserir a tradução completa sem abreviações forçadas.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Este projeto não pretende diminuir SpellCaster, que possui identidade e valor histórico próprios. SpellCaster é uma adaptação ocidental, com diálogos mais curtos e uma abordagem de fantasia mais universal, enquanto Kujaku Ou preserva o contexto cultural e espiritual japonês original. Agora, ambas as versões estão disponíveis em português brasileiro, cada uma com sua própria proposta.
+&lt;br /&gt;
+
+&lt;br /&gt;
+INFORMAÇÕES DA ROM-BASE
+&lt;br /&gt;
+
+&lt;br /&gt;
+O patch deve ser aplicado a uma ROM japonesa original, limpa e compatível.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Nome recomendado: Kujaku Ou (Japan).sms
+&lt;br /&gt;
+Tamanho: 524.288 bytes (512 KB)
+&lt;br /&gt;
+Formato do patch: IPS
+&lt;br /&gt;
+
+&lt;br /&gt;
+A ROM comercial original não é distribuída com este projeto.
+&lt;br /&gt;
+
+&lt;br /&gt;
+DOWNLOAD OFICIAL
+&lt;br /&gt;
+
+&lt;br /&gt;
+Página do release no GitHub:
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/tag/v1.0.0&quot; target=&quot;_blank&quot; title=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/tag/v1.0.0&quot;&gt;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/tag/v1.0....&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Download direto do IPS:
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/download/v1.0.0/KujakuOu_PTBR_Newportgame.ips&quot; target=&quot;_blank&quot; title=&quot;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/download/v1.0.0/KujakuOu_PTBR_Newportgame.ips&quot;&gt;https://github.com/contatonewportgame-code/kujaku-ou-sms-ptbr/releases/download/...&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+COMO APLICAR O PATCH
+&lt;br /&gt;
+
+&lt;br /&gt;
+1. Acesse o Rom Patcher JS:
+&lt;br /&gt;
+&lt;a href=&quot;https://www.marcrobledo.com/RomPatcher.js/&quot; target=&quot;_blank&quot;&gt;https://www.marcrobledo.com/RomPatcher.js/&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+2. Selecione a ROM japonesa original no campo “ROM file”.
+&lt;br /&gt;
+3. Selecione KujakuOu_PTBR_Newportgame.ips no campo “Patch file”.
+&lt;br /&gt;
+4. Clique em “Apply patch” e salve a ROM traduzida.
+&lt;br /&gt;
+
+&lt;br /&gt;
+O patch também pode ser aplicado com Lunar IPS ou Floating IPS (Flips).
+&lt;br /&gt;
+
+&lt;br /&gt;
+FERRAMENTAS E AGRADECIMENTOS
+&lt;br /&gt;
+
+&lt;br /&gt;
+O projeto utilizou ferramentas próprias em Python, desenvolvidas pela Newportgame para análise de ROM, extração de textos, reconstrução de ponteiros, investigação de fontes, expansão de memória e validação. O Emulicious foi utilizado para depuração de baixo nível, incluindo análise do Z80, inspeção de memória, investigação de tilemaps e análise de VRAM.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Ferramentas de inteligência artificial foram utilizadas apenas como apoio para cálculos, consultas e tarefas repetitivas. As decisões de tradução, a direção técnica, as revisões, os testes e a validação final foram realizados manualmente por Cristiano Mariano.
+&lt;br /&gt;
+
+&lt;br /&gt;
+O projeto distribui somente o patch IPS e a documentação relacionada. ROMs completas não são distribuídas.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Agradeço a todos que contribuem para a preservação, documentação, tradução, engenharia reversa e pesquisa de hardware e software clássicos da Sega.&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>cristiano.mariano</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141367#141367" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141367</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141363#141363</link>
+<pubDate>Thu, 05 Nov 2026 06:35:09 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141363#141363</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Nov 05, 2026 6:35 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Update 1.5.0
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/MaterzokMateusz/MasterBASIC/releases/tag/Release1.5&quot; target=&quot;_blank&quot;&gt;https://github.com/MaterzokMateusz/MasterBASIC/releases/tag/Release1.5&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+MasterBASIC 1.5.0 can now load music from text files: each song or sound effect can live in its own .txt file. The Master System has no disk, so the files are read when you build the game and copied into the cartridge; the game can’t load new files while it runs.
+&lt;br /&gt;
+
+&lt;br /&gt;
+MUSIC theme = &amp;quot;music/theme.txt&amp;quot;          ' one song per text file
+&lt;br /&gt;
+MUSIC fanfare = &amp;quot;music/fanfare.txt&amp;quot; ONCE ' a jingle that plays once
+&lt;br /&gt;
+SFX boing = &amp;quot;music/boing.txt&amp;quot;            ' one sound effect per text file
+&lt;br /&gt;
+SOUND &amp;quot;music/more.pml&amp;quot;                   ' a file with many songs (can be used several times)
+&lt;br /&gt;
+
+&lt;br /&gt;
+PLAYMUSIC theme
+&lt;br /&gt;
+PLAYSFX boing&lt;br /&gt;
+
+</description>
+<dc:creator>Materion</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141363</comments>
+</item>
+<item>
+<title>Development :: RE: using game gear colors in cv basic</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141362#141362</link>
+<pubDate>Wed, 04 Nov 2026 22:39:50 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141362#141362</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7166&quot; target=&quot;_blank&quot;&gt;nanochess&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 04, 2026 10:39 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I just have added support for Game Gear to CVBasic v0.9.3
+&lt;br /&gt;
+
+&lt;br /&gt;
+Currently it is a Work-In-Progress, but I've put together a Windows executable for people wanting to test it. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+Basically it is using the switch --gamegear instead of --sms
+&lt;br /&gt;
+
+&lt;br /&gt;
+And the PALETTE format is now 16 bits to handle the 4K colors possibilities.
+&lt;br /&gt;
+
+&lt;br /&gt;
+ &lt;a href=&quot;https://forums.atariage.com/topic/384096-colecovision-fantalicious-basic-compiler-cvbasic-v092-now-with-nesfamicommsx2fm-support/page/5/#findComment-5914063&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;https://forums.atariage.com/topic/384096-colecovision-fantalicious-basic-compiler-cvbasic-v092-now-with-nesfamicommsx2fm-support/page/5/#findComment-5914063&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+As always the source code is in the git.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/nanochess/cvbasic&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;https://github.com/nanochess/cvbasic&lt;/a&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>nanochess</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=136629#136629" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141362</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141361#141361</link>
+<pubDate>Tue, 03 Nov 2026 14:57:27 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141361#141361</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 2:57 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;You are welcome, hope it will help someone get into creating games for Master System!! :). Right now there is only 32KB for code - assets can be as large as 1MB. I am trying to add more space for code using mappers. Will post if there will be an update :).
+&lt;br /&gt;
+
+&lt;br /&gt;
+@EDIT
+&lt;br /&gt;
+
+&lt;br /&gt;
+Okay update is done, changed the release 1.0 files to new version where code can be larger than 32KB (it can be as large as needed) - BASIC is switching banks with code automatically so you don't have to worry to manually switch banks.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Another update - average 1.4x speedup without need to change code at all. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+BYTE loop counter with array updates	2.8×
+&lt;br /&gt;
+PRINT	2.0×
+&lt;br /&gt;
+a(i) = a(i) + 1	1.9×
+&lt;br /&gt;
+Multiply / divide / MOD by a variable	1.6×
+&lt;br /&gt;
+PUTSPRITE, arithmetic	1.4×
+&lt;br /&gt;
+MAPAT, FOR loops	1.3×
+&lt;br /&gt;
+Map scrolling	1.2×
+&lt;br /&gt;
+Whole benchmark	1.40×&lt;br /&gt;
+
+</description>
+<dc:creator>Materion</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141361</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141360#141360</link>
+<pubDate>Tue, 03 Nov 2026 14:43:03 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141360#141360</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=10722&quot; target=&quot;_blank&quot;&gt;NewHorizon&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 03, 2026 2:43 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Materion wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I'm sorry I should  have state this is LLM created tool you are right - will edit post. Thank you for all your responses and discussion :). Yeah I want to create my game by hand using this tool as it's easy to understand and kinda quick to code in it :). I don't like to use AI to do things cause it takes the fun of creating things manually. I just wanted an easy tool to code for Master System that I will understand and hope others will do too that's why I created this BASIC using Claude as I'm too weak to do such thing (code a language for computer/console) myself.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks for providing the new tool!&lt;br /&gt;
+
+</description>
+<dc:creator>NewHorizon</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141360</comments>
+</item>
+<item>
+<title>Development :: RE: Duck Hunt [SMS]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141359#141359</link>
+<pubDate>Tue, 03 Nov 2026 14:38:30 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141359#141359</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27589&quot; target=&quot;_blank&quot;&gt;old_pirate&lt;/a&gt;&lt;br /&gt;
+Subject: duckhunt_v1.1.sms&lt;br /&gt;
+Posted: Tue Nov 03, 2026 2:38 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;a href=&quot;https://old-pirate.itch.io/duck-hunt&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;&lt;b&gt;duckhunt_v1.1&lt;/b&gt;.sms&lt;/a&gt;  - The game has stopped lagging in certain spots. In other words, the FPS has increased.&lt;br /&gt;
+
+</description>
+<dc:creator>old_pirate</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141186#141186" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141359</comments>
+</item>
+</channel>
+</rss>
+

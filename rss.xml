@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 12:30:45 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 12:40:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141383#141383</link>
+<pubDate>Fri, 06 Nov 2026 12:31:40 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141383#141383</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 12:31 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I mainly created this language for myself as I like BASIC myself (as young kid programmed a lot own games on Amiga 500 using AMOS BASIC). Shared it here cause I though someone is like me and like BASIC language and would like to code in it for Master System :).&lt;br /&gt;
+
+</description>
+<dc:creator>Materion</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141383</comments>
+</item>
 <item>
 <title>Development :: RE: SG-1000 Aseprite to graphics data script</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141382#141382</link>
@@ -276,26 +292,6 @@ Thank you for asking. Have a nice day!&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141374</comments>
-</item>
-<item>
-<title>Main :: RE: General question about Sega Mark III cartridges and specific question about Y's</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141373#141373</link>
-<pubDate>Fri, 06 Nov 2026 03:46:32 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141373#141373</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245&quot; target=&quot;_blank&quot;&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Nov 06, 2026 3:46 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;AtariBorn wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;The Mark III PCB uses the same setup as the western release.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-What a bummer...&lt;br /&gt;
-
-</description>
-<dc:creator>KalexPidd</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141035#141035" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141373</comments>
 </item>
 </channel>
 </rss>

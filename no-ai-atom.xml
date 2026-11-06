@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-06T19:20:29Z</modified>
+  <modified>2026-11-06T19:30:46Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Who Done What: Tiertex Ltd</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141387#141387" />
+    <dc:creator>BKK</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>BKK</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141387#141387</id>
+    <issued>2026-11-06T19:29:53Z</issued>
+    <modified>2026-11-06T19:29:53Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4825" target="_blank"&gt;BKK&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 06, 2026 7:29 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Thanks for posting, attached the images.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141386#141386" />
@@ -279,62 +295,6 @@ It also could suggest older projects that don't have &amp;quot;NoAI&amp;quot; co
 
 &lt;br /&gt;
 Example of NoAI tag used: &lt;a href="https://www.smspower.org/Homebrew/Obake-SG" target="_blank"&gt;https://www.smspower.org/Homebrew/Obake-SG&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141377#141377" />
-    <dc:creator>EnricoPallazzo</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>EnricoPallazzo</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141377#141377</id>
-    <issued>2026-11-06T10:23:34Z</issued>
-    <modified>2026-11-06T10:23:34Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=31904" target="_blank"&gt;EnricoPallazzo&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 06, 2026 10:23 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;Materion wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;I don't understand - I will code and create everything MYSELF without using an AI including graphics/music/sound/coding  - only programming language is created using AI - it's just a tool. It's no different than using C language with SMS SDK and doing everything manually...    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;blockquote&gt;  &lt;div class="attribution"&gt;Maxim wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Also worth mentioning… I can’t help but see the common prefix with another word spelled masterba…    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Perhaps to emphasize that this is just a tool, the name could be expanded to something like:
-&lt;br /&gt;
-
-&lt;br /&gt;
-Master Basic Application Tool Environment
-&lt;br /&gt;
-
-&lt;br /&gt;
-(or something to that effect)&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

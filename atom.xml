@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-06T19:40:30Z</modified>
+  <modified>2026-11-06T19:50:28Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141388#141388"/>
+    <dc:creator>Materion</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Materion</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141388#141388</id>
+    <issued>2026-11-06T19:48:50Z</issued>
+    <modified>2026-11-06T19:48:50Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 06, 2026 7:48 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Thank you :). I hope I will be able to pull it off :P.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Who Done What: Tiertex Ltd</title>
     <link rel="alternate" type="text/html"
@@ -212,31 +229,6 @@ You are all Masters at Baiting! 😁&lt;/span&gt;&lt;br /&gt;
 
 &lt;br /&gt;
 let's clearly mark those homebrews that did use AI, explain how, and everything else doesn't really need to remind us that it's been made by humans (or at least that's what I hope)&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Website :: RE: Homebrew projects still missing from the Homebrew page</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141378#141378"/>
-    <dc:creator>badcomputer</dc:creator>
-    <dc:subject>Website</dc:subject>
-    <author>
-		<name>badcomputer</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141378#141378</id>
-    <issued>2026-11-06T10:41:54Z</issued>
-    <modified>2026-11-06T10:41:54Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27488&quot; target=&quot;_blank&quot;&gt;badcomputer&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 06, 2026 10:41 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Why is there now a &amp;quot;NoAI&amp;quot; tag if we already have an &amp;quot;AI&amp;quot; tag that is easier to apply to new projects?
-&lt;br /&gt;
-
-&lt;br /&gt;
-It also could suggest older projects that don't have &amp;quot;NoAI&amp;quot; could have AI even when they don't.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Example of NoAI tag used: &lt;a href=&quot;https://www.smspower.org/Homebrew/Obake-SG&quot; target=&quot;_blank&quot;&gt;https://www.smspower.org/Homebrew/Obake-SG&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

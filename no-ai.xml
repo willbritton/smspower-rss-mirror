@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 11:50:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 12:00:56 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,48 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141381#141381</link>
+<pubDate>Fri, 06 Nov 2026 11:53:29 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141381#141381</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=33276" target="_blank"&gt;The Virtual Constructs&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 11:53 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;IllusionOfMana wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Going to be a bit critical here...
+&lt;br /&gt;
+And maybe its because I can't see the viability of this over the range of development options we already have for the SMS...
+&lt;br /&gt;
+I dont see why anyone would pick this over like a visual code node based dev environment, if they wanted to go easy. We also have the C implementation, for those looking for a middle ground between that and ASM.
+&lt;br /&gt;
+Heck, I met someone the other day that made a C# like implementation that builds to GB, NES, GG, and SMS...
+&lt;br /&gt;
+
+&lt;br /&gt;
+Im just curious. Why would I or anyone be compelled to pick this over those options? A good answer to that may help others get over the AI junk that's surrounding this.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Its a useful project as it gives a &amp;quot;measuring stick&amp;quot; of how human made only tools versus AI made tools compare in the present day. However it isn't something I would personally use.&lt;br /&gt;
+
+</description>
+<dc:creator>The Virtual Constructs</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141381</comments>
+</item>
 <item>
 <title>Development :: RE: New programming language MasterBASIC</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141380#141380</link>
@@ -261,56 +303,6 @@ What a bummer...&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141035#141035" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141373</comments>
-</item>
-<item>
-<title>News :: RE: Phantasy Star XXXVIIIth Anniversary retranslation update</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141371#141371</link>
-<pubDate>Fri, 06 Nov 2026 02:15:33 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141371#141371</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35486" target="_blank"&gt;datchy&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Nov 06, 2026 2:15 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;Maxim wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;datchy wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;This might be a bit off-topic, but...
-&lt;br /&gt;
-Could you create a hack that adds a sound test and an options menu to the Japanese version?    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-An enhanced Japanese version is somewhat planned, but would require quite a lot of work.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thank you for your reply.
-&lt;br /&gt;
-I’m looking forward to it.&lt;br /&gt;
-
-</description>
-<dc:creator>datchy</dc:creator>
-<dc:subject>News</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=136972#136972" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141371</comments>
 </item>
 </channel>
 </rss>

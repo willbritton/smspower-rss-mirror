@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 11:30:43 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 11:40:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -127,22 +127,6 @@ When did X pretend that the Catalan flag has three red stripes? This is a genuin
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141372</comments>
-</item>
-<item>
-<title>Main :: RE: [AI] Asterix and the Secret Mission (SMS/GG) Spanish, Italian, Catalan translations</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141370#141370</link>
-<pubDate>Fri, 06 Nov 2026 02:10:20 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141370#141370</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35549" target="_blank"&gt;Fveralv&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Nov 06, 2026 2:10 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Here it is, Asterix and the Secret Mission. This is three flags release.&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>Fveralv</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141156#141156" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141370</comments>
 </item>
 </channel>
 </rss>

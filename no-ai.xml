@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 11:30:43 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 11:40:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,78 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141380#141380</link>
+<pubDate>Fri, 06 Nov 2026 11:31:30 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141380#141380</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 11:31 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;EnricoPallazzo wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;Materion wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;I don't understand - I will code and create everything MYSELF without using an AI including graphics/music/sound/coding  - only programming language is created using AI - it's just a tool. It's no different than using C language with SMS SDK and doing everything manually...    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;blockquote&gt;  &lt;div class="attribution"&gt;Maxim wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Also worth mentioning… I can’t help but see the common prefix with another word spelled masterba…    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Perhaps to emphasize that this is just a tool, the name could be expanded to something like:
+&lt;br /&gt;
+
+&lt;br /&gt;
+Master Basic Application Tool Environment
+&lt;br /&gt;
+
+&lt;br /&gt;
+(or something to that effect)    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+You are all Masters at Baiting! 😁&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141380</comments>
+</item>
 <item>
 <title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141379#141379</link>

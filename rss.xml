@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<channel>
+<title>SMS Power!</title>
+<link>https://www.smspower.org:443/forums/</link>
+<description>Sega 8-bit Discussion</description>
+<managingEditor>noreply@smspower.org</managingEditor>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>RSS Feed 2.2.3</generator>
+<language>en</language>
+<lastBuildDate>Sat, 07 Nov 2026 23:20:30 GMT</lastBuildDate>
+<image>
+	<url>http://www.smspower.org/images/smspower.gif</url>
+	<title>SMS Power!</title>
+	<link>https://www.smspower.org:443/forums/</link>
+	<width>122</width>
+	<height>56</height>
+</image>
+<item>
+<title>Development :: RE: [AI] New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141396#141396</link>
+<pubDate>Sat, 07 Nov 2026 21:53:48 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141396#141396</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27488&quot; target=&quot;_blank&quot;&gt;badcomputer&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 07, 2026 9:53 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;haroldoop wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;toxa wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;AI usage should be stated in the forum topic title.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Nah, one thing is using the [AI] tag for games that were made using AI directly. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+On the other hand using the [AI] tag for a game completely made by hand that just happens to use a tool that happens to be made using AI would be misleading.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Toxa (I think) is saying this thread title should have the AI tag because the language/compiler was made with AI. He's right, and that makes sense if AI ports have to be tagged AI too.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Then people afterward seem to have misinterpreted that as games made with this compiler should also be tagged AI, but that's not what he was saying.&lt;br /&gt;
+
+</description>
+<dc:creator>badcomputer</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141396</comments>
+</item>
+<item>
+<title>Development :: RE: [AI] New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141395#141395</link>
+<pubDate>Sat, 07 Nov 2026 21:38:02 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141395#141395</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 07, 2026 9:38 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;toxa wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;AI usage should be stated in the forum topic title.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Nah, one thing is using the [AI] tag for games that were made using AI directly. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+On the other hand using the [AI] tag for a game completely made by hand that just happens to use a tool that happens to be made using AI would be misleading.&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141395</comments>
+</item>
+<item>
+<title>Development :: RE: [AI] New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141394#141394</link>
+<pubDate>Sat, 07 Nov 2026 19:06:11 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141394#141394</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641&quot; target=&quot;_blank&quot;&gt;toxa&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 07, 2026 7:06 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;AI usage should be stated in the forum topic title.&lt;br /&gt;
+
+</description>
+<dc:creator>toxa</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141394</comments>
+</item>
+<item>
+<title>Development :: RE: [AI] New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141393#141393</link>
+<pubDate>Sat, 07 Nov 2026 16:34:16 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141393#141393</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 07, 2026 4:34 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I think it's nice that there are more tools to make it possible to create new interesting stuff for the SEGA consoles. Sure, there's already at least another BASIC around, but having more choice is never a bad idea.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I would have loved if AI wasn't involved in the process but I do understand your point in mostly being interested in using the tool than to create it. Still I hope one day you might go back and replace that AI code with yours...&lt;br /&gt;
+
+</description>
+<dc:creator>sverx</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141393</comments>
+</item>
+<item>
+<title>Development :: RE: SG-1000 Aseprite to graphics data script</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141392#141392</link>
+<pubDate>Sat, 07 Nov 2026 16:29:39 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141392#141392</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 07, 2026 4:29 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;nice! I know a few guys who will find this useful :)&lt;br /&gt;
+
+</description>
+<dc:creator>sverx</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=137445#137445" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141392</comments>
+</item>
+<item>
+<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141391#141391</link>
+<pubDate>Sat, 07 Nov 2026 14:29:08 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141391#141391</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35467&quot; target=&quot;_blank&quot;&gt;bbayles&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 07, 2026 2:29 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Haha, I've always had a fondness for Uwabo, because we're both called Bo. A week or two ago my 3rd grader was playing Sonic Origins. I told him that my friend Milpo and I am credited for sound in Sonic 3 &amp;amp; Knuckles. He didn't believe me, so I told him to look at the staff roll.&lt;br /&gt;
+
+</description>
+<dc:creator>bbayles</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141391</comments>
+</item>
+<item>
+<title>Development :: RE: MSX to SMS Hacks</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141390#141390</link>
+<pubDate>Sat, 07 Nov 2026 10:56:08 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141390#141390</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413&quot; target=&quot;_blank&quot;&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 07, 2026 10:56 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Has anyone managed to get Strangeloop or Pastfinder for MSX working on SMS?  I tried playing with that automated tool, but have no idea how to tell what kind of mapper individual MSX games use.&lt;br /&gt;
+
+</description>
+<dc:creator>PatrickBateman</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=95455#95455" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141390</comments>
+</item>
+<item>
+<title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141389#141389</link>
+<pubDate>Fri, 06 Nov 2026 20:23:23 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141389#141389</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826&quot; target=&quot;_blank&quot;&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 8:23 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;uhm, I guess there really should be no 'noAI' tag
+&lt;br /&gt;
+
+&lt;br /&gt;
+let's clearly mark those homebrews that did use AI, explain how, and everything else doesn't really need to remind us that it's been made by humans (or at least that's what I hope)    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Makes sense. Does everybody else agree with this? I do, but what about the rest of you guys?&lt;br /&gt;
+
+</description>
+<dc:creator>mateusbond</dc:creator>
+<dc:subject>Website</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141389</comments>
+</item>
+<item>
+<title>Development :: RE: [AI] New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141388#141388</link>
+<pubDate>Fri, 06 Nov 2026 19:48:50 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141388#141388</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 7:48 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Thank you :). I hope I will be able to pull it off :P.&lt;br /&gt;
+
+</description>
+<dc:creator>Materion</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141388</comments>
+</item>
+<item>
+<title>Main :: RE: Who Done What: Tiertex Ltd</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141387#141387</link>
+<pubDate>Fri, 06 Nov 2026 19:29:53 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141387#141387</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4825&quot; target=&quot;_blank&quot;&gt;BKK&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 7:29 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Thanks for posting, attached the images.&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>BKK</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=33033#33033" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141387</comments>
+</item>
+</channel>
+</rss>
+

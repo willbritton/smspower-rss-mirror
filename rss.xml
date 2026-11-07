@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<channel>
+<title>SMS Power!</title>
+<link>https://www.smspower.org:443/forums/</link>
+<description>Sega 8-bit Discussion</description>
+<managingEditor>noreply@smspower.org</managingEditor>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>RSS Feed 2.2.3</generator>
+<language>en</language>
+<lastBuildDate>Sat, 07 Nov 2026 02:20:28 GMT</lastBuildDate>
+<image>
+	<url>http://www.smspower.org/images/smspower.gif</url>
+	<title>SMS Power!</title>
+	<link>https://www.smspower.org:443/forums/</link>
+	<width>122</width>
+	<height>56</height>
+</image>
+<item>
+<title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141389#141389</link>
+<pubDate>Fri, 06 Nov 2026 20:23:23 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141389#141389</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826&quot; target=&quot;_blank&quot;&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 8:23 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;uhm, I guess there really should be no 'noAI' tag
+&lt;br /&gt;
+
+&lt;br /&gt;
+let's clearly mark those homebrews that did use AI, explain how, and everything else doesn't really need to remind us that it's been made by humans (or at least that's what I hope)    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Makes sense. Does everybody else agree with this? I do, but what about the rest of you guys?&lt;br /&gt;
+
+</description>
+<dc:creator>mateusbond</dc:creator>
+<dc:subject>Website</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141389</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141388#141388</link>
+<pubDate>Fri, 06 Nov 2026 19:48:50 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141388#141388</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 7:48 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Thank you :). I hope I will be able to pull it off :P.&lt;br /&gt;
+
+</description>
+<dc:creator>Materion</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141388</comments>
+</item>
+<item>
+<title>Main :: RE: Who Done What: Tiertex Ltd</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141387#141387</link>
+<pubDate>Fri, 06 Nov 2026 19:29:53 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141387#141387</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4825&quot; target=&quot;_blank&quot;&gt;BKK&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 7:29 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Thanks for posting, attached the images.&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>BKK</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=33033#33033" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141387</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141386#141386</link>
+<pubDate>Fri, 06 Nov 2026 19:08:01 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141386#141386</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11045&quot; target=&quot;_blank&quot;&gt;IllusionOfMana&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 7:08 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Good luck on your game project. I look forward to seeing it.&lt;br /&gt;
+
+</description>
+<dc:creator>IllusionOfMana</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141386</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141385#141385</link>
+<pubDate>Fri, 06 Nov 2026 18:47:11 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141385#141385</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 6:47 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Thank you :). Yes, I get it why people dislike AI creations and I'm not gonna fight that :). Everyone have free will and right to own opinion on different matters. I have a vision for nice game for Master System and this BASIC is a tool to make it happen :).&lt;br /&gt;
+
+</description>
+<dc:creator>Materion</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141385</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141384#141384</link>
+<pubDate>Fri, 06 Nov 2026 17:28:29 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141384#141384</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11045&quot; target=&quot;_blank&quot;&gt;IllusionOfMana&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 5:28 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Materion wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I mainly created this language for myself as I like BASIC (as young kid programmed a lot own games on Amiga 500 using AMOS BASIC). Shared it here cause I though someone is like me and like BASIC language and would like to code in it for Master System :).    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+A pretty good answer, I think that answers my question, at least for me personally. It isnt just some passive agro response or straight to the typical shallow AI response either. Thanks for sharing. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+I can get with that a lot more. I think making a tool/game/program for yourself first is probably the most important step in creating anything. I'm not an AI doomer, though I get the dislike for it. So my question was fixating on the why rather than the how it's made.&lt;br /&gt;
+
+</description>
+<dc:creator>IllusionOfMana</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141384</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141383#141383</link>
+<pubDate>Fri, 06 Nov 2026 12:31:40 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141383#141383</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 12:31 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I mainly created this language for myself as I like BASIC (as young kid programmed a lot own games on Amiga 500 using AMOS BASIC). Shared it here cause I though someone is like me and like BASIC language and would like to code in it for Master System :).&lt;br /&gt;
+
+</description>
+<dc:creator>Materion</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141383</comments>
+</item>
+<item>
+<title>Development :: RE: SG-1000 Aseprite to graphics data script</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141382#141382</link>
+<pubDate>Fri, 06 Nov 2026 12:03:29 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141382#141382</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603&quot; target=&quot;_blank&quot;&gt;bofner&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 12:03 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Interesting exporter!
+&lt;br /&gt;
+I think it would also be very nice to be able to export the same data in binary format, so that it could also be used with other tools apart from assemblers (and many assemblers can use binary files too anyway).    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Only took me most the year to get around to it, but I added BIN export support! I only did a quick check to make sure it was working, but all of the BIN outputs and the INC outputs look to be the same!&lt;br /&gt;
+
+</description>
+<dc:creator>bofner</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=137445#137445" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141382</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141381#141381</link>
+<pubDate>Fri, 06 Nov 2026 11:53:29 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141381#141381</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=33276&quot; target=&quot;_blank&quot;&gt;The Virtual Constructs&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 11:53 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;IllusionOfMana wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Going to be a bit critical here...
+&lt;br /&gt;
+And maybe its because I can't see the viability of this over the range of development options we already have for the SMS...
+&lt;br /&gt;
+I dont see why anyone would pick this over like a visual code node based dev environment, if they wanted to go easy. We also have the C implementation, for those looking for a middle ground between that and ASM.
+&lt;br /&gt;
+Heck, I met someone the other day that made a C# like implementation that builds to GB, NES, GG, and SMS...
+&lt;br /&gt;
+
+&lt;br /&gt;
+Im just curious. Why would I or anyone be compelled to pick this over those options? A good answer to that may help others get over the AI junk that's surrounding this.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Its a useful project as it gives a &amp;quot;measuring stick&amp;quot; of how human made only tools versus AI made tools compare in the present day. However it isn't something I would personally use.&lt;br /&gt;
+
+</description>
+<dc:creator>The Virtual Constructs</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141381</comments>
+</item>
+<item>
+<title>Development :: RE: New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141380#141380</link>
+<pubDate>Fri, 06 Nov 2026 11:31:30 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141380#141380</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 06, 2026 11:31 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;EnricoPallazzo wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Materion wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I don't understand - I will code and create everything MYSELF without using an AI including graphics/music/sound/coding  - only programming language is created using AI - it's just a tool. It's no different than using C language with SMS SDK and doing everything manually...    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Maxim wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Also worth mentioning… I can’t help but see the common prefix with another word spelled masterba…    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Perhaps to emphasize that this is just a tool, the name could be expanded to something like:
+&lt;br /&gt;
+
+&lt;br /&gt;
+Master Basic Application Tool Environment
+&lt;br /&gt;
+
+&lt;br /&gt;
+(or something to that effect)    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+You are all Masters at Baiting! 😁&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141380</comments>
+</item>
+</channel>
+</rss>
+

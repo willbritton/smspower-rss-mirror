@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-07T14:20:29Z</modified>
+  <modified>2026-11-07T14:30:44Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141391#141391" />
+    <dc:creator>bbayles</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>bbayles</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141391#141391</id>
+    <issued>2026-11-07T14:29:08Z</issued>
+    <modified>2026-11-07T14:29:08Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35467" target="_blank"&gt;bbayles&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Nov 07, 2026 2:29 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Haha, I've always had a fondness for Uwabo, because we're both called Bo. A week or two ago my 3rd grader was playing Sonic Origins. I told him that my friend Milpo and I am credited for sound in Sonic 3 &amp;amp; Knuckles. He didn't believe me, so I told him to look at the staff roll.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: MSX to SMS Hacks</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141390#141390" />
@@ -205,48 +221,6 @@ I think it would also be very nice to be able to export the same data in binary 
 
 &lt;br /&gt;
 Only took me most the year to get around to it, but I added BIN export support! I only did a quick check to make sure it was working, but all of the BIN outputs and the INC outputs look to be the same!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141381#141381" />
-    <dc:creator>The Virtual Constructs</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>The Virtual Constructs</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141381#141381</id>
-    <issued>2026-11-06T11:53:29Z</issued>
-    <modified>2026-11-07T12:02:27Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=33276" target="_blank"&gt;The Virtual Constructs&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 06, 2026 11:53 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;IllusionOfMana wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Going to be a bit critical here...
-&lt;br /&gt;
-And maybe its because I can't see the viability of this over the range of development options we already have for the SMS...
-&lt;br /&gt;
-I dont see why anyone would pick this over like a visual code node based dev environment, if they wanted to go easy. We also have the C implementation, for those looking for a middle ground between that and ASM.
-&lt;br /&gt;
-Heck, I met someone the other day that made a C# like implementation that builds to GB, NES, GG, and SMS...
-&lt;br /&gt;
-
-&lt;br /&gt;
-Im just curious. Why would I or anyone be compelled to pick this over those options? A good answer to that may help others get over the AI junk that's surrounding this.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Its a useful project as it gives a &amp;quot;measuring stick&amp;quot; of how human made only tools versus AI made tools compare in the present day. However it isn't something I would personally use-but I guess there must be a reason to use it or it wouldn't exist. (I have not got anything against AI.)&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

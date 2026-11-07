@@ -8,7 +8,28 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-07T16:30:44Z</modified>
+  <modified>2026-11-07T16:40:27Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141393#141393"/>
+    <dc:creator>sverx</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>sverx</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141393#141393</id>
+    <issued>2026-11-07T16:34:16Z</issued>
+    <modified>2026-11-07T16:34:16Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Nov 07, 2026 4:34 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I think it's nice that there are more tools to make it possible to create new interesting stuff for the SEGA consoles. Sure, there's already at least another BASIC around, but having more choice is never a bad idea.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I would have loved if AI wasn't involved in the process but I do understand your point in mostly being interested in using the tool than to create it. Still I hope one day you might go back and replace that AI code with yours...&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: SG-1000 Aseprite to graphics data script</title>
     <link rel="alternate" type="text/html"
@@ -176,23 +197,6 @@ A pretty good answer, I think that answers my question, at least for me personal
 
 &lt;br /&gt;
 I can get with that a lot more. I think making a tool/game/program for yourself first is probably the most important step in creating anything. I'm not an AI doomer, though I get the dislike for it. So my question was fixating on the why rather than the how it's made.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141383#141383"/>
-    <dc:creator>Materion</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>Materion</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141383#141383</id>
-    <issued>2026-11-06T12:31:40Z</issued>
-    <modified>2026-11-06T12:31:40Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 06, 2026 12:31 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I mainly created this language for myself as I like BASIC (as young kid programmed a lot own games on Amiga 500 using AMOS BASIC). Shared it here cause I though someone is like me and like BASIC language and would like to code in it for Master System :).&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -8,7 +8,40 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-07T21:50:28Z</modified>
+  <modified>2026-11-07T22:01:00Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141396#141396"/>
+    <dc:creator>badcomputer</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>badcomputer</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141396#141396</id>
+    <issued>2026-11-07T21:53:48Z</issued>
+    <modified>2026-11-07T21:53:48Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27488&quot; target=&quot;_blank&quot;&gt;badcomputer&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Nov 07, 2026 9:53 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;haroldoop wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;toxa wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;AI usage should be stated in the forum topic title.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Nah, one thing is using the [AI] tag for games that were made using AI directly. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+On the other hand using the [AI] tag for a game completely made by hand that just happens to use a tool that happens to be made using AI would be misleading.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Toxa is saying this thread title should have the AI tag because the language/compiler was made with AI. He's right, and that makes sense if AI ports have to be tagged AI too.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Then people afterward seem to have misinterpreted that as games made with this compiler should also be tagged AI, but that's not what he was saying.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html"
@@ -180,23 +213,6 @@ Makes sense. Does everybody else agree with this? I do, but what about the rest 
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4825&quot; target=&quot;_blank&quot;&gt;BKK&lt;/a&gt;&lt;br /&gt;
 	Posted: Fri Nov 06, 2026 7:29 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Thanks for posting, attached the images.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141386#141386"/>
-    <dc:creator>IllusionOfMana</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>IllusionOfMana</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141386#141386</id>
-    <issued>2026-11-06T19:08:01Z</issued>
-    <modified>2026-11-06T19:08:01Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11045&quot; target=&quot;_blank&quot;&gt;IllusionOfMana&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 06, 2026 7:08 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Good luck on your game project. I look forward to seeing it.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

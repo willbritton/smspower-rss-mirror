@@ -4,7 +4,49 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-08T22:30:41Z</modified>
+  <modified>2026-11-08T22:40:28Z</modified>
+  <entry>
+    <title mode="escaped">Development :: Phantasy Star Gaiden - Translations</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141407#141407" />
+    <dc:creator>Dom aka Doke</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Dom aka Doke</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141407#141407</id>
+    <issued>2026-11-08T22:39:43Z</issued>
+    <modified>2026-11-08T22:39:43Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35553" target="_blank"&gt;Dom aka Doke&lt;/a&gt;&lt;br /&gt;
+	Subject: Phantasy Star Gaiden - Translations&lt;br /&gt;Posted: Sun Nov 08, 2026 10:39 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Phantasy Star Gaiden is a Sega Game Gear role-playing game developed by Japan System Supply and published by Sega. A spin-off of the popular Phantasy Star series, it was released exclusively in Japan in October 1992.
+&lt;br /&gt;
+
+&lt;br /&gt;
+New translations:
+&lt;br /&gt;
+- English
+&lt;br /&gt;
+- French
+&lt;br /&gt;
+- German
+&lt;br /&gt;
+- Spanish
+&lt;br /&gt;
+- Italian
+&lt;br /&gt;
+- Dutch
+&lt;br /&gt;
+- Portuguese (Brazil)
+&lt;br /&gt;
+- Danish
+&lt;br /&gt;
+- Catalan
+&lt;br /&gt;
+- Latin
+&lt;br /&gt;
+- Korean&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141406#141406" />
@@ -265,46 +307,6 @@ Oh wow.. no I've never seen that one before so yes please I'd love a scan. If it
 	hahaha, nice!
 &lt;br /&gt;
 Glad to hear you're raising him on Sega, btw.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141397#141397" />
-    <dc:creator>xfixium</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>xfixium</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141397#141397</id>
-    <issued>2026-11-08T03:12:08Z</issued>
-    <modified>2026-11-08T03:12:08Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=13282" target="_blank"&gt;xfixium&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 08, 2026 3:12 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	A demo is out, but not too much going on, it's basically a walking demo. You can visit a bunch of areas on Mota. Paseo, Oputa, Arima, Shure, Nido, and the Bio Systems lab. All the bridges are open, so you can explore most of Mota, except the areas that require the Jet Scooter. Random encounters happen. Pressing button 1 escapes the battle, button 2 cycles through 3 different test battle backgrounds. Pressing button 1 opens the menu when on the field. The only other menu available is the SYS menu. You can select the walking speed you desire from there. No data driven dialog text yet. The continue menu is just a mock up with no code behind it yet.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I had this close to a demo about roughly a year ago. But as luck would have it, my laptop died, and my motivation went out the window with it. But the last few weeks or so, I looked at the remaining items of my demo ready todo list, and got it done.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Some notes about it's current state. Most of the graphics conversion is done for the Mota towns. There are things I still want to adjust and redo however. The overworld will get a total re-vamp at some point. The battle backgrounds are placeholders. Except the VR one, which I consider done. The grass bg one is a PS1 bg, with some edits. The dungeon bg is a PSIV bg edited. So those will eventually be original graphics. Some of the enemies still need some TLC. I condensed the menus to save on RAM and screen real estate. Most main character sprites are done, or just need a little tweaking. Just missing Kain and Hugh. Probably some other notes I'm missing XD. I think that's it, for now.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks for viewing.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Download Link:
-&lt;br /&gt;
-&lt;a href="https://pyxosoft.com/projects/sms_ps2/downloads/sms_phantasy_star_ii.sms" target="_blank"&gt;https://pyxosoft.com/projects/sms_ps2/downloads/sms_phantasy_star_ii.sms&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Demo vid:
-&lt;br /&gt;
-&lt;a href="https://pyxosoft.com/projects/sms_ps2/videos/psii_0010.mp4" target="_blank"&gt;https://pyxosoft.com/projects/sms_ps2/videos/psii_0010.mp4&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

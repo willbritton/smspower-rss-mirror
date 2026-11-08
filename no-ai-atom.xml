@@ -4,7 +4,25 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-08T13:20:29Z</modified>
+  <modified>2026-11-08T13:30:43Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141402#141402" />
+    <dc:creator>SavitarSvit</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>SavitarSvit</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141402#141402</id>
+    <issued>2026-11-08T13:26:03Z</issued>
+    <modified>2026-11-08T13:26:03Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11301" target="_blank"&gt;SavitarSvit&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 08, 2026 1:26 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;b&gt;xfixium&lt;/b&gt;, according to your plan, the game will weigh 1MB?
+&lt;br /&gt;
+Can't it fit in 512kb?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Help Preserving SEGA MegaZone Magazine</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141401#141401" />
@@ -127,20 +145,4 @@ Demo vid:
 &lt;a href="https://pyxosoft.com/projects/sms_ps2/videos/psii_0010.mp4" target="_blank"&gt;https://pyxosoft.com/projects/sms_ps2/videos/psii_0010.mp4&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: SG-1000 Aseprite to graphics data script</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141392#141392" />
-    <dc:creator>sverx</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>sverx</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141392#141392</id>
-    <issued>2026-11-07T16:29:39Z</issued>
-    <modified>2026-11-07T16:29:39Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
-	Posted: Sat Nov 07, 2026 4:29 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	nice! I know a few guys who will find this useful :)&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

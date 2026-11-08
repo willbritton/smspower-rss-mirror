@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-08T15:30:44Z</modified>
+  <modified>2026-11-08T15:40:29Z</modified>
   <entry>
     <title mode="escaped">Development :: RE: [AI] New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141396#141396" />
@@ -111,26 +111,6 @@ On the other hand using the [AI] tag for a game completely made by hand that jus
 	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641" target="_blank"&gt;toxa&lt;/a&gt;&lt;br /&gt;
 	Posted: Sat Nov 07, 2026 7:06 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	AI usage should be stated in the forum topic title.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [AI] New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141393#141393" />
-    <dc:creator>sverx</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>sverx</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141393#141393</id>
-    <issued>2026-11-07T16:34:16Z</issued>
-    <modified>2026-11-07T16:34:16Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
-	Posted: Sat Nov 07, 2026 4:34 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I think it's nice that there are more tools to make it possible to create new interesting stuff for the SEGA consoles. Sure, there's already at least another BASIC around, but having more choice is never a bad idea.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I would have loved if AI wasn't involved in the process but I do understand your point in mostly being interested in using the tool than to create it. Still I hope one day you might go back and replace that AI code with yours...&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

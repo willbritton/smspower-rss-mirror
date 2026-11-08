@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 15:30:44 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 15:40:28 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,66 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: OBAKE - New SG-1000 game released</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141403#141403</link>
+<pubDate>Sun, 08 Nov 2026 15:39:59 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141403#141403</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2618&quot; target=&quot;_blank&quot;&gt;siriokds&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 08, 2026 3:39 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;You did a great job.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks for the game.
+&lt;br /&gt;
+
+&lt;br /&gt;
+S.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Andrs wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Hello everyone!
+&lt;br /&gt;
+This is my first post in this community and I want to share with you a little game that I've just published, after months of learning/programming with CVBasic. It started as a remake of an MSX-BASIC game, and my initial intention was to make a native MSX version only but, since CVBasic supports various Z80/TMS9918 systems, I ended up making a SG-1000 version as well. Here's the link:
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;https://andrs-mc.itch.io/obake-sg1000&quot; target=&quot;_blank&quot;&gt;https://andrs-mc.itch.io/obake-sg1000&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+And here's the link to the MSX/MSX2 version, which you can play online:
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;https://andrs-mc.itch.io/obake-msx&quot; target=&quot;_blank&quot;&gt;https://andrs-mc.itch.io/obake-msx&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+The only differences between the two are that they use different music routines, and that the MSX version supports the keyboard to enter the player's name (in the SG-1000 version you have to select the letters with the controller).
+&lt;br /&gt;
+ 
+&lt;br /&gt;
+The download also includes ColecoVision, Spectravideo, Sord M5 and Casio PV-2000 versions. Only the MSX version is tested on real harware, but they are all thoroughly tested on emulation. If you have the chance to play it on a real a SG-1000 or Master System, let me know!
+&lt;br /&gt;
+
+&lt;br /&gt;
+I hope you like it.
+&lt;br /&gt;
+Cheers!
+&lt;br /&gt;
+
+&lt;br /&gt;
+-- Andr[é]s MC. [ &lt;a href=&quot;https://andrs-mc.itch.io&quot; target=&quot;_blank&quot;&gt;https://andrs-mc.itch.io&lt;/a&gt; ]    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>siriokds</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141255#141255" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141403</comments>
+</item>
 <item>
 <title>Development :: RE: SMS Phantasy Star II</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141402#141402</link>
@@ -216,26 +276,6 @@ Posted: Sat Nov 07, 2026 7:06 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141394</comments>
-</item>
-<item>
-<title>Development :: RE: [AI] New programming language MasterBASIC</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141393#141393</link>
-<pubDate>Sat, 07 Nov 2026 16:34:16 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141393#141393</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sat Nov 07, 2026 4:34 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I think it's nice that there are more tools to make it possible to create new interesting stuff for the SEGA consoles. Sure, there's already at least another BASIC around, but having more choice is never a bad idea.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I would have loved if AI wasn't involved in the process but I do understand your point in mostly being interested in using the tool than to create it. Still I hope one day you might go back and replace that AI code with yours...&lt;br /&gt;
-
-</description>
-<dc:creator>sverx</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141393</comments>
 </item>
 </channel>
 </rss>

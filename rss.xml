@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 03:10:27 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 03:30:44 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,46 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: SMS Phantasy Star II</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141397#141397</link>
+<pubDate>Sun, 08 Nov 2026 03:12:08 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141397#141397</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=13282&quot; target=&quot;_blank&quot;&gt;xfixium&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 08, 2026 3:12 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;A demo is out, but not too much going on, it's basically a walking demo. You can visit a bunch of areas on Mota. Paseo, Oputa, Arima, Shure, Nido, and the Bio Systems lab. All the bridges are open, so you can explore most of Mota, except the areas that require the Jet Scooter. Random encounters happen. Pressing button 1 escapes the battle, button 2 cycles through 3 different test battle backgrounds. Pressing button 1 opens the menu when on the field. The only other menu available is the SYS menu. You can select the walking speed you desire from there. No data driven dialog text yet. The continue menu is just a mock up with no code behind it yet.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I had this close to a demo about roughly a year ago. But as luck would have it, my laptop died, and my motivation went out the window with it. But the last few weeks or so, I looked at the remaining items of my demo ready todo list, and got it done.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Some notes about it's current state. Most of the graphics conversion is done for the Mota towns. There are things I still want to adjust and redo however. The overworld will get a total re-vamp at some point. The battle backgrounds are placeholders. Except the VR one, which I consider done. The grass bg one is a PS1 bg, with some edits. The dungeon bg is a PSIV bg edited. So those will eventually be original graphics. Some of the enemies still need some TLC. I condensed the menus to save on RAM and screen real estate. Most main character sprites are done, or just need a little tweaking. Just missing Kain and Hugh. Probably some other notes I'm missing XD. I think that's it, for now.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks for viewing.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Download Link:
+&lt;br /&gt;
+&lt;a href=&quot;https://pyxosoft.com/projects/sms_ps2/downloads/sms_phantasy_star_ii.sms&quot; target=&quot;_blank&quot;&gt;https://pyxosoft.com/projects/sms_ps2/downloads/sms_phantasy_star_ii.sms&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Demo vid:
+&lt;br /&gt;
+&lt;a href=&quot;https://pyxosoft.com/projects/sms_ps2/videos/psii_0010.mp4&quot; target=&quot;_blank&quot;&gt;https://pyxosoft.com/projects/sms_ps2/videos/psii_0010.mp4&lt;/a&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>xfixium</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=123623#123623" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141397</comments>
+</item>
 <item>
 <title>Development :: RE: [AI] New programming language MasterBASIC</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141396#141396</link>
@@ -196,22 +236,6 @@ Posted: Fri Nov 06, 2026 7:48 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141388</comments>
-</item>
-<item>
-<title>Main :: RE: Who Done What: Tiertex Ltd</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141387#141387</link>
-<pubDate>Fri, 06 Nov 2026 19:29:53 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141387#141387</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4825&quot; target=&quot;_blank&quot;&gt;BKK&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Nov 06, 2026 7:29 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Thanks for posting, attached the images.&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>BKK</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=33033#33033" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141387</comments>
 </item>
 </channel>
 </rss>

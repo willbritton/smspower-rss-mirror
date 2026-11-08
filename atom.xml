@@ -8,7 +8,26 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-08T03:43:08Z</modified>
+  <modified>2026-11-08T04:01:05Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141398#141398"/>
+    <dc:creator>PatrickBateman</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>PatrickBateman</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141398#141398</id>
+    <issued>2026-11-08T03:45:08Z</issued>
+    <modified>2026-11-08T03:45:08Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413&quot; target=&quot;_blank&quot;&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 08, 2026 3:45 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	hahaha, nice!
+&lt;br /&gt;
+Glad to hear you're raising him on Sega, btw.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
     <link rel="alternate" type="text/html"
@@ -220,23 +239,6 @@ let's clearly mark those homebrews that did use AI, explain how, and everything 
 
 &lt;br /&gt;
 Makes sense. Does everybody else agree with this? I do, but what about the rest of you guys?&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [AI] New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141388#141388"/>
-    <dc:creator>Materion</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>Materion</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141388#141388</id>
-    <issued>2026-11-06T19:48:50Z</issued>
-    <modified>2026-11-06T19:48:50Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 06, 2026 7:48 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Thank you :). I hope I will be able to pull it off :P.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

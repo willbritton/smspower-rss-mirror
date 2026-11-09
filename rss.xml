@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 16:30:44 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 16:40:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,68 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: Phantasy Star Gaiden - Translations</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141411#141411</link>
+<pubDate>Mon, 09 Nov 2026 16:34:58 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141411#141411</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 09, 2026 4:34 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;The list of languages doesn’t match the files attached, and there’s no link to the source. Is this real? Is this LLM slop?&lt;br /&gt;
+
+</description>
+<dc:creator>Maxim</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141407#141407" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141411</comments>
+</item>
+<item>
+<title>Development :: RE: Phantasy Star Gaiden - Translations</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141410#141410</link>
+<pubDate>Mon, 09 Nov 2026 16:31:39 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141410#141410</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=32987&quot; target=&quot;_blank&quot;&gt;Bieno&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 09, 2026 4:31 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Dom aka Doke wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Phantasy Star Gaiden is a Sega Game Gear role-playing game developed by Japan System Supply and published by Sega. A spin-off of the popular Phantasy Star series, it was released exclusively in Japan in October 1992.
+&lt;br /&gt;
+
+&lt;br /&gt;
+New translations:
+&lt;br /&gt;
+- English
+&lt;br /&gt;
+- French
+&lt;br /&gt;
+- German
+&lt;br /&gt;
+- Spanish
+&lt;br /&gt;
+- Italian
+&lt;br /&gt;
+- Dutch
+&lt;br /&gt;
+- Portuguese (Brazil)
+&lt;br /&gt;
+- Danish
+&lt;br /&gt;
+- Catalan
+&lt;br /&gt;
+- Latin
+&lt;br /&gt;
+- Korean    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Amazing. More Phantasy Star stuff translated !&lt;br /&gt;
+
+</description>
+<dc:creator>Bieno</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141407#141407" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141410</comments>
+</item>
 <item>
 <title>Music :: RE: [VGM pack] Special Criminal Investigation</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141409#141409</link>
@@ -246,38 +308,6 @@ Oh wow.. no I've never seen that one before so yes please I'd love a scan. If it
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=108761#108761" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141401</comments>
-</item>
-<item>
-<title>Main :: RE: Help Preserving SEGA MegaZone Magazine</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141400#141400</link>
-<pubDate>Sun, 08 Nov 2026 06:13:39 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141400#141400</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=6936&quot; target=&quot;_blank&quot;&gt;efry&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 08, 2026 6:13 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I was going through my games and found this Megazone Ad? Do you have this one scanned already?&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>efry</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=108761#108761" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141400</comments>
-</item>
-<item>
-<title>Development :: RE: SMS Phantasy Star II</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141399#141399</link>
-<pubDate>Sun, 08 Nov 2026 06:02:14 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141399#141399</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 08, 2026 6:02 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Awesome!!!&lt;br /&gt;
-
-</description>
-<dc:creator>AtariBorn</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=123623#123623" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141399</comments>
 </item>
 </channel>
 </rss>

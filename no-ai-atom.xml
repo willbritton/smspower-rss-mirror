@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-09T21:00:55Z</modified>
+  <modified>2026-11-09T21:10:29Z</modified>
   <entry>
     <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141412#141412" />
@@ -269,78 +269,6 @@ Can't it fit in 512kb?    &lt;script type="text/javascript"&gt;
 
 &lt;br /&gt;
 It's 592KB atm. It's padded up to 1MB. It has potential to be under that, but I haven't optimized anything to do so. Waiting until the very end to do that.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: OBAKE - New SG-1000 game released</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141403#141403" />
-    <dc:creator>siriokds</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>siriokds</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141403#141403</id>
-    <issued>2026-11-08T15:39:59Z</issued>
-    <modified>2026-11-08T15:39:59Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2618" target="_blank"&gt;siriokds&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 08, 2026 3:39 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	You did a great job.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks for the game.
-&lt;br /&gt;
-
-&lt;br /&gt;
-S.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;blockquote&gt;  &lt;div class="attribution"&gt;Andrs wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Hello everyone!
-&lt;br /&gt;
-This is my first post in this community and I want to share with you a little game that I've just published, after months of learning/programming with CVBasic. It started as a remake of an MSX-BASIC game, and my initial intention was to make a native MSX version only but, since CVBasic supports various Z80/TMS9918 systems, I ended up making a SG-1000 version as well. Here's the link:
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href="https://andrs-mc.itch.io/obake-sg1000" target="_blank"&gt;https://andrs-mc.itch.io/obake-sg1000&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-And here's the link to the MSX/MSX2 version, which you can play online:
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href="https://andrs-mc.itch.io/obake-msx" target="_blank"&gt;https://andrs-mc.itch.io/obake-msx&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-The only differences between the two are that they use different music routines, and that the MSX version supports the keyboard to enter the player's name (in the SG-1000 version you have to select the letters with the controller).
-&lt;br /&gt;
- 
-&lt;br /&gt;
-The download also includes ColecoVision, Spectravideo, Sord M5 and Casio PV-2000 versions. Only the MSX version is tested on real harware, but they are all thoroughly tested on emulation. If you have the chance to play it on a real a SG-1000 or Master System, let me know!
-&lt;br /&gt;
-
-&lt;br /&gt;
-I hope you like it.
-&lt;br /&gt;
-Cheers!
-&lt;br /&gt;
-
-&lt;br /&gt;
--- Andr[é]s MC. [ &lt;a href="https://andrs-mc.itch.io" target="_blank"&gt;https://andrs-mc.itch.io&lt;/a&gt; ]    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 09:10:33 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:20:31 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,30 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Music :: Special Criminal Investigation: About the track called ‘unused’</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141408#141408</link>
+<pubDate>Mon, 09 Nov 2026 09:18:21 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141408#141408</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=951" target="_blank"&gt;kuja45&lt;/a&gt;&lt;br /&gt;
+Subject: Special Criminal Investigation: About the track called ‘unused’&lt;br /&gt;
+Posted: Mon Nov 09, 2026 9:18 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I think I’ve worked out what the music in the game corresponds to.
+&lt;br /&gt;
+In the game, it plays when you catch up with the car you’re chasing.
+&lt;br /&gt;
+And on the album “[PCCB-00024] Special
+&lt;br /&gt;
+Criminal Investigation”, it should be the track “Main Theme”, which would make sense if you follow the logic of Chase H.Q.
+&lt;br /&gt;
+But in the arcade game there are so many sound effects that you can hardly hear the music at all, so it’s quite difficult to confirm.&lt;br /&gt;
+
+</description>
+<dc:creator>kuja45</dc:creator>
+<dc:subject>Music</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141408#141408" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141408</comments>
+</item>
 <item>
 <title>Development :: Phantasy Star Gaiden - Translations</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141407#141407</link>
@@ -301,24 +325,6 @@ Posted: Sun Nov 08, 2026 6:02 am (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=123623#123623" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141399</comments>
-</item>
-<item>
-<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141398#141398</link>
-<pubDate>Sun, 08 Nov 2026 03:45:08 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141398#141398</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413" target="_blank"&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 08, 2026 3:45 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;hahaha, nice!
-&lt;br /&gt;
-Glad to hear you're raising him on Sega, btw.&lt;br /&gt;
-
-</description>
-<dc:creator>PatrickBateman</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141398</comments>
 </item>
 </channel>
 </rss>

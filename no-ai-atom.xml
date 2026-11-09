@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-09T19:30:47Z</modified>
+  <modified>2026-11-09T19:40:29Z</modified>
   <entry>
     <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141412#141412" />
@@ -341,24 +341,6 @@ Cheers!
         document.write('&lt;/div&gt;');      
 //--&gt;
     &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141402#141402" />
-    <dc:creator>SavitarSvit</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>SavitarSvit</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141402#141402</id>
-    <issued>2026-11-08T13:26:03Z</issued>
-    <modified>2026-11-08T13:26:03Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11301" target="_blank"&gt;SavitarSvit&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 08, 2026 1:26 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;b&gt;xfixium&lt;/b&gt;, according to your plan, the game will weigh 1MB?
-&lt;br /&gt;
-Can't it fit in 512kb?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 19:30:46 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 19:40:28 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,24 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: [AI] New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141413#141413</link>
+<pubDate>Mon, 09 Nov 2026 19:37:20 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141413#141413</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641&quot; target=&quot;_blank&quot;&gt;toxa&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 09, 2026 7:37 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;badcomputer wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Toxa (I think) is saying this thread title should have the AI tag because the language/compiler was made with AI. He's right, and that makes sense if AI ports have to be tagged AI too.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+yes, definitely&lt;br /&gt;
+
+</description>
+<dc:creator>toxa</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141413</comments>
+</item>
 <item>
 <title>Development :: RE: SMS Phantasy Star II</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141412#141412</link>
@@ -306,24 +324,6 @@ Cheers!
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141255#141255" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141403</comments>
-</item>
-<item>
-<title>Development :: RE: SMS Phantasy Star II</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141402#141402</link>
-<pubDate>Sun, 08 Nov 2026 13:26:03 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141402#141402</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11301&quot; target=&quot;_blank&quot;&gt;SavitarSvit&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 08, 2026 1:26 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;b&gt;xfixium&lt;/b&gt;, according to your plan, the game will weigh 1MB?
-&lt;br /&gt;
-Can't it fit in 512kb?&lt;br /&gt;
-
-</description>
-<dc:creator>SavitarSvit</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=123623#123623" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141402</comments>
 </item>
 </channel>
 </rss>

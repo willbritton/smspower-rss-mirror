@@ -1,8 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns="http://purl.org/atom/ns#" version="0.3">
+<feed xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="0.3">
 
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-09T19:30:47Z</modified>
+  <modified>2026-11-09T19:40:29Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [AI] New programming language MasterBASIC</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141413#141413" />
+    <dc:creator>toxa</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>toxa</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141413#141413</id>
+    <issued>2026-11-09T19:37:20Z</issued>
+    <modified>2026-11-09T19:37:20Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641" target="_blank"&gt;toxa&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 09, 2026 7:37 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class="attribution"&gt;badcomputer wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Toxa (I think) is saying this thread title should have the AI tag because the language/compiler was made with AI. He's right, and that makes sense if AI ports have to be tagged AI too.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+yes, definitely&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   </feed>

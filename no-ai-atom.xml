@@ -4,7 +4,43 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-09T17:40:30Z</modified>
+  <modified>2026-11-09T17:50:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141412#141412" />
+    <dc:creator>cireza</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>cireza</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141412#141412</id>
+    <issued>2026-11-09T17:41:55Z</issued>
+    <modified>2026-11-09T17:41:55Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=25359" target="_blank"&gt;cireza&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 09, 2026 5:41 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Hello xfixium,
+&lt;br /&gt;
+
+&lt;br /&gt;
+The demo has a great presentation, the visuals have a lot of contrast and volume.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I was wondering if you had planned, and how, the rest of the battle content. Meaning backgrounds and enemies. Specifically about color choices. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+I can see that you have locked in 13 colors that have to be common between characters and enemies, which means all backgrounds will have to be implemented with these 13 colors. For merging purposes if I understand.
+&lt;br /&gt;
+
+&lt;br /&gt;
+This leaves 3 possible variable slots : are you planning to change them dynamically to be able to add an original color in the background and/or ennemies ? Or will these be set in stone ?
+&lt;br /&gt;
+
+&lt;br /&gt;
+Simply wondering this because of some color gradients used for some enemies or potential backgrounds, and how you are going to work around these. Making ReSeCom, I found out that colors between my monsters/characters and the background happened to clash pretty often, and as neither were underlined with black (for a more realistic approach) I often had to make specific palette swaps to be sure of having the best visibility. And this happened despite the fact that I was actually reserving dedicated colors for background (7) and others for the enemies (9).&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: Phantasy Star Gaiden - Translations</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141411#141411" />
@@ -323,38 +359,6 @@ Cheers!
 	&lt;b&gt;xfixium&lt;/b&gt;, according to your plan, the game will weigh 1MB?
 &lt;br /&gt;
 Can't it fit in 512kb?&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: Help Preserving SEGA MegaZone Magazine</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141401#141401" />
-    <dc:creator>Blake00</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>Blake00</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141401#141401</id>
-    <issued>2026-11-08T06:19:22Z</issued>
-    <modified>2026-11-08T06:19:22Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11072" target="_blank"&gt;Blake00&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 08, 2026 6:19 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;efry wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;I was going through my games and found this Megazone Ad? Do you have this one scanned already?    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Oh wow.. no I've never seen that one before so yes please I'd love a scan. If it's too big for here I can PM you a email or cloud link to drop it in. :)&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

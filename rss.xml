@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 09:50:29 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 10:00:56 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -18,13 +18,13 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<height>56</height>
 </image>
 <item>
-<title>Music :: Special Criminal Investigation: About the track called ‘unused’</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141408#141408</link>
-<pubDate>Mon, 09 Nov 2026 09:18:21 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141408#141408</guid>
+<title>Music :: RE: [VGM pack] Special Criminal Investigation</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141409#141409</link>
+<pubDate>Mon, 09 Nov 2026 09:56:25 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141409#141409</guid>
 <description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=951&quot; target=&quot;_blank&quot;&gt;kuja45&lt;/a&gt;&lt;br /&gt;
 Subject: Special Criminal Investigation: About the track called ‘unused’&lt;br /&gt;
-Posted: Mon Nov 09, 2026 9:18 am (GMT 0)&lt;br /&gt;
+Posted: Mon Nov 09, 2026 9:56 am (GMT 0)&lt;br /&gt;
 &lt;br /&gt;I think I’ve worked out what the music in the game corresponds to.
 &lt;br /&gt;
 In the game, it plays when you catch up with the car you’re chasing.
@@ -38,8 +38,8 @@ But in the arcade game there are so many sound effects that you can hardly hear 
 </description>
 <dc:creator>kuja45</dc:creator>
 <dc:subject>Music</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141408#141408" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141408</comments>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=131762#131762" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141409</comments>
 </item>
 <item>
 <title>Development :: Phantasy Star Gaiden - Translations</title>

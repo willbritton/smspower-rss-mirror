@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 18:20:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 18:30:46 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: Phantasy Star Compass Edition WIP</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141421#141421</link>
+<pubDate>Tue, 10 Nov 2026 18:20:50 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141421#141421</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35560&quot; target=&quot;_blank&quot;&gt;OldCores&lt;/a&gt;&lt;br /&gt;
+Subject: Phantasy Star Compass Edition WIP&lt;br /&gt;
+Posted: Tue Nov 10, 2026 6:20 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Well, I’m new here, and I’d like to share a small addition—still a work in progress—for my all-time favorite game.&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>OldCores</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141421#141421" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141421</comments>
+</item>
 <item>
 <title>Development :: RE: SMS Phantasy Star II</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141420#141420</link>
@@ -318,22 +334,6 @@ Simply wondering this because of some color gradients used for some enemies or p
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=123623#123623" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141412</comments>
-</item>
-<item>
-<title>Development :: RE: Phantasy Star Gaiden - Translations</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141411#141411</link>
-<pubDate>Mon, 09 Nov 2026 16:34:58 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141411#141411</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 09, 2026 4:34 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;The list of languages doesn’t match the files attached, and there’s no link to the source. Is this real? Is this LLM slop?&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141407#141407" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141411</comments>
 </item>
 </channel>
 </rss>

@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-10T18:20:31Z</modified>
+  <modified>2026-11-10T18:30:47Z</modified>
+  <entry>
+    <title mode="escaped">Development :: Phantasy Star Compass Edition WIP</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141421#141421"/>
+    <dc:creator>OldCores</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>OldCores</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141421#141421</id>
+    <issued>2026-11-10T18:20:50Z</issued>
+    <modified>2026-11-10T18:20:50Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35560&quot; target=&quot;_blank&quot;&gt;OldCores&lt;/a&gt;&lt;br /&gt;
+	Subject: Phantasy Star Compass Edition WIP&lt;br /&gt;Posted: Tue Nov 10, 2026 6:20 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Well, I’m new here, and I’d like to share a small addition—still a work in progress—for my all-time favorite game.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
     <link rel="alternate" type="text/html"
@@ -318,23 +335,6 @@ This leaves 3 possible variable slots : are you planning to change them dynamica
 
 &lt;br /&gt;
 Simply wondering this because of some color gradients used for some enemies or potential backgrounds, and how you are going to work around these. Making ReSeCom, I found out that colors between my monsters/characters and the background happened to clash pretty often, and as neither were underlined with black (for a more realistic approach) I often had to make specific palette swaps to be sure of having the best visibility. And this happened despite the fact that I was actually reserving dedicated colors for background (7) and others for the enemies (9).&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Phantasy Star Gaiden - Translations</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141411#141411"/>
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141411#141411</id>
-    <issued>2026-11-09T16:34:58Z</issued>
-    <modified>2026-11-09T16:34:58Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 09, 2026 4:34 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	The list of languages doesn’t match the files attached, and there’s no link to the source. Is this real? Is this LLM slop?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -4,7 +4,31 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-10T18:40:30Z</modified>
+  <modified>2026-11-10T18:50:31Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Phantasy Star Compass Edition WIP</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141422#141422" />
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141422#141422</id>
+    <issued>2026-11-10T18:44:46Z</issued>
+    <modified>2026-11-10T18:44:46Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 10, 2026 6:44 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	See also &lt;a href="https://www.smspower.org/forums/21229-PhantasyStarMapHack" target="_blank"&gt;https://www.smspower.org/forums/21229-PhantasyStarMapHack&lt;/a&gt; posted recently.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Please can you clarify any AI usage for this?
+&lt;br /&gt;
+
+&lt;br /&gt;
+It seems to be built on top of an early version of the retranslation, why is that?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: Phantasy Star Compass Edition WIP</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141421#141421" />
@@ -297,40 +321,4 @@ Project Galaxy - &lt;a href="https://haroldo-ok.itch.io/project-galaxy-sms" targ
 All added.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141412#141412" />
-    <dc:creator>cireza</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>cireza</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141412#141412</id>
-    <issued>2026-11-09T17:41:55Z</issued>
-    <modified>2026-11-09T17:41:55Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=25359" target="_blank"&gt;cireza&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 09, 2026 5:41 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Hello xfixium,
-&lt;br /&gt;
-
-&lt;br /&gt;
-The demo has a great presentation, the visuals have a lot of contrast and volume.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I was wondering if you had planned, and how, the rest of the battle content. Meaning backgrounds and enemies. Specifically about color choices. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-I can see that you have locked in 13 colors that have to be common between characters and enemies, which means all backgrounds will have to be implemented with these 13 colors. For merging purposes if I understand.
-&lt;br /&gt;
-
-&lt;br /&gt;
-This leaves 3 possible variable slots : are you planning to change them dynamically to be able to add an original color in the background and/or ennemies ? Or will these be set in stone ?
-&lt;br /&gt;
-
-&lt;br /&gt;
-Simply wondering this because of some color gradients used for some enemies or potential backgrounds, and how you are going to work around these. Making ReSeCom, I found out that colors between my monsters/characters and the background happened to clash pretty often, and as neither were underlined with black (for a more realistic approach) I often had to make specific palette swaps to be sure of having the best visibility. And this happened despite the fact that I was actually reserving dedicated colors for background (7) and others for the enemies (9).&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

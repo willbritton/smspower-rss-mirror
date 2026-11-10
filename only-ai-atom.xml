@@ -4,7 +4,27 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-10T18:40:30Z</modified>
+  <modified>2026-11-10T18:50:31Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141423#141423" />
+    <dc:creator>bandidox</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>bandidox</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141423#141423</id>
+    <issued>2026-11-10T18:49:38Z</issued>
+    <modified>2026-11-10T18:49:38Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35446" target="_blank"&gt;bandidox&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 10, 2026 6:49 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	You can expect a big update for this week
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/jli0U134SBg" frameborder="0"&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: [AI] New programming language MasterBASIC</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141416#141416" />
@@ -49,34 +69,4 @@ My personal recommendation is to support AI usage in this forum (not for competi
 This is just my opinion and recommendation.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [AI] New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141413#141413" />
-    <dc:creator>toxa</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>toxa</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141413#141413</id>
-    <issued>2026-11-09T19:37:20Z</issued>
-    <modified>2026-11-09T19:37:20Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641" target="_blank"&gt;toxa&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 09, 2026 7:37 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;badcomputer wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Toxa (I think) is saying this thread title should have the AI tag because the language/compiler was made with AI. He's right, and that makes sense if AI ports have to be tagged AI too.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-yes, definitely&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  </feed>
+</feed>

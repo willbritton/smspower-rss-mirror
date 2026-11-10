@@ -4,7 +4,83 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-10T06:50:29Z</modified>
+  <modified>2026-11-10T07:00:56Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141417#141417" />
+    <dc:creator>xfixium</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>xfixium</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141417#141417</id>
+    <issued>2026-11-10T06:56:41Z</issued>
+    <modified>2026-11-10T06:56:41Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=13282" target="_blank"&gt;xfixium&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 10, 2026 6:56 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class="attribution"&gt;cireza wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Hello xfixium,
+&lt;br /&gt;
+
+&lt;br /&gt;
+The demo has a great presentation, the visuals have a lot of contrast and volume.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I was wondering if you had planned, and how, the rest of the battle content. Meaning backgrounds and enemies. Specifically about color choices. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+I can see that you have locked in 13 colors that have to be common between characters and enemies, which means all backgrounds will have to be implemented with these 13 colors. For merging purposes if I understand.
+&lt;br /&gt;
+
+&lt;br /&gt;
+This leaves 3 possible variable slots : are you planning to change them dynamically to be able to add an original color in the background and/or ennemies ? Or will these be set in stone ?
+&lt;br /&gt;
+
+&lt;br /&gt;
+Simply wondering this because of some color gradients used for some enemies or potential backgrounds, and how you are going to work around these. Making ReSeCom, I found out that colors between my monsters/characters and the background happened to clash pretty often, and as neither were underlined with black (for a more realistic approach) I often had to make specific palette swaps to be sure of having the best visibility. And this happened despite the fact that I was actually reserving dedicated colors for background (7) and others for the enemies (9).    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Aye, excellent question. I think I may have done the palette design at least 4 times. Eventually I ended up with just a static 16 BG palette. Which does the job, but it removes the purples from certain enemies. Instead swapping out to reds for most. I prioritized keeping as much of the graphic detail as possible. I have touched up various enemies, adding dithering where needed. As some enemies use quite a lot of gradients. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+There was some concern when BG and enemy graphics use the same palette. For my own sanity, I made a script that runs the game through all the enemy formations and BGs, and for the most part, it looks fine. It also is a bit early for me, because those BGs will be replaced at some point, and there is still future challenges like the colored dams. Maybe my saving grace is that I have the option to use black, and the few issues I have, can be corrected with some creative outlining.
+&lt;br /&gt;
+
+&lt;br /&gt;
+In my notes I have marked down:
+&lt;br /&gt;
+mota BG:
+&lt;br /&gt;
+burnwolf, rabitta, bleeds into BG
+&lt;br /&gt;
+
+&lt;br /&gt;
+dungeon BG:
+&lt;br /&gt;
+sonomech, wirehead, firgamma, rabbit, can get lost in BG
+&lt;br /&gt;
+
+&lt;br /&gt;
+Image output samples (If you're interested):
+&lt;br /&gt;
+&lt;a href="https://pyxosoft.com/projects/sms_ps2/images/enemy_formations.zip" target="_blank"&gt;https://pyxosoft.com/projects/sms_ps2/images/enemy_formations.zip&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Website :: RE: Homebrew projects still missing from the Homebrew page</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141415#141415" />
@@ -225,62 +301,6 @@ New translations:
 - Latin
 &lt;br /&gt;
 - Korean&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141406#141406" />
-    <dc:creator>haroldoop</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>haroldoop</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141406#141406</id>
-    <issued>2026-11-08T21:25:38Z</issued>
-    <modified>2026-11-08T21:25:38Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 08, 2026 9:25 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Fantastic job!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: OBAKE - New SG-1000 game released</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141405#141405" />
-    <dc:creator>Andrs</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>Andrs</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141405#141405</id>
-    <issued>2026-11-08T21:23:34Z</issued>
-    <modified>2026-11-08T21:23:34Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35527" target="_blank"&gt;Andrs&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 08, 2026 9:23 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;siriokds wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;You did a great job.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks for the game.
-&lt;br /&gt;
-
-&lt;br /&gt;
-S.
-&lt;br /&gt;
-    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-I'm glad you liked it. Grazie!&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

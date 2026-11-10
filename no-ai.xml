@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 17:40:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 17:50:38 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,64 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: SMS Phantasy Star II</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141420#141420</link>
+<pubDate>Tue, 10 Nov 2026 17:47:18 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141420#141420</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=13282" target="_blank"&gt;xfixium&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 10, 2026 5:47 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;cireza wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;
+&lt;br /&gt;
+Funny that you mention the color purple by the way, because when making the Sword of Stone, I ended up in a similar situation and the game did not have any purple at all. This frustrated me to no end.
+&lt;br /&gt;
+    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Yeah, that one hurts
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;blockquote&gt;  &lt;div class="attribution"&gt;cireza wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;
+&lt;br /&gt;
+A final thing I want to say in case some people don't realize this, is that targetting the same ROM size as on MegaDrive might prove challenging because you cannot use palette swaps for the various palettes of a single enemy : they are actually redrawn using different indexes of the palette. If I were you I wouldn't bother at all with trying to reach such a ROM a size for now and simply keep it below 1 MB.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+I'm not too concerned about this. I want to see if I can get under 512 though. For flash carts with the 512KB limitation. I haven't explored optimization yet. I know there's opportunities, and compression options. I just haven't tested to see how it affects performance. I'm just glad the thing works 😆&lt;br /&gt;
+
+</description>
+<dc:creator>xfixium</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=123623#123623" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141420</comments>
+</item>
 <item>
 <title>Development :: RE: SMS Phantasy Star II</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141419#141419</link>
@@ -285,64 +343,6 @@ Posted: Mon Nov 09, 2026 4:34 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141407#141407" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141411</comments>
-</item>
-<item>
-<title>Development :: RE: Phantasy Star Gaiden - Translations</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141410#141410</link>
-<pubDate>Mon, 09 Nov 2026 16:31:39 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141410#141410</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=32987" target="_blank"&gt;Bieno&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 09, 2026 4:31 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;Dom aka Doke wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Phantasy Star Gaiden is a Sega Game Gear role-playing game developed by Japan System Supply and published by Sega. A spin-off of the popular Phantasy Star series, it was released exclusively in Japan in October 1992.
-&lt;br /&gt;
-
-&lt;br /&gt;
-New translations:
-&lt;br /&gt;
-- English
-&lt;br /&gt;
-- French
-&lt;br /&gt;
-- German
-&lt;br /&gt;
-- Spanish
-&lt;br /&gt;
-- Italian
-&lt;br /&gt;
-- Dutch
-&lt;br /&gt;
-- Portuguese (Brazil)
-&lt;br /&gt;
-- Danish
-&lt;br /&gt;
-- Catalan
-&lt;br /&gt;
-- Latin
-&lt;br /&gt;
-- Korean    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Amazing. More Phantasy Star stuff translated !&lt;br /&gt;
-
-</description>
-<dc:creator>Bieno</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141407#141407" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141410</comments>
 </item>
 </channel>
 </rss>

@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-10T19:10:31Z</modified>
+  <modified>2026-11-10T19:20:35Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141424#141424" />
+    <dc:creator>D</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>D</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141424#141424</id>
+    <issued>2026-11-10T19:11:31Z</issued>
+    <modified>2026-11-10T19:11:31Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=186" target="_blank"&gt;D&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 10, 2026 7:11 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Can't wait! The previous version already plays so well!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141423#141423" />
@@ -45,28 +61,4 @@
 Back to MasterBASIC - if someone have a suggestion what to add, what to change etc. feel free to post it here :). I started to code my medieval vertical shoot em up game in MasterBASIC and so far it's kinda pleasant experience :).&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [AI] New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141414#141414" />
-    <dc:creator>wolf83</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>wolf83</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141414#141414</id>
-    <issued>2026-11-09T21:07:09Z</issued>
-    <modified>2026-11-09T21:07:09Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=18678" target="_blank"&gt;wolf83&lt;/a&gt;&lt;br /&gt;
-	Subject: An opition about AI usage&lt;br /&gt;Posted: Mon Nov 09, 2026 9:07 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I understand that manual programming and using certain programming languages has its own aesthetics and nostalgia and the nostalgia is why we are here for. Also, code that we understand has a benefit. However, AI opens totally new possibilities in this community and only with AI many ideas and projects can be realistically finished. There are many projects and postings which people have started and then gave up on them due to lack of time, effort, expertise, and other limited resources. People just do not have sufficient time and persistence to realize or finish projects, or to go beyond basic prototypes, but with AI they could. Choosing the programming language, programming style, or hand-made code, quality of contributions are orthogonal topics to AI. For example, why can a person A not write hand-made code, if person B uses AI. Person A can make a good or bad contribution with hand-made code, person B can make a good or bad contribution with AI. These things are independent. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-My personal recommendation is to support AI usage in this forum (not for competitions) and to think how to prepare good instructions for AI so it understands how to work with the hardware and instructions effectively and enable projects. This would enable also non-experts to realize their long time wishes, that no person will otherwise implement. I am a programmer, but I do not have the time to study the hardware and all the programming that would be necessary for project that I would like to implement or mod in existing games. I would be happy to see am extensive knowledge base (agent skill) for an AI agent so it could realize the things that I would like to implement for my Game Gear. Also I have been waiting here for some projects to be finished and it never happened in the end, so the argument is real. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-This is just my opinion and recommendation.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

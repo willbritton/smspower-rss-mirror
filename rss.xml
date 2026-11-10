@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 19:10:30 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 19:20:35 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141424#141424</link>
+<pubDate>Tue, 10 Nov 2026 19:11:31 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141424#141424</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=186&quot; target=&quot;_blank&quot;&gt;D&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 10, 2026 7:11 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Can't wait! The previous version already plays so well!&lt;br /&gt;
+
+</description>
+<dc:creator>D</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140905#140905" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141424</comments>
+</item>
 <item>
 <title>Main :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141423#141423</link>
@@ -300,30 +316,6 @@ All added.&lt;br /&gt;
 <dc:subject>Website</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141415</comments>
-</item>
-<item>
-<title>Development :: RE: [AI] New programming language MasterBASIC</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141414#141414</link>
-<pubDate>Mon, 09 Nov 2026 21:07:09 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141414#141414</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=18678&quot; target=&quot;_blank&quot;&gt;wolf83&lt;/a&gt;&lt;br /&gt;
-Subject: An opition about AI usage&lt;br /&gt;
-Posted: Mon Nov 09, 2026 9:07 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I understand that manual programming and using certain programming languages has its own aesthetics and nostalgia and the nostalgia is why we are here for. Also, code that we understand has a benefit. However, AI opens totally new possibilities in this community and only with AI many ideas and projects can be realistically finished. There are many projects and postings which people have started and then gave up on them due to lack of time, effort, expertise, and other limited resources. People just do not have sufficient time and persistence to realize or finish projects, or to go beyond basic prototypes, but with AI they could. Choosing the programming language, programming style, or hand-made code, quality of contributions are orthogonal topics to AI. For example, why can a person A not write hand-made code, if person B uses AI. Person A can make a good or bad contribution with hand-made code, person B can make a good or bad contribution with AI. These things are independent. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-My personal recommendation is to support AI usage in this forum (not for competitions) and to think how to prepare good instructions for AI so it understands how to work with the hardware and instructions effectively and enable projects. This would enable also non-experts to realize their long time wishes, that no person will otherwise implement. I am a programmer, but I do not have the time to study the hardware and all the programming that would be necessary for project that I would like to implement or mod in existing games. I would be happy to see am extensive knowledge base (agent skill) for an AI agent so it could realize the things that I would like to implement for my Game Gear. Also I have been waiting here for some projects to be finished and it never happened in the end, so the argument is real. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-This is just my opinion and recommendation.&lt;br /&gt;
-
-</description>
-<dc:creator>wolf83</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141414</comments>
 </item>
 </channel>
 </rss>

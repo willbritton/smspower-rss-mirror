@@ -8,7 +8,38 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-10T12:10:32Z</modified>
+  <modified>2026-11-10T12:20:29Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141419#141419"/>
+    <dc:creator>cireza</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>cireza</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141419#141419</id>
+    <issued>2026-11-10T12:17:25Z</issued>
+    <modified>2026-11-10T12:17:25Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=25359&quot; target=&quot;_blank&quot;&gt;cireza&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 10, 2026 12:17 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;xfixium wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
+&lt;br /&gt;
+Aye, excellent question. I think I may have done the palette design at least 4 times.     &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks for sharing the complete set that you have generated, this clearly shows how much work you put into maximizing visibility. I think everything works well indeed, except maybe for a couple &amp;quot;orange&amp;quot; enemies on the dungeon BG. I suppose that you may plan different palettes for the BG ? Of course, they will not be strictly palette swaps. But this could help the few cases as you will know which enemy appears on which BG color. The dams also have color themes, this would work well.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Funny that you mention the color purple by the way, because when making the Sword of Stone, I ended up in a similar situation and the game did not have any purple at all. This frustrated me to no end.
+&lt;br /&gt;
+
+&lt;br /&gt;
+A final thing I want to say in case some people don't realize this, is that targetting the same ROM size as on MegaDrive might prove challenging because you cannot use palette swaps for the various palettes of a single enemy : they are actually redrawn using different indexes of the palette. If I were you I wouldn't bother at all with trying to reach such a ROM a size for now and simply keep it below 1 MB.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
     <link rel="alternate" type="text/html"
@@ -316,31 +347,6 @@ New translations:
 
 &lt;br /&gt;
 Amazing. More Phantasy Star stuff translated !&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Music :: RE: [VGM pack] Special Criminal Investigation</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141409#141409"/>
-    <dc:creator>kuja45</dc:creator>
-    <dc:subject>Music</dc:subject>
-    <author>
-		<name>kuja45</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141409#141409</id>
-    <issued>2026-11-09T09:56:25Z</issued>
-    <modified>2026-11-09T09:56:25Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=951&quot; target=&quot;_blank&quot;&gt;kuja45&lt;/a&gt;&lt;br /&gt;
-	Subject: Special Criminal Investigation: About the track called ‘unused’&lt;br /&gt;Posted: Mon Nov 09, 2026 9:56 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I think I’ve worked out what the music in the game corresponds to.
-&lt;br /&gt;
-In the game, it plays when you catch up with the car you’re chasing.
-&lt;br /&gt;
-And on the album “[PCCB-00024] Special
-&lt;br /&gt;
-Criminal Investigation”, it should be the track “Main Theme”, which would make sense if you follow the logic of Chase H.Q.
-&lt;br /&gt;
-But in the arcade game there are so many sound effects that you can hardly hear the music at all, so it’s quite difficult to confirm.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

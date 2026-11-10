@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<channel>
+<title>SMS Power!</title>
+<link>https://www.smspower.org:443/forums/</link>
+<description>Sega 8-bit Discussion</description>
+<managingEditor>noreply@smspower.org</managingEditor>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>RSS Feed 2.2.3</generator>
+<language>en</language>
+<lastBuildDate>Tue, 10 Nov 2026 04:00:51 GMT</lastBuildDate>
+<image>
+	<url>http://www.smspower.org/images/smspower.gif</url>
+	<title>SMS Power!</title>
+	<link>https://www.smspower.org:443/forums/</link>
+	<width>122</width>
+	<height>56</height>
+</image>
+<item>
+<title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141415#141415</link>
+<pubDate>Mon, 09 Nov 2026 22:17:32 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141415#141415</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826&quot; target=&quot;_blank&quot;&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 09, 2026 10:17 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;fanglespangle wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I found a few ROMS that ain't on the site and then realised most of them were made by Haroldoop, who already has a good number of his homebrew up and is active on here. I assume he submits his own stuff when he feels it's ready? But you also do version history on the game page so... *shrug*
+&lt;br /&gt;
+
+&lt;br /&gt;
+I'll pop them up here at least. I'm unsure of any rules you guys may have for these things:
+&lt;br /&gt;
+Seek and Destroy - &lt;a href=&quot;https://haroldo-ok.itch.io/seek-and-destroy-for-sega-master-system&quot; target=&quot;_blank&quot;&gt;https://haroldo-ok.itch.io/seek-and-destroy-for-sega-master-system&lt;/a&gt;
+&lt;br /&gt;
+Robozzle - &lt;a href=&quot;https://haroldo-ok.itch.io/robozzle-sms&quot; target=&quot;_blank&quot;&gt;https://haroldo-ok.itch.io/robozzle-sms&lt;/a&gt;
+&lt;br /&gt;
+Jill of the Jungle - &lt;a href=&quot;https://haroldo-ok.itch.io/jill-of-the-jungle-sms&quot; target=&quot;_blank&quot;&gt;https://haroldo-ok.itch.io/jill-of-the-jungle-sms&lt;/a&gt;
+&lt;br /&gt;
+Those Final Seconds - &lt;a href=&quot;https://haroldo-ok.itch.io/those-final-seconds-sms&quot; target=&quot;_blank&quot;&gt;https://haroldo-ok.itch.io/those-final-seconds-sms&lt;/a&gt;
+&lt;br /&gt;
+Project Galaxy - &lt;a href=&quot;https://haroldo-ok.itch.io/project-galaxy-sms&quot; target=&quot;_blank&quot;&gt;https://haroldo-ok.itch.io/project-galaxy-sms&lt;/a&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+All added.&lt;br /&gt;
+
+</description>
+<dc:creator>mateusbond</dc:creator>
+<dc:subject>Website</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141415</comments>
+</item>
+<item>
+<title>Development :: RE: [AI] New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141414#141414</link>
+<pubDate>Mon, 09 Nov 2026 21:07:09 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141414#141414</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=18678&quot; target=&quot;_blank&quot;&gt;wolf83&lt;/a&gt;&lt;br /&gt;
+Subject: An opition about AI usage&lt;br /&gt;
+Posted: Mon Nov 09, 2026 9:07 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I understand that manual programming and using certain programming languages has its own aesthetics and nostalgia and the nostalgia is why we are here for. Also, code that we understand has a benefit. However, AI opens totally new possibilities in this community and only with AI many ideas and projects can be realistically finished. There are many projects and postings which people have started and then gave up on them due to lack of time, effort, expertise, and other limited resources. People just do not have sufficient time and persistence to realize or finish projects, or to go beyond basic prototypes, but with AI they could. Choosing the programming language, programming style, or hand-made code, quality of contributions are orthogonal topics to AI. For example, why can a person A not write hand-made code, if person B uses AI. Person A can make a good or bad contribution with hand-made code, person B can make a good or bad contribution with AI. These things are independent. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+My personal recommendation is to support AI usage in this forum (not for competitions) and to think how to prepare good instructions for AI so it understands how to work with the hardware and instructions effectively and enable projects. This would enable also non-experts to realize their long time wishes, that no person will otherwise implement. I am a programmer, but I do not have the time to study the hardware and all the programming that would be necessary for project that I would like to implement or mod in existing games. I would be happy to see am extensive knowledge base (agent skill) for an AI agent so it could realize the things that I would like to implement for my Game Gear. Also I have been waiting here for some projects to be finished and it never happened in the end, so the argument is real. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+This is just my opinion and recommendation.&lt;br /&gt;
+
+</description>
+<dc:creator>wolf83</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141414</comments>
+</item>
+<item>
+<title>Development :: RE: [AI] New programming language MasterBASIC</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141413#141413</link>
+<pubDate>Mon, 09 Nov 2026 19:37:20 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141413#141413</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641&quot; target=&quot;_blank&quot;&gt;toxa&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 09, 2026 7:37 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;badcomputer wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Toxa (I think) is saying this thread title should have the AI tag because the language/compiler was made with AI. He's right, and that makes sense if AI ports have to be tagged AI too.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+yes, definitely&lt;br /&gt;
+
+</description>
+<dc:creator>toxa</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141413</comments>
+</item>
+<item>
+<title>Development :: RE: SMS Phantasy Star II</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141412#141412</link>
+<pubDate>Mon, 09 Nov 2026 17:41:55 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141412#141412</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=25359&quot; target=&quot;_blank&quot;&gt;cireza&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 09, 2026 5:41 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Hello xfixium,
+&lt;br /&gt;
+
+&lt;br /&gt;
+The demo has a great presentation, the visuals have a lot of contrast and volume.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I was wondering if you had planned, and how, the rest of the battle content. Meaning backgrounds and enemies. Specifically about color choices. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+I can see that you have locked in 13 colors that have to be common between characters and enemies, which means all backgrounds will have to be implemented with these 13 colors. For merging purposes if I understand.
+&lt;br /&gt;
+
+&lt;br /&gt;
+This leaves 3 possible variable slots : are you planning to change them dynamically to be able to add an original color in the background and/or ennemies ? Or will these be set in stone ?
+&lt;br /&gt;
+
+&lt;br /&gt;
+Simply wondering this because of some color gradients used for some enemies or potential backgrounds, and how you are going to work around these. Making ReSeCom, I found out that colors between my monsters/characters and the background happened to clash pretty often, and as neither were underlined with black (for a more realistic approach) I often had to make specific palette swaps to be sure of having the best visibility. And this happened despite the fact that I was actually reserving dedicated colors for background (7) and others for the enemies (9).&lt;br /&gt;
+
+</description>
+<dc:creator>cireza</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=123623#123623" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141412</comments>
+</item>
+<item>
+<title>Development :: RE: Phantasy Star Gaiden - Translations</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141411#141411</link>
+<pubDate>Mon, 09 Nov 2026 16:34:58 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141411#141411</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 09, 2026 4:34 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;The list of languages doesn’t match the files attached, and there’s no link to the source. Is this real? Is this LLM slop?&lt;br /&gt;
+
+</description>
+<dc:creator>Maxim</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141407#141407" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141411</comments>
+</item>
+<item>
+<title>Development :: RE: Phantasy Star Gaiden - Translations</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141410#141410</link>
+<pubDate>Mon, 09 Nov 2026 16:31:39 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141410#141410</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=32987&quot; target=&quot;_blank&quot;&gt;Bieno&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 09, 2026 4:31 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Dom aka Doke wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Phantasy Star Gaiden is a Sega Game Gear role-playing game developed by Japan System Supply and published by Sega. A spin-off of the popular Phantasy Star series, it was released exclusively in Japan in October 1992.
+&lt;br /&gt;
+
+&lt;br /&gt;
+New translations:
+&lt;br /&gt;
+- English
+&lt;br /&gt;
+- French
+&lt;br /&gt;
+- German
+&lt;br /&gt;
+- Spanish
+&lt;br /&gt;
+- Italian
+&lt;br /&gt;
+- Dutch
+&lt;br /&gt;
+- Portuguese (Brazil)
+&lt;br /&gt;
+- Danish
+&lt;br /&gt;
+- Catalan
+&lt;br /&gt;
+- Latin
+&lt;br /&gt;
+- Korean    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Amazing. More Phantasy Star stuff translated !&lt;br /&gt;
+
+</description>
+<dc:creator>Bieno</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141407#141407" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141410</comments>
+</item>
+<item>
+<title>Music :: RE: [VGM pack] Special Criminal Investigation</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141409#141409</link>
+<pubDate>Mon, 09 Nov 2026 09:56:25 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141409#141409</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=951&quot; target=&quot;_blank&quot;&gt;kuja45&lt;/a&gt;&lt;br /&gt;
+Subject: Special Criminal Investigation: About the track called ‘unused’&lt;br /&gt;
+Posted: Mon Nov 09, 2026 9:56 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I think I’ve worked out what the music in the game corresponds to.
+&lt;br /&gt;
+In the game, it plays when you catch up with the car you’re chasing.
+&lt;br /&gt;
+And on the album “[PCCB-00024] Special
+&lt;br /&gt;
+Criminal Investigation”, it should be the track “Main Theme”, which would make sense if you follow the logic of Chase H.Q.
+&lt;br /&gt;
+But in the arcade game there are so many sound effects that you can hardly hear the music at all, so it’s quite difficult to confirm.&lt;br /&gt;
+
+</description>
+<dc:creator>kuja45</dc:creator>
+<dc:subject>Music</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=131762#131762" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141409</comments>
+</item>
+<item>
+<title>Development :: Phantasy Star Gaiden - Translations</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141407#141407</link>
+<pubDate>Sun, 08 Nov 2026 22:39:43 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141407#141407</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35553&quot; target=&quot;_blank&quot;&gt;Dom aka Doke&lt;/a&gt;&lt;br /&gt;
+Subject: Phantasy Star Gaiden - Translations&lt;br /&gt;
+Posted: Sun Nov 08, 2026 10:39 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Phantasy Star Gaiden is a Sega Game Gear role-playing game developed by Japan System Supply and published by Sega. A spin-off of the popular Phantasy Star series, it was released exclusively in Japan in October 1992.
+&lt;br /&gt;
+
+&lt;br /&gt;
+New translations:
+&lt;br /&gt;
+- English
+&lt;br /&gt;
+- French
+&lt;br /&gt;
+- German
+&lt;br /&gt;
+- Spanish
+&lt;br /&gt;
+- Italian
+&lt;br /&gt;
+- Dutch
+&lt;br /&gt;
+- Portuguese (Brazil)
+&lt;br /&gt;
+- Danish
+&lt;br /&gt;
+- Catalan
+&lt;br /&gt;
+- Latin
+&lt;br /&gt;
+- Korean&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>Dom aka Doke</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141407#141407" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141407</comments>
+</item>
+<item>
+<title>Development :: RE: SMS Phantasy Star II</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141406#141406</link>
+<pubDate>Sun, 08 Nov 2026 21:25:38 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141406#141406</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 08, 2026 9:25 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Fantastic job!&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=123623#123623" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141406</comments>
+</item>
+<item>
+<title>Main :: RE: OBAKE - New SG-1000 game released</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141405#141405</link>
+<pubDate>Sun, 08 Nov 2026 21:23:34 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141405#141405</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35527&quot; target=&quot;_blank&quot;&gt;Andrs&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 08, 2026 9:23 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;siriokds wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;You did a great job.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks for the game.
+&lt;br /&gt;
+
+&lt;br /&gt;
+S.
+&lt;br /&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+I'm glad you liked it. Grazie!&lt;br /&gt;
+
+</description>
+<dc:creator>Andrs</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141255#141255" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141405</comments>
+</item>
+</channel>
+</rss>
+

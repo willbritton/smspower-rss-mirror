@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-11T15:21:14Z</modified>
+  <modified>2026-11-11T15:30:46Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141433#141433" />
+    <dc:creator>sverx</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>sverx</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141433#141433</id>
+    <issued>2026-11-11T15:26:44Z</issued>
+    <modified>2026-11-11T15:26:44Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 11, 2026 3:26 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Great effort! I hope to see it completed one day :)&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141432#141432" />
@@ -219,28 +235,4 @@ All topics titles must have &amp;quot;[AI]&amp;quot; at the start. All topics fo
 If you think your topic has been moved here wrongly, because your use of AI was not significant enough to warrant calling it &amp;quot;made by AI&amp;quot;, then please help us to clarify that usage and justify calling it &amp;quot;made by humans&amp;quot;.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Phantasy Star Compass Edition WIP</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141422#141422" />
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141422#141422</id>
-    <issued>2026-11-10T18:44:46Z</issued>
-    <modified>2026-11-10T18:44:46Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 10, 2026 6:44 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	See also &lt;a href="https://www.smspower.org/forums/21229-PhantasyStarMapHack" target="_blank"&gt;https://www.smspower.org/forums/21229-PhantasyStarMapHack&lt;/a&gt; posted recently.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Please can you clarify any AI usage for this?
-&lt;br /&gt;
-
-&lt;br /&gt;
-It seems to be built on top of an early version of the retranslation, why is that?&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

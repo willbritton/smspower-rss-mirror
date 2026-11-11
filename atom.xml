@@ -8,7 +8,30 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-11T15:30:46Z</modified>
+  <modified>2026-11-11T15:40:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Golden Axe Warrior Hack : A little touch of Hyrule</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141434#141434"/>
+    <dc:creator>elfor</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>elfor</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141434#141434</id>
+    <issued>2026-11-11T15:39:23Z</issued>
+    <modified>2026-11-11T15:39:23Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=14799&quot; target=&quot;_blank&quot;&gt;elfor&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 11, 2026 3:39 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Guy: Could you do a Link sprite only hack? Just the player sprite i mean.
+&lt;br /&gt;
+
+&lt;br /&gt;
+To combine with the new Golden Axe Warrior - Improvement Hack:
+&lt;br /&gt;
+&lt;a href=&quot;https://www.romhacking.net/hacks/10311/&quot; target=&quot;_blank&quot;&gt;https://www.romhacking.net/hacks/10311/&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
     <link rel="alternate" type="text/html"
@@ -274,27 +297,6 @@ So, this is AI. In the absence of further clarification I have to reject this bo
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=186&quot; target=&quot;_blank&quot;&gt;D&lt;/a&gt;&lt;br /&gt;
 	Posted: Tue Nov 10, 2026 7:11 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Can't wait! The previous version already plays so well!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141423#141423"/>
-    <dc:creator>bandidox</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>bandidox</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141423#141423</id>
-    <issued>2026-11-10T18:49:38Z</issued>
-    <modified>2026-11-10T18:49:38Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35446&quot; target=&quot;_blank&quot;&gt;bandidox&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 10, 2026 6:49 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	You can expect a big update for this week
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/jli0U134SBg&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

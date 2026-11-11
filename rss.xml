@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 15:30:45 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 15:40:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,28 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: Golden Axe Warrior Hack : A little touch of Hyrule</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141434#141434</link>
+<pubDate>Wed, 11 Nov 2026 15:39:23 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141434#141434</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=14799&quot; target=&quot;_blank&quot;&gt;elfor&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 11, 2026 3:39 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Guy: Could you do a Link sprite only hack? Just the player sprite i mean.
+&lt;br /&gt;
+
+&lt;br /&gt;
+To combine with the new Golden Axe Warrior - Improvement Hack:
+&lt;br /&gt;
+&lt;a href=&quot;https://www.romhacking.net/hacks/10311/&quot; target=&quot;_blank&quot;&gt;https://www.romhacking.net/hacks/10311/&lt;/a&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>elfor</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=122223#122223" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141434</comments>
+</item>
 <item>
 <title>Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141433#141433</link>
@@ -274,26 +296,6 @@ Posted: Tue Nov 10, 2026 7:11 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140905#140905" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141424</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141423#141423</link>
-<pubDate>Tue, 10 Nov 2026 18:49:38 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141423#141423</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35446&quot; target=&quot;_blank&quot;&gt;bandidox&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 10, 2026 6:49 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;You can expect a big update for this week
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/jli0U134SBg&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>bandidox</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140905#140905" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141423</comments>
 </item>
 </channel>
 </rss>

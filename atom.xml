@@ -8,7 +8,108 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-11T09:30:43Z</modified>
+  <modified>2026-11-11T09:40:31Z</modified>
+  <entry>
+    <title mode="escaped">Development :: [WIP] Tactical-RPG for the MS by cireza</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141428#141428"/>
+    <dc:creator>cireza</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>cireza</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141428#141428</id>
+    <issued>2026-11-11T09:33:00Z</issued>
+    <modified>2026-11-11T09:33:00Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=25359&quot; target=&quot;_blank&quot;&gt;cireza&lt;/a&gt;&lt;br /&gt;
+	Subject: [WIP] Tactical-RPG for the MS by cireza&lt;br /&gt;Posted: Wed Nov 11, 2026 9:33 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Hello everyone,
+&lt;br /&gt;
+
+&lt;br /&gt;
+I am sharing today the proof of concept I have been working on since this summer, after completing ReSeCom. Concerning ReSeCom, the game will release on Evercade in the Indie Collection 5 cartridge at the beginning of next year, and I am still looking into having a physical release on Master System, hopefully sometime next year.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The next game will be a Tactical-RPG. It is something I always wanted to make but felt like it was going to be too overwhelming. This is my third game already, close to 5 years have passed since I started doing this, so if I don't make it now I am not sure I will make it ever. This is why I decided to give a go. Thankfully I have earned a lot of experience with previous projets on how to organize my code and data structures.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The challenge of doing such a game on MS lies mainly around the VRAM and the palette. Shining Force games did make it to the GG, but they split the palette in 2, with colors reserved for the units, and others for the BG. It works, but it doesn't look great. Other games do manage to lock the 16 colors for everything : unit + map. This is what I am doing here. There was a lot of back and forth though on how to achieve the presentation.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Here you can see that the scale for the game is based on 3x3 tiles and units, which is pretty big (same size as Shining Force on MD). I have decided to use a clear palette to identify the walk area :
+&lt;br /&gt;
+&lt;img src=&quot;https://www.smspower.org/forums/files/rom_140.png&quot; border=&quot;0&quot; /&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+There will be traits for characters that tell us what they like and dislike. Window placement is dynamic to make sure that it doesn't come over the possible target areas (which are not implemented yet).
+&lt;br /&gt;
+&lt;img src=&quot;https://www.smspower.org/forums/files/rom_1_995.png&quot; border=&quot;0&quot; /&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Night palette as well :
+&lt;br /&gt;
+&lt;img src=&quot;https://www.smspower.org/forums/files/rom_4_995.png&quot; border=&quot;0&quot; /&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;img src=&quot;https://www.smspower.org/forums/files/rom_3_193.png&quot; border=&quot;0&quot; /&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+The engine manages up to 21 units (this uses around half of the VRAM for units alone) :
+&lt;br /&gt;
+&lt;img src=&quot;https://www.smspower.org/forums/files/rom_2_132.png&quot; border=&quot;0&quot; /&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Finally here is a mock-up of how the battle scenes will look :
+&lt;br /&gt;
+&lt;img src=&quot;https://www.smspower.org/forums/files/battle_mockup_bg_only_153.png&quot; border=&quot;0&quot; /&gt;
+&lt;br /&gt;
+Here again choices have been made about the colors and palettes and how things are split. I wanted a symmetric system so in the end, you get the enemy + its BG on one palette and the ally + its BG on another. I have a set of locked in colors, and slot 0 is used for the blue/red color of the ally/enemy in the windows.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The game will be about optimizing your positive traits and exploiting the negative traits of the enemies to maximize damage.
+&lt;br /&gt;
+
+&lt;br /&gt;
+You can also see on the screenshots that I managed to implement a height feature. Though I did take a shortcut here, because a proper perspective proved to difficult to implement, so I found a way to have a height system while still retaining a perfect 3x3 tile grid. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+Here is the test map that I used to fine tune a lot of things :
+&lt;br /&gt;
+&lt;img src=&quot;https://www.smspower.org/forums/files/capture_dcran_2026_11_11_102606_168.png&quot; border=&quot;0&quot; /&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Here are the things that are implemented :
+&lt;br /&gt;
+- proper scrolling of the map + movement of cursor, with management of the edges of the map (this was new for me)
+&lt;br /&gt;
+- units act by order depending on their speed
+&lt;br /&gt;
+- walk area is calculated and takes into account enemy units, blocking tiles and slow tiles
+&lt;br /&gt;
+- moving the unit to another location, then displays the windows
+&lt;br /&gt;
+- goes on to the next unit automatically
+&lt;br /&gt;
+- brand new police I have created, sadly Variable Width Font won't be in this game, I don't have enough VRAM for this
+&lt;br /&gt;
+- dynamic calculation of the lifebars (tile forging)
+&lt;br /&gt;
+- dynamic merging of the units in the background
+&lt;br /&gt;
+- same for the battles, I have written a function to merge dynamically over the background the unit, I can select the size, shape and position&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: The purpose of this forum, and rules</title>
     <link rel="alternate" type="text/html"
@@ -250,71 +351,6 @@ Demo vid:
 &lt;a href=&quot;https://pyxosoft.com/projects/sms_ps2/videos/psii_0010.mp4&quot; target=&quot;_blank&quot;&gt;https://pyxosoft.com/projects/sms_ps2/videos/psii_0010.mp4&lt;/a&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
 &lt;br /&gt;
 Amazing! Im curious in see the battle system working! Congratulations&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141417#141417"/>
-    <dc:creator>xfixium</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>xfixium</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141417#141417</id>
-    <issued>2026-11-10T06:56:41Z</issued>
-    <modified>2026-11-10T06:56:41Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=13282&quot; target=&quot;_blank&quot;&gt;xfixium&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 10, 2026 6:56 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;cireza wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Hello xfixium,
-&lt;br /&gt;
-
-&lt;br /&gt;
-The demo has a great presentation, the visuals have a lot of contrast and volume.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I was wondering if you had planned, and how, the rest of the battle content. Meaning backgrounds and enemies. Specifically about color choices. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-I can see that you have locked in 13 colors that have to be common between characters and enemies, which means all backgrounds will have to be implemented with these 13 colors. For merging purposes if I understand.
-&lt;br /&gt;
-
-&lt;br /&gt;
-This leaves 3 possible variable slots : are you planning to change them dynamically to be able to add an original color in the background and/or ennemies ? Or will these be set in stone ?
-&lt;br /&gt;
-
-&lt;br /&gt;
-Simply wondering this because of some color gradients used for some enemies or potential backgrounds, and how you are going to work around these. Making ReSeCom, I found out that colors between my monsters/characters and the background happened to clash pretty often, and as neither were underlined with black (for a more realistic approach) I often had to make specific palette swaps to be sure of having the best visibility. And this happened despite the fact that I was actually reserving dedicated colors for background (7) and others for the enemies (9).    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Aye, excellent question. I think I may have done the palette design at least 4 times. Eventually I ended up with just a static 16 BG palette. Which does the job, but it removes the purples from certain enemies. Instead swapping out to reds for most. I prioritized keeping as much of the graphic detail as possible. I have touched up various enemies, adding dithering where needed. As some enemies use quite a lot of gradients. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-There was some concern when BG and enemy graphics use the same palette. For my own sanity, I made a script that runs the game through all the enemy formations and BGs, and for the most part, it looks fine. It also is a bit early for me, because those BGs will be replaced at some point, and there is still future challenges like the colored dams. Maybe my saving grace is that I have the option to use black, and the few issues I have, can be corrected with some creative outlining.
-&lt;br /&gt;
-
-&lt;br /&gt;
-In my notes I have marked down:
-&lt;br /&gt;
-mota BG:
-&lt;br /&gt;
-burnwolf, rabitta, bleeds into BG
-&lt;br /&gt;
-
-&lt;br /&gt;
-dungeon BG:
-&lt;br /&gt;
-sonomech, wirehead, firgamma, rabbit, can get lost in BG
-&lt;br /&gt;
-
-&lt;br /&gt;
-Image output samples (If you're interested):
-&lt;br /&gt;
-&lt;a href=&quot;https://pyxosoft.com/projects/sms_ps2/images/enemy_formations.zip&quot; target=&quot;_blank&quot;&gt;https://pyxosoft.com/projects/sms_ps2/images/enemy_formations.zip&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

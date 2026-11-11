@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-11T13:30:46Z</modified>
+  <modified>2026-11-11T13:40:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141429#141429" />
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141429#141429</id>
+    <issued>2026-11-11T13:36:18Z</issued>
+    <modified>2026-11-11T13:36:18Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 11, 2026 1:36 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Police = font :)&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: [WIP] Tactical-RPG for the MS by cireza</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141428#141428" />
@@ -271,60 +287,6 @@ Funny that you mention the color purple by the way, because when making the Swor
 
 &lt;br /&gt;
 A final thing I want to say in case some people don't realize this, is that targetting the same ROM size as on MegaDrive might prove challenging because you cannot use palette swaps for the various palettes of a single enemy : they are actually redrawn using different indexes of the palette. If I were you I wouldn't bother at all with trying to reach such a ROM a size for now and simply keep it below 1 MB.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: SMS Phantasy Star II</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141418#141418" />
-    <dc:creator>segarule</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>segarule</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141418#141418</id>
-    <issued>2026-11-10T09:01:47Z</issued>
-    <modified>2026-11-10T09:01:47Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689" target="_blank"&gt;segarule&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 10, 2026 9:01 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;xfixium wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;A demo is out, but not too much going on, it's basically a walking demo. You can visit a bunch of areas on Mota. Paseo, Oputa, Arima, Shure, Nido, and the Bio Systems lab. All the bridges are open, so you can explore most of Mota, except the areas that require the Jet Scooter. Random encounters happen. Pressing button 1 escapes the battle, button 2 cycles through 3 different test battle backgrounds. Pressing button 1 opens the menu when on the field. The only other menu available is the SYS menu. You can select the walking speed you desire from there. No data driven dialog text yet. The continue menu is just a mock up with no code behind it yet.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I had this close to a demo about roughly a year ago. But as luck would have it, my laptop died, and my motivation went out the window with it. But the last few weeks or so, I looked at the remaining items of my demo ready todo list, and got it done.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Some notes about it's current state. Most of the graphics conversion is done for the Mota towns. There are things I still want to adjust and redo however. The overworld will get a total re-vamp at some point. The battle backgrounds are placeholders. Except the VR one, which I consider done. The grass bg one is a PS1 bg, with some edits. The dungeon bg is a PSIV bg edited. So those will eventually be original graphics. Some of the enemies still need some TLC. I condensed the menus to save on RAM and screen real estate. Most main character sprites are done, or just need a little tweaking. Just missing Kain and Hugh. Probably some other notes I'm missing XD. I think that's it, for now.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks for viewing.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Download Link:
-&lt;br /&gt;
-&lt;a href="https://pyxosoft.com/projects/sms_ps2/downloads/sms_phantasy_star_ii.sms" target="_blank"&gt;https://pyxosoft.com/projects/sms_ps2/downloads/sms_phantasy_star_ii.sms&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Demo vid:
-&lt;br /&gt;
-&lt;a href="https://pyxosoft.com/projects/sms_ps2/videos/psii_0010.mp4" target="_blank"&gt;https://pyxosoft.com/projects/sms_ps2/videos/psii_0010.mp4&lt;/a&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-Amazing! Im curious in see the battle system working! Congratulations&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

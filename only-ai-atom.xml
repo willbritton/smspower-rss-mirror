@@ -4,12 +4,48 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-11T05:40:30Z</modified>
+  <modified>2026-11-11T05:50:29Z</modified>
   <entry>
-    <title mode="escaped">Main :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+    <title mode="escaped">AI :: RE: [AI] Phantasy Star - Map Hack</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141425#141425" />
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>AI</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141425#141425</id>
+    <issued>2026-11-11T05:44:43Z</issued>
+    <modified>2026-11-11T05:44:43Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 11, 2026 5:44 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;a href="https://junkatana.github.io/historia.html" target="_blank"&gt;https://junkatana.github.io/historia.html&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;blockquote&gt;  &lt;div class="attribution"&gt;Quote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+	var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));	SXBB[id] = new _SXBB(id);	SXBB[id].T['select'] = 'Select';	SXBB[id].T['expand'] = '[+]';	SXBB[id].T['contract'] = '[-]';	SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+      SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt; Now, with the help of artificial intelligence, he is bringing new things to the romhacking scene.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+So, this is AI. In the absence of further clarification I have to reject this both as a development topic and as a candidate for the retranslation project.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141424#141424" />
     <dc:creator>D</dc:creator>
-    <dc:subject>Main</dc:subject>
+    <dc:subject>AI</dc:subject>
     <author>
 		<name>D</name>
     </author>
@@ -22,10 +58,10 @@
 	</content>
   </entry>
   <entry>
-    <title mode="escaped">Main :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+    <title mode="escaped">AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141423#141423" />
     <dc:creator>bandidox</dc:creator>
-    <dc:subject>Main</dc:subject>
+    <dc:subject>AI</dc:subject>
     <author>
 		<name>bandidox</name>
     </author>
@@ -61,4 +97,4 @@
 Back to MasterBASIC - if someone have a suggestion what to add, what to change etc. feel free to post it here :). I started to code my medieval vertical shoot em up game in MasterBASIC and so far it's kinda pleasant experience :).&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

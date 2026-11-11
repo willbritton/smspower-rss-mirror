@@ -8,13 +8,38 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-11T05:40:30Z</modified>
+  <modified>2026-11-11T05:50:29Z</modified>
   <entry>
-    <title mode="escaped">Main :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+    <title mode="escaped">AI :: RE: [AI] Phantasy Star - Map Hack</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141425#141425"/>
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>AI</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141425#141425</id>
+    <issued>2026-11-11T05:44:43Z</issued>
+    <modified>2026-11-11T05:44:43Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 11, 2026 5:44 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;a href=&quot;https://junkatana.github.io/historia.html&quot; target=&quot;_blank&quot;&gt;https://junkatana.github.io/historia.html&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Quote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--	var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));	SXBB[id] = new _SXBB(id);	SXBB[id].T['select'] = 'Select';	SXBB[id].T['expand'] = '[+]';	SXBB[id].T['contract'] = '[-]';	SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--      SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt; Now, with the help of artificial intelligence, he is bringing new things to the romhacking scene.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+So, this is AI. In the absence of further clarification I have to reject this both as a development topic and as a candidate for the retranslation project.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
     <link rel="alternate" type="text/html"
      href="https://www.smspower.org:443/forums/viewtopic.php?p=141424#141424"/>
     <dc:creator>D</dc:creator>
-    <dc:subject>Main</dc:subject>
+    <dc:subject>AI</dc:subject>
     <author>
 		<name>D</name>
     </author>
@@ -27,11 +52,11 @@
 	</content>
   </entry>
   <entry>
-    <title mode="escaped">Main :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+    <title mode="escaped">AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
     <link rel="alternate" type="text/html"
      href="https://www.smspower.org:443/forums/viewtopic.php?p=141423#141423"/>
     <dc:creator>bandidox</dc:creator>
-    <dc:subject>Main</dc:subject>
+    <dc:subject>AI</dc:subject>
     <author>
 		<name>bandidox</name>
     </author>
@@ -282,41 +307,6 @@ Image output samples (If you're interested):
 
 &lt;br /&gt;
 Back to MasterBASIC - if someone have a suggestion what to add, what to change etc. feel free to post it here :). I started to code my medieval vertical shoot em up game in MasterBASIC and so far it's kinda pleasant experience :).&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Website :: RE: Homebrew projects still missing from the Homebrew page</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141415#141415"/>
-    <dc:creator>mateusbond</dc:creator>
-    <dc:subject>Website</dc:subject>
-    <author>
-		<name>mateusbond</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141415#141415</id>
-    <issued>2026-11-09T22:17:32Z</issued>
-    <modified>2026-11-09T22:17:32Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826&quot; target=&quot;_blank&quot;&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 09, 2026 10:17 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;fanglespangle wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I found a few ROMS that ain't on the site and then realised most of them were made by Haroldoop, who already has a good number of his homebrew up and is active on here. I assume he submits his own stuff when he feels it's ready? But you also do version history on the game page so... *shrug*
-&lt;br /&gt;
-
-&lt;br /&gt;
-I'll pop them up here at least. I'm unsure of any rules you guys may have for these things:
-&lt;br /&gt;
-Seek and Destroy - &lt;a href=&quot;https://haroldo-ok.itch.io/seek-and-destroy-for-sega-master-system&quot; target=&quot;_blank&quot;&gt;https://haroldo-ok.itch.io/seek-and-destroy-for-sega-master-system&lt;/a&gt;
-&lt;br /&gt;
-Robozzle - &lt;a href=&quot;https://haroldo-ok.itch.io/robozzle-sms&quot; target=&quot;_blank&quot;&gt;https://haroldo-ok.itch.io/robozzle-sms&lt;/a&gt;
-&lt;br /&gt;
-Jill of the Jungle - &lt;a href=&quot;https://haroldo-ok.itch.io/jill-of-the-jungle-sms&quot; target=&quot;_blank&quot;&gt;https://haroldo-ok.itch.io/jill-of-the-jungle-sms&lt;/a&gt;
-&lt;br /&gt;
-Those Final Seconds - &lt;a href=&quot;https://haroldo-ok.itch.io/those-final-seconds-sms&quot; target=&quot;_blank&quot;&gt;https://haroldo-ok.itch.io/those-final-seconds-sms&lt;/a&gt;
-&lt;br /&gt;
-Project Galaxy - &lt;a href=&quot;https://haroldo-ok.itch.io/project-galaxy-sms&quot; target=&quot;_blank&quot;&gt;https://haroldo-ok.itch.io/project-galaxy-sms&lt;/a&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-All added.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

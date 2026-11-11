@@ -8,7 +8,66 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-11T21:50:31Z</modified>
+  <modified>2026-11-11T22:00:51Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: [AI] Wolfenstein 3D for Sega Game Gear</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141437#141437"/>
+    <dc:creator>haroldoop</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>haroldoop</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141437#141437</id>
+    <issued>2026-11-11T21:51:09Z</issued>
+    <modified>2026-11-11T21:51:09Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+	Subject: [AI] Wolfenstein 3D for Sega Game Gear&lt;br /&gt;Posted: Wed Nov 11, 2026 9:51 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/T48nBVCLgPM&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+🔫 Wolfenstein 3D (Game Gear) --- Experimental v0.0.1 Port
+&lt;br /&gt;
+----------------------------------------------------------
+&lt;br /&gt;
+
+&lt;br /&gt;
+Building upon the existing Sega Master System codebase (`wolf-3d-sms`), this experimental *v0.0.1* release adapts the Wolfenstein 3D shareware episode for the Sega Game Gear using Arena.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Github repo: &lt;a href=&quot;https://github.com/haroldo-ok/wolf-3d-gg&quot; target=&quot;_blank&quot;&gt;https://github.com/haroldo-ok/wolf-3d-gg&lt;/a&gt;
+&lt;br /&gt;
+Itch.io page: &lt;a href=&quot;https://haroldo-ok.itch.io/wolfenstein-3d-gg&quot; target=&quot;_blank&quot;&gt;https://haroldo-ok.itch.io/wolfenstein-3d-gg&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+🎮 Game Gear Adaptation &amp;amp; UI Changes
+&lt;br /&gt;
+------------------------------------
+&lt;br /&gt;
+
+&lt;br /&gt;
+*Display &amp;amp; Viewport:* repositioned the 160 × 96 raycasted 3D view squarely inside the Game Gear's smaller LCD screen area, paired with a newly designed, compact, and clearly labelled HUD.
+&lt;br /&gt;
+
+&lt;br /&gt;
+*Hardware Integration:* Added support for Start-button input, native Game Gear palette writing, stereo sound routing, and an export-region ROM header.
+&lt;br /&gt;
+
+&lt;br /&gt;
+*Menus &amp;amp; Screens Adapted:* Redesigned layout flows for difficulty selection, sound options, save slots, high scores, name entry, confirmation prompts, intermissions, and victory screens.
+&lt;br /&gt;
+
+&lt;br /&gt;
+*Pannable High-Resolution Art:* Resized title screens and made help/ending pages pannable so players can view full-resolution graphics on the smaller portable screen.
+&lt;br /&gt;
+
+&lt;br /&gt;
+*Tooling:* Created dedicated Game Gear build scripts and automated emulator test harnesses&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Commander Keen 1 for Sega Master System</title>
     <link rel="alternate" type="text/html"
@@ -382,35 +441,6 @@ Here are the things that are implemented :
 - dynamic merging of the units in the background
 &lt;br /&gt;
 - same for the battles, I have written a function to merge dynamically over the background the unit, I can select the size, shape and position&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: The purpose of this forum, and rules</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141427#141427"/>
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141427#141427</id>
-    <issued>2026-11-11T06:26:17Z</issued>
-    <modified>2026-11-11T06:26:17Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Subject: The purpose of this forum, and rules&lt;br /&gt;Posted: Wed Nov 11, 2026 6:26 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	We are living in a time of technological change where people are able to use generative AI to produce many things far faster than in the past. We want to draw a distinction between creations for Sega 8-bit video games that were made using such tools, and those made by our community over the years using traditional techniques of doing all the work by hand.
-&lt;br /&gt;
-
-&lt;br /&gt;
-This is a complex topic and a moving target. There is a clear difference between using AI to &amp;quot;vibe port&amp;quot; a game, or to generate some cover art, versus using it to help with some minor aspect of tooling or as a search/summarisation tool. For now, we are aiming to just label and segregate these topics so that it is made as clear as possible to the users that these are not completely &amp;quot;made by humans&amp;quot;.
-&lt;br /&gt;
-
-&lt;br /&gt;
-All topics titles must have &amp;quot;[AI]&amp;quot; at the start. All topics for AI-generated works must be in this forum.
-&lt;br /&gt;
-
-&lt;br /&gt;
-If you think your topic has been moved here wrongly, because your use of AI was not significant enough to warrant calling it &amp;quot;made by AI&amp;quot;, then please help us to clarify that usage and justify calling it &amp;quot;made by humans&amp;quot;.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

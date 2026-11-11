@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 14:40:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 14:50:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,36 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141432#141432</link>
+<pubDate>Wed, 11 Nov 2026 14:41:33 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141432#141432</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=25359" target="_blank"&gt;cireza&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 11, 2026 2:41 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;Maxim wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Police = font :)    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+Changed that for you.&lt;br /&gt;
+
+</description>
+<dc:creator>cireza</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141428#141428" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141432</comments>
+</item>
 <item>
 <title>MEKA :: RE: Meka 0.80 with new sound engine *TESTERS WANTED!*</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141431#141431</link>
@@ -158,7 +188,7 @@ Here are the things that are implemented :
 &lt;br /&gt;
 - goes on to the next unit automatically
 &lt;br /&gt;
-- brand new police I have created, sadly Variable Width Font won't be in this game, I don't have enough VRAM for this
+- brand new font I have created, sadly Variable Width Font won't be in this game, I don't have enough VRAM for this
 &lt;br /&gt;
 - dynamic calculation of the lifebars (tile forging)
 &lt;br /&gt;
@@ -223,22 +253,6 @@ It seems to be built on top of an early version of the retranslation, why is tha
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141421#141421" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141422</comments>
-</item>
-<item>
-<title>Development :: Phantasy Star Compass Edition WIP</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141421#141421</link>
-<pubDate>Tue, 10 Nov 2026 18:20:50 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141421#141421</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35560" target="_blank"&gt;OldCores&lt;/a&gt;&lt;br /&gt;
-Subject: Phantasy Star Compass Edition WIP&lt;br /&gt;
-Posted: Tue Nov 10, 2026 6:20 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Well, I’m new here, and I’d like to share a small addition—still a work in progress—for my all-time favorite game.&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>OldCores</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141421#141421" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141421</comments>
 </item>
 </channel>
 </rss>

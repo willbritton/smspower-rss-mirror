@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 05:50:28 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 06:00:52 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -288,7 +288,7 @@ Image output samples (If you're interested):
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141417</comments>
 </item>
 <item>
-<title>Development :: RE: [AI] New programming language MasterBASIC</title>
+<title>AI :: RE: [AI] New programming language MasterBASIC</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141416#141416</link>
 <pubDate>Tue, 10 Nov 2026 06:55:16 GMT</pubDate>
 <guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141416#141416</guid>
@@ -303,7 +303,7 @@ Back to MasterBASIC - if someone have a suggestion what to add, what to change e
 
 </description>
 <dc:creator>Materion</dc:creator>
-<dc:subject>Development</dc:subject>
+<dc:subject>AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141348#141348" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141416</comments>
 </item>

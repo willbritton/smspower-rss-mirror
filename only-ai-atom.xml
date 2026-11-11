@@ -4,12 +4,12 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-11T06:20:30Z</modified>
+  <modified>2026-11-11T06:30:43Z</modified>
   <entry>
-    <title mode="escaped">AI :: RE: [AI] Phantasy Star - Map Hack</title>
+    <title mode="escaped">Made By AI :: RE: [AI] Phantasy Star - Map Hack</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141425#141425" />
     <dc:creator>Maxim</dc:creator>
-    <dc:subject>AI</dc:subject>
+    <dc:subject>Made By AI</dc:subject>
     <author>
 		<name>Maxim</name>
     </author>
@@ -42,10 +42,10 @@ So, this is AI. In the absence of further clarification I have to reject this bo
 	</content>
   </entry>
   <entry>
-    <title mode="escaped">AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+    <title mode="escaped">Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141424#141424" />
     <dc:creator>D</dc:creator>
-    <dc:subject>AI</dc:subject>
+    <dc:subject>Made By AI</dc:subject>
     <author>
 		<name>D</name>
     </author>
@@ -58,10 +58,10 @@ So, this is AI. In the absence of further clarification I have to reject this bo
 	</content>
   </entry>
   <entry>
-    <title mode="escaped">AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+    <title mode="escaped">Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141423#141423" />
     <dc:creator>bandidox</dc:creator>
-    <dc:subject>AI</dc:subject>
+    <dc:subject>Made By AI</dc:subject>
     <author>
 		<name>bandidox</name>
     </author>
@@ -77,24 +77,4 @@ So, this is AI. In the absence of further clarification I have to reject this bo
 &lt;iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/jli0U134SBg" frameborder="0"&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">AI :: RE: [AI] New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141416#141416" />
-    <dc:creator>Materion</dc:creator>
-    <dc:subject>AI</dc:subject>
-    <author>
-		<name>Materion</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141416#141416</id>
-    <issued>2026-11-10T06:55:16Z</issued>
-    <modified>2026-11-10T06:55:16Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539" target="_blank"&gt;Materion&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 10, 2026 6:55 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I completely agree - hand coded game can be good or bad - same goes for AI coded stuff. It's not a matter if it's hand made or AI made but the effort the creator of game puts into the game/port. Of course I understand competition - it's different matter but for normal posts why not? I will hand code my game and use hand made graphics/music/sound but if someone go AI route and make a good, quality game why stigmatize it?
-&lt;br /&gt;
-
-&lt;br /&gt;
-Back to MasterBASIC - if someone have a suggestion what to add, what to change etc. feel free to post it here :). I started to code my medieval vertical shoot em up game in MasterBASIC and so far it's kinda pleasant experience :).&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

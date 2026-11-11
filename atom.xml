@@ -8,13 +8,42 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-11T06:20:30Z</modified>
+  <modified>2026-11-11T06:30:43Z</modified>
   <entry>
-    <title mode="escaped">AI :: RE: [AI] Phantasy Star - Map Hack</title>
+    <title mode="escaped">Made By AI :: The purpose of this forum, and rules</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141427#141427"/>
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141427#141427</id>
+    <issued>2026-11-11T06:26:17Z</issued>
+    <modified>2026-11-11T06:26:17Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Subject: The purpose of this forum, and rules&lt;br /&gt;Posted: Wed Nov 11, 2026 6:26 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	We are living in a time of technological change where people are able to use generative AI to produce many things far faster than in the past. We want to draw a distinction between creations for Sega 8-bit video games that were made using such tools, and those made by our community over the years using traditional techniques of doing all the work by hand.
+&lt;br /&gt;
+
+&lt;br /&gt;
+This is a complex topic and a moving target. There is a clear difference between using AI to &amp;quot;vibe port&amp;quot; a game, or to generate some cover art, versus using it to help with some minor aspect of tooling or as a search/summarisation tool. For now, we are aiming to just label and segregate these topics so that it is made as clear as possible to the users that these are not completely &amp;quot;made by humans&amp;quot;.
+&lt;br /&gt;
+
+&lt;br /&gt;
+All topics titles must have &amp;quot;[AI]&amp;quot; at the start. All topics for AI-generated works must be in this forum.
+&lt;br /&gt;
+
+&lt;br /&gt;
+If you think your topic has been moved here wrongly, because your use of AI was not significant enough to warrant calling it &amp;quot;made by AI&amp;quot;, then please help us to clarify that usage and justify calling it &amp;quot;made by humans&amp;quot;.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Phantasy Star - Map Hack</title>
     <link rel="alternate" type="text/html"
      href="https://www.smspower.org:443/forums/viewtopic.php?p=141425#141425"/>
     <dc:creator>Maxim</dc:creator>
-    <dc:subject>AI</dc:subject>
+    <dc:subject>Made By AI</dc:subject>
     <author>
 		<name>Maxim</name>
     </author>
@@ -35,11 +64,11 @@ So, this is AI. In the absence of further clarification I have to reject this bo
 	</content>
   </entry>
   <entry>
-    <title mode="escaped">AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+    <title mode="escaped">Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
     <link rel="alternate" type="text/html"
      href="https://www.smspower.org:443/forums/viewtopic.php?p=141424#141424"/>
     <dc:creator>D</dc:creator>
-    <dc:subject>AI</dc:subject>
+    <dc:subject>Made By AI</dc:subject>
     <author>
 		<name>D</name>
     </author>
@@ -52,11 +81,11 @@ So, this is AI. In the absence of further clarification I have to reject this bo
 	</content>
   </entry>
   <entry>
-    <title mode="escaped">AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+    <title mode="escaped">Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
     <link rel="alternate" type="text/html"
      href="https://www.smspower.org:443/forums/viewtopic.php?p=141423#141423"/>
     <dc:creator>bandidox</dc:creator>
-    <dc:subject>AI</dc:subject>
+    <dc:subject>Made By AI</dc:subject>
     <author>
 		<name>bandidox</name>
     </author>
@@ -286,27 +315,6 @@ sonomech, wirehead, firgamma, rabbit, can get lost in BG
 Image output samples (If you're interested):
 &lt;br /&gt;
 &lt;a href=&quot;https://pyxosoft.com/projects/sms_ps2/images/enemy_formations.zip&quot; target=&quot;_blank&quot;&gt;https://pyxosoft.com/projects/sms_ps2/images/enemy_formations.zip&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">AI :: RE: [AI] New programming language MasterBASIC</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141416#141416"/>
-    <dc:creator>Materion</dc:creator>
-    <dc:subject>AI</dc:subject>
-    <author>
-		<name>Materion</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141416#141416</id>
-    <issued>2026-11-10T06:55:16Z</issued>
-    <modified>2026-11-10T06:55:16Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35539&quot; target=&quot;_blank&quot;&gt;Materion&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 10, 2026 6:55 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I completely agree - hand coded game can be good or bad - same goes for AI coded stuff. It's not a matter if it's hand made or AI made but the effort the creator of game puts into the game/port. Of course I understand competition - it's different matter but for normal posts why not? I will hand code my game and use hand made graphics/music/sound but if someone go AI route and make a good, quality game why stigmatize it?
-&lt;br /&gt;
-
-&lt;br /&gt;
-Back to MasterBASIC - if someone have a suggestion what to add, what to change etc. feel free to post it here :). I started to code my medieval vertical shoot em up game in MasterBASIC and so far it's kinda pleasant experience :).&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

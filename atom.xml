@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-12T09:20:31Z</modified>
+  <modified>2026-11-12T09:30:45Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141440#141440"/>
+    <dc:creator>haroldoop</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>haroldoop</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141440#141440</id>
+    <issued>2026-11-12T09:30:26Z</issued>
+    <modified>2026-11-12T09:30:26Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 12, 2026 9:30 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Awesome! Please keep up this great work!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
     <link rel="alternate" type="text/html"
@@ -346,23 +363,6 @@ You might need to bypass macOS quarantine
 
 &lt;br /&gt;
 The libraries should be properly bundled and linked now.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141430#141430"/>
-    <dc:creator>ichigo</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>ichigo</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141430#141430</id>
-    <issued>2026-11-11T13:51:25Z</issued>
-    <modified>2026-11-11T13:51:25Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2883&quot; target=&quot;_blank&quot;&gt;ichigo&lt;/a&gt;&lt;br /&gt;
-	Posted: Wed Nov 11, 2026 1:51 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	or Police = Roxanne 🎶​ 🤣&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

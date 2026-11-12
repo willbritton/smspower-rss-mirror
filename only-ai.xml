@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 21:40:29 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 21:50:31 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -95,62 +95,6 @@ Itch.io page: &lt;a href="https://haroldo-ok.itch.io/wolfenstein-3d-gg" target="
 <dc:subject>Made By AI</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141437#141437" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141437</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Commander Keen 1 for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141436#141436</link>
-<pubDate>Wed, 11 Nov 2026 21:43:48 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141436#141436</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-Subject: Commander Keen 1 for Sega Master System v0.0.9: Improve performance (60 FPS on most levels).&lt;br /&gt;
-Posted: Wed Nov 11, 2026 9:43 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/sS4KNp-TKDw" frameborder="0"&gt;&lt;/iframe&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Note: Levels 3 and 12 feature heavy enemy density packed into single areas, causing minor dips (~45–54 FPS) when every enemy is active on-screen simultaneously.
-&lt;br /&gt;
-👾 Authentic Enemy AI &amp;amp; Mechanics
-&lt;br /&gt;
-
-&lt;br /&gt;
-All classic entities and hazards have been ported state-for-state to match original DOS logic using exact hitboxes, timers, movement speeds, and probabilities:
-&lt;br /&gt;
-
-&lt;br /&gt;
-    Enemy Roster: Yorps, Gargs, Vorticons, Butler Robots, Tank Robots, and Ice Cannons match their original Commander Genus engine behavior.
-&lt;br /&gt;
-    Vorticon Hitboxes: Fixed to match the exact $24 \times 32$ pixel sprite bounds.
-&lt;br /&gt;
-    Ice Cannon Hazard: Ice chunks freeze Keen in a sliding ice block until a ray thaws him.
-&lt;br /&gt;
-    Level 16 Chandelier Rope: Shooting the rope drops the heavy stone block 4 rows with an authentic screen shake.
-&lt;br /&gt;
-    Walk-Behind Door Cut: Added pixel-exact doorway slicing when Keen steps into exit doors.
-&lt;br /&gt;
-    PAL Console Support: Automatically detects 50 Hz PAL consoles via VDP timing to maintain proper logic speed (6 ticks per 5 frames).
-&lt;br /&gt;
-
-&lt;br /&gt;
-🛠️ Engine &amp;amp; Compiler Optimizations
-&lt;br /&gt;
-
-&lt;br /&gt;
-    Spatial Enemy Culling: The engine now restricts active AI updates to a tight box around the active camera view, avoiding waste on far-off enemies.
-&lt;br /&gt;
-    Z80 Assembly Hot Paths: Re-engineered tile collision checks (down from 650 to 190 CPU cycles), sprite composition, animated tile updates, and distance checks directly in Z80 assembly.
-&lt;br /&gt;
-    Lazy Checking: Item pickup collision only triggers when Keen enters a new tile cell, and wall checks only execute when moving into new tile columns.
-&lt;br /&gt;
-    Smoother Camera Cap: Implemented an 8-pixel per-frame camera movement speed ceiling to avoid background tile tearing during sudden teleportation jumps.
-&lt;br /&gt;
-    Banked Memory Architecture: Expanded the ROM layout to 432 KB across dedicated data banks, moving enemy routines, projectile logic, fonts, and Vorticon art out of the main bank to resolve previous memory overflows and boot crashes&lt;br /&gt;
-
-</description>
-<dc:creator>haroldoop</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=139388#139388" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141436</comments>
 </item>
 </channel>
 </rss>

@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-12T00:10:29Z</modified>
+  <modified>2026-11-12T00:20:31Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141439#141439" />
+    <dc:creator>bofner</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>bofner</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141439#141439</id>
+    <issued>2026-11-12T00:18:31Z</issued>
+    <modified>2026-11-12T00:18:31Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603" target="_blank"&gt;bofner&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 12, 2026 12:18 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I've had a game idea lingering in my head for a few years now too, so I know the feeling! I'd love to see your vision come to fruition!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: Golden Axe Warrior Hack : A little touch of Hyrule</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141434#141434" />
@@ -111,22 +127,6 @@ The libraries should be properly bundled and linked now.&lt;/span&gt;&lt;br /&gt
 	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2883" target="_blank"&gt;ichigo&lt;/a&gt;&lt;br /&gt;
 	Posted: Wed Nov 11, 2026 1:51 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	or Police = Roxanne 🎶​ 🤣&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141429#141429" />
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141429#141429</id>
-    <issued>2026-11-11T13:36:18Z</issued>
-    <modified>2026-11-11T13:36:18Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Posted: Wed Nov 11, 2026 1:36 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Police = font :)&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

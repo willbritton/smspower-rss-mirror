@@ -8,7 +8,7 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-12T14:00:55Z</modified>
+  <modified>2026-11-12T14:10:30Z</modified>
   <entry>
     <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
     <link rel="alternate" type="text/html"
@@ -51,7 +51,7 @@ Now let's say you want the ground to blink, but not the units. How do you achiev
 &lt;br /&gt;
 
 &lt;br /&gt;
-In my case, I decided not to divide the palette, so when I make a tile brighter, it applies to both the ground AND the unit. The fact that I am drawing at a higher scale than SF on GG requires more gradients to look good too.
+In my case, I decided not to divide the palette, so when I make a tile brighter, it applies to both the ground AND the unit. So I only put the current moving unit on the clear palette, and all others remain on the normal palette. The fact that I am drawing at a higher scale than SF on GG requires more gradients to look good too.
 &lt;br /&gt;
 
 &lt;br /&gt;

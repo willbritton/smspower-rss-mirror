@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 14:00:54 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 14:10:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -64,7 +64,7 @@ Now let's say you want the ground to blink, but not the units. How do you achiev
 &lt;br /&gt;
 
 &lt;br /&gt;
-In my case, I decided not to divide the palette, so when I make a tile brighter, it applies to both the ground AND the unit. The fact that I am drawing at a higher scale than SF on GG requires more gradients to look good too.
+In my case, I decided not to divide the palette, so when I make a tile brighter, it applies to both the ground AND the unit. So I only put the current moving unit on the clear palette, and all others remain on the normal palette. The fact that I am drawing at a higher scale than SF on GG requires more gradients to look good too.
 &lt;br /&gt;
 
 &lt;br /&gt;

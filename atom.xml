@@ -8,7 +8,44 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-12T12:40:29Z</modified>
+  <modified>2026-11-12T12:50:31Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Long lost cheat codes</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141441#141441"/>
+    <dc:creator>bbayles</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>bbayles</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141441#141441</id>
+    <issued>2026-11-12T12:46:36Z</issued>
+    <modified>2026-11-12T12:46:36Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35467&quot; target=&quot;_blank&quot;&gt;bbayles&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 12, 2026 12:46 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I just wrote up a new cheat for &lt;i&gt;The Adventures of Batman &amp;amp; Robin&lt;/i&gt;:
+&lt;br /&gt;
+&lt;ul&gt;
+&lt;br /&gt;
+&lt;li&gt; During gameplay, press Press Right, Left, Right, Left, Right, Left, Right.
+&lt;br /&gt;
+&lt;li&gt; Hold 1 and press Start. Coordinate will appear onscreen.
+&lt;br /&gt;
+&lt;li&gt; Hold 1 and press the D-pad to move Batman through walls and floors
+&lt;br /&gt;
+&lt;li&gt; Hold 1+Start and press Left/Right to change the stage number. Press 2 to warp to the selected stage.
+&lt;br /&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+There were previously Action Replay codes to enable these features, but I think the button sequence method is new!
+&lt;br /&gt;
+
+&lt;br /&gt;
+I also figured out part of what's going on with the mysterious &amp;quot;FUCKS CRACKS SONY1&amp;quot; strings in the game data. They're special passcodes! You have to enter them as &amp;quot;FTCKS CQACK SNNY1&amp;quot;, since the game alters the second character before checking. They don't do much, however - each one takes you to a different level, but nothing beyond that. Strange![/list]&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
     <link rel="alternate" type="text/html"
@@ -338,31 +375,6 @@ To combine with the new Golden Axe Warrior - Improvement Hack:
 	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Maxim wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Police = font :)    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
 &lt;br /&gt;
 Changed that for you.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">MEKA :: RE: Meka 0.80 with new sound engine *TESTERS WANTED!*</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141431#141431"/>
-    <dc:creator>ichigo</dc:creator>
-    <dc:subject>MEKA</dc:subject>
-    <author>
-		<name>ichigo</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141431#141431</id>
-    <issued>2026-11-11T13:57:23Z</issued>
-    <modified>2026-11-11T13:57:23Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2883&quot; target=&quot;_blank&quot;&gt;ichigo&lt;/a&gt;&lt;br /&gt;
-	Posted: Wed Nov 11, 2026 1:57 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Uploaded a new version in the post above.
-&lt;br /&gt;
-You might need to bypass macOS quarantine
-&lt;br /&gt;
-(or run xattr -d com.apple.quarantine if it blocks the app).
-&lt;br /&gt;
-
-&lt;br /&gt;
-The libraries should be properly bundled and linked now.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

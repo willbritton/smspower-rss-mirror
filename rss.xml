@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 13:10:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 13:20:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -45,7 +45,7 @@ There were previously Action Replay codes to enable these features, but I think 
 &lt;br /&gt;
 
 &lt;br /&gt;
-I also figured out part of what's going on with the mysterious &amp;quot;FUCKS CRACKS SONY1&amp;quot; strings in the game data. They're special passcodes! You have to enter them as &amp;quot;FTCKS CQACK SNNY1&amp;quot;, since the game alters the second character before checking. They don't do much, however - each one takes you to a different level, but nothing beyond that. Strange![/list]&lt;br /&gt;
+I also figured out part of what's going on with the mysterious &amp;quot;FUCKS CRACKS SONY1&amp;quot; strings in the game data. They're special passcodes! You have to enter them as &amp;quot;FTCKS CQACK SNNY1&amp;quot;, since the game alters the second character before checking. They don't do much, however - each one takes you to a different level, but nothing beyond that. Strange!&lt;br /&gt;
 
 </description>
 <dc:creator>bbayles</dc:creator>

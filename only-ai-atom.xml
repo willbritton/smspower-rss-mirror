@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-12T20:00:52Z</modified>
+  <modified>2026-11-12T20:10:32Z</modified>
   <entry>
     <title mode="escaped">Made By AI :: [AI] Last Action Hero GG2SMS</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141438#141438" />
@@ -139,104 +139,6 @@ All classic entities and hazards have been ported state-for-state to match origi
     Smoother Camera Cap: Implemented an 8-pixel per-frame camera movement speed ceiling to avoid background tile tearing during sudden teleportation jumps.
 &lt;br /&gt;
     Banked Memory Architecture: Expanded the ROM layout to 432 KB across dedicated data banks, moving enemy routines, projectile logic, fonts, and Vorticon art out of the main bank to resolve previous memory overflows and boot crashes&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Jill of the Jungle for Sega Master System</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141435#141435" />
-    <dc:creator>haroldoop</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>haroldoop</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141435#141435</id>
-    <issued>2026-11-11T21:38:05Z</issued>
-    <modified>2026-11-11T21:38:05Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-	Subject: Jill of the Jungle for Sega Master System v0.0.7: Jumping, vertical shafts and flying blocks.&lt;br /&gt;Posted: Wed Nov 11, 2026 9:38 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/msVqFpg5Ki0" frameborder="0"&gt;&lt;/iframe&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-
-&lt;br /&gt;
-
-&lt;br /&gt;
-Jill of the Jungle for Sega Master System v0.0.7: Jumping, vertical shafts and flying blocks.
-&lt;br /&gt;
-
-&lt;br /&gt;
-
-&lt;br /&gt;
-Haroldo Pinheiro
-&lt;br /&gt;
-4
-&lt;br /&gt;
-Likes
-&lt;br /&gt;
-134
-&lt;br /&gt;
-Views
-&lt;br /&gt;
-Nov 8
-&lt;br /&gt;
-2026
-&lt;br /&gt;
-Jill of the Jungle (Sega Master System) — v0.0.6 &amp;amp; v0.0.7 Release Notes
-&lt;br /&gt;
-
-&lt;br /&gt;
-Itch.io page: &lt;a href="https://haroldo-ok.itch.io/jill-..." target="_blank"&gt;https://haroldo-ok.itch.io/jill-...&lt;/a&gt;
-&lt;br /&gt;
-Github repo: &lt;a href="https://github.com/haroldo-ok/ji..." target="_blank"&gt;https://github.com/haroldo-ok/ji...&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
----
-&lt;br /&gt;
-
-&lt;br /&gt;
-🤸‍♀️ v0.0.6: Movement Precision &amp;amp; Shaft Navigation
-&lt;br /&gt;
-
-&lt;br /&gt;
-The *v0.0.6* update resolves frustrating platforming hurdles by fixing sprite animation direction bugs, narrowing collision hitboxes, and introducing smart corner-nudging and edge-drop assistance.
-&lt;br /&gt;
-
-&lt;br /&gt;
-*Key Fixes &amp;amp; Improvements*
-&lt;br /&gt;
-
-&lt;br /&gt;
-*Jump &amp;amp; Crouch Animation Fix:* Corrected inverted frame-direction mappings. Jump frames (`32–34` left, `40–42` right) and crouch frames (`37` and `45`) now properly match the direction Jill is facing.
-&lt;br /&gt;
-*Forgiving Shaft Navigation:* Jill’s physical collision box was inset from a full 16-pixel sprite width down to **12 pixels**, providing ~5 pixels of extra slack when entering one-tile vertical shafts at running speed.
-&lt;br /&gt;
-*Upward Corner Nudge:* If Jill's head catches a ceiling corner or ledge edge by up to 5 pixels while jumping upward, she automatically slides into the opening instead of hitting a dead stop.
-&lt;br /&gt;
-*Immediate Edge-Drop &amp;amp; Down-Assist:* Jill now begins falling immediately the moment she steps off a solid edge. Additionally, holding *DOWN* next to a floor hole gently nudges and slides her into drops positioned within ~6 pixels of the edge.
-&lt;br /&gt;
-
-&lt;br /&gt;
----
-&lt;br /&gt;
-
-&lt;br /&gt;
-🧱 v0.0.7: Missing Level Geometry Restored
-&lt;br /&gt;
-
-&lt;br /&gt;
-The *v0.0.7* update fixes missing platforms, stepping stones, and environmental obstacles across multiple maps, aligning the port precisely with the original DOS game layouts.
-&lt;br /&gt;
-
-&lt;br /&gt;
-*The Bug &amp;amp; The Fix*
-&lt;br /&gt;
-
-&lt;br /&gt;
-*The Root Cause:* A converter rule had mistakenly flagged small groups of floating grey castle blocks as hidden AI monster &amp;quot;turn-around&amp;quot; markers, rendering them invisible and non-solid. In reality, these are physical *stepping stones* intended for the player to jump on.
-&lt;br /&gt;
-*The Fix:* The faulty marker rule was removed, ensuring every map cell now renders and behaves exactly like the original game data.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

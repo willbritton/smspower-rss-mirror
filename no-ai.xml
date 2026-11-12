@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 23:50:29 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 00:00:55 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -139,106 +139,6 @@ Posted: Wed Nov 11, 2026 1:36 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141428#141428" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141429</comments>
-</item>
-<item>
-<title>Development :: [WIP] Tactical-RPG for the MS by cireza</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141428#141428</link>
-<pubDate>Wed, 11 Nov 2026 09:33:00 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141428#141428</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=25359" target="_blank"&gt;cireza&lt;/a&gt;&lt;br /&gt;
-Subject: [WIP] Tactical-RPG for the MS by cireza&lt;br /&gt;
-Posted: Wed Nov 11, 2026 9:33 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Hello everyone,
-&lt;br /&gt;
-
-&lt;br /&gt;
-I am sharing today the proof of concept I have been working on since this summer, after completing ReSeCom. Concerning ReSeCom, the game will release on Evercade in the Indie Collection 5 cartridge at the beginning of next year, and I am still looking into having a physical release on Master System, hopefully sometime next year.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The next game will be a Tactical-RPG. It is something I always wanted to make but felt like it was going to be too overwhelming. This is my third game already, close to 5 years have passed since I started doing this, so if I don't make it now I am not sure I will make it ever. This is why I decided to give a go. Thankfully I have earned a lot of experience with previous projets on how to organize my code and data structures.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The challenge of doing such a game on MS lies mainly around the VRAM and the palette. Shining Force games did make it to the GG, but they split the palette in 2, with colors reserved for the units, and others for the BG. It works, but it doesn't look great. Other games do manage to lock the 16 colors for everything : unit + map. This is what I am doing here. There was a lot of back and forth though on how to achieve the presentation.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Here you can see that the scale for the game is based on 3x3 tiles and units, which is pretty big (same size as Shining Force on MD). I have decided to use a clear palette to identify the walk area :
-&lt;br /&gt;
-&lt;img src="https://www.smspower.org/forums/files/rom_140.png" border="0" /&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-There will be traits for characters that tell us what they like and dislike. Window placement is dynamic to make sure that it doesn't come over the possible target areas (which are not implemented yet).
-&lt;br /&gt;
-&lt;img src="https://www.smspower.org/forums/files/rom_1_995.png" border="0" /&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Night palette as well :
-&lt;br /&gt;
-&lt;img src="https://www.smspower.org/forums/files/rom_4_995.png" border="0" /&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;img src="https://www.smspower.org/forums/files/rom_3_193.png" border="0" /&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-The engine manages up to 21 units (this uses around half of the VRAM for units alone) :
-&lt;br /&gt;
-&lt;img src="https://www.smspower.org/forums/files/rom_2_132.png" border="0" /&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Finally here is a mock-up of how the battle scenes will look :
-&lt;br /&gt;
-&lt;img src="https://www.smspower.org/forums/files/battle_mockup_bg_only_153.png" border="0" /&gt;
-&lt;br /&gt;
-Here again choices have been made about the colors and palettes and how things are split. I wanted a symmetric system so in the end, you get the enemy + its BG on one palette and the ally + its BG on another. I have a set of locked in colors, and slot 0 is used for the blue/red color of the ally/enemy in the windows.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The game will be about optimizing your positive traits and exploiting the negative traits of the enemies to maximize damage.
-&lt;br /&gt;
-
-&lt;br /&gt;
-You can also see on the screenshots that I managed to implement a height feature. Though I did take a shortcut here, because a proper perspective proved to difficult to implement, so I found a way to have a height system while still retaining a perfect 3x3 tile grid. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-Here is the test map that I used to fine tune a lot of things :
-&lt;br /&gt;
-&lt;img src="https://www.smspower.org/forums/files/capture_dcran_2026_11_11_102606_168.png" border="0" /&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Here are the things that are implemented :
-&lt;br /&gt;
-- proper scrolling of the map + movement of cursor, with management of the edges of the map (this was new for me)
-&lt;br /&gt;
-- units act by order depending on their speed
-&lt;br /&gt;
-- walk area is calculated and takes into account enemy units, blocking tiles and slow tiles
-&lt;br /&gt;
-- moving the unit to another location, then displays the windows
-&lt;br /&gt;
-- goes on to the next unit automatically
-&lt;br /&gt;
-- brand new font I have created, sadly Variable Width Font won't be in this game, I don't have enough VRAM for this
-&lt;br /&gt;
-- dynamic calculation of the lifebars (tile forging)
-&lt;br /&gt;
-- dynamic merging of the units in the background
-&lt;br /&gt;
-- same for the battles, I have written a function to merge dynamically over the background the unit, I can select the size, shape and position&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>cireza</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141428#141428" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141428</comments>
 </item>
 </channel>
 </rss>

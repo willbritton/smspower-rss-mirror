@@ -1,30 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="0.3">
+<feed xmlns="http://purl.org/atom/ns#" version="0.3">
 
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-13T10:20:31Z</modified>
-  <entry>
-    <title mode="escaped">Made By AI :: [AI] Last Action Hero GG2SMS</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141438#141438" />
-    <dc:creator>Jack Slater</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>Jack Slater</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141438#141438</id>
-    <issued>2026-11-11T23:54:12Z</issued>
-    <modified>2026-11-11T23:54:12Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=12224" target="_blank"&gt;Jack Slater&lt;/a&gt;&lt;br /&gt;
-	Subject: [AI] Last Action Hero GG2SMS&lt;br /&gt;Posted: Wed Nov 11, 2026 11:54 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;b&gt;Last Action Hero GG2SMS&lt;/b&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-- Start on button 1 in title screen
-&lt;br /&gt;
-- Pause in game on Pause button or down for player 2&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  <modified>2026-11-13T10:30:42Z</modified>
+  </feed>

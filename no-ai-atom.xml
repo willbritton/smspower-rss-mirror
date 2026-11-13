@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-13T10:20:31Z</modified>
+  <modified>2026-11-13T10:30:42Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141448#141448" />
+    <dc:creator>kusfo</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>kusfo</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141448#141448</id>
+    <issued>2026-11-13T10:27:20Z</issued>
+    <modified>2026-11-13T10:27:20Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5915" target="_blank"&gt;kusfo&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 13, 2026 10:27 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Thanks for the technical explanation, really interesting&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141447#141447" />
@@ -267,4 +283,4 @@ I also figured out part of what's going on with the mysterious &amp;quot;FUCKS C
 	I've had a game idea lingering in my head for a few years now too, so I know the feeling! I'd love to see your vision come to fruition!&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

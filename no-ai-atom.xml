@@ -4,7 +4,25 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-13T15:10:30Z</modified>
+  <modified>2026-11-13T15:20:32Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: [Show-off / Valuation] 1994 Portuguese Time Capsule: Master System II Super Pack 3 + Buggy Run</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141450#141450" />
+    <dc:creator>Jingabe</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>Jingabe</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141450#141450</id>
+    <issued>2026-11-13T15:15:47Z</issued>
+    <modified>2026-11-13T15:15:47Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7365" target="_blank"&gt;Jingabe&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 13, 2026 3:15 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Porque é que nunca a usaste?
+&lt;br /&gt;
+Querias era uma Mega Drive não era :p&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141449#141449" />
@@ -273,22 +291,6 @@ There were previously Action Replay codes to enable these features, but I think 
 
 &lt;br /&gt;
 I also figured out part of what's going on with the mysterious &amp;quot;FUCKS CRACKS SONY1&amp;quot; strings in the game data. They're special passcodes! You have to enter them as &amp;quot;FTCKS CQACK SNNY1&amp;quot;, since the game alters the second character before checking. They don't do much, however - each one takes you to a different level, but nothing beyond that. Strange!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141440#141440" />
-    <dc:creator>haroldoop</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>haroldoop</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141440#141440</id>
-    <issued>2026-11-12T09:30:26Z</issued>
-    <modified>2026-11-12T09:30:26Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-	Posted: Thu Nov 12, 2026 9:30 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Awesome! Please keep up this great work!&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

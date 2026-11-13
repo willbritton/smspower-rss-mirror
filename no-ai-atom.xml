@@ -4,7 +4,27 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-13T15:50:31Z</modified>
+  <modified>2026-11-13T16:02:07Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: [Show-off / Valuation] 1994 Portuguese Time Capsule: Master System II Super Pack 3 + Buggy Run</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141451#141451" />
+    <dc:creator>nuno14272</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>nuno14272</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141451#141451</id>
+    <issued>2026-11-13T15:58:45Z</issued>
+    <modified>2026-11-13T15:58:45Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=10576" target="_blank"&gt;nuno14272&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 13, 2026 3:58 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Eu também queria uma Mega Drive, e o meu pai apareceu-me com a master system...
+&lt;br /&gt;
+
+&lt;br /&gt;
+Em 1992, e já foram um 9 contos.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: [Show-off / Valuation] 1994 Portuguese Time Capsule: Master System II Super Pack 3 + Buggy Run</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141450#141450" />
@@ -255,42 +275,6 @@ Shining Force games did make it to the GG, but they split the palette in 2, with
 
 &lt;br /&gt;
 What's the reason for locking background and sprite palettes to the same 16? I'm not that familiar with this type of game but I thought only the background tiles flash when selecting etc?&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Long lost cheat codes</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141441#141441" />
-    <dc:creator>bbayles</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>bbayles</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141441#141441</id>
-    <issued>2026-11-12T12:46:36Z</issued>
-    <modified>2026-11-12T12:46:36Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35467" target="_blank"&gt;bbayles&lt;/a&gt;&lt;br /&gt;
-	Posted: Thu Nov 12, 2026 12:46 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I just wrote up a new cheat for &lt;i&gt;The Adventures of Batman &amp;amp; Robin&lt;/i&gt;:
-&lt;br /&gt;
-&lt;ul&gt;
-&lt;br /&gt;
-&lt;li&gt; During gameplay, press Press Right, Left, Right, Left, Right, Left, Right.
-&lt;br /&gt;
-&lt;li&gt; Hold 1 and press Start. Coordinate will appear onscreen.
-&lt;br /&gt;
-&lt;li&gt; Hold 1 and press the D-pad to move Batman through walls and floors
-&lt;br /&gt;
-&lt;li&gt; Hold 1+Start and press Left/Right to change the stage number. Press 2 to warp to the selected stage.
-&lt;br /&gt;
-&lt;/ul&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-There were previously Action Replay codes to enable these features, but I think the button sequence method is new!
-&lt;br /&gt;
-
-&lt;br /&gt;
-I also figured out part of what's going on with the mysterious &amp;quot;FUCKS CRACKS SONY1&amp;quot; strings in the game data. They're special passcodes! You have to enter them as &amp;quot;FTCKS CQACK SNNY1&amp;quot;, since the game alters the second character before checking. They don't do much, however - each one takes you to a different level, but nothing beyond that. Strange!&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

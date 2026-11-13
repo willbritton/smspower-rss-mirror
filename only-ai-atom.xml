@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-13T04:00:49Z</modified>
+  <modified>2026-11-13T04:10:30Z</modified>
   <entry>
     <title mode="escaped">Made By AI :: [AI] Last Action Hero GG2SMS</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141438#141438" />
@@ -25,64 +25,6 @@
 - Start on button 1 in title screen
 &lt;br /&gt;
 - Pause in game on Pause button or down for player 2&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: [AI] Wolfenstein 3D for Sega Game Gear</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141437#141437" />
-    <dc:creator>haroldoop</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>haroldoop</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141437#141437</id>
-    <issued>2026-11-11T21:51:09Z</issued>
-    <modified>2026-11-11T21:51:09Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-	Subject: [AI] Wolfenstein 3D for Sega Game Gear&lt;br /&gt;Posted: Wed Nov 11, 2026 9:51 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/T48nBVCLgPM" frameborder="0"&gt;&lt;/iframe&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-🔫 Wolfenstein 3D (Game Gear) --- Experimental v0.0.1 Port
-&lt;br /&gt;
-----------------------------------------------------------
-&lt;br /&gt;
-
-&lt;br /&gt;
-Building upon the existing Sega Master System codebase (`wolf-3d-sms`), this experimental *v0.0.1* release adapts the Wolfenstein 3D shareware episode for the Sega Game Gear using Arena.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Github repo: &lt;a href="https://github.com/haroldo-ok/wolf-3d-gg" target="_blank"&gt;https://github.com/haroldo-ok/wolf-3d-gg&lt;/a&gt;
-&lt;br /&gt;
-Itch.io page: &lt;a href="https://haroldo-ok.itch.io/wolfenstein-3d-gg" target="_blank"&gt;https://haroldo-ok.itch.io/wolfenstein-3d-gg&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-🎮 Game Gear Adaptation &amp;amp; UI Changes
-&lt;br /&gt;
-------------------------------------
-&lt;br /&gt;
-
-&lt;br /&gt;
-*Display &amp;amp; Viewport:* repositioned the 160 × 96 raycasted 3D view squarely inside the Game Gear's smaller LCD screen area, paired with a newly designed, compact, and clearly labelled HUD.
-&lt;br /&gt;
-
-&lt;br /&gt;
-*Hardware Integration:* Added support for Start-button input, native Game Gear palette writing, stereo sound routing, and an export-region ROM header.
-&lt;br /&gt;
-
-&lt;br /&gt;
-*Menus &amp;amp; Screens Adapted:* Redesigned layout flows for difficulty selection, sound options, save slots, high scores, name entry, confirmation prompts, intermissions, and victory screens.
-&lt;br /&gt;
-
-&lt;br /&gt;
-*Pannable High-Resolution Art:* Resized title screens and made help/ending pages pannable so players can view full-resolution graphics on the smaller portable screen.
-&lt;br /&gt;
-
-&lt;br /&gt;
-*Tooling:* Created dedicated Game Gear build scripts and automated emulator test harnesses&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

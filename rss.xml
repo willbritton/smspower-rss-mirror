@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 23:00:53 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 23:10:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,26 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: [Show-off / Valuation] 1994 Portuguese Time Capsule: Master System II Super Pack 3 + Buggy Run</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141453#141453</link>
+<pubDate>Fri, 13 Nov 2026 23:08:19 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141453#141453</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7365&quot; target=&quot;_blank&quot;&gt;Jingabe&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 13, 2026 11:08 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Eu: Famiclone em 1993
+&lt;br /&gt;
+
+&lt;br /&gt;
+Pirata for life!&lt;br /&gt;
+
+</description>
+<dc:creator>Jingabe</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141444#141444" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141453</comments>
+</item>
 <item>
 <title>Main :: RE: [Show-off / Valuation] 1994 Portuguese Time Capsule: Master System II Super Pack 3 + Buggy Run</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141452#141452</link>
@@ -196,68 +216,6 @@ I can send you photos if you want.&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141444#141444" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141444</comments>
-</item>
-<item>
-<title>Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141443#141443</link>
-<pubDate>Thu, 12 Nov 2026 13:58:24 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141443#141443</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=25359&quot; target=&quot;_blank&quot;&gt;cireza&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Nov 12, 2026 1:58 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;badcomputer wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;What's the reason for locking background and sprite palettes to the same 16? I'm not that familiar with this type of game but I thought only the background tiles flash when selecting etc?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-You have two types of tiles to display at once : those where you can walk, and those were you cannot. So what you do is that you put the walk tiles on a palette and the non-walk tiles on the other palette.
-&lt;br /&gt;
-
-&lt;br /&gt;
-And then you make the palette effect you wish on the walk tiles : make them brighter, make them blink. Or you could even decide to make all the non-walk tiles darker. I experimented all of these actually.
-&lt;br /&gt;
-
-&lt;br /&gt;
-So basically, both palettes are a copy of each other, with one having the &amp;quot;walk effect&amp;quot; you have decided applied on it.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Then comes the issue of not having a separate background layer : you have to merge the units over the BG tiles because you cannot use sprites (you can align units on the entire screen which doesn't fit of course).
-&lt;br /&gt;
-
-&lt;br /&gt;
-So you end up using these 16 colors for both units and BG.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Now let's say you want the ground to blink, but not the units. How do you achieve this ? Well you don't really have the choice : you are forced to separate the palette in 2. You use one half for the ground, and the other for the characters. And you only apply your &amp;quot;walk effect&amp;quot; on the colors used by the ground. This leads to pretty simplistic visuals, and this is what Shining Force did on Game Gear.
-&lt;br /&gt;
-
-&lt;br /&gt;
-In my case, I decided not to divide the palette, so when I make a tile brighter, it applies to both the ground AND the unit. So I only put the current moving unit on the clear palette, and all others remain on the normal palette. The fact that I am drawing at a higher scale than SF on GG requires more gradients to look good too.
-&lt;br /&gt;
-
-&lt;br /&gt;
-At first I had decided to not use a palette effect for the walk area. I was actually using a second set of tiles that all had a small dot displayed on them. Example here :
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;img src=&quot;https://www.smspower.org/forums/files/capture_d_cran_2026_09_20_145927_546.png&quot; border=&quot;0&quot; /&gt;
-&lt;br /&gt;
-They were forged with a mask so they didn't use ROM space.
-&lt;br /&gt;
-
-&lt;br /&gt;
-It works, but this wastes a lot of VRAM though since I have to duplicate all tiles. This means I have to give up on having both lower and uppercase letters on the map, and also reduces the number of unique tiles from 128 to 96 to build the map.
-&lt;br /&gt;
-
-&lt;br /&gt;
-However, this frees one palette entirely. Ultimately, I found that using a palette effect was more in line with the capabilities of the console and helped improve the presentation.&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>cireza</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141428#141428" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141443</comments>
 </item>
 </channel>
 </rss>

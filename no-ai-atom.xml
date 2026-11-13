@@ -4,7 +4,27 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-13T16:10:31Z</modified>
+  <modified>2026-11-13T16:20:32Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: [Show-off / Valuation] 1994 Portuguese Time Capsule: Master System II Super Pack 3 + Buggy Run</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141452#141452" />
+    <dc:creator>Rui Miguel</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>Rui Miguel</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141452#141452</id>
+    <issued>2026-11-13T16:11:56Z</issued>
+    <modified>2026-11-13T16:11:56Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35567" target="_blank"&gt;Rui Miguel&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 13, 2026 4:11 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Deram-me aquilo que pedi. Ao contrário de outras pessoas. 
+&lt;br /&gt;
+Usei e abusei.
+&lt;br /&gt;
+Está é muito bem Estimada.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: [Show-off / Valuation] 1994 Portuguese Time Capsule: Master System II Super Pack 3 + Buggy Run</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141451#141451" />
@@ -237,44 +257,6 @@ It works, but this wastes a lot of VRAM though since I have to duplicate all til
 
 &lt;br /&gt;
 However, this frees one palette entirely. Ultimately, I found that using a palette effect was more in line with the capabilities of the console and helped improve the presentation.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [WIP] Tactical-RPG for the MS by cireza</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141442#141442" />
-    <dc:creator>badcomputer</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>badcomputer</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141442#141442</id>
-    <issued>2026-11-12T13:30:58Z</issued>
-    <modified>2026-11-12T13:30:58Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27488" target="_blank"&gt;badcomputer&lt;/a&gt;&lt;br /&gt;
-	Posted: Thu Nov 12, 2026 1:30 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Looks great so far!
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;blockquote&gt;  &lt;div class="attribution"&gt;cireza wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;
-&lt;br /&gt;
-Shining Force games did make it to the GG, but they split the palette in 2, with colors reserved for the units, and others for the BG. It works, but it doesn't look great. Other games do manage to lock the 16 colors for everything : unit + map. This is what I am doing here. There was a lot of back and forth though on how to achieve the presentation.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-What's the reason for locking background and sprite palettes to the same 16? I'm not that familiar with this type of game but I thought only the background tiles flash when selecting etc?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 15:20:30 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 15:30:45 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,106 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141461#141461</link>
+<pubDate>Sat, 14 Nov 2026 15:27:23 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141461#141461</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35571&quot; target=&quot;_blank&quot;&gt;tachyMC&lt;/a&gt;&lt;br /&gt;
+Subject: [WIP] A new kind of porting - Chrono Runner (from MSX)&lt;br /&gt;
+Posted: Sat Nov 14, 2026 3:27 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;How I got the idea&lt;/span&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Hi all folks,
+&lt;br /&gt;
+
+&lt;br /&gt;
+I am a long time SMS fan, but never got proficient enough in C programming to create games for the platform.
+&lt;br /&gt;
+
+&lt;br /&gt;
+With the advent of LLM-augmented programming, I finally got a tool which I could use to bring my favourite games to the SMS, but... I realized that I still needed graphics and sounds :)
+&lt;br /&gt;
+
+&lt;br /&gt;
+Let me introduce &lt;b&gt;Chrono Runner&lt;/b&gt;, a game developed by the Italian MSX developer association, for the MSX1 platform. It competed in the MSXDev25 game development contest (I cannot post links yet, look for &amp;quot;msxdev&amp;quot; and &amp;quot;Chrono Runner&amp;quot; on Google).
+&lt;br /&gt;
+
+&lt;br /&gt;
+You play a time-travelling runner who can rewind time to undo mistakes and try a different path.
+&lt;br /&gt;
+
+&lt;br /&gt;
+To my glad surprise, the authors decided to make the game 100% open source, code and assets (I cannot post links yet, look for &amp;quot;Chrono-runners&amp;quot; on GitHub).
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;span style=&quot;font-size: 24px;&quot;&gt;The current state&lt;/span&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+For the past few weeks I’ve been working on a Master System port, and I’d like to share some work-in-progress screenshots.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Playable in emulators from the title screen to the final boss, with music and sound effects. Still missing: an instructions screen redrawn for the pad, the intro logo, and testing on real hardware. Still present: some bugs that I'm trying to iron out!
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;span style=&quot;font-size: 24px;&quot;&gt;A new kind of porting&lt;/span&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Why do I mention this is a new kind of porting? Because I tried the &lt;b&gt;recompile&lt;/b&gt; instead of the &lt;b&gt;rewrite&lt;/b&gt; approach. Let me explain.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Instead of asking the LLM to rewrite the game from scratch, I asked it to keep the the original C code (written with MSXgl). The code is recompiled, almost unchanged with SDCC and devkitSMS, on top of a compatibility layer that implements the part of the MSXgl API the game uses.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Admittedly, four of the original source files needed some nontrivial changes. In short:
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Graphics:&lt;/span&gt;&lt;/b&gt; the Graphic 2 tileset is converted 1:1 to Mode 4 tiles at build time, so the original screen layouts and level data are used as they are.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Sprites:&lt;/span&gt;&lt;/b&gt; the 32 single-colour 16x16 planes of the TMS9918 are emulated. Each plane becomes two 8x16 SMS sprites, so the SMS limit of 8 per line matches the MSX limit of 4 per line exactly. Coloured tiles are generated on the fly from the original 1-bit patterns and cached in VRAM.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Game logic:&lt;/span&gt;&lt;/b&gt; MSXgl’s pawn and state machine modules are ported, the pad is read as an MSX joystick, and the ASCII16 ROM segments map onto SMS banks.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Audio:&lt;/span&gt;&lt;/b&gt; the original PT3 tunes and ayFX sound effects are played by the same MSXgl players. Every frame, the AY-3-8910 register image is translated for the SN76489.
+&lt;br /&gt;
+[/list]
+&lt;br /&gt;
+
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;The nice side effect is that the compatibility layer isn’t specific to Chrono Runner&lt;/b&gt;!!! It could make porting other MSXgl-based MSX games to the Master System much easier.
+&lt;br /&gt;
+
+&lt;br /&gt;
+By the way, thanks to sverx for devkitSMS and to aoineko for MSXgl, which made this possible.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Feedback is very welcome on the approach. If you like the idea, I will gladly spend the extra time (and tokens!) required to refine both the revised Chrono Runner source, and the msxgl / sms layer source, and release the ROM along with the full source.&lt;ul&gt;&lt;/ul&gt;&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>tachyMC</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141461#141461" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141461</comments>
+</item>
 <item>
 <title>Made By AI :: RE: Ports created by [AI]</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141460#141460</link>
@@ -186,24 +286,6 @@ Em 1992, e já foram um 9 contos.&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141444#141444" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141451</comments>
-</item>
-<item>
-<title>Main :: RE: [Show-off / Valuation] 1994 Portuguese Time Capsule: Master System II Super Pack 3 + Buggy Run</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141450#141450</link>
-<pubDate>Fri, 13 Nov 2026 15:15:47 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141450#141450</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7365&quot; target=&quot;_blank&quot;&gt;Jingabe&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Nov 13, 2026 3:15 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Porque é que nunca a usaste?
-&lt;br /&gt;
-Querias era uma Mega Drive não era :p&lt;br /&gt;
-
-</description>
-<dc:creator>Jingabe</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141444#141444" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141450</comments>
 </item>
 </channel>
 </rss>

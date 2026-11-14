@@ -8,7 +8,47 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-14T05:50:29Z</modified>
+  <modified>2026-11-14T06:00:51Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141458#141458"/>
+    <dc:creator>Sobo22</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>Sobo22</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141458#141458</id>
+    <issued>2026-11-14T05:57:48Z</issued>
+    <modified>2026-11-14T05:57:48Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35569&quot; target=&quot;_blank&quot;&gt;Sobo22&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Nov 14, 2026 5:57 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	This looks great-good job! 👍👍&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">Development :: RE: Hacks for using Mega Drive controllers in SMS games</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141457#141457"/>
+    <dc:creator>NM-13</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>NM-13</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141457#141457</id>
+    <issued>2026-11-14T05:57:38Z</issued>
+    <modified>2026-11-14T05:57:38Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34730&quot; target=&quot;_blank&quot;&gt;NM-13&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Nov 14, 2026 5:57 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;thatoneMD wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;naytai wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Has anyone made or found a patch for Wonder Boy in Monster Land to use the Mega Drive controller Start button as Pause?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+I made one (attached).    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Does anybody know where a patch for Teddy Boy is? I own it both physically and have tried multiple roms via everdrive as well and it's always the same. Play with a Genesis/Megadrive controller and it does the same thing that happened to most of the other incompatible games before I patched them. Unfortunately, this one is the only game who's patch eludes me. If anybody here could help me out it would be much appreciated! Thank you!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
     <link rel="alternate" type="text/html"
@@ -165,44 +205,6 @@ New one covers Sukeban Deka 2, Yu Yu Hakusho 1 and 2, Zillion 1 and 2, and some 
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5915&quot; target=&quot;_blank&quot;&gt;kusfo&lt;/a&gt;&lt;br /&gt;
 	Posted: Fri Nov 13, 2026 10:27 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Thanks for the technical explanation, really interesting&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141447#141447"/>
-    <dc:creator>bofner</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>bofner</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141447#141447</id>
-    <issued>2026-11-13T04:03:41Z</issued>
-    <modified>2026-11-13T04:03:41Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603&quot; target=&quot;_blank&quot;&gt;bofner&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 13, 2026 4:03 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Thanks for posting about this here! I've been really enjoying the episodes I've listened to so far!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Long lost cheat codes</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141446#141446"/>
-    <dc:creator>bofner</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>bofner</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141446#141446</id>
-    <issued>2026-11-12T21:45:02Z</issued>
-    <modified>2026-11-12T21:45:02Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603&quot; target=&quot;_blank&quot;&gt;bofner&lt;/a&gt;&lt;br /&gt;
-	Posted: Thu Nov 12, 2026 9:45 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	That's so cool! Makes me want to add hidden debug modes and cheat codes to my own projects!
-&lt;br /&gt;
-
-&lt;br /&gt;
-Do you have a list of the games you're going to be looking at for this? I'd love to know which games to look forward to haha&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

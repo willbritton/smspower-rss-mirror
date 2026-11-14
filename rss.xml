@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 05:50:28 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 06:00:51 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,44 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141458#141458</link>
+<pubDate>Sat, 14 Nov 2026 05:57:48 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141458#141458</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35569&quot; target=&quot;_blank&quot;&gt;Sobo22&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 14, 2026 5:57 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;This looks great-good job! 👍👍&lt;br /&gt;
+
+</description>
+<dc:creator>Sobo22</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141455#141455" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141458</comments>
+</item>
+<item>
+<title>Development :: RE: Hacks for using Mega Drive controllers in SMS games</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141457#141457</link>
+<pubDate>Sat, 14 Nov 2026 05:57:38 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141457#141457</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34730&quot; target=&quot;_blank&quot;&gt;NM-13&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 14, 2026 5:57 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;thatoneMD wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;naytai wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Has anyone made or found a patch for Wonder Boy in Monster Land to use the Mega Drive controller Start button as Pause?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+I made one (attached).    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Does anybody know where a patch for Teddy Boy is? I own it both physically and have tried multiple roms via everdrive as well and it's always the same. Play with a Genesis/Megadrive controller and it does the same thing that happened to most of the other incompatible games before I patched them. Unfortunately, this one is the only game who's patch eludes me. If anybody here could help me out it would be much appreciated! Thank you!&lt;br /&gt;
+
+</description>
+<dc:creator>NM-13</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=82816#82816" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141457</comments>
+</item>
 <item>
 <title>Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141456#141456</link>
@@ -166,42 +204,6 @@ Posted: Fri Nov 13, 2026 10:27 am (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141428#141428" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141448</comments>
-</item>
-<item>
-<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141447#141447</link>
-<pubDate>Fri, 13 Nov 2026 04:03:41 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141447#141447</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603&quot; target=&quot;_blank&quot;&gt;bofner&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Nov 13, 2026 4:03 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Thanks for posting about this here! I've been really enjoying the episodes I've listened to so far!&lt;br /&gt;
-
-</description>
-<dc:creator>bofner</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141447</comments>
-</item>
-<item>
-<title>Development :: RE: Long lost cheat codes</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141446#141446</link>
-<pubDate>Thu, 12 Nov 2026 21:45:02 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141446#141446</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603&quot; target=&quot;_blank&quot;&gt;bofner&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Nov 12, 2026 9:45 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;That's so cool! Makes me want to add hidden debug modes and cheat codes to my own projects!
-&lt;br /&gt;
-
-&lt;br /&gt;
-Do you have a list of the games you're going to be looking at for this? I'd love to know which games to look forward to haha&lt;br /&gt;
-
-</description>
-<dc:creator>bofner</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141153#141153" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141446</comments>
 </item>
 </channel>
 </rss>

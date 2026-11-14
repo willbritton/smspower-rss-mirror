@@ -4,7 +4,27 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-14T16:20:29Z</modified>
+  <modified>2026-11-14T16:30:42Z</modified>
+  <entry>
+    <title mode="escaped">Music :: RE: Ninja Gaiden (SMS) oddities</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141463#141463" />
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141463#141463</id>
+    <issued>2026-11-14T16:23:05Z</issued>
+    <modified>2026-11-14T16:23:05Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Nov 14, 2026 4:23 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;a href="https://www.smspower.org/forums/21258-VGMPackNinjaGaiden" target="_blank"&gt;https://www.smspower.org/forums/21258-VGMPackNinjaGaiden&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Now re-ripped at both speeds. This also fixes some looping issues in the earlier pack.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Music :: [VGM pack] Ninja Gaiden</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141462#141462" />
@@ -35,106 +55,6 @@
 
 &lt;br /&gt;
 &lt;iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/U5qepfUftn8" frameborder="0"&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141461#141461" />
-    <dc:creator>tachyMC</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>tachyMC</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141461#141461</id>
-    <issued>2026-11-14T15:27:23Z</issued>
-    <modified>2026-11-14T15:27:23Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35571" target="_blank"&gt;tachyMC&lt;/a&gt;&lt;br /&gt;
-	Subject: [WIP] A new kind of porting - Chrono Runner (from MSX)&lt;br /&gt;Posted: Sat Nov 14, 2026 3:27 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;span style="font-size: 24px;"&gt;How I got the idea&lt;/span&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Hi all folks,
-&lt;br /&gt;
-
-&lt;br /&gt;
-I am a long time SMS fan, but never got proficient enough in C programming to create games for the platform.
-&lt;br /&gt;
-
-&lt;br /&gt;
-With the advent of LLM-augmented programming, I finally got a tool which I could use to bring my favourite games to the SMS, but... I realized that I still needed graphics and sounds :)
-&lt;br /&gt;
-
-&lt;br /&gt;
-Let me introduce &lt;b&gt;Chrono Runner&lt;/b&gt;, a game developed by the Italian MSX developer association, for the MSX1 platform. It competed in the MSXDev25 game development contest (I cannot post links yet, look for &amp;quot;msxdev&amp;quot; and &amp;quot;Chrono Runner&amp;quot; on Google).
-&lt;br /&gt;
-
-&lt;br /&gt;
-You play a time-travelling runner who can rewind time to undo mistakes and try a different path.
-&lt;br /&gt;
-
-&lt;br /&gt;
-To my glad surprise, the authors decided to make the game 100% open source, code and assets (I cannot post links yet, look for &amp;quot;Chrono-runners&amp;quot; on GitHub).
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;span style="font-size: 24px;"&gt;The current state&lt;/span&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-For the past few weeks I’ve been working on a Master System port, and I’d like to share some work-in-progress screenshots.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Playable in emulators from the title screen to the final boss, with music and sound effects. Still missing: an instructions screen redrawn for the pad, the intro logo, and testing on real hardware. Still present: some bugs that I'm trying to iron out!
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;span style="font-size: 24px;"&gt;A new kind of porting&lt;/span&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Why do I mention this is a new kind of porting? Because I tried the &lt;b&gt;recompile&lt;/b&gt; instead of the &lt;b&gt;rewrite&lt;/b&gt; approach. Let me explain.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Instead of asking the LLM to rewrite the game from scratch, I asked it to keep the the original C code (written with MSXgl). The code is recompiled, almost unchanged with SDCC and devkitSMS, on top of a compatibility layer that implements the part of the MSXgl API the game uses.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Admittedly, four of the original source files needed some nontrivial changes. In short:
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;b&gt;&lt;span style="font-size: 18px;"&gt;Graphics:&lt;/span&gt;&lt;/b&gt; the Graphic 2 tileset is converted 1:1 to Mode 4 tiles at build time, so the original screen layouts and level data are used as they are.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;b&gt;&lt;span style="font-size: 18px;"&gt;Sprites:&lt;/span&gt;&lt;/b&gt; the 32 single-colour 16x16 planes of the TMS9918 are emulated. Each plane becomes two 8x16 SMS sprites, so the SMS limit of 8 per line matches the MSX limit of 4 per line exactly. Coloured tiles are generated on the fly from the original 1-bit patterns and cached in VRAM.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;b&gt;&lt;span style="font-size: 18px;"&gt;Game logic:&lt;/span&gt;&lt;/b&gt; MSXgl’s pawn and state machine modules are ported, the pad is read as an MSX joystick, and the ASCII16 ROM segments map onto SMS banks.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;b&gt;&lt;span style="font-size: 18px;"&gt;Audio:&lt;/span&gt;&lt;/b&gt; the original PT3 tunes and ayFX sound effects are played by the same MSXgl players. Every frame, the AY-3-8910 register image is translated for the SN76489.
-&lt;br /&gt;
-[/list]
-&lt;br /&gt;
-
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;b&gt;The nice side effect is that the compatibility layer isn’t specific to Chrono Runner&lt;/b&gt;!!! It could make porting other MSXgl-based MSX games to the Master System much easier.
-&lt;br /&gt;
-
-&lt;br /&gt;
-By the way, thanks to sverx for devkitSMS and to aoineko for MSXgl, which made this possible.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Feedback is very welcome on the approach. If you like the idea, I will gladly spend the extra time (and tokens!) required to refine both the revised Chrono Runner source, and the msxgl / sms layer source, and release the ROM along with the full source.&lt;ul&gt;&lt;/ul&gt;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>
@@ -249,26 +169,6 @@ Does anybody know where a patch for Teddy Boy is? I own it both physically and h
 
 &lt;br /&gt;
 Pirata for life!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: [Show-off / Valuation] 1994 Portuguese Time Capsule: Master System II Super Pack 3 + Buggy Run</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141452#141452" />
-    <dc:creator>Rui Miguel</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>Rui Miguel</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141452#141452</id>
-    <issued>2026-11-13T16:11:56Z</issued>
-    <modified>2026-11-13T16:11:56Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35567" target="_blank"&gt;Rui Miguel&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 13, 2026 4:11 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Deram-me aquilo que pedi. Ao contrário de outras pessoas. 
-&lt;br /&gt;
-Usei e abusei.
-&lt;br /&gt;
-Está é muito bem Estimada.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

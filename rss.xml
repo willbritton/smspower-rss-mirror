@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 16:00:52 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 16:10:34 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -33,7 +33,15 @@ Posted: Sat Nov 14, 2026 3:53 pm (GMT 0)&lt;br /&gt;
 &lt;br /&gt;
 
 &lt;br /&gt;
-&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/Z19iQiIoB9A&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/6AeZqQKTTfI&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;https://www.smspower.org/Music/NinjaGaiden-SMS-60Hz&quot; target=&quot;_blank&quot;&gt;https://www.smspower.org/Music/NinjaGaiden-SMS-60Hz&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/U5qepfUftn8&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
 
 </description>
 <dc:creator>Maxim</dc:creator>

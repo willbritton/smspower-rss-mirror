@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 13:00:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 13:10:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,28 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: Ports created by [AI]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141460#141460</link>
+<pubDate>Sat, 14 Nov 2026 13:09:14 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141460#141460</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 14, 2026 1:09 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;segarule wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Well, while i dont advance with project mentioned i ported with my lazy work Zooming Secretary for Master System. The game is funcional but i need fix some problems. it dont have music and sfx but will have even others implementations. Im aware about framerate. Maybe i need haroldo´s help. If anyone want test it in real hardware is welcome. Test and enjoy.
+&lt;br /&gt;
+About license, it according with CC. I got the source code and follow the recommendations. I love russians for this.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Awesome project!&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141460</comments>
+</item>
 <item>
 <title>Made By AI :: RE: Ports created by [AI]</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141459#141459</link>
@@ -182,30 +204,6 @@ Querias era uma Mega Drive não era :p&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141444#141444" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141450</comments>
-</item>
-<item>
-<title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141449#141449</link>
-<pubDate>Fri, 13 Nov 2026 12:14:04 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141449#141449</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413&quot; target=&quot;_blank&quot;&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Nov 13, 2026 12:14 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Thanks muchly, bofner, I appreciate it.  Hopefully you'll dig the new one, too.. just posted now.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href=&quot;https://rss.com/podcasts/are-you-alex-kidding/3317644&quot; target=&quot;_blank&quot;&gt;https://rss.com/podcasts/are-you-alex-kidding/3317644&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-New one covers Sukeban Deka 2, Yu Yu Hakusho 1 and 2, Zillion 1 and 2, and some Majesco Game Gear talk and a review of Super Battletank.&lt;br /&gt;
-
-</description>
-<dc:creator>PatrickBateman</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141449</comments>
 </item>
 </channel>
 </rss>

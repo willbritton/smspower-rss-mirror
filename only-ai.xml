@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 16:40:29 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 16:50:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,22 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141464#141464</link>
+<pubDate>Sat, 14 Nov 2026 16:43:26 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141464#141464</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 14, 2026 4:43 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Pretty awesome!&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141461#141461" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141464</comments>
+</item>
 <item>
 <title>Made By AI :: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141461#141461</link>

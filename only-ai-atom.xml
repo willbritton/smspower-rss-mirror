@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-15T19:30:44Z</modified>
+  <modified>2026-11-15T19:40:36Z</modified>
   <entry>
     <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141486#141486" />
@@ -143,24 +143,4 @@ Soundtrack - the arcade version has more of a menacing growl rather than a melod
 	Forgive me but I'm not getting it... are you developing a C compatibility layer that makes it possible to recompile any game made with MSXgl for the SMS using devkitSMS? Or is the LLM doing only what's needed to port this specific game?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141479#141479" />
-    <dc:creator>sverx</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>sverx</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141479#141479</id>
-    <issued>2026-11-15T14:16:47Z</issued>
-    <modified>2026-11-15T14:16:47Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 15, 2026 2:16 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Last June somebody had used an LLM to find 'security issues' in some of the tools in devkitSMS. They provided a PR with fixed code in their report.
-&lt;br /&gt;
-I instead have preferred to not use the provided code and instead fixed the issues myself. Later they deleted the report, not sure if the reason was that I didn't use the code they provided...
-&lt;br /&gt;
-Well, at least they didn't ask any money!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

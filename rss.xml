@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 19:30:43 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 19:40:35 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141489#141489</link>
+<pubDate>Sun, 15 Nov 2026 19:33:07 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141489#141489</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35576&quot; target=&quot;_blank&quot;&gt;SeBe&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 7:33 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Nice list! I'd add Phantasy Star and Psycho Fox, both still a blast to play. And Wonder Boy III: The Dragon's Trap deserves a spot much higher than 11th.&lt;br /&gt;
+
+</description>
+<dc:creator>SeBe</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141214#141214" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141489</comments>
+</item>
 <item>
 <title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141488#141488</link>
@@ -194,26 +210,6 @@ I just wanted to say, thank you, this is amazing news. I grew up in PAL territor
 <dc:subject>Music</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141480</comments>
-</item>
-<item>
-<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141479#141479</link>
-<pubDate>Sun, 15 Nov 2026 14:16:47 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141479#141479</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 15, 2026 2:16 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Last June somebody had used an LLM to find 'security issues' in some of the tools in devkitSMS. They provided a PR with fixed code in their report.
-&lt;br /&gt;
-I instead have preferred to not use the provided code and instead fixed the issues myself. Later they deleted the report, not sure if the reason was that I didn't use the code they provided...
-&lt;br /&gt;
-Well, at least they didn't ask any money!&lt;br /&gt;
-
-</description>
-<dc:creator>sverx</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141479</comments>
 </item>
 </channel>
 </rss>

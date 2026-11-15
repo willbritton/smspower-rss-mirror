@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 22:50:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 23:01:04 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,50 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141492#141492</link>
+<pubDate>Sun, 15 Nov 2026 22:53:45 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141492#141492</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35446&quot; target=&quot;_blank&quot;&gt;bandidox&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 10:53 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;927 builds later... v0.81
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;changelog &lt;/b&gt;(since v0.59)
+&lt;br /&gt;
+
+&lt;br /&gt;
+- New playable world: Hi-Tech World (Planet Techo) + final bosses
+&lt;br /&gt;
+- New playable world: Cura Cura Castle + boss arena + Count Komori boss
+&lt;br /&gt;
+- New darkness effect with reduced visibility around the player in Cura Cura Castle
+&lt;br /&gt;
+- New mechanics and animations (inertia on ice, conveyor belts, revolving doors, snowflakes)
+&lt;br /&gt;
+- Intro and ending scenes from Bomberman '93, with Bomberman '93 and '94 credits
+&lt;br /&gt;
+- New animated title screen
+&lt;br /&gt;
+- New HUD
+&lt;br /&gt;
+- New Options, Pause, Cheats and Game Over screens
+&lt;br /&gt;
+- New animated in-game scenes
+&lt;br /&gt;
+- Performance optimizations
+&lt;br /&gt;
+- Bug fixes&lt;br /&gt;
+
+</description>
+<dc:creator>bandidox</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140905#140905" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141492</comments>
+</item>
 <item>
 <title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141491#141491</link>
@@ -232,22 +276,6 @@ Posted: Sun Nov 15, 2026 3:54 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141483</comments>
-</item>
-<item>
-<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141482#141482</link>
-<pubDate>Sun, 15 Nov 2026 14:45:45 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141482#141482</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=33276&quot; target=&quot;_blank&quot;&gt;The Virtual Constructs&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 15, 2026 2:45 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I guess this unwanted situation applies to anyone who has put their code on github, and that is millions of programmers.&lt;br /&gt;
-
-</description>
-<dc:creator>The Virtual Constructs</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141482</comments>
 </item>
 </channel>
 </rss>

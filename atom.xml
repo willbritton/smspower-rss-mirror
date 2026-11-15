@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-15T14:20:36Z</modified>
+  <modified>2026-11-15T14:30:42Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141481#141481"/>
+    <dc:creator>sverx</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>sverx</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141481#141481</id>
+    <issued>2026-11-15T14:23:02Z</issued>
+    <modified>2026-11-15T14:23:02Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 15, 2026 2:23 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Forgive me but I'm not getting it... are you developing a C compatibility layer that makes it possible to recompile any game made with MSXgl for the SMS using devkitSMS? Or is the LLM doing only what's needed to port this specific game?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Music :: RE: Ninja Gaiden (SMS) oddities</title>
     <link rel="alternate" type="text/html"
@@ -580,23 +597,6 @@ So... I'm not sure! I think that I will finish the first version focusing on the
 
 &lt;br /&gt;
 By publishing stuff online (as I have been doing for years) you have to accept that anyone can read it and now that means it can be used to train LLMs and also people can feed them to LLMs to generate nonsense. It’s unfortunate that this LLM part wasn’t even a thing when we published and there’s no way to stop them.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141471#141471"/>
-    <dc:creator>segarule</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>segarule</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141471#141471</id>
-    <issued>2026-11-15T09:01:36Z</issued>
-    <modified>2026-11-15T09:01:36Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 15, 2026 9:01 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Congratulations! Why not port it with mode 4 in mind. Would be better use SMS colors?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

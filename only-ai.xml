@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 05:20:29 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 05:30:41 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,22 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141467#141467</link>
+<pubDate>Sun, 15 Nov 2026 05:21:08 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141467#141467</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398" target="_blank"&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 5:21 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I myself have wondered where the line is drawn. Out of curiosity, I ran the GG2SMS Mega Man hack through Claude and, within 15 minutes, eliminated the garbage around the border and pause screen and junk that's drawn on the right, as Mega Man moves. After an hour, I was adding FM music and sound effects to the ROM. I thought about posting on here, to see if any Mega Man fans wanted to hep test all of this, but was hesitant because the hack is not my work. The FM music files that are available for the game are not my work and I didn't want to ruffle any feathers.&lt;br /&gt;
+
+</description>
+<dc:creator>AtariBorn</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141467</comments>
+</item>
 <item>
 <title>Development :: [AI] Someone ran my homebrew through an LLM</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466</link>

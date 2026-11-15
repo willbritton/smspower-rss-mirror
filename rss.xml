@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 05:20:29 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 05:30:41 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141467#141467</link>
+<pubDate>Sun, 15 Nov 2026 05:21:08 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141467#141467</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 5:21 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I myself have wondered where the line is drawn. Out of curiosity, I ran the GG2SMS Mega Man hack through Claude and, within 15 minutes, eliminated the garbage around the border and pause screen and junk that's drawn on the right, as Mega Man moves. After an hour, I was adding FM music and sound effects to the ROM. I thought about posting on here, to see if any Mega Man fans wanted to hep test all of this, but was hesitant because the hack is not my work. The FM music files that are available for the game are not my work and I didn't want to ruffle any feathers.&lt;br /&gt;
+
+</description>
+<dc:creator>AtariBorn</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141467</comments>
+</item>
 <item>
 <title>Development :: [AI] Someone ran my homebrew through an LLM</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466</link>
@@ -288,28 +304,6 @@ Posted: Sat Nov 14, 2026 5:57 am (GMT 0)&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141455#141455" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141458</comments>
-</item>
-<item>
-<title>Development :: RE: Hacks for using Mega Drive controllers in SMS games</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141457#141457</link>
-<pubDate>Sat, 14 Nov 2026 05:57:38 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141457#141457</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34730&quot; target=&quot;_blank&quot;&gt;NM-13&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sat Nov 14, 2026 5:57 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;thatoneMD wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;naytai wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Has anyone made or found a patch for Wonder Boy in Monster Land to use the Mega Drive controller Start button as Pause?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-I made one (attached).    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Does anybody know where a patch for Teddy Boy is? I own it both physically and have tried multiple roms via everdrive as well and it's always the same. Play with a Genesis/Megadrive controller and it does the same thing that happened to most of the other incompatible games before I patched them. Unfortunately, this one is the only game who's patch eludes me. If anybody here could help me out it would be much appreciated! Thank you!&lt;br /&gt;
-
-</description>
-<dc:creator>NM-13</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=82816#82816" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141457</comments>
 </item>
 </channel>
 </rss>

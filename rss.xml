@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 10:50:31 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 11:00:53 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141474#141474</link>
+<pubDate>Sun, 15 Nov 2026 10:57:57 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141474#141474</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826&quot; target=&quot;_blank&quot;&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 10:57 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;This is all very sorry. What a mess. I feel how disheartened you guys are seeing your hard work dealt with like this, and I agree that some people (most people?) just want more, more, MORE, without thinking about all the real care serious creators put on their stuff throughout the years. I see people on social media celebrating dozens upon dozens of new games and new translations coming out by the minute, and wonder if they even PLAY this incomplete garbage. They just want to have MORE, quality be damned. A terrifying epitome of our consumerism times.&lt;br /&gt;
+
+</description>
+<dc:creator>mateusbond</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141474</comments>
+</item>
 <item>
 <title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141473#141473</link>
@@ -196,22 +212,6 @@ Posted: Sat Nov 14, 2026 5:00 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Music</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=131762#131762" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141465</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141464#141464</link>
-<pubDate>Sat, 14 Nov 2026 16:43:26 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141464#141464</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sat Nov 14, 2026 4:43 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Pretty awesome!&lt;br /&gt;
-
-</description>
-<dc:creator>haroldoop</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141461#141461" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141464</comments>
 </item>
 </channel>
 </rss>

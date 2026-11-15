@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-15T19:40:36Z</modified>
+  <modified>2026-11-15T19:50:34Z</modified>
   <entry>
     <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141486#141486" />
@@ -143,4 +143,4 @@ Soundtrack - the arcade version has more of a menacing growl rather than a melod
 	Forgive me but I'm not getting it... are you developing a C compatibility layer that makes it possible to recompile any game made with MSXgl for the SMS using devkitSMS? Or is the LLM doing only what's needed to port this specific game?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

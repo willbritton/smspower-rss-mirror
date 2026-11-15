@@ -8,7 +8,42 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-15T19:40:36Z</modified>
+  <modified>2026-11-15T19:50:34Z</modified>
+  <entry>
+    <title mode="escaped">Development :: Beta testing a SMS Phantasy Star game. Interested?</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141490#141490"/>
+    <dc:creator>voicecommandgames</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>voicecommandgames</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141490#141490</id>
+    <issued>2026-11-15T19:46:42Z</issued>
+    <modified>2026-11-15T19:46:42Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35577&quot; target=&quot;_blank&quot;&gt;voicecommandgames&lt;/a&gt;&lt;br /&gt;
+	Subject: Beta testing a SMS Phantasy Star game. Interested?&lt;br /&gt;Posted: Sun Nov 15, 2026 7:46 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Hi there!
+&lt;br /&gt;
+
+&lt;br /&gt;
+You can find me here.
+&lt;br /&gt;
+voicecommandgames.itch.io
+&lt;br /&gt;
+
+&lt;br /&gt;
+I am planning a slate of sms games, and I would like to possibly beta test a Phantasy Star RPG for the sms
+&lt;br /&gt;
+
+&lt;br /&gt;
+Hit me up here if you are interested!
+&lt;br /&gt;
+
+&lt;br /&gt;
+Hugs everyone!!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
     <link rel="alternate" type="text/html"
@@ -190,27 +225,6 @@ Soundtrack - the arcade version has more of a menacing growl rather than a melod
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
 	Posted: Sun Nov 15, 2026 2:23 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Forgive me but I'm not getting it... are you developing a C compatibility layer that makes it possible to recompile any game made with MSXgl for the SMS using devkitSMS? Or is the LLM doing only what's needed to port this specific game?&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Music :: RE: Ninja Gaiden (SMS) oddities</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141480#141480"/>
-    <dc:creator>Avanze</dc:creator>
-    <dc:subject>Music</dc:subject>
-    <author>
-		<name>Avanze</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141480#141480</id>
-    <issued>2026-11-15T14:20:26Z</issued>
-    <modified>2026-11-15T14:20:26Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2255&quot; target=&quot;_blank&quot;&gt;Avanze&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 15, 2026 2:20 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Adrian wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;In saying all that, the good news I think is that Maxim is making new packs of every title on the SMS and Game Gear at both 50Hz and 60Hz so nobody is left out.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I just wanted to say, thank you, this is amazing news. I grew up in PAL territory and listening to 60hz never sounded quite right to me. I think this will increase the enjoyment of many a pack.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

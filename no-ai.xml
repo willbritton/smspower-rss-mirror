@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 19:40:35 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 19:50:33 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,40 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: Beta testing a SMS Phantasy Star game. Interested?</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141490#141490</link>
+<pubDate>Sun, 15 Nov 2026 19:46:42 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141490#141490</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35577" target="_blank"&gt;voicecommandgames&lt;/a&gt;&lt;br /&gt;
+Subject: Beta testing a SMS Phantasy Star game. Interested?&lt;br /&gt;
+Posted: Sun Nov 15, 2026 7:46 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Hi there!
+&lt;br /&gt;
+
+&lt;br /&gt;
+You can find me here.
+&lt;br /&gt;
+voicecommandgames.itch.io
+&lt;br /&gt;
+
+&lt;br /&gt;
+I am planning a slate of sms games, and I would like to possibly beta test a Phantasy Star RPG for the sms
+&lt;br /&gt;
+
+&lt;br /&gt;
+Hit me up here if you are interested!
+&lt;br /&gt;
+
+&lt;br /&gt;
+Hugs everyone!!&lt;br /&gt;
+
+</description>
+<dc:creator>voicecommandgames</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141490#141490" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141490</comments>
+</item>
 <item>
 <title>Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141489#141489</link>
@@ -63,38 +97,6 @@ Posted: Sun Nov 15, 2026 6:01 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Music</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141487</comments>
-</item>
-<item>
-<title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141480#141480</link>
-<pubDate>Sun, 15 Nov 2026 14:20:26 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141480#141480</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2255" target="_blank"&gt;Avanze&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 15, 2026 2:20 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;Adrian wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;In saying all that, the good news I think is that Maxim is making new packs of every title on the SMS and Game Gear at both 50Hz and 60Hz so nobody is left out.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I just wanted to say, thank you, this is amazing news. I grew up in PAL territory and listening to 60hz never sounded quite right to me. I think this will increase the enjoyment of many a pack.&lt;br /&gt;
-
-</description>
-<dc:creator>Avanze</dc:creator>
-<dc:subject>Music</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141480</comments>
 </item>
 </channel>
 </rss>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 09:30:43 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 09:40:34 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,26 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141472#141472</link>
+<pubDate>Sun, 15 Nov 2026 09:38:07 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141472#141472</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 9:38 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I feel the need to point out that all it “found” was complete bullshit. Under my own advice, WLA DX checksums a minimal range to make it so the homebrew boots faster - some commercial games do this too. In the same linked repo it has also discovered that some other homebrew is padded with blank banks and doesn’t have a valid checksum at all. This is an absolute prime example of AI slop wasting resources in order to waste the time of real people.
+&lt;br /&gt;
+
+&lt;br /&gt;
+By publishing stuff online (as I have been doing for years) you have to accept that anyone can read it and now that means it can be used to train LLMs and also people can feed them to LLMs to generate nonsense. It’s unfortunate that this LLM part wasn’t even a thing when we published and there’s no way to stop them.&lt;br /&gt;
+
+</description>
+<dc:creator>Maxim</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141472</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141471#141471</link>
@@ -196,38 +216,6 @@ Now re-ripped at both speeds. This also fixes some looping issues in the earlier
 <dc:subject>Music</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141463</comments>
-</item>
-<item>
-<title>Music :: [VGM pack] Ninja Gaiden</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141462#141462</link>
-<pubDate>Sat, 14 Nov 2026 15:53:22 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141462#141462</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-Subject: [VGM pack] Ninja Gaiden&lt;br /&gt;
-Posted: Sat Nov 14, 2026 3:53 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Re-ripped at both 50Hz and 60Hz.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href=&quot;https://www.smspower.org/Music/NinjaGaiden-SMS-50Hz&quot; target=&quot;_blank&quot;&gt;https://www.smspower.org/Music/NinjaGaiden-SMS-50Hz&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/6AeZqQKTTfI&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href=&quot;https://www.smspower.org/Music/NinjaGaiden-SMS-60Hz&quot; target=&quot;_blank&quot;&gt;https://www.smspower.org/Music/NinjaGaiden-SMS-60Hz&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/U5qepfUftn8&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Music</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141462#141462" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141462</comments>
 </item>
 </channel>
 </rss>

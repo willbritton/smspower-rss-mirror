@@ -4,7 +4,27 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-15T09:30:44Z</modified>
+  <modified>2026-11-15T09:40:34Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141472#141472" />
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141472#141472</id>
+    <issued>2026-11-15T09:38:07Z</issued>
+    <modified>2026-11-15T09:38:07Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 15, 2026 9:38 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I feel the need to point out that all it “found” was complete bullshit. Under my own advice, WLA DX checksums a minimal range to make it so the homebrew boots faster - some commercial games do this too. In the same linked repo it has also discovered that some other homebrew is padded with blank banks and doesn’t have a valid checksum at all. This is an absolute prime example of AI slop wasting resources in order to waste the time of real people.
+&lt;br /&gt;
+
+&lt;br /&gt;
+By publishing stuff online (as I have been doing for years) you have to accept that anyone can read it and now that means it can be used to train LLMs and also people can feed them to LLMs to generate nonsense. It’s unfortunate that this LLM part wasn’t even a thing when we published and there’s no way to stop them.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141471#141471" />

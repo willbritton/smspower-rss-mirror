@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 09:30:43 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 09:40:34 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -51,38 +51,6 @@ Now re-ripped at both speeds. This also fixes some looping issues in the earlier
 <dc:subject>Music</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141463</comments>
-</item>
-<item>
-<title>Music :: [VGM pack] Ninja Gaiden</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141462#141462</link>
-<pubDate>Sat, 14 Nov 2026 15:53:22 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141462#141462</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-Subject: [VGM pack] Ninja Gaiden&lt;br /&gt;
-Posted: Sat Nov 14, 2026 3:53 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Re-ripped at both 50Hz and 60Hz.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href="https://www.smspower.org/Music/NinjaGaiden-SMS-50Hz" target="_blank"&gt;https://www.smspower.org/Music/NinjaGaiden-SMS-50Hz&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/6AeZqQKTTfI" frameborder="0"&gt;&lt;/iframe&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;a href="https://www.smspower.org/Music/NinjaGaiden-SMS-60Hz" target="_blank"&gt;https://www.smspower.org/Music/NinjaGaiden-SMS-60Hz&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/U5qepfUftn8" frameborder="0"&gt;&lt;/iframe&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Music</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141462#141462" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141462</comments>
 </item>
 </channel>
 </rss>

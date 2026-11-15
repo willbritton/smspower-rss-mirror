@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-15T07:30:46Z</modified>
+  <modified>2026-11-15T07:40:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141468#141468" />
+    <dc:creator>AtariBorn</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>AtariBorn</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141468#141468</id>
+    <issued>2026-11-15T07:37:00Z</issued>
+    <modified>2026-11-15T07:37:00Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398" target="_blank"&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 15, 2026 7:37 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I've went back and removed any FM music that derived from anyone else's cover of the songs, publicly available or not. I just recreated them with the NES music files (also someone else's work, I know) but I'm not sure about the GG2SMS hack. I could just have Claude recreate that hack as well as the visual side effects of the conversion but then there would be more than one version of a hack that does the same thing. I don't want to step on anyone's toes or cause confusion. It's a conundrum.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141467#141467" />
@@ -221,4 +237,4 @@ Awesome project!&lt;/span&gt;&lt;br /&gt;
 About license, it according with CC. I got the source code and follow the recommendations. I love russians for this.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

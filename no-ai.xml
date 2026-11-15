@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 07:30:45 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 07:40:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -83,22 +83,6 @@ Posted: Sat Nov 14, 2026 3:53 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Music</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141462#141462" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141462</comments>
-</item>
-<item>
-<title>Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141458#141458</link>
-<pubDate>Sat, 14 Nov 2026 05:57:48 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141458#141458</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35569" target="_blank"&gt;Sobo22&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sat Nov 14, 2026 5:57 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;This looks great-good job! 👍👍&lt;br /&gt;
-
-</description>
-<dc:creator>Sobo22</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141455#141455" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141458</comments>
 </item>
 </channel>
 </rss>

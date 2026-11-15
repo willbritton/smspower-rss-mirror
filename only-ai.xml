@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 16:10:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 16:20:34 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,62 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] Juno First for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141485#141485</link>
+<pubDate>Sun, 15 Nov 2026 16:16:12 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141485#141485</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 4:16 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Thanks for the review! I'll try to improve the game!&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141485</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Juno First for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141484#141484</link>
+<pubDate>Sun, 15 Nov 2026 16:10:46 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141484#141484</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7980" target="_blank"&gt;Centrale&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 4:10 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I love Juno First! But this port looks like it has a long way to go to do it justice. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+Inertia - It seems to lack inertia in your ship's movements. In the arcade original, it's unusual if your ship comes to a complete standstill, but in this port it seems to happen a lot.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Enemy formations - should be more vertically oriented. The arcade game will regularly have about 24 enemies in vertical and diagonal formations of 8. This port currently looks to have loose formations of 3.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Grid lines and dots - There are too many of both, making it harder to perceive the direction of movement. I think you'll get a better sense of motion with about half the current amount of both. Plus, the lines should be perceived more as vertically extending into the distance rather than horizontally across the screen.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Style of shots and explosions - The arcade original seemed to take inspiration from Williams classics like Defender and Robotron with dashed shot lines and big explosions made of lots of tiny particles. I suggest enemies should explode into 8 small sprites expanding outward in a circular formation. When the player's ship explodes there should be a patterned, screen-filling explosion that would probably have to be made with tile animation. The game's art direction overall is so minimalist and all the player and enemy sprites so small, these effects are all the more important.
+&lt;br /&gt;
+
+&lt;br /&gt;
+No radar at the top of the screen - This is important for the player to anticipate upcoming formations when moving forward. Champ Games managed it with their 2600 port, so it should be no problem for the SMS!
+&lt;br /&gt;
+
+&lt;br /&gt;
+Soundtrack - the arcade version has more of a menacing growl rather than a melodic soundtrack.&lt;br /&gt;
+
+</description>
+<dc:creator>Centrale</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141484</comments>
+</item>
 <item>
 <title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141483#141483</link>
@@ -513,88 +569,6 @@ Adapting complex MS-DOS `.PSM` tracker music to the Game Gear's SN76489 PSG soun
 <dc:subject>Made By AI</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140977#140977" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141476</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141475#141475</link>
-<pubDate>Sun, 15 Nov 2026 11:04:31 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141475#141475</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35571" target="_blank"&gt;tachyMC&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 15, 2026 11:04 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;haroldoop wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Pretty awesome!    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-Thanks! Most of the work is from Opus LLM, but I made my best to direct it and point out issues when there were any.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;blockquote&gt;  &lt;div class="attribution"&gt;segarule wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Why not port it with mode 4 in mind. Would be better use SMS colors?
-&lt;br /&gt;
-    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-Thanks for the feedback!
-&lt;br /&gt;
-
-&lt;br /&gt;
-For the Chrono Runner game, a port optimized for Mode 4 would probably be better for avoiding the &lt;b&gt;color clash&lt;/b&gt; limitations. The original game for MSX has many, and it shows already in the game splashscreen (it's attached to this message).
-&lt;br /&gt;
-
-&lt;br /&gt;
-Pay attention to the two clocks in the Chrono Runner logo! Some regions are red while they should be white. That's the color clash caused by the Graphics Mode 2 limitations.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Apart from the color clash... I don't know if there could be any other significant improvement. The original game does not feature scrolling, and the whole tilemap is already very optimized (so, no improvements from flipping).
-&lt;br /&gt;
-
-&lt;br /&gt;
-So... I'm not sure! I think that I will finish the first version focusing on the compatibility layer, then will share both ROM and source so you all can suggest where to go from there!&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>tachyMC</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141461#141461" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141475</comments>
-</item>
-<item>
-<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141474#141474</link>
-<pubDate>Sun, 15 Nov 2026 10:57:57 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141474#141474</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826" target="_blank"&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 15, 2026 10:57 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;This is all very sorry. What a mess. I feel how disheartened you guys are seeing your hard work dealt with like this, and I agree that some people (most people?) just want more, more, MORE, without thinking about all the real care serious creators put on their stuff throughout the years. I see people on social media celebrating dozens upon dozens of new games and new translations coming out by the minute, and wonder if they even PLAY this incomplete and broken garbage. They just want to have MORE, quality and ethics be damned. A terrifying epitome of our consumerism times.&lt;br /&gt;
-
-</description>
-<dc:creator>mateusbond</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141474</comments>
 </item>
 </channel>
 </rss>

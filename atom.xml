@@ -8,7 +8,40 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-15T03:40:34Z</modified>
+  <modified>2026-11-15T03:50:43Z</modified>
+  <entry>
+    <title mode="escaped">Development :: [AI] Someone ran my homebrew through an LLM</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466"/>
+    <dc:creator>bofner</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>bofner</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466</id>
+    <issued>2026-11-15T03:49:11Z</issued>
+    <modified>2026-11-15T03:49:11Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603&quot; target=&quot;_blank&quot;&gt;bofner&lt;/a&gt;&lt;br /&gt;
+	Subject: [AI] Someone ran my homebrew through an LLM&lt;br /&gt;Posted: Sun Nov 15, 2026 3:49 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Sorry to post something AI related here, but this isn't an AI project, its something I wanted to call attention to for those of us posting our open source code on GitHub. If the moderators feel this would be better posted on the AI page, that's fine, and I apologize if I'm causing a disturbance. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+I made a homebrew game from scratch in assembly a couple of years ago, Space Tonbow, and left the code open source on GitHub. And today got an email saying someone had posted this issue:
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/Bofner/Space-Tonbow/issues/1&quot; target=&quot;_blank&quot; class=&quot;postlink&quot;&gt;https://github.com/Bofner/Space-Tonbow/issues/1&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+But this someone just took my code, passed it to an LLM, and is trying to sell me bug fixes for my SMS code. I double checked their profile and indeed, they are using AI.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Has this happened to anyone else? I personally feel violated and grossed out by this. If someone wants to make their own games using AI, that's one thing. If someone wants to point out a bug in my code that they noticed, then thank you, I appreciate it. But trying to sell me a bug fix on my OWN, open source game by copy-pasting it into an LLM to make a quick and dirty buck? That feels like its crossing a line to me.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Music :: RE: [VGM pack] Special Criminal Investigation</title>
     <link rel="alternate" type="text/html"
@@ -278,23 +311,6 @@ I made one (attached).    &lt;script type=&quot;text/javascript&quot;&gt;      
 
 &lt;br /&gt;
 Does anybody know where a patch for Teddy Boy is? I own it both physically and have tried multiple roms via everdrive as well and it's always the same. Play with a Genesis/Megadrive controller and it does the same thing that happened to most of the other incompatible games before I patched them. Unfortunately, this one is the only game who's patch eludes me. If anybody here could help me out it would be much appreciated! Thank you!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141456#141456"/>
-    <dc:creator>elizacommunities</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>elizacommunities</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141456#141456</id>
-    <issued>2026-11-14T05:48:03Z</issued>
-    <modified>2026-11-14T05:48:03Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35557&quot; target=&quot;_blank&quot;&gt;elizacommunities&lt;/a&gt;&lt;br /&gt;
-	Posted: Sat Nov 14, 2026 5:48 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Welcome to the forum! These look really nice — the running pose especially reads well even at that small size, and the purple and green checkerboard makes Sonic stand out nicely. I like the idea of a demake in the SG-1000 style too. Looking forward to seeing what you do next with them.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

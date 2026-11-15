@@ -4,7 +4,39 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-15T03:40:34Z</modified>
+  <modified>2026-11-15T03:50:43Z</modified>
+  <entry>
+    <title mode="escaped">Development :: [AI] Someone ran my homebrew through an LLM</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+    <dc:creator>bofner</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>bofner</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466</id>
+    <issued>2026-11-15T03:49:11Z</issued>
+    <modified>2026-11-15T03:49:11Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603" target="_blank"&gt;bofner&lt;/a&gt;&lt;br /&gt;
+	Subject: [AI] Someone ran my homebrew through an LLM&lt;br /&gt;Posted: Sun Nov 15, 2026 3:49 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Sorry to post something AI related here, but this isn't an AI project, its something I wanted to call attention to for those of us posting our open source code on GitHub. If the moderators feel this would be better posted on the AI page, that's fine, and I apologize if I'm causing a disturbance. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+I made a homebrew game from scratch in assembly a couple of years ago, Space Tonbow, and left the code open source on GitHub. And today got an email saying someone had posted this issue:
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;a href="https://github.com/Bofner/Space-Tonbow/issues/1" target="_blank" class="postlink"&gt;https://github.com/Bofner/Space-Tonbow/issues/1&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+But this someone just took my code, passed it to an LLM, and is trying to sell me bug fixes for my SMS code. I double checked their profile and indeed, they are using AI.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Has this happened to anyone else? I personally feel violated and grossed out by this. If someone wants to make their own games using AI, that's one thing. If someone wants to point out a bug in my code that they noticed, then thank you, I appreciate it. But trying to sell me a bug fix on my OWN, open source game by copy-pasting it into an LLM to make a quick and dirty buck? That feels like its crossing a line to me.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141464#141464" />

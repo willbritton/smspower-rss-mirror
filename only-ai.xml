@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 12:30:43 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 12:40:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,168 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: [AI] Dragon Blaster has been turned into a full game</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141477#141477</link>
+<pubDate>Sun, 15 Nov 2026 12:38:33 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141477#141477</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+Subject: [AI] Dragon Blaster has been turned into a full game&lt;br /&gt;
+Posted: Sun Nov 15, 2026 12:38 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/rgxq0SVXQNk" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Dragon Blaster has been turned into a full game using the demonstration version of Claude Fable 5.2.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Dragon Blaster --- v1.0 Release (Claude Fable 5.2 Build)
+&lt;br /&gt;
+======================================================
+&lt;br /&gt;
+
+&lt;br /&gt;
+The **v1.0** release transforms **Dragon Blaster** from a jam prototype into a fully fleshed-out, data-driven shoot-em-up for the **Sega Master System**, packaged in a playable 144 KB ROM (`dragon_blaster.sms`) with complete source files (`dragon-blaster-source.zip`).
+&lt;br /&gt;
+
+&lt;br /&gt;
+Github repo: &lt;a href="https://github.com/haroldo-ok/dragon-blaster" target="_blank"&gt;https://github.com/haroldo-ok/dragon-blaster&lt;/a&gt;
+&lt;br /&gt;
+Itch.io page: &lt;a href="https://haroldo-ok.itch.io/dragon-blaster" target="_blank"&gt;https://haroldo-ok.itch.io/dragon-blaster&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Links to the previous non-ai version:
+&lt;br /&gt;
+&lt;a href="https://www.smspower.org/Homebrew/DragonBlaster-SMS" target="_blank"&gt;https://www.smspower.org/Homebrew/DragonBlaster-SMS&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href="https://www.smspower.org/forums/18947-CodingCompetition2022DragonBlasterByHaroldoop" target="_blank" title="https://www.smspower.org/forums/18947-CodingCompetition2022DragonBlasterByHaroldoop"&gt;https://www.smspower.org/forums/18947-CodingCompetition2022DragonBlasterByHarold...&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+🐲 What's New in v1.0
+&lt;br /&gt;
+---------------------
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **5 Distinct Stages:** Emerald Plains (featuring your original terrain), Scorched Dunes, Frozen Peaks, Fallen Fortress, and the Lair of the Lich---complete with unique scenery, music tracks, and enemy waves.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **5 Multi-Phase Bosses:** Face off against the Imp Chieftain, The Gazer, Frost Wyrm, Inferno Wyrm, and the final Dracolich boss. Each features dedicated life bars, varied attack patterns, and an aggressive enraged second phase.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Expanded Bestiary &amp;amp; Ballistics:** 9 distinct enemy types organized across 24 wave formations utilizing 11 varied bullet patterns.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Complete Flow &amp;amp; Presentation:** Includes an atmospheric title screen, typed-out story introduction with a built-in how-to-play guide, stage transition cards, stage-clear score tallies, a game-over screen with continue support, and full ending/credits sequences.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Robust Audio Suite:** Features 12 original tunes and 13 sound effects compiled via PSGlib.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Classic Arcade Rules:** Replaces the old 60-second timer with a proper life/respawn invincibility system, extra lives every 30,000 points, high score tracking, and full pause functionality. Wave-clearing rewards gems, with every third perfect wave granting an elemental orb (losing a life costs your second orb slot).
+&lt;br /&gt;
+
+&lt;br /&gt;
+⌨️ Classic Cheat Codes
+&lt;br /&gt;
+----------------------
+&lt;br /&gt;
+
+&lt;br /&gt;
+Enter these sequences using the D-pad on the title screen. A confirmation chime and message will verify entry (entering the code a second time disables it). Cheats persist across continues until the console is reset.
+&lt;br /&gt;
+
+&lt;br /&gt;
+| **D-Pad Sequence** | **Cheat Name** | **Effect** |
+&lt;br /&gt;
+| --- | --- | --- |
+&lt;br /&gt;
+| **Up, Up, Down, Down, Left, Right, Left, Right** | **NINE LIVES** | Start and continue with 9 lives. |
+&lt;br /&gt;
+| **Left, Left, Right, Right, Up, Down, Up, Down** | **DRAGON SCALES** | Total invulnerability (nothing hurts the dragon). |
+&lt;br /&gt;
+| **Down, Down, Up, Up, Right, Left, Right, Left** | **STAGE SELECT** | Use Left/Right on the title screen to pick your starting stage. |
+&lt;br /&gt;
+| **Up, Down, Up, Down, Left, Left, Right, Right** | **ELDER BREATH** | Start with Lightning + Fire, retaining both orbs when losing a life. |
+&lt;br /&gt;
+
+&lt;br /&gt;
+*(Note: Compile-time debug switches in `config.h` have been renamed to `DEBUG_INVINCIBLE` and `DEBUG_START_STAGE` to prevent namespace clashes with the new runtime cheat flags).*
+&lt;br /&gt;
+
+&lt;br /&gt;
+🛠️ Performance &amp;amp; Engine Upgrades
+&lt;br /&gt;
+---------------------------------
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Z80 Assembly Hot-Paths:** Actor movement/rendering routines, shot loops, and bullet logic were rewritten in Z80 assembly, skyrocketing frame rates from ~30 fps up to a stable **57--60 fps**.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Streamlined Asset Pipeline:** External dependencies like BMP2Tile and Node.js converters have been fully removed in favor of `tool/build_assets.py`.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Fully Data-Driven Design (`MODDING.md`):**
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   `data/game.ini` handles enemies, waves, bosses, and stages.
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   Levels utilize **Tiled** maps, placing waves and items as objects.
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   Flight paths are defined via simple waypoint text files.
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   Music uses a compact MML text format.
+&lt;br /&gt;
+
+&lt;br /&gt;
+⚠️ Known Items for Tuning &amp;amp; Review
+&lt;br /&gt;
+----------------------------------
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Audio Balance:** Music and sound effects were written &amp;quot;blind&amp;quot; and may benefit from real hardware ear-checks.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Difficulty Curve:** Enemy and boss stats (`data/game.ini`) alongside player speeds (`config.h`) are balanced via estimation rather than live player testing.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Visual Visibility:** Pale lightning projectiles can occasionally blend into the background against the snowy terrain of the *Frozen Peaks* stage.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Left-Edge Shot Culling:** The Fire + Wind combined breath circles leftward as it travels; shots that clip past the absolute left edge of the screen naturally vanish due to standard off-screen clipping rules.
+&lt;br /&gt;
+
+&lt;br /&gt;
+**Full Changelog**: &lt;a href="https://github.com/haroldo-ok/dragon-blaster/compare/v0.11...v1.0" target="_blank"&gt;https://github.com/haroldo-ok/dragon-blaster/compare/v0.11...v1.0&lt;/a&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141477#141477" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141477</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] Jazz Jackrabbit for Game Gear</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141476#141476</link>
@@ -317,22 +479,6 @@ Posted: Sun Nov 15, 2026 7:37 am (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141468</comments>
-</item>
-<item>
-<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141467#141467</link>
-<pubDate>Sun, 15 Nov 2026 05:21:08 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141467#141467</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398" target="_blank"&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 15, 2026 5:21 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I myself have wondered where the line is drawn. Out of curiosity, I ran the GG2SMS Mega Man hack through Claude and, within 15 minutes, eliminated the garbage around the border and pause screen and junk that's drawn on the right, as Mega Man moves. After an hour, I was adding FM music and sound effects to the ROM. I thought about posting on here, to see if any Mega Man fans wanted to hep test all of this, but was hesitant because the hack is not my work. The FM music files that are available for the game are not my work and I didn't want to ruffle any feathers.&lt;br /&gt;
-
-</description>
-<dc:creator>AtariBorn</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141467</comments>
 </item>
 </channel>
 </rss>

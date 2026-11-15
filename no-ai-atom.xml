@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-15T10:00:57Z</modified>
+  <modified>2026-11-15T10:10:30Z</modified>
   <entry>
     <title mode="escaped">Music :: RE: [VGM pack] Special Criminal Investigation</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141465#141465" />
@@ -21,24 +21,4 @@
 	Thanks, I have updated the pack.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Music :: RE: Ninja Gaiden (SMS) oddities</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141463#141463" />
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Music</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141463#141463</id>
-    <issued>2026-11-14T16:23:05Z</issued>
-    <modified>2026-11-14T16:23:05Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Posted: Sat Nov 14, 2026 4:23 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;a href="https://www.smspower.org/forums/21258-VGMPackNinjaGaiden" target="_blank"&gt;https://www.smspower.org/forums/21258-VGMPackNinjaGaiden&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Now re-ripped at both speeds. This also fixes some looping issues in the earlier pack.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

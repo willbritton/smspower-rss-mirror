@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-15T10:00:57Z</modified>
+  <modified>2026-11-15T10:10:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141473#141473"/>
+    <dc:creator>badcomputer</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>badcomputer</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141473#141473</id>
+    <issued>2026-11-15T10:02:17Z</issued>
+    <modified>2026-11-15T10:02:17Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27488&quot; target=&quot;_blank&quot;&gt;badcomputer&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 15, 2026 10:02 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Sorry to hear about this bofner. I had a comment on one of my games from the same user on itch.io. They were selling some useless tools.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
     <link rel="alternate" type="text/html"
@@ -196,27 +213,6 @@ Has this happened to anyone else? I personally feel violated and grossed out by 
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
 	Posted: Sat Nov 14, 2026 4:43 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Pretty awesome!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Music :: RE: Ninja Gaiden (SMS) oddities</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141463#141463"/>
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Music</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141463#141463</id>
-    <issued>2026-11-14T16:23:05Z</issued>
-    <modified>2026-11-14T16:23:05Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Posted: Sat Nov 14, 2026 4:23 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;a href=&quot;https://www.smspower.org/forums/21258-VGMPackNinjaGaiden&quot; target=&quot;_blank&quot;&gt;https://www.smspower.org/forums/21258-VGMPackNinjaGaiden&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Now re-ripped at both speeds. This also fixes some looping issues in the earlier pack.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

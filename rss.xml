@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 10:00:57 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 10:10:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141473#141473</link>
+<pubDate>Sun, 15 Nov 2026 10:02:17 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141473#141473</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27488&quot; target=&quot;_blank&quot;&gt;badcomputer&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 10:02 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Sorry to hear about this bofner. I had a comment on one of my games from the same user on itch.io. They were selling some useless tools.&lt;br /&gt;
+
+</description>
+<dc:creator>badcomputer</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141473</comments>
+</item>
 <item>
 <title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141472#141472</link>
@@ -196,26 +212,6 @@ Posted: Sat Nov 14, 2026 4:43 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141461#141461" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141464</comments>
-</item>
-<item>
-<title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141463#141463</link>
-<pubDate>Sat, 14 Nov 2026 16:23:05 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141463#141463</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sat Nov 14, 2026 4:23 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;a href=&quot;https://www.smspower.org/forums/21258-VGMPackNinjaGaiden&quot; target=&quot;_blank&quot;&gt;https://www.smspower.org/forums/21258-VGMPackNinjaGaiden&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Now re-ripped at both speeds. This also fixes some looping issues in the earlier pack.&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Music</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141463</comments>
 </item>
 </channel>
 </rss>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 14:10:35 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 14:20:36 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,46 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141480#141480</link>
+<pubDate>Sun, 15 Nov 2026 14:20:26 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141480#141480</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2255&quot; target=&quot;_blank&quot;&gt;Avanze&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 2:20 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Adrian wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;In saying all that, the good news I think is that Maxim is making new packs of every title on the SMS and Game Gear at both 50Hz and 60Hz so nobody is left out.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+I just wanted to say, thank you, this is amazing news. I grew up in PAL territory and listening to 60hz never sounded quite right to me. I think this will increase the enjoyment of many a pack.&lt;br /&gt;
+
+</description>
+<dc:creator>Avanze</dc:creator>
+<dc:subject>Music</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141480</comments>
+</item>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141479#141479</link>
+<pubDate>Sun, 15 Nov 2026 14:16:47 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141479#141479</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 2:16 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Last June somebody had used an LLM to find 'security issues' in some of the tools in devkitSMS. They provided a PR with fixed code in their report.
+&lt;br /&gt;
+I instead have preferred to not use the provided code and instead fixed the issues myself. Later they deleted the report, not sure if the reason was that I didn't use the code they provided...
+&lt;br /&gt;
+Well, at least they didn't ask any money!&lt;br /&gt;
+
+</description>
+<dc:creator>sverx</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141479</comments>
+</item>
 <item>
 <title>Made By AI :: [AI] Juno First for Sega Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478</link>
@@ -556,54 +596,6 @@ Posted: Sun Nov 15, 2026 9:01 am (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141461#141461" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141471</comments>
-</item>
-<item>
-<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141470#141470</link>
-<pubDate>Sun, 15 Nov 2026 07:52:59 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141470#141470</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35154&quot; target=&quot;_blank&quot;&gt;nothingsp&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 15, 2026 7:52 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Consent violation is the basic operating principle of the &amp;quot;AI&amp;quot; pushers, unfortunately. The entire rationale is to co-opt and exploit people's work in order to sell a has of it to other people.&lt;br /&gt;
-
-</description>
-<dc:creator>nothingsp</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141470</comments>
-</item>
-<item>
-<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141469#141469</link>
-<pubDate>Sun, 15 Nov 2026 07:43:20 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141469#141469</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7411&quot; target=&quot;_blank&quot;&gt;Kagesan&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 15, 2026 7:43 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;A similar thing happened to me recently, when someone grabbed the ROM of my Bruce Lee remake, and ran it through Claude to have it slop-ported to Amiga and Atari ST. Last I checked, he was still asking for donations for all of &amp;quot;his&amp;quot; hard work on itch.io.
-&lt;br /&gt;
-When I called him out for it, he finally bothered to contact me, and we made some small amends, but even after that, when he already knew well how I feel about it, he kept messing with my stuff, producing &amp;quot;enhanced&amp;quot; AGA and STE versions with horribly mangled variations of my artwork.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The thing is that when we talked, he genuinely didn't give the impression of having ill intentions, and I absolutely believe him. There just seem to be people who can't imagine why someone wouldn't be okay with having his stuff fed to an LLM. It's freely available on the internet, and that's all the justification needed, apparently.
-&lt;br /&gt;
-The guy who did this to your work probably thinks he's doing you a favor.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I really don't know where this will all end. The mutual respect between developers isn't something that applies to people always on the lookout for new stuff to feed to their LLM of choice, it seems, and the consequences are that a lot of communitues just find out that they have never been communities to begin with, rather two groups of people with little overlap, who just happened to gather around the same camp fire.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Personally, I hope Ed Zitron is right and the unsustainable financing of the AI bubble makes it crash rather sooner than later, removing the models from the hands of non-professional users. I just hope that the amount of digital asbestos that gets produced up to that point will not have killed what used to be the comfy niches of the internet entirely.&lt;br /&gt;
-
-</description>
-<dc:creator>Kagesan</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141469</comments>
 </item>
 </channel>
 </rss>

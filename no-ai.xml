@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+<rss version="2.0">
 <channel>
 <title>SMS Power!</title>
 <link>https://www.smspower.org:443/forums/</link>
@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 11:00:53 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 11:10:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,21 +16,5 @@
 	<width>122</width>
 	<height>56</height>
 </image>
-<item>
-<title>Music :: RE: [VGM pack] Special Criminal Investigation</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141465#141465</link>
-<pubDate>Sat, 14 Nov 2026 17:00:00 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141465#141465</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sat Nov 14, 2026 5:00 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Thanks, I have updated the pack.&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Music</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=131762#131762" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141465</comments>
-</item>
 </channel>
 </rss>

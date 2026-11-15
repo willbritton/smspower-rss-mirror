@@ -4,7 +4,73 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-15T11:00:53Z</modified>
+  <modified>2026-11-15T11:10:30Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141475#141475" />
+    <dc:creator>tachyMC</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>tachyMC</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141475#141475</id>
+    <issued>2026-11-15T11:04:31Z</issued>
+    <modified>2026-11-15T11:04:31Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35571" target="_blank"&gt;tachyMC&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 15, 2026 11:04 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class="attribution"&gt;haroldoop wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Pretty awesome!    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+Thanks! Most of the work is from Opus LLM, but I made my best to direct it and point out issues when there were any.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;blockquote&gt;  &lt;div class="attribution"&gt;segarule wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Why not port it with mode 4 in mind. Would be better use SMS colors?
+&lt;br /&gt;
+    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+Thanks for the feedback!
+&lt;br /&gt;
+
+&lt;br /&gt;
+For the Chrono Runner game, a port optimized for Mode 4 would probably be better for avoiding the &lt;b&gt;color clash&lt;/b&gt; limitations. The original game for MSX has many, and it shows already in the game splashscreen (it's attached to this message).
+&lt;br /&gt;
+
+&lt;br /&gt;
+Pay attention to the two clocks in the Chrono Runner logo! Some regions are red while they should be white. That's the color clash caused by the Graphics Mode 2 limitations.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Apart from the color clash... I don't know if there could be any other significant improvement. The original game does not feature scrolling, and the whole tilemap is already very optimized (so, no improvements from flipping).
+&lt;br /&gt;
+
+&lt;br /&gt;
+So... I'm not sure! I think that I will finish the first version focusing on the compatibility layer, then will share both ROM and source so you all can suggest where to go from there!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141474#141474" />
@@ -18,7 +84,7 @@
     <modified>2026-11-15T10:57:57Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826" target="_blank"&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
 	Posted: Sun Nov 15, 2026 10:57 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	This is all very sorry. What a mess. I feel how disheartened you guys are seeing your hard work dealt with like this, and I agree that some people (most people?) just want more, more, MORE, without thinking about all the real care serious creators put on their stuff throughout the years. I see people on social media celebrating dozens upon dozens of new games and new translations coming out by the minute, and wonder if they even PLAY this incomplete garbage. They just want to have MORE, quality be damned. A terrifying epitome of our consumerism times.&lt;/span&gt;&lt;br /&gt;
+	This is all very sorry. What a mess. I feel how disheartened you guys are seeing your hard work dealt with like this, and I agree that some people (most people?) just want more, more, MORE, without thinking about all the real care serious creators put on their stuff throughout the years. I see people on social media celebrating dozens upon dozens of new games and new translations coming out by the minute, and wonder if they even PLAY this incomplete and broken garbage. They just want to have MORE, quality and ethics be damned. A terrifying epitome of our consumerism times.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>
@@ -185,4 +251,4 @@ But this someone just took my code, passed it to an LLM, and is trying to sell m
 Has this happened to anyone else? I personally feel violated and grossed out by this. If someone wants to make their own games using AI, that's one thing. If someone wants to point out a bug in my code that they noticed, then thank you, I appreciate it. But trying to sell me a bug fix on my OWN, open source game by copy-pasting it into an LLM to make a quick and dirty buck? That feels like its crossing a line to me.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

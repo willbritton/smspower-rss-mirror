@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 11:00:53 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 11:10:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,72 @@
 	<height>56</height>
 </image>
 <item>
+<title>Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141475#141475</link>
+<pubDate>Sun, 15 Nov 2026 11:04:31 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141475#141475</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35571" target="_blank"&gt;tachyMC&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 11:04 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;haroldoop wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Pretty awesome!    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+Thanks! Most of the work is from Opus LLM, but I made my best to direct it and point out issues when there were any.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;blockquote&gt;  &lt;div class="attribution"&gt;segarule wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Why not port it with mode 4 in mind. Would be better use SMS colors?
+&lt;br /&gt;
+    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+Thanks for the feedback!
+&lt;br /&gt;
+
+&lt;br /&gt;
+For the Chrono Runner game, a port optimized for Mode 4 would probably be better for avoiding the &lt;b&gt;color clash&lt;/b&gt; limitations. The original game for MSX has many, and it shows already in the game splashscreen (it's attached to this message).
+&lt;br /&gt;
+
+&lt;br /&gt;
+Pay attention to the two clocks in the Chrono Runner logo! Some regions are red while they should be white. That's the color clash caused by the Graphics Mode 2 limitations.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Apart from the color clash... I don't know if there could be any other significant improvement. The original game does not feature scrolling, and the whole tilemap is already very optimized (so, no improvements from flipping).
+&lt;br /&gt;
+
+&lt;br /&gt;
+So... I'm not sure! I think that I will finish the first version focusing on the compatibility layer, then will share both ROM and source so you all can suggest where to go from there!&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>tachyMC</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141461#141461" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141475</comments>
+</item>
+<item>
 <title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141474#141474</link>
 <pubDate>Sun, 15 Nov 2026 10:57:57 GMT</pubDate>
@@ -24,7 +90,7 @@
 <description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826" target="_blank"&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
 
 Posted: Sun Nov 15, 2026 10:57 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;This is all very sorry. What a mess. I feel how disheartened you guys are seeing your hard work dealt with like this, and I agree that some people (most people?) just want more, more, MORE, without thinking about all the real care serious creators put on their stuff throughout the years. I see people on social media celebrating dozens upon dozens of new games and new translations coming out by the minute, and wonder if they even PLAY this incomplete garbage. They just want to have MORE, quality be damned. A terrifying epitome of our consumerism times.&lt;br /&gt;
+&lt;br /&gt;This is all very sorry. What a mess. I feel how disheartened you guys are seeing your hard work dealt with like this, and I agree that some people (most people?) just want more, more, MORE, without thinking about all the real care serious creators put on their stuff throughout the years. I see people on social media celebrating dozens upon dozens of new games and new translations coming out by the minute, and wonder if they even PLAY this incomplete and broken garbage. They just want to have MORE, quality and ethics be damned. A terrifying epitome of our consumerism times.&lt;br /&gt;
 
 </description>
 <dc:creator>mateusbond</dc:creator>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 15:50:34 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 16:00:52 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141483#141483</link>
+<pubDate>Sun, 15 Nov 2026 15:54:42 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141483#141483</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=1032&quot; target=&quot;_blank&quot;&gt;chirinea&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 3:54 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I wonder if there shouldn't be a license that wouldn't allow people to feed the code to LLMs.&lt;br /&gt;
+
+</description>
+<dc:creator>chirinea</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141483</comments>
+</item>
 <item>
 <title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141482#141482</link>
@@ -576,22 +592,6 @@ Posted: Sun Nov 15, 2026 10:57 am (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141474</comments>
-</item>
-<item>
-<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141473#141473</link>
-<pubDate>Sun, 15 Nov 2026 10:02:17 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141473#141473</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27488&quot; target=&quot;_blank&quot;&gt;badcomputer&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 15, 2026 10:02 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Sorry to hear about this bofner. I had a comment on one of my games from the same user on itch.io. They were selling some useless tools.&lt;br /&gt;
-
-</description>
-<dc:creator>badcomputer</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141473</comments>
 </item>
 </channel>
 </rss>

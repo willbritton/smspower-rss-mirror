@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 16:40:34 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 16:50:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,28 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141486#141486</link>
+<pubDate>Sun, 15 Nov 2026 16:43:06 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141486#141486</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35154&quot; target=&quot;_blank&quot;&gt;nothingsp&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 4:43 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;chirinea wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I wonder if there shouldn't be a license that wouldn't allow people to feed the code to LLMs.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+I'm sure that's something that will come out of this, but I suspect it will be ignored. &amp;quot;AI&amp;quot; pushers, from the model developers to the end users, operate on the assumption that they're entitled to just do whatever they want, and they'll go &lt;i&gt;way&lt;/i&gt; past source-code license violations (look at how much violation of actual legally-enforceable copyrights they've already done.)
+&lt;br /&gt;
+
+&lt;br /&gt;
+My long-term hope is that, once the money firehose funding this stuff dries up and it becomes economically impossible to operate at scale, this kind of thing goes away - but &lt;i&gt;boy&lt;/i&gt; do I wish we could just skip straight to that part :/&lt;br /&gt;
+
+</description>
+<dc:creator>nothingsp</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141486</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] Juno First for Sega Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141485#141485</link>
@@ -486,110 +508,6 @@ Enter these sequences using the D-pad on the title screen. A confirmation chime 
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141477#141477" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141477</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Jazz Jackrabbit for Game Gear</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141476#141476</link>
-<pubDate>Sun, 15 Nov 2026 11:25:42 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141476#141476</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-Subject: Jazz Jackrabbit GG v0.1.0: Add all of the 10 episodes from the original's CD edition.&lt;br /&gt;
-Posted: Sun Nov 15, 2026 11:25 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/YEg92uyn0Mc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Jazz Jackrabbit (Sega Game Gear) --- v0.1.0 Release Notes
-&lt;br /&gt;
-=======================================================
-&lt;br /&gt;
-
-&lt;br /&gt;
-The **v0.1.0** update brings a technical achievement to handheld retro development: a complete, standalone **4 MB Sega Game Gear ROM (`jazz-jackrabbit.gg`)** packing all **10 episodes (66 stages)** of the original *Jazz Jackrabbit* CD edition, complete with the full front-end, 3D bonus levels, SRAM saves, and a fully overhauled Z80 sound engine.
-&lt;br /&gt;
-
-&lt;br /&gt;
-🚀 Key Features &amp;amp; Port Highlights
-&lt;br /&gt;
----------------------------------
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **All 10 Episodes Included:** Features episodes 1--6, A, B, C, and the Christmas special (*Holiday Hare*). Each stage includes its native tile sets, sprite sheets, palette cycling, enemy logic, guardians, and dedicated music.
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **Complete Front-End &amp;amp; Menus:** Retains the original title screen, main menu, episode selection list with preview artwork, planet screens, level/bonus clear screens, endings, game-over screens, and setup menus.
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **3D Bonus Levels:** Fully playable bonus stages accessible either via the standard red diamond in-game or directly from the final row of the episode selection menu.
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **Battery-Backed Saves:** Supports **4 save slots** saved in cartridge SRAM (access via pause, then press `1`), preserving game progress and configuration options.
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **Classic Cheat Code Support:** The legendary stage select cheat is fully functional on the title or main menu:  **`Up, Up, Down, Down, Left, Right, Left, Right, 2, 1`**.
-&lt;br /&gt;
-
-&lt;br /&gt;
-🎵 Overhauled Z80 Sound &amp;amp; Music Engine
-&lt;br /&gt;
---------------------------------------
-&lt;br /&gt;
-
-&lt;br /&gt;
-Adapting complex MS-DOS `.PSM` tracker music to the Game Gear's SN76489 PSG sound chip required a complete rewrite of the music converter and Z80 playback driver:
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **Multi-Bank Music Streaming:** Because several CD-edition songs require more than a single 16 KB ROM bank, the music player was extended to dynamically page across multiple banks (~320 KB total music footprint in the 4 MB ROM).
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **Accurate Pitch Correction:** Fixed pitch mapping for nearly half of the instrument samples (correcting keys that were previously off by fourths or fifths) and eliminated wholesale song transpositions.
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **Pitch Bends &amp;amp; Vibrato:** Native support for exact pitch movement, including slides, vibrato, pitch bends, and falling tom effects.
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **Balanced Perceived Loudness:** Adjusted mixing balances so that noise-channel simulated drums sit properly in the mix rather than overpowering melody channels.
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **Chords &amp;amp; Bass Management:** Chords now utilize free channels rather than buzzing arpeggios, and deep bass lines are safely constrained within the Game Gear's frequency limits.
-&lt;br /&gt;
-
-&lt;br /&gt;
-⚙️ Technical Specifications &amp;amp; Known Limits
-&lt;br /&gt;
-------------------------------------------
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **Testing &amp;amp; Verification:** Game logic perfectly matches the Genesis core across all 264 test runs on the host and 66 runs on the Z80 ROM. All 66 stages boot, load via menus, and render without tile-cache overflows.
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **Performance:** Busy action scenes run at approximately **30 FPS**, while core game simulation maintains its full speed.
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **Bonus Stage Constraints:** The 3D bonus stage floor uses a coarser resolution (**40×10 samples**), and starting a bonus stage introduces a brief multi-second black screen during loading.
-&lt;br /&gt;
-
-&lt;br /&gt;
--   **Hardware Status:** Extensively verified within headless emulators; physical Game Gear hardware testing remains pending.&lt;br /&gt;
-
-</description>
-<dc:creator>haroldoop</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140977#140977" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141476</comments>
 </item>
 </channel>
 </rss>

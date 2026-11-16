@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 19:40:30 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 19:50:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141510#141510</link>
+<pubDate>Mon, 16 Nov 2026 19:45:21 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141510#141510</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 16, 2026 7:45 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Awesome! Let me know if you need testers!&lt;br /&gt;
+
+</description>
+<dc:creator>AtariBorn</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141510</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141509#141509</link>
@@ -290,26 +306,6 @@ As for what I can see from the generated tests, it uses a text-like script to se
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141499#141499" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141501</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141500#141500</link>
-<pubDate>Mon, 16 Nov 2026 10:01:45 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141500#141500</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 10:01 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I’d be much more interested in some explanation - by you, not the LLM - of the setup for headless emulator testing and the various scripts it seems to be creating to check things, with some critical analysis of the use of these as some of them seem to be typical LLM overreactions to dumb mistakes made along the way. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-The decision to use LLM generated release notes - including markdown pasted into a place that doesn’t support it - unfortunately just makes me not want to read.&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141499#141499" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141500</comments>
 </item>
 </channel>
 </rss>

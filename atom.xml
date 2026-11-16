@@ -8,7 +8,52 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-16T21:10:31Z</modified>
+  <modified>2026-11-16T21:20:33Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141516#141516"/>
+    <dc:creator>josemcsantos</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>josemcsantos</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141516#141516</id>
+    <issued>2026-11-16T21:16:34Z</issued>
+    <modified>2026-11-16T21:16:34Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 16, 2026 9:16 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Hey,
+&lt;br /&gt;
+
+&lt;br /&gt;
+I haven’t released the ROM yet because I wanted to do one last playthrough from start to finish. While recording the video and taking screenshots, I realised I’d left a debug flag on, which caused a graphical glitch in the ending.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I also ran into a display issue with 50 Hz and 60 Hz modes. Some emulators, including the Genesis Plus GX core in RetroArch, were drawing sprites in the wrong place. Everything looked fine in Mesen and on real hardware.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I’m doing a final check now and plan to release the ROM and make the GitHub repo public in a couple of days.
+&lt;br /&gt;
+
+&lt;br /&gt;
+As for the graphics, The Wily Wars was the main inspiration. A lot of its artwork was too much for the Master System to handle, so I adapted the ideas I could use.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The Master System controller doesn’t have a Start button, so I mapped Start to the Pause button on the console. That’s awkward to reach during gameplay, so Button 1 also handles things like starting the game, entering stages, and confirming menu selections. Button 2 exits the password screen that appears after the “Get Weapon” screen.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The weapon menu was the tricky part. You open it by pressing Buttons 1 and 2 together. That still makes Mega Man jump, but the game cancels the shot when the menu opens so you don’t waste weapon energy. The shortcut also works with Time Stopper and while charging Heat Man’s weapon.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks for the feedback!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
     <link rel="alternate" type="text/html"
@@ -176,37 +221,6 @@ why that is bothering you? you are free to reject any pull requests just because
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11301&quot; target=&quot;_blank&quot;&gt;SavitarSvit&lt;/a&gt;&lt;br /&gt;
 	Posted: Mon Nov 16, 2026 4:58 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Wow, I’d love to play this. Will there be a link to the ROM?&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: OBAKE - New SG-1000 game released</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141506#141506"/>
-    <dc:creator>Andrs</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>Andrs</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141506#141506</id>
-    <issued>2026-11-16T15:57:33Z</issued>
-    <modified>2026-11-16T15:57:33Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35527&quot; target=&quot;_blank&quot;&gt;Andrs&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 16, 2026 3:57 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Thank you!
-&lt;br /&gt;
-If you could provide some screenshots (256×192 pixels, PNG format) from the full version for the homebrew page, that would be very helpful :)    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thank you for adding my game to the Homebrew list!
-&lt;br /&gt;
-I have just made a final update with a minor fix.
-&lt;br /&gt;
-Regards.
-&lt;br /&gt;
-
-&lt;br /&gt;
--- Andrés [ &lt;a href=&quot;https://andrs-mc.itch.io/&quot; target=&quot;_blank&quot;&gt;https://andrs-mc.itch.io/&lt;/a&gt; ]&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

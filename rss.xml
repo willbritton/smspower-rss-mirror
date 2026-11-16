@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 23:30:43 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 23:40:36 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,26 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141524#141524</link>
+<pubDate>Mon, 16 Nov 2026 23:32:45 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141524#141524</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27488&quot; target=&quot;_blank&quot;&gt;badcomputer&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 16, 2026 11:32 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Congratulations on your newborn!
+&lt;br /&gt;
+
+&lt;br /&gt;
+(And thank you for updating the homebrew section.)&lt;br /&gt;
+
+</description>
+<dc:creator>badcomputer</dc:creator>
+<dc:subject>Website</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141524</comments>
+</item>
 <item>
 <title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141523#141523</link>
@@ -216,26 +236,6 @@ Posted: Mon Nov 16, 2026 8:53 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141515</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141514#141514</link>
-<pubDate>Mon, 16 Nov 2026 20:11:21 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141514#141514</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 8:11 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Any chance you could link the rom in your YouTube video? 
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/3Lu029iITNM&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>AtariBorn</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141514</comments>
 </item>
 </channel>
 </rss>

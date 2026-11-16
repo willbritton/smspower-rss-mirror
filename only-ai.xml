@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 22:20:30 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 22:30:44 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,26 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141522#141522</link>
+<pubDate>Mon, 16 Nov 2026 22:30:37 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141522#141522</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578" target="_blank"&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 16, 2026 10:30 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;For no reason, I didn't think of it. I mean, the second controller feels awkward as the pause button on the console, but adding support for the Mega Drive start button could be a good addition.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks&lt;br /&gt;
+
+</description>
+<dc:creator>josemcsantos</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141522</comments>
+</item>
 <item>
 <title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141519#141519</link>
@@ -179,56 +199,6 @@ Thanks for the suggestion! I guess I could try it later.&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141499#141499" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141513</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141512#141512</link>
-<pubDate>Mon, 16 Nov 2026 20:05:11 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141512#141512</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 8:05 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Fantastic project! Keep going! 
-&lt;br /&gt;
-How about porting the updated graphics from MM: the Wily Wars into the project?&lt;br /&gt;
-
-</description>
-<dc:creator>haroldoop</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141512</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141511#141511</link>
-<pubDate>Mon, 16 Nov 2026 19:56:29 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141511#141511</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398" target="_blank"&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 7:56 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Hey, it's DeathTank!.Genesis multitap compatibility would be awesome.&lt;br /&gt;
-
-</description>
-<dc:creator>AtariBorn</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141499#141499" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141511</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141510#141510</link>
-<pubDate>Mon, 16 Nov 2026 19:45:21 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141510#141510</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398" target="_blank"&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 7:45 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Awesome! Let me know if you need testers!&lt;br /&gt;
-
-</description>
-<dc:creator>AtariBorn</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141510</comments>
 </item>
 </channel>
 </rss>

@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-16T16:50:33Z</modified>
+  <modified>2026-11-16T17:01:07Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141507#141507" />
+    <dc:creator>SavitarSvit</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>SavitarSvit</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141507#141507</id>
+    <issued>2026-11-16T16:58:27Z</issued>
+    <modified>2026-11-16T16:58:27Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11301" target="_blank"&gt;SavitarSvit&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 16, 2026 4:58 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Wow, I’d love to play this. Will there be a link to the ROM?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141505#141505" />
@@ -485,40 +501,6 @@ Because the Sega Master System VDP relies on 8×8 background tiles rather than a
 	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35576" target="_blank"&gt;SeBe&lt;/a&gt;&lt;br /&gt;
 	Posted: Mon Nov 16, 2026 9:36 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Thanks a lot for this port! Commander Keen was one of my favorite games as a kid, so it's great to see it on the Master System. Hope you'll keep going with the other episodes too!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141497#141497" />
-    <dc:creator>sverx</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>sverx</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141497#141497</id>
-    <issued>2026-11-16T09:25:23Z</issued>
-    <modified>2026-11-16T09:25:23Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 16, 2026 9:25 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;bofner wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;If there's a bug in my code, and I'm explicitly not using AI to make my game, I don't really want someone else's agent to tell me about a bug. If another human tells me, that's fine, but if I'm essentially getting unsolicited AI assistance, at what point does my project stop being human-made?    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I do see the point, but ignoring the report would have meant I didn't care fixing a potential issue in my code.
-&lt;br /&gt;
-As I strive for always do the best I can, I had to chose the lesser evil, so ignoring the provided LLM generated fix and working on removing the issue myself was the only choice I could accept to make.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

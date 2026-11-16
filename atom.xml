@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-16T23:00:56Z</modified>
+  <modified>2026-11-16T23:10:29Z</modified>
+  <entry>
+    <title mode="escaped">Website :: RE: Homebrew projects still missing from the Homebrew page</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141523#141523"/>
+    <dc:creator>mateusbond</dc:creator>
+    <dc:subject>Website</dc:subject>
+    <author>
+		<name>mateusbond</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141523#141523</id>
+    <issued>2026-11-16T23:08:19Z</issued>
+    <modified>2026-11-16T23:08:19Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826&quot; target=&quot;_blank&quot;&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 16, 2026 11:08 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Well guys, I think I'll be slowing down for the moment. I have a newborn second child (first daughter!), she takes most of my free time, and while I would love to spend the free time of my free time playing SMS homebrew, the truth is they're all AI ports nowadays, thanks to this current AI craze, and they're all ports of games that play better, look better, control better and are less bug prone on their original systems, which means I have little to zero interest in spending half an hour of my day playing them to take screenshots, and another half hour to gather info and edit a readme, that most of the times (surprise!) is also written by an AI. But oh, no, I'm not giving up. It's just a warning that updating the Homebrew section on a daily basis, like I've been doing for some time now, may become unsustainable for a while. The list this thread started with will probably return, and I'll certainly be faster than Sonic when it comes to adding No AI stuff, but that's the best I can promise for now. Sorry!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
     <link rel="alternate" type="text/html"
@@ -220,27 +237,6 @@ Thanks for the feedback!&lt;/span&gt;&lt;br /&gt;
 
 &lt;br /&gt;
 &lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/3Lu029iITNM&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141513#141513"/>
-    <dc:creator>haroldoop</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>haroldoop</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141513#141513</id>
-    <issued>2026-11-16T20:06:57Z</issued>
-    <modified>2026-11-16T20:06:57Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 16, 2026 8:06 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;AtariBorn wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Hey, it's DeathTank!.Genesis multitap compatibility would be awesome.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks for the suggestion! I guess I could try it later.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 15:30:46 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 15:40:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -49,22 +49,6 @@ ah thanks, i thought because the bosses in the sg-1000 version of wonder boy use
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141455#141455" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141496</comments>
-</item>
-<item>
-<title>Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141495#141495</link>
-<pubDate>Mon, 16 Nov 2026 08:45:23 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141495#141495</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413" target="_blank"&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 8:45 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;How about a time travel mechanic like Sonic CD, but instead you switch between SMS art and SG1000 art? :)&lt;br /&gt;
-
-</description>
-<dc:creator>PatrickBateman</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141455#141455" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141495</comments>
 </item>
 </channel>
 </rss>

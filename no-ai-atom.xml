@@ -4,7 +4,41 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-16T09:01:00Z</modified>
+  <modified>2026-11-16T09:20:31Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141496#141496" />
+    <dc:creator>saturthirtox</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>saturthirtox</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141496#141496</id>
+    <issued>2026-11-16T09:18:24Z</issued>
+    <modified>2026-11-16T09:18:24Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35568" target="_blank"&gt;saturthirtox&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 16, 2026 9:18 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class="attribution"&gt;Maxim wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Consider that SG-1000 sprites are 1-bit - you can only have more colours by overlaying them on top of each other, but then the sprite limit is also a limiting factor. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+Then for the likes of Robotnik, you may instead use background tiles, but these can only have two colours per 8x1 sliver. Just converting things to the palette isn’t enough to fulfil the limitations of the hardware.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+ah thanks, i thought because the bosses in the sg-1000 version of wonder boy used a weirdly high amount of colours so i could apply it to a boss like robotnik/eggman&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141495#141495" />
@@ -139,4 +173,4 @@ Hugs everyone!!&lt;/span&gt;&lt;br /&gt;
 	It's neat that the PAL 50Hz version has its own feel rather than just being a slowed-down copy, and having both proper speeds plus the looping fixes is a great result for Ninja Gaiden. Did the corrected loops make any of the tracks noticeably different?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-16T09:01:00Z</modified>
+  <modified>2026-11-16T09:20:31Z</modified>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141492#141492" />
@@ -125,38 +125,4 @@ I instead have preferred to not use the provided code and instead fixed the issu
 That's the other thing too. If there's a bug in my code, and I'm explicitly not using AI to make my game, I don't really want someone else's agent to tell me about a bug. If another human tells me, that's fine, but if I'm essentially getting unsolicited AI assistance, at what point does my project stop being human-made?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141486#141486" />
-    <dc:creator>nothingsp</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>nothingsp</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141486#141486</id>
-    <issued>2026-11-15T16:43:06Z</issued>
-    <modified>2026-11-15T16:43:06Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35154" target="_blank"&gt;nothingsp&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 15, 2026 4:43 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;chirinea wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;I wonder if there shouldn't be a license that wouldn't allow people to feed the code to LLMs.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-I'm sure that's something that will come out of this, but I suspect it will be ignored. &amp;quot;AI&amp;quot; pushers, from the model developers to the end users, operate on the assumption that they're entitled to just do whatever they want, and they'll go &lt;i&gt;way&lt;/i&gt; past source-code license violations (look at how much violation of actual legally-enforceable copyrights they've already done.)
-&lt;br /&gt;
-
-&lt;br /&gt;
-My long-term hope is that, once the money firehose funding this stuff dries up and it becomes economically impossible to operate at scale, this kind of thing goes away - but &lt;i&gt;boy&lt;/i&gt; do I wish we could just skip straight to that part :/&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

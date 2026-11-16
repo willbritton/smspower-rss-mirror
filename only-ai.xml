@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 08:40:30 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 08:50:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -169,22 +169,6 @@ My long-term hope is that, once the money firehose funding this stuff dries up a
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141486</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Juno First for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141485#141485</link>
-<pubDate>Sun, 15 Nov 2026 16:16:12 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141485#141485</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 15, 2026 4:16 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Thanks for the review! I'll try to improve the game!&lt;br /&gt;
-
-</description>
-<dc:creator>haroldoop</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141485</comments>
 </item>
 </channel>
 </rss>

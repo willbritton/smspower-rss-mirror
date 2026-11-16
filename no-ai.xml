@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 11:10:34 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 11:20:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -85,22 +85,6 @@ Then for the likes of Robotnik, you may instead use background tiles, but these 
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141455#141455" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141494</comments>
-</item>
-<item>
-<title>Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141493#141493</link>
-<pubDate>Mon, 16 Nov 2026 01:37:28 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141493#141493</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35568" target="_blank"&gt;saturthirtox&lt;/a&gt;&lt;br /&gt;
-Subject: sg-1000/sg-3000 eggman/robotnik sprites&lt;br /&gt;
-Posted: Mon Nov 16, 2026 1:37 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;while i made sg-1000 sonic sprites since i got aseprite and worked on them for a long time with my art evolving with them. i did these sprites yesterday so they might not look as good as the sonic sprites and if so i apologize&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>saturthirtox</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141455#141455" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141493</comments>
 </item>
 </channel>
 </rss>

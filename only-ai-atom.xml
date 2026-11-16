@@ -4,7 +4,47 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-16T11:10:34Z</modified>
+  <modified>2026-11-16T11:20:31Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: [AI] Mega Man 2 for Sega Master System</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
+    <dc:creator>josemcsantos</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>josemcsantos</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503</id>
+    <issued>2026-11-16T11:11:32Z</issued>
+    <modified>2026-11-16T11:11:32Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578" target="_blank"&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
+	Subject: [AI] Mega Man 2 for Sega Master System&lt;br /&gt;Posted: Mon Nov 16, 2026 11:11 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Hello everyone!
+&lt;br /&gt;
+
+&lt;br /&gt;
+I spent two months trying to port Mega Man 2 to the Master System.
+&lt;br /&gt;
+At first, I did some manual coding, but then I used AI to create Python tools to port and generate the code I needed.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I also decided to change and adapt the graphics a bit, somehow to resemble the Wily Wars a bit more.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I have a first version of the complete game. I'm still doing some QA, and I'd love some feedback.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I recorded a bit of gameplay on YouTube if you want to check. I can't add a link, so I'll leave the key. It's 3 levels: Airman, Metalman, and Bubbleman. 
+&lt;br /&gt;
+3Lu029iITNM
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thank you all&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141502#141502" />

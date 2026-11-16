@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 11:10:34 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 11:20:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,46 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: [AI] Mega Man 2 for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503</link>
+<pubDate>Mon, 16 Nov 2026 11:11:32 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578" target="_blank"&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
+Subject: [AI] Mega Man 2 for Sega Master System&lt;br /&gt;
+Posted: Mon Nov 16, 2026 11:11 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Hello everyone!
+&lt;br /&gt;
+
+&lt;br /&gt;
+I spent two months trying to port Mega Man 2 to the Master System.
+&lt;br /&gt;
+At first, I did some manual coding, but then I used AI to create Python tools to port and generate the code I needed.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I also decided to change and adapt the graphics a bit, somehow to resemble the Wily Wars a bit more.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I have a first version of the complete game. I'm still doing some QA, and I'd love some feedback.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I recorded a bit of gameplay on YouTube if you want to check. I can't add a link, so I'll leave the key. It's 3 levels: Airman, Metalman, and Bubbleman. 
+&lt;br /&gt;
+3Lu029iITNM
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thank you all&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>josemcsantos</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141503</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141502#141502</link>

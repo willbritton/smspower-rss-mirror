@@ -8,7 +8,48 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-16T11:10:34Z</modified>
+  <modified>2026-11-16T11:20:31Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: [AI] Mega Man 2 for Sega Master System</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503"/>
+    <dc:creator>josemcsantos</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>josemcsantos</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503</id>
+    <issued>2026-11-16T11:11:32Z</issued>
+    <modified>2026-11-16T11:11:32Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
+	Subject: [AI] Mega Man 2 for Sega Master System&lt;br /&gt;Posted: Mon Nov 16, 2026 11:11 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Hello everyone!
+&lt;br /&gt;
+
+&lt;br /&gt;
+I spent two months trying to port Mega Man 2 to the Master System.
+&lt;br /&gt;
+At first, I did some manual coding, but then I used AI to create Python tools to port and generate the code I needed.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I also decided to change and adapt the graphics a bit, somehow to resemble the Wily Wars a bit more.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I have a first version of the complete game. I'm still doing some QA, and I'd love some feedback.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I recorded a bit of gameplay on YouTube if you want to check. I can't add a link, so I'll leave the key. It's 3 levels: Airman, Metalman, and Bubbleman. 
+&lt;br /&gt;
+3Lu029iITNM
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thank you all&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
     <link rel="alternate" type="text/html"
@@ -414,23 +455,6 @@ ah thanks, i thought because the bosses in the sg-1000 version of wonder boy use
 
 &lt;br /&gt;
 Then for the likes of Robotnik, you may instead use background tiles, but these can only have two colours per 8x1 sliver. Just converting things to the palette isn’t enough to fulfil the limitations of the hardware.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141493#141493"/>
-    <dc:creator>saturthirtox</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>saturthirtox</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141493#141493</id>
-    <issued>2026-11-16T01:37:28Z</issued>
-    <modified>2026-11-16T01:37:28Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35568&quot; target=&quot;_blank&quot;&gt;saturthirtox&lt;/a&gt;&lt;br /&gt;
-	Subject: sg-1000/sg-3000 eggman/robotnik sprites&lt;br /&gt;Posted: Mon Nov 16, 2026 1:37 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	while i made sg-1000 sonic sprites since i got aseprite and worked on them for a long time with my art evolving with them. i did these sprites yesterday so they might not look as good as the sonic sprites and if so i apologize&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

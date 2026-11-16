@@ -4,7 +4,43 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-16T22:00:54Z</modified>
+  <modified>2026-11-16T22:10:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141519#141519" />
+    <dc:creator>toxa</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>toxa</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141519#141519</id>
+    <issued>2026-11-16T22:03:50Z</issued>
+    <modified>2026-11-16T22:03:50Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641" target="_blank"&gt;toxa&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 16, 2026 10:03 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	i mean accepting or rejecting pull requests is a good will of the repo maintainer. especially of a free opensource project. reasons for reject may be whatever from lack of time to the personal dislike.
+&lt;br /&gt;
+
+&lt;br /&gt;
+there are a lot of strange guys on the internet
+&lt;br /&gt;
+
+&lt;br /&gt;
+some people fix one letter typo in the depth of the readme to become the contributor of the popular repo
+&lt;br /&gt;
+
+&lt;br /&gt;
+others are searching for the opensource repos which they think violate some licenses to which they have no relation of course
+&lt;br /&gt;
+
+&lt;br /&gt;
+and so on and so forth. now this AI hype...
+&lt;br /&gt;
+
+&lt;br /&gt;
+i don't think there is a way to forbid feeding opensource repos to LLMs, especially the old ones with permissive licenses. if you can't stop that, better keep your nerves safe.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141518#141518" />
@@ -181,38 +217,6 @@ How about porting the updated graphics from MM: the Wily Wars into the project?&
 	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398" target="_blank"&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
 	Posted: Mon Nov 16, 2026 7:45 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Awesome! Let me know if you need testers!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141509#141509" />
-    <dc:creator>NewHorizon</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>NewHorizon</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141509#141509</id>
-    <issued>2026-11-16T18:48:26Z</issued>
-    <modified>2026-11-16T18:48:26Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=10722" target="_blank"&gt;NewHorizon&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 16, 2026 6:48 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;SavitarSvit wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Wow, I’d love to play this. Will there be a link to the ROM?    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Same question.  Is there a Rom available?  I've been waiting for Mega Man 2 for years.  The one project that was being worked on has been idle for ages.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

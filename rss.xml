@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 22:00:53 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 22:10:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,42 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141519#141519</link>
+<pubDate>Mon, 16 Nov 2026 22:03:50 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141519#141519</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641&quot; target=&quot;_blank&quot;&gt;toxa&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 16, 2026 10:03 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;i mean accepting or rejecting pull requests is a good will of the repo maintainer. especially of a free opensource project. reasons for reject may be whatever from lack of time to the personal dislike.
+&lt;br /&gt;
+
+&lt;br /&gt;
+there are a lot of strange guys on the internet
+&lt;br /&gt;
+
+&lt;br /&gt;
+some people fix one letter typo in the depth of the readme to become the contributor of the popular repo
+&lt;br /&gt;
+
+&lt;br /&gt;
+others are searching for the opensource repos which they think violate some licenses to which they have no relation of course
+&lt;br /&gt;
+
+&lt;br /&gt;
+and so on and so forth. now this AI hype...
+&lt;br /&gt;
+
+&lt;br /&gt;
+i don't think there is a way to forbid feeding opensource repos to LLMs, especially the old ones with permissive licenses. if you can't stop that, better keep your nerves safe.&lt;br /&gt;
+
+</description>
+<dc:creator>toxa</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141519</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141518#141518</link>
@@ -198,26 +234,6 @@ Posted: Mon Nov 16, 2026 7:45 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141510</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141509#141509</link>
-<pubDate>Mon, 16 Nov 2026 18:48:26 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141509#141509</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=10722&quot; target=&quot;_blank&quot;&gt;NewHorizon&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 6:48 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;SavitarSvit wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Wow, I’d love to play this. Will there be a link to the ROM?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Same question.  Is there a Rom available?  I've been waiting for Mega Man 2 for years.  The one project that was being worked on has been idle for ages.&lt;br /&gt;
-
-</description>
-<dc:creator>NewHorizon</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141509</comments>
 </item>
 </channel>
 </rss>

@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-16T19:50:30Z</modified>
+  <modified>2026-11-16T20:00:52Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141511#141511"/>
+    <dc:creator>AtariBorn</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>AtariBorn</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141511#141511</id>
+    <issued>2026-11-16T19:56:29Z</issued>
+    <modified>2026-11-16T19:56:29Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 16, 2026 7:56 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Hey, it's DeathTank!.Genesis multitap compatibility would be awesome.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
     <link rel="alternate" type="text/html"
@@ -284,29 +301,6 @@ For now I have no interest in doing game-specific ports... I think that in this 
 
 &lt;br /&gt;
 I hope to get everything in a release-able state this week, then I will release here both the sources and the ROM.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141501#141501"/>
-    <dc:creator>haroldoop</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>haroldoop</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141501#141501</id>
-    <issued>2026-11-16T10:26:33Z</issued>
-    <modified>2026-11-16T10:26:33Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 16, 2026 10:26 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	One of the main advantages of the Markdown format is that it stays human readable even if the target environment is text only.
-&lt;br /&gt;
-
-&lt;br /&gt;
-As for what I can see from the generated tests, it uses a text-like script to send commands to the emulator's joypad, reading and writing various memory adresses, checking if conditions are met, taking screenshots, and so on; you can search for the word &amp;quot;echo&amp;quot; inside the scripts to find explanations of each feature it's testing:
-&lt;br /&gt;
-&lt;a href=&quot;https://github.com/haroldo-ok/scorched-sms/tree/main/tests&quot; target=&quot;_blank&quot;&gt;https://github.com/haroldo-ok/scorched-sms/tree/main/tests&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

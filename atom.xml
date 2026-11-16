@@ -8,7 +8,60 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-16T10:50:30Z</modified>
+  <modified>2026-11-16T11:00:55Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141502#141502"/>
+    <dc:creator>tachyMC</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>tachyMC</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141502#141502</id>
+    <issued>2026-11-16T10:58:26Z</issued>
+    <modified>2026-11-16T10:58:26Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35571&quot; target=&quot;_blank&quot;&gt;tachyMC&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 16, 2026 10:58 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
+&lt;br /&gt;
+are you developing a C compatibility layer that makes it possible to recompile any game made with MSXgl for the SMS using devkitSMS?
+&lt;br /&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+Mr. sverx! I'm really humbled and honoured by your interest in this. Thanks thanks thanks for everything you did for our little big SMS!
+&lt;br /&gt;
+
+&lt;br /&gt;
+So, yes the purpose of this work is developing a msxgl/devkitSMS compatibility layer. I get no credits for this, the LLM is doing most of the work, but I'm doing everything I can to make it re-usable.
+&lt;br /&gt;
+
+&lt;br /&gt;
+To give you an idea of the approach: everything static (graphics, bank switch, etc...) is converted at build time; at runtime the layer only translates what changes every frame: sprite, input, audio translation.
+&lt;br /&gt;
+
+&lt;br /&gt;
+From several points of view the MSX1 is a lesser system than SMS (no offense for MSX folks of course!), so I always thought that MSX-&amp;gt;SMS ports could be somehow automated. This is my shot at it, to see how far it's possible to get.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Every suggestion from you is of course really appreciated!
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
+&lt;br /&gt;
+Or is the LLM doing only what's needed to port this specific game
+&lt;br /&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+For now I have no interest in doing game-specific ports... I think that in this LLM era they are either a) impossible because of hardware limitations, or b) simple plain easy, so not really interesting. Maybe I'm wrong but it's my current stance.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I hope to get everything in a release-able state this week, then I will release here both the sources and the ROM.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
     <link rel="alternate" type="text/html"
@@ -378,51 +431,6 @@ Then for the likes of Robotnik, you may instead use background tiles, but these 
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35568&quot; target=&quot;_blank&quot;&gt;saturthirtox&lt;/a&gt;&lt;br /&gt;
 	Subject: sg-1000/sg-3000 eggman/robotnik sprites&lt;br /&gt;Posted: Mon Nov 16, 2026 1:37 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	while i made sg-1000 sonic sprites since i got aseprite and worked on them for a long time with my art evolving with them. i did these sprites yesterday so they might not look as good as the sonic sprites and if so i apologize&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141492#141492"/>
-    <dc:creator>bandidox</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>bandidox</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141492#141492</id>
-    <issued>2026-11-15T22:53:45Z</issued>
-    <modified>2026-11-15T22:53:45Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35446&quot; target=&quot;_blank&quot;&gt;bandidox&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 15, 2026 10:53 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	927 builds later... v0.81
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;b&gt;changelog &lt;/b&gt;(since v0.59)
-&lt;br /&gt;
-
-&lt;br /&gt;
-- New playable world: Hi-Tech World (Planet Techo) + final bosses
-&lt;br /&gt;
-- New playable world: Cura Cura Castle + boss arena + Count Komori boss
-&lt;br /&gt;
-- New darkness effect with reduced visibility around the player in Cura Cura Castle
-&lt;br /&gt;
-- New mechanics and animations (inertia on ice, conveyor belts, revolving doors, snowflakes)
-&lt;br /&gt;
-- Intro and ending scenes from Bomberman '93, with Bomberman '93 and '94 credits
-&lt;br /&gt;
-- New animated title screen
-&lt;br /&gt;
-- New HUD
-&lt;br /&gt;
-- New Options, Pause, Cheats and Game Over screens
-&lt;br /&gt;
-- New animated in-game scenes
-&lt;br /&gt;
-- Performance optimizations
-&lt;br /&gt;
-- Bug fixes&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

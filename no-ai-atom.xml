@@ -1,8 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns="http://purl.org/atom/ns#" version="0.3">
+<feed xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="0.3">
 
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-16T21:30:45Z</modified>
+  <modified>2026-11-16T21:40:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: Warlord new game for Sega Master System!</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
+    <dc:creator>AS_Games</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>AS_Games</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517</id>
+    <issued>2026-11-16T21:33:57Z</issued>
+    <modified>2026-11-16T21:33:57Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35585" target="_blank"&gt;AS_Games&lt;/a&gt;&lt;br /&gt;
+	Subject: Warlord new game for Sega Master System!&lt;br /&gt;Posted: Mon Nov 16, 2026 9:33 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Segaaaaaaaaaaaaa!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   </feed>

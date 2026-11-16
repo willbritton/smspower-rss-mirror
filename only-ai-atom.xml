@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-16T08:10:36Z</modified>
+  <modified>2026-11-16T08:20:30Z</modified>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141492#141492" />
@@ -173,46 +173,6 @@ My long-term hope is that, once the money firehose funding this stuff dries up a
 	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
 	Posted: Sun Nov 15, 2026 4:16 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Thanks for the review! I'll try to improve the game!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Juno First for Sega Master System</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141484#141484" />
-    <dc:creator>Centrale</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>Centrale</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141484#141484</id>
-    <issued>2026-11-15T16:10:46Z</issued>
-    <modified>2026-11-15T16:10:46Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7980" target="_blank"&gt;Centrale&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 15, 2026 4:10 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I love Juno First! But this port looks like it has a long way to go to do it justice. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-Inertia - It seems to lack inertia in your ship's movements. In the arcade original, it's unusual if your ship comes to a complete standstill, but in this port it seems to happen a lot.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Enemy formations - should be more vertically oriented. The arcade game will regularly have about 24 enemies in vertical and diagonal formations of 8. This port currently looks to have loose formations of 3.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Grid lines and dots - There are too many of both, making it harder to perceive the direction of movement. I think you'll get a better sense of motion with about half the current amount of both. Plus, the lines should be perceived more as vertically extending into the distance rather than horizontally across the screen.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Style of shots and explosions - The arcade original seemed to take inspiration from Williams classics like Defender and Robotron with dashed shot lines and big explosions made of lots of tiny particles. I suggest enemies should explode into 8 small sprites expanding outward in a circular formation. When the player's ship explodes there should be a patterned, screen-filling explosion that would probably have to be made with tile animation. The game's art direction overall is so minimalist and all the player and enemy sprites so small, these effects are all the more important.
-&lt;br /&gt;
-
-&lt;br /&gt;
-No radar at the top of the screen - This is important for the player to anticipate upcoming formations when moving forward. Champ Games managed it with their 2600 port, so it should be no problem for the SMS!
-&lt;br /&gt;
-
-&lt;br /&gt;
-Soundtrack - the arcade version has more of a menacing growl rather than a melodic soundtrack.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

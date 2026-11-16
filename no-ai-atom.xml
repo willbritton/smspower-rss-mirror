@@ -4,9 +4,29 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-16T08:10:36Z</modified>
+  <modified>2026-11-16T08:20:30Z</modified>
   <entry>
-    <title mode="escaped">Main :: sg-1000/sg-3000 eggman/robotnik sprites</title>
+    <title mode="escaped">Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141494#141494" />
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141494#141494</id>
+    <issued>2026-11-16T08:15:44Z</issued>
+    <modified>2026-11-16T08:15:44Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 16, 2026 8:15 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Consider that SG-1000 sprites are 1-bit - you can only have more colours by overlaying them on top of each other, but then the sprite limit is also a limiting factor. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+Then for the likes of Robotnik, you may instead use background tiles, but these can only have two colours per 8x1 sliver. Just converting things to the palette isn’t enough to fulfil the limitations of the hardware.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141493#141493" />
     <dc:creator>saturthirtox</dc:creator>
     <dc:subject>Main</dc:subject>

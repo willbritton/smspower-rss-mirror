@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 12:00:59 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 12:10:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,38 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141504#141504</link>
+<pubDate>Mon, 16 Nov 2026 12:09:42 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141504#141504</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 16, 2026 12:09 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;tachyMC wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;So, yes the purpose of this work is developing a msxgl/devkitSMS compatibility layer.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+I think it would be interesting to see a compatibility layer that makes it possible to recompile MSX games written in C using the MSXgl library into both SG-1000 and ColecoVision games - using the SGlib library in devkitSMS - given they all share the same CPU and VDP.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Original art assets could be directly used, the biggest hurdles would probably be the music/SFX (as the MSX has different audio chips) and the various mappers differences you'll have to work around.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Regarding porting MSX games to SMS, I'd say one should provide new art, as converting the MSX art as it is would do no justice to the SMS and its enhanced graphic chip.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Finally, never give up about the idea of learning how to code in C yourself - it's definitely something everyone can do!&lt;br /&gt;
+
+</description>
+<dc:creator>sverx</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141461#141461" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141504</comments>
+</item>
 <item>
 <title>Made By AI :: [AI] Mega Man 2 for Sega Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503</link>
@@ -434,26 +466,6 @@ Posted: Mon Nov 16, 2026 8:45 am (GMT 0)&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141455#141455" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141495</comments>
-</item>
-<item>
-<title>Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141494#141494</link>
-<pubDate>Mon, 16 Nov 2026 08:15:44 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141494#141494</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 8:15 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Consider that SG-1000 sprites are 1-bit - you can only have more colours by overlaying them on top of each other, but then the sprite limit is also a limiting factor. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-Then for the likes of Robotnik, you may instead use background tiles, but these can only have two colours per 8x1 sliver. Just converting things to the palette isn’t enough to fulfil the limitations of the hardware.&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141455#141455" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141494</comments>
 </item>
 </channel>
 </rss>

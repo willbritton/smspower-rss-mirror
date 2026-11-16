@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<channel>
+<title>SMS Power!</title>
+<link>https://www.smspower.org:443/forums/</link>
+<description>Sega 8-bit Discussion</description>
+<managingEditor>noreply@smspower.org</managingEditor>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>RSS Feed 2.2.3</generator>
+<language>en</language>
+<lastBuildDate>Mon, 16 Nov 2026 01:30:43 GMT</lastBuildDate>
+<image>
+	<url>http://www.smspower.org/images/smspower.gif</url>
+	<title>SMS Power!</title>
+	<link>https://www.smspower.org:443/forums/</link>
+	<width>122</width>
+	<height>56</height>
+</image>
+<item>
+<title>Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141492#141492</link>
+<pubDate>Sun, 15 Nov 2026 22:53:45 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141492#141492</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35446&quot; target=&quot;_blank&quot;&gt;bandidox&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 10:53 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;927 builds later... v0.81
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;changelog &lt;/b&gt;(since v0.59)
+&lt;br /&gt;
+
+&lt;br /&gt;
+- New playable world: Hi-Tech World (Planet Techo) + final bosses
+&lt;br /&gt;
+- New playable world: Cura Cura Castle + boss arena + Count Komori boss
+&lt;br /&gt;
+- New darkness effect with reduced visibility around the player in Cura Cura Castle
+&lt;br /&gt;
+- New mechanics and animations (inertia on ice, conveyor belts, revolving doors, snowflakes)
+&lt;br /&gt;
+- Intro and ending scenes from Bomberman '93, with Bomberman '93 and '94 credits
+&lt;br /&gt;
+- New animated title screen
+&lt;br /&gt;
+- New HUD
+&lt;br /&gt;
+- New Options, Pause, Cheats and Game Over screens
+&lt;br /&gt;
+- New animated in-game scenes
+&lt;br /&gt;
+- Performance optimizations
+&lt;br /&gt;
+- Bug fixes&lt;br /&gt;
+
+</description>
+<dc:creator>bandidox</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140905#140905" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141492</comments>
+</item>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141491#141491</link>
+<pubDate>Sun, 15 Nov 2026 22:18:03 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141491#141491</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603&quot; target=&quot;_blank&quot;&gt;bofner&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 10:18 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Kagesan wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;A similar thing happened to me recently, when someone grabbed the ROM of my Bruce Lee remake, and ran it through Claude to have it slop-ported to Amiga and Atari ST. Last I checked, he was still asking for donations for all of &amp;quot;his&amp;quot; hard work on itch.io.
+&lt;br /&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+I'm really sorry about that. That's just vile. I can understand how someone might think they are &amp;quot;honoring&amp;quot; a game by porting it to another system using an LLM (though I do not see it that way) but once they're asking for money for someone else's work is where I stop being able to sympathize. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Maxim wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;By publishing stuff online (as I have been doing for years) you have to accept that anyone can read it and now that means it can be used to train LLMs and also people can feed them to LLMs to generate nonsense. It’s unfortunate that this LLM part wasn’t even a thing when we published and there’s no way to stop them.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+I considered changing my github to private for a moment. But if my code can help someone else learn an obscure skill that doesn't have as much documentation as modern languages do, then I guess its worth the risk of somenoe abusing my code to feed an LLM. Maybe &amp;quot;Open source upon request&amp;quot;? Idk. For now I'll keep it up
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Last June somebody had used an LLM to find 'security issues' in some of the tools in devkitSMS. They provided a PR with fixed code in their report.
+&lt;br /&gt;
+I instead have preferred to not use the provided code and instead fixed the issues myself    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+That's the other thing too. If there's a bug in my code, and I'm explicitly not using AI to make my game, I don't really want someone else's agent to tell me about a bug. If another human tells me, that's fine, but if I'm essentially getting unsolicited AI assistance, at what point does my project stop being human-made?&lt;br /&gt;
+
+</description>
+<dc:creator>bofner</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141491</comments>
+</item>
+<item>
+<title>Development :: Beta testing a SMS Phantasy Star game. Interested?</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141490#141490</link>
+<pubDate>Sun, 15 Nov 2026 19:46:42 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141490#141490</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35577&quot; target=&quot;_blank&quot;&gt;voicecommandgames&lt;/a&gt;&lt;br /&gt;
+Subject: Beta testing a SMS Phantasy Star game. Interested?&lt;br /&gt;
+Posted: Sun Nov 15, 2026 7:46 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Hi there!
+&lt;br /&gt;
+
+&lt;br /&gt;
+You can find me here.
+&lt;br /&gt;
+voicecommandgames.itch.io
+&lt;br /&gt;
+
+&lt;br /&gt;
+I am planning a slate of sms games, and I would like to possibly beta test a Phantasy Star RPG for the sms
+&lt;br /&gt;
+
+&lt;br /&gt;
+Hit me up here if you are interested!
+&lt;br /&gt;
+
+&lt;br /&gt;
+Hugs everyone!!&lt;br /&gt;
+
+</description>
+<dc:creator>voicecommandgames</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141490#141490" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141490</comments>
+</item>
+<item>
+<title>Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141489#141489</link>
+<pubDate>Sun, 15 Nov 2026 19:33:07 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141489#141489</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35576&quot; target=&quot;_blank&quot;&gt;SeBe&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 7:33 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Nice list! I'd add Phantasy Star and Psycho Fox, both still a blast to play. And Wonder Boy III: The Dragon's Trap deserves a spot much higher than 11th.&lt;br /&gt;
+
+</description>
+<dc:creator>SeBe</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141214#141214" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141489</comments>
+</item>
+<item>
+<title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141488#141488</link>
+<pubDate>Sun, 15 Nov 2026 18:06:03 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141488#141488</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 6:06 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Many games are subtly different between 50Hz and 60Hz but in this case I verified the timing is exactly 5:6 ratio and it’s unlikely there’s any difference from the old pack played at 83% speed. But as I had to do  all the work to confirm it, I may as well upload both packs as per the logic above about where the game was released.&lt;br /&gt;
+
+</description>
+<dc:creator>Maxim</dc:creator>
+<dc:subject>Music</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141488</comments>
+</item>
+<item>
+<title>Music :: RE: Ninja Gaiden (SMS) oddities</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141487#141487</link>
+<pubDate>Sun, 15 Nov 2026 18:01:45 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141487#141487</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35574&quot; target=&quot;_blank&quot;&gt;LunchBreakGamer&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 6:01 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;It's neat that the PAL 50Hz version has its own feel rather than just being a slowed-down copy, and having both proper speeds plus the looping fixes is a great result for Ninja Gaiden. Did the corrected loops make any of the tracks noticeably different?&lt;br /&gt;
+
+</description>
+<dc:creator>LunchBreakGamer</dc:creator>
+<dc:subject>Music</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141320#141320" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141487</comments>
+</item>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141486#141486</link>
+<pubDate>Sun, 15 Nov 2026 16:43:06 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141486#141486</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35154&quot; target=&quot;_blank&quot;&gt;nothingsp&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 4:43 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;chirinea wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I wonder if there shouldn't be a license that wouldn't allow people to feed the code to LLMs.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+I'm sure that's something that will come out of this, but I suspect it will be ignored. &amp;quot;AI&amp;quot; pushers, from the model developers to the end users, operate on the assumption that they're entitled to just do whatever they want, and they'll go &lt;i&gt;way&lt;/i&gt; past source-code license violations (look at how much violation of actual legally-enforceable copyrights they've already done.)
+&lt;br /&gt;
+
+&lt;br /&gt;
+My long-term hope is that, once the money firehose funding this stuff dries up and it becomes economically impossible to operate at scale, this kind of thing goes away - but &lt;i&gt;boy&lt;/i&gt; do I wish we could just skip straight to that part :/&lt;br /&gt;
+
+</description>
+<dc:creator>nothingsp</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141486</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Juno First for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141485#141485</link>
+<pubDate>Sun, 15 Nov 2026 16:16:12 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141485#141485</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 4:16 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Thanks for the review! I'll try to improve the game!&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141485</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Juno First for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141484#141484</link>
+<pubDate>Sun, 15 Nov 2026 16:10:46 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141484#141484</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7980&quot; target=&quot;_blank&quot;&gt;Centrale&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 4:10 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I love Juno First! But this port looks like it has a long way to go to do it justice. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+Inertia - It seems to lack inertia in your ship's movements. In the arcade original, it's unusual if your ship comes to a complete standstill, but in this port it seems to happen a lot.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Enemy formations - should be more vertically oriented. The arcade game will regularly have about 24 enemies in vertical and diagonal formations of 8. This port currently looks to have loose formations of 3.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Grid lines and dots - There are too many of both, making it harder to perceive the direction of movement. I think you'll get a better sense of motion with about half the current amount of both. Plus, the lines should be perceived more as vertically extending into the distance rather than horizontally across the screen.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Style of shots and explosions - The arcade original seemed to take inspiration from Williams classics like Defender and Robotron with dashed shot lines and big explosions made of lots of tiny particles. I suggest enemies should explode into 8 small sprites expanding outward in a circular formation. When the player's ship explodes there should be a patterned, screen-filling explosion that would probably have to be made with tile animation. The game's art direction overall is so minimalist and all the player and enemy sprites so small, these effects are all the more important.
+&lt;br /&gt;
+
+&lt;br /&gt;
+No radar at the top of the screen - This is important for the player to anticipate upcoming formations when moving forward. Champ Games managed it with their 2600 port, so it should be no problem for the SMS!
+&lt;br /&gt;
+
+&lt;br /&gt;
+Soundtrack - the arcade version has more of a menacing growl rather than a melodic soundtrack.&lt;br /&gt;
+
+</description>
+<dc:creator>Centrale</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141484</comments>
+</item>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141483#141483</link>
+<pubDate>Sun, 15 Nov 2026 15:54:42 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141483#141483</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=1032&quot; target=&quot;_blank&quot;&gt;chirinea&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 15, 2026 3:54 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;I wonder if there shouldn't be a license that wouldn't allow people to feed the code to LLMs.&lt;br /&gt;
+
+</description>
+<dc:creator>chirinea</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141483</comments>
+</item>
+</channel>
+</rss>
+

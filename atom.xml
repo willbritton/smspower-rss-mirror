@@ -8,7 +8,68 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-16T20:00:52Z</modified>
+  <modified>2026-11-16T20:20:38Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141514#141514"/>
+    <dc:creator>AtariBorn</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>AtariBorn</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141514#141514</id>
+    <issued>2026-11-16T20:11:21Z</issued>
+    <modified>2026-11-16T20:11:21Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 16, 2026 8:11 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Any chance you could link the rom in your YouTube video? 
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/3Lu029iITNM&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141513#141513"/>
+    <dc:creator>haroldoop</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>haroldoop</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141513#141513</id>
+    <issued>2026-11-16T20:06:57Z</issued>
+    <modified>2026-11-16T20:06:57Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 16, 2026 8:06 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;AtariBorn wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Hey, it's DeathTank!.Genesis multitap compatibility would be awesome.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks for the suggestion! I guess I could try it later.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141512#141512"/>
+    <dc:creator>haroldoop</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>haroldoop</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141512#141512</id>
+    <issued>2026-11-16T20:05:11Z</issued>
+    <modified>2026-11-16T20:05:11Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 16, 2026 8:05 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Fantastic project! Keep going! 
+&lt;br /&gt;
+How about porting the updated graphics from MM: the Wily Wars into the project?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
     <link rel="alternate" type="text/html"
@@ -174,133 +235,6 @@ Programmed by Ron J. Fortier
 Graphic Art by Kelly Day
 &lt;br /&gt;
 The SMS version mention Ron in title screen but not Kelly Day. The art cannot be created in SMS by Kelly Day but the art base yes. The characters, tilemap, map design. Kagesan you contacted the original author to use game design and art? Yes or no?&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141504#141504"/>
-    <dc:creator>sverx</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>sverx</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141504#141504</id>
-    <issued>2026-11-16T12:09:42Z</issued>
-    <modified>2026-11-16T12:09:42Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 16, 2026 12:09 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;tachyMC wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;So, yes the purpose of this work is developing a msxgl/devkitSMS compatibility layer.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I think it would be interesting to see a compatibility layer that makes it possible to recompile MSX games written in C using the MSXgl library into both SG-1000 and ColecoVision games - using the SGlib library in devkitSMS - given they all share the same CPU and VDP.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Original art assets could be directly used, the biggest hurdles would probably be the music/SFX (as the MSX has different audio chips) and the various mappers differences you'll have to work around.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Regarding porting MSX games to SMS, I'd say one should provide new art, as converting the MSX art as it is would do no justice to the SMS and its enhanced graphic chip.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Finally, never give up about the idea of learning how to code in C yourself - it's definitely something everyone can do!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: [AI] Mega Man 2 for Sega Master System</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503"/>
-    <dc:creator>josemcsantos</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>josemcsantos</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503</id>
-    <issued>2026-11-16T11:11:32Z</issued>
-    <modified>2026-11-16T11:11:32Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
-	Subject: [AI] Mega Man 2 for Sega Master System&lt;br /&gt;Posted: Mon Nov 16, 2026 11:11 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Hello everyone!
-&lt;br /&gt;
-
-&lt;br /&gt;
-I spent two months trying to port Mega Man 2 to the Master System.
-&lt;br /&gt;
-At first, I did some manual coding, but then I used AI to create Python tools to port and generate the code I needed.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I also decided to change and adapt the graphics a bit, somehow to resemble the Wily Wars a bit more.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I have a first version of the complete game. I'm still doing some QA, and I'd love some feedback.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I recorded a bit of gameplay on YouTube if you want to check. I can't add a link, so I'll leave the key. It's 3 levels: Airman, Metalman, and Bubbleman. 
-&lt;br /&gt;
-3Lu029iITNM
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thank you all&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] [WIP] A new kind of porting - Chrono Runner (from MSX)</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141502#141502"/>
-    <dc:creator>tachyMC</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>tachyMC</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141502#141502</id>
-    <issued>2026-11-16T10:58:26Z</issued>
-    <modified>2026-11-16T10:58:26Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35571&quot; target=&quot;_blank&quot;&gt;tachyMC&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 16, 2026 10:58 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
-&lt;br /&gt;
-are you developing a C compatibility layer that makes it possible to recompile any game made with MSXgl for the SMS using devkitSMS?
-&lt;br /&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-Mr. sverx! I'm really humbled and honoured by your interest in this. Thanks thanks thanks for everything you did for our little big SMS!
-&lt;br /&gt;
-
-&lt;br /&gt;
-So, yes the purpose of this work is developing a msxgl/devkitSMS compatibility layer. I get no credits for this, the LLM is doing most of the work, but I'm doing everything I can to make it re-usable.
-&lt;br /&gt;
-
-&lt;br /&gt;
-To give you an idea of the approach: everything static (graphics, bank switch, etc...) is converted at build time; at runtime the layer only translates what changes every frame: sprite, input, audio translation.
-&lt;br /&gt;
-
-&lt;br /&gt;
-From several points of view the MSX1 is a lesser system than SMS (no offense for MSX folks of course!), so I always thought that MSX-&amp;gt;SMS ports could be somehow automated. This is my shot at it, to see how far it's possible to get.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Every suggestion from you is of course really appreciated!
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;sverx wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
-&lt;br /&gt;
-Or is the LLM doing only what's needed to port this specific game
-&lt;br /&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-For now I have no interest in doing game-specific ports... I think that in this LLM era they are either a) impossible because of hardware limitations, or b) simple plain easy, so not really interesting. Maybe I'm wrong but it's my current stance.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I hope to get everything in a release-able state this week, then I will release here both the sources and the ROM.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

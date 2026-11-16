@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 01:30:43 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 01:40:33 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -225,22 +225,6 @@ Soundtrack - the arcade version has more of a menacing growl rather than a melod
 <dc:subject>Made By AI</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141484</comments>
-</item>
-<item>
-<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141483#141483</link>
-<pubDate>Sun, 15 Nov 2026 15:54:42 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141483#141483</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=1032" target="_blank"&gt;chirinea&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 15, 2026 3:54 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;I wonder if there shouldn't be a license that wouldn't allow people to feed the code to LLMs.&lt;br /&gt;
-
-</description>
-<dc:creator>chirinea</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141483</comments>
 </item>
 </channel>
 </rss>

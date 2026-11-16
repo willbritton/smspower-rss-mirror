@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-16T01:30:43Z</modified>
+  <modified>2026-11-16T01:40:34Z</modified>
+  <entry>
+    <title mode="escaped">Main :: sg-1000/sg-3000 eggman/robotnik sprites</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141493#141493"/>
+    <dc:creator>saturthirtox</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>saturthirtox</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141493#141493</id>
+    <issued>2026-11-16T01:37:28Z</issued>
+    <modified>2026-11-16T01:37:28Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35568&quot; target=&quot;_blank&quot;&gt;saturthirtox&lt;/a&gt;&lt;br /&gt;
+	Subject: sg-1000/sg-3000 eggman/robotnik sprites&lt;br /&gt;Posted: Mon Nov 16, 2026 1:37 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	while i made sg-1000 sonic sprites since i got aseprite and worked on them for a long time with my art evolving with them. i did these sprites yesterday so they might not look as good as the sonic sprites and if so i apologize&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
     <link rel="alternate" type="text/html"
@@ -260,23 +277,6 @@ No radar at the top of the screen - This is important for the player to anticipa
 
 &lt;br /&gt;
 Soundtrack - the arcade version has more of a menacing growl rather than a melodic soundtrack.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141483#141483"/>
-    <dc:creator>chirinea</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>chirinea</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141483#141483</id>
-    <issued>2026-11-15T15:54:42Z</issued>
-    <modified>2026-11-15T15:54:42Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=1032&quot; target=&quot;_blank&quot;&gt;chirinea&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 15, 2026 3:54 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I wonder if there shouldn't be a license that wouldn't allow people to feed the code to LLMs.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

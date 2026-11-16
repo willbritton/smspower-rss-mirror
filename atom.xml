@@ -8,7 +8,28 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-16T10:01:00Z</modified>
+  <modified>2026-11-16T10:10:31Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141500#141500"/>
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141500#141500</id>
+    <issued>2026-11-16T10:01:45Z</issued>
+    <modified>2026-11-16T10:01:45Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 16, 2026 10:01 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I’d be much more interested in some explanation - by you, not the LLM - of the setup for headless emulator testing and the various scripts it seems to be creating to check things, with some critical analysis of the use of these as some of them seem to be typical LLM overreactions to dumb mistakes made along the way. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+The decision to use LLM generated release notes - including markdown pasted into a place that doesn’t support it - unfortunately just makes me not want to read.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
     <link rel="alternate" type="text/html"
@@ -420,41 +441,6 @@ I instead have preferred to not use the provided code and instead fixed the issu
 
 &lt;br /&gt;
 That's the other thing too. If there's a bug in my code, and I'm explicitly not using AI to make my game, I don't really want someone else's agent to tell me about a bug. If another human tells me, that's fine, but if I'm essentially getting unsolicited AI assistance, at what point does my project stop being human-made?&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: Beta testing a SMS Phantasy Star game. Interested?</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141490#141490"/>
-    <dc:creator>voicecommandgames</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>voicecommandgames</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141490#141490</id>
-    <issued>2026-11-15T19:46:42Z</issued>
-    <modified>2026-11-15T19:46:42Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35577&quot; target=&quot;_blank&quot;&gt;voicecommandgames&lt;/a&gt;&lt;br /&gt;
-	Subject: Beta testing a SMS Phantasy Star game. Interested?&lt;br /&gt;Posted: Sun Nov 15, 2026 7:46 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Hi there!
-&lt;br /&gt;
-
-&lt;br /&gt;
-You can find me here.
-&lt;br /&gt;
-voicecommandgames.itch.io
-&lt;br /&gt;
-
-&lt;br /&gt;
-I am planning a slate of sms games, and I would like to possibly beta test a Phantasy Star RPG for the sms
-&lt;br /&gt;
-
-&lt;br /&gt;
-Hit me up here if you are interested!
-&lt;br /&gt;
-
-&lt;br /&gt;
-Hugs everyone!!&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

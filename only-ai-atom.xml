@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-16T15:50:29Z</modified>
+  <modified>2026-11-16T16:01:05Z</modified>
   <entry>
     <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141505#141505" />
@@ -521,4 +521,4 @@ I do see the point, but ignoring the report would have meant I didn't care fixin
 As I strive for always do the best I can, I had to chose the lesser evil, so ignoring the provided LLM generated fix and working on removing the issue myself was the only choice I could accept to make.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

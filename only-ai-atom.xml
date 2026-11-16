@@ -4,7 +4,29 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-16T10:20:32Z</modified>
+  <modified>2026-11-16T10:30:51Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141501#141501" />
+    <dc:creator>haroldoop</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>haroldoop</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141501#141501</id>
+    <issued>2026-11-16T10:26:33Z</issued>
+    <modified>2026-11-16T10:26:33Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 16, 2026 10:26 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	One of the main advantages of the Markdown format is that it stays human readable even if the target environment is text only.
+&lt;br /&gt;
+
+&lt;br /&gt;
+As for what I can see from the generated tests, it uses a text-like script to send commands to the emulator's joypad, reading and writing various memory adresses, checking if conditions are met, taking screenshots, and so on; you can search for the word &amp;quot;echo&amp;quot; inside the scripts to find explanations of each feature it's testing:
+&lt;br /&gt;
+&lt;a href="https://github.com/haroldo-ok/scorched-sms/tree/main/tests" target="_blank"&gt;https://github.com/haroldo-ok/scorched-sms/tree/main/tests&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141500#141500" />
@@ -325,82 +347,6 @@ As I strive for always do the best I can, I had to chose the lesser evil, so ign
 - Performance optimizations
 &lt;br /&gt;
 - Bug fixes&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141491#141491" />
-    <dc:creator>bofner</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>bofner</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141491#141491</id>
-    <issued>2026-11-15T22:18:03Z</issued>
-    <modified>2026-11-15T22:18:03Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603" target="_blank"&gt;bofner&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 15, 2026 10:18 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;Kagesan wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;A similar thing happened to me recently, when someone grabbed the ROM of my Bruce Lee remake, and ran it through Claude to have it slop-ported to Amiga and Atari ST. Last I checked, he was still asking for donations for all of &amp;quot;his&amp;quot; hard work on itch.io.
-&lt;br /&gt;
-    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I'm really sorry about that. That's just vile. I can understand how someone might think they are &amp;quot;honoring&amp;quot; a game by porting it to another system using an LLM (though I do not see it that way) but once they're asking for money for someone else's work is where I stop being able to sympathize. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;blockquote&gt;  &lt;div class="attribution"&gt;Maxim wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;By publishing stuff online (as I have been doing for years) you have to accept that anyone can read it and now that means it can be used to train LLMs and also people can feed them to LLMs to generate nonsense. It’s unfortunate that this LLM part wasn’t even a thing when we published and there’s no way to stop them.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I considered changing my github to private for a moment. But if my code can help someone else learn an obscure skill that doesn't have as much documentation as modern languages do, then I guess its worth the risk of somenoe abusing my code to feed an LLM. Maybe &amp;quot;Open source upon request&amp;quot;? Idk. For now I'll keep it up
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;blockquote&gt;  &lt;div class="attribution"&gt;sverx wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Last June somebody had used an LLM to find 'security issues' in some of the tools in devkitSMS. They provided a PR with fixed code in their report.
-&lt;br /&gt;
-I instead have preferred to not use the provided code and instead fixed the issues myself    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-That's the other thing too. If there's a bug in my code, and I'm explicitly not using AI to make my game, I don't really want someone else's agent to tell me about a bug. If another human tells me, that's fine, but if I'm essentially getting unsolicited AI assistance, at what point does my project stop being human-made?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

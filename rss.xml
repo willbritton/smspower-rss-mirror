@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 09:40:30 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 09:50:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,214 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141499#141499</link>
+<pubDate>Mon, 16 Nov 2026 09:45:36 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141499#141499</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+Subject: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.&lt;br /&gt;
+Posted: Mon Nov 16, 2026 9:45 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/49IqkcykqE8&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Scorched SMS --- Technical Overview &amp;amp; Port Summary
+&lt;br /&gt;
+================================================
+&lt;br /&gt;
+
+&lt;br /&gt;
+**Scorched SMS** is a full-featured artillery game inspired by Wendell Hicken's 1991 MS-DOS classic *Scorched Earth*, built for the **Sega Master System** in C using **SDCC** and **devkitSMS** (`SMSlib` + `PSGlib`). Packaged into a 48 KB ROM (`scorched.sms`) with zero dynamic bank switching, it supports 2--4 human or CPU tanks competing across destructible per-pixel terrain.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Github repo: &lt;a href=&quot;https://github.com/haroldo-ok/scorched-sms&quot; target=&quot;_blank&quot;&gt;https://github.com/haroldo-ok/scorched-sms&lt;/a&gt;
+&lt;br /&gt;
+Itch.io page: &lt;a href=&quot;https://haroldo-ok.itch.io/scorched-sms&quot; target=&quot;_blank&quot;&gt;https://haroldo-ok.itch.io/scorched-sms&lt;/a&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+🎮 Core Gameplay &amp;amp; Arsenal
+&lt;br /&gt;
+--------------------------
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **33 Distinct Weapons:**
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   **Standard &amp;amp; Nuclear:** Baby Missile (unlimited), Missile, Baby Nuke, Nuke.
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   **Multi-Hit &amp;amp; Splitting:** LeapFrog, Funky Bomb, MIRV, Death's Head.
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   **Incendiary &amp;amp; Tracing:** Napalm, Hot Napalm, Tracer, Smoke Tracer.
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   **Rollers &amp;amp; Riot Payloads:** Baby Roller, Roller, Heavy Roller, Riot Charge, Riot Blast, Riot Bomb, Heavy Riot Bomb.
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   **Excavation &amp;amp; Terrain:** 3 tiers of Diggers, 3 tiers of Sandhogs, Dirt Clod, Dirt Ball, Ton of Dirt, Liquid Dirt, Dirt Charge, Earth Disrupter.
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   **Energy:** Plasma Blast, Laser.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **15 Tactical Accessories:**
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   **Defenses:** Mag Deflector, Shield, Force Shield (deflects incoming shells), Heavy Shield, Super Mag.
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   **Survival &amp;amp; Mobility:** Automatic Parachutes, Repair Batteries (+10 HP), Auto Defense (auto-equips best shield on round start), and Fuel Tanks (enabling tank movement across terrain).
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   **Guidance &amp;amp; Triggers:** Heat, Ballistic, Horizontal, and Vertical guidance systems, Lazy Boy auto-aim, and Contact Triggers.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Four CPU Skill Tiers:**  *Moron*,  *Shooter*,  *Poolshark*, and *Cyborg*---each simulating physical projectile trajectories (accounting for wind and shields) while scaling accuracy, economy management, and defensive item usage.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Atmosphere &amp;amp; Audio:** Dynamic wind (off, static, or variable per turn), speech-bubble tank quips on firing and destruction, and PSG sound effects for launches, falling-shell whistles, explosions, and napalm crackles.
+&lt;br /&gt;
+
+&lt;br /&gt;
+🕹️ Controls &amp;amp; In-Game Arsenal Menu
+&lt;br /&gt;
+-----------------------------------
+&lt;br /&gt;
+
+&lt;br /&gt;
+| **Sega Master System Input** | **Action** |
+&lt;br /&gt;
+| --- | --- |
+&lt;br /&gt;
+| **D-Pad Left / Right** | Adjust turret angle (or drive left/right in Move Mode) |
+&lt;br /&gt;
+| **D-Pad Up / Down** | Adjust shot power |
+&lt;br /&gt;
+| **Button 1** | Fire weapon / Confirm selection |
+&lt;br /&gt;
+| **Button 2** | Open In-Game Arsenal Menu / Back |
+&lt;br /&gt;
+
+&lt;br /&gt;
+*(Controller Port 2 is supported for hot-seat multiplayer.)*
+&lt;br /&gt;
+
+&lt;br /&gt;
+### In-Game Menu Options (Button 2)
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **WEAPON:** Cycle owned ammunition (`Left`/`Right`).
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **GUIDANCE / TRIGGER:** Arm a guidance system or toggle Contact Trigger behavior.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **SHIELD / BATTERY:** Select and activate defensive shields or restore +10 HP.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **LAZY BOY:** Select a target tank to automatically calculate turret angle and power.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **MOVE TANK:** Drive left or right using purchased fuel (1 fuel per pixel; climbing costs extra, steps steeper than 3 pixels block passage, and driving off ledges triggers fall damage unless a parachute deploys).
+&lt;br /&gt;
+
+&lt;br /&gt;
+🏗️ Architecture &amp;amp; Hardware Engineering
+&lt;br /&gt;
+---------------------------------------
+&lt;br /&gt;
+
+&lt;br /&gt;
+### Dynamic Tile-Pool Terrain Engine (`src/terrain.c`)
+&lt;br /&gt;
+
+&lt;br /&gt;
+Because the Sega Master System VDP relies on 8×8 background tiles rather than a hardware framebuffer, the playable arena is maintained in RAM as a **256×168 1-bit bitmap** (5,376 bytes):
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Three-State Cell Classification:** Each 8×8 screen cell resolves to either a shared **All-Sky** tile, a shared **All-Ground** tile, or a dedicated tile allocated from a dynamic **254-slot VRAM pool** for mixed edges, caves, and overhangs.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Z80 Assembly Optimization:** Terrain destruction marks affected cells dirty for incremental per-frame VRAM uploads. Tile generation and optional *falling dirt* physics run in hand-written Z80 assembly---delivering roughly **6× the speed** of compiled SDCC C loops. Physics calculations always evaluate against the exact RAM bitmap even if the 254-tile pool saturates.
+&lt;br /&gt;
+
+&lt;br /&gt;
+### Static 48 KB ROM Memory Map
+&lt;br /&gt;
+
+&lt;br /&gt;
+| **Address Range** | **Bank / Region** | **Contents** |
+&lt;br /&gt;
+| --- | --- | --- |
+&lt;br /&gt;
+| `0x0000`--`0x7FFF` | Fixed ROM | `main.c`, `terrain.c`, `weapons.c`, and `SMSlib` runtime |
+&lt;br /&gt;
+| `0x8000`--`0xBFFF` | Bank 2 (Permanently Mapped) | `ui.c`, `ai.c`, and generated lookup tables/sprites (`gen.py`) |
+&lt;br /&gt;
+
+&lt;br /&gt;
+*Build verification via `checkmap.py` automatically enforces header boundaries (`0x7FE0`), bank capacity, and RAM headroom.*
+&lt;br /&gt;
+
+&lt;br /&gt;
+🧪 Automated Verification &amp;amp; Known Caveats
+&lt;br /&gt;
+-----------------------------------------
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Headless Emulation Suite:** Validated via `smstest` using scripted test generators (`tests/gen_tests.py`) covering full weapon/accessory coverage (`playtest.txt`,  `items2.txt`) and a 3-round, 4-CPU soak test (`soak.txt`).
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   **Hardware &amp;amp; Gameplay Notes:**
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   Untested on physical Master System hardware.
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   High-budget CPU matches run ~5 seconds per turn as AI opponents stack shields and batteries; rounds cap at 200 turns (draw).
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   Up to four tanks sharing the same scanline with active shields and parachutes will trigger the VDP's 8-sprites-per-scanline flicker limit.
+&lt;br /&gt;
+
+&lt;br /&gt;
+    -   AI and Lazy Boy trajectory simulations treat Force Shields as solid targets rather than reflective surfaces.&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141499#141499" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141499</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] Commander Keen 1 for Sega Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141498#141498</link>
@@ -246,22 +454,6 @@ Hugs everyone!!&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141490#141490" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141490</comments>
-</item>
-<item>
-<title>Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141489#141489</link>
-<pubDate>Sun, 15 Nov 2026 19:33:07 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141489#141489</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35576&quot; target=&quot;_blank&quot;&gt;SeBe&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sun Nov 15, 2026 7:33 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Nice list! I'd add Phantasy Star and Psycho Fox, both still a blast to play. And Wonder Boy III: The Dragon's Trap deserves a spot much higher than 11th.&lt;br /&gt;
-
-</description>
-<dc:creator>SeBe</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141214#141214" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141489</comments>
 </item>
 </channel>
 </rss>

@@ -8,7 +8,77 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-17T18:00:59Z</modified>
+  <modified>2026-11-17T18:10:33Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141550#141550"/>
+    <dc:creator>segarule</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>segarule</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141550#141550</id>
+    <issued>2026-11-17T18:07:21Z</issued>
+    <modified>2026-11-17T18:07:21Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 17, 2026 6:07 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;vebxenon wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;segarule wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Well. like i hate hipocrisy i will leave some sinceres questions for i know if everything is running ethnic. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Quote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--	var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));	SXBB[id] = new _SXBB(id);	SXBB[id].T['select'] = 'Select';	SXBB[id].T['expand'] = '[+]';	SXBB[id].T['contract'] = '[-]';	SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--      SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;A similar thing happened to me recently, when someone grabbed the ROM of my Bruce Lee remake, and ran it through Claude to have it slop-ported to Amiga and Atari ST. Last I checked, he was still asking for donations for all of &amp;quot;his&amp;quot; hard work on itch.io.
+&lt;br /&gt;
+When I called him out for it, he finally bothered to contact me, and we made some small amends, but even after that, when he already knew well how I feel about it, he kept messing with my stuff, producing &amp;quot;enhanced&amp;quot; AGA and STE versions with horribly mangled variations of my artwork.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The thing is that when we talked, he genuinely didn't give the impression of having ill intentions, and I absolutely believe him. There just seem to be people who can't imagine why someone wouldn't be okay with having his stuff fed to an LLM. It's freely available on the internet, and that's all the justification needed, apparently.
+&lt;br /&gt;
+The guy who did this to your work probably thinks he's doing you a favor.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I really don't know where this will all end. The mutual respect between developers isn't something that applies to people always on the lookout for new stuff to feed to their LLM of choice, it seems, and the consequences are that a lot of communitues just find out that they have never been communities to begin with, rather two groups of people with little overlap, who just happened to gather around the same camp fire.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Personally, I hope Ed Zitron is right and the unsustainable financing of the AI bubble makes it crash rather sooner than later, removing the models from the hands of non-professional users. I just hope that the amount of digital asbestos that gets produced up to that point will not have killed what used to be the comfy niches of the internet entirely.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+The code of Bruce Lee was created for Atari system that use 6502 processor. So obvious that my question no will make sense here. But the game have 2 authors:
+&lt;br /&gt;
+Programmed by Ron J. Fortier
+&lt;br /&gt;
+Graphic Art by Kelly Day
+&lt;br /&gt;
+The SMS version mention Ron in title screen but not Kelly Day. The art cannot be created in SMS by Kelly Day but the art base yes. The characters, tilemap, map design. Kagesan you contacted the original author to use game design and art? Yes or no?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+I feel this reply as insulting. No respect from an AI-bro. No respect for the community.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+I dont consider insulting if the people stop to reflect the next question:
+&lt;br /&gt;
+Some shooting games was developed after consult Power Strike 2 code.for undeerstand game logic, max elements in screen,  Some mention, merit was given to Jemini Hirono and others responsibles with a game logic?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141549#141549"/>
+    <dc:creator>SavitarSvit</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>SavitarSvit</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141549#141549</id>
+    <issued>2026-11-17T18:06:32Z</issued>
+    <modified>2026-11-17T18:06:32Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11301&quot; target=&quot;_blank&quot;&gt;SavitarSvit&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 17, 2026 6:06 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;b&gt;josemcsantos&lt;/b&gt;, since you already have experience and developments in this game, have you considered making a port of the first Megaman?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: Warlord new game for Sega Master System!</title>
     <link rel="alternate" type="text/html"
@@ -239,64 +309,6 @@ In my view, Bomberman S and Megaman II, for instance, are on an extraordinary le
 
 &lt;br /&gt;
 Yes, those games are fantastic!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: Warlord new game for Sega Master System!</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141540#141540"/>
-    <dc:creator>baude</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>baude</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141540#141540</id>
-    <issued>2026-11-17T11:41:12Z</issued>
-    <modified>2026-11-17T11:41:12Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=9683&quot; target=&quot;_blank&quot;&gt;baude&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 17, 2026 11:41 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;ichigo wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I'm much less hostile to AI than some of my peers ;)
-&lt;br /&gt;
-
-&lt;br /&gt;
-It can do some really great things, BUT we still have to point out that you need to prompt/steer LLMs very well to get the best out of them (and therefore be technical/know what you're talking about, because AI isn't actually 'magical').
-&lt;br /&gt;
-
-&lt;br /&gt;
-So far, I haven't seen anything extraordinary.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Haven’t you noticed anything extraordinary—whether here on this forum or elsewhere?
-&lt;br /&gt;
-
-&lt;br /&gt;
-In my view, Bomberman S and Megaman II, for instance, are on an extraordinary level. You can clearly see the work, effort, and a solid grasp of what an AI can—and should—be capable of doing.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: Warlord new game for Sega Master System!</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141539#141539"/>
-    <dc:creator>ichigo</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>ichigo</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141539#141539</id>
-    <issued>2026-11-17T11:25:35Z</issued>
-    <modified>2026-11-17T11:25:35Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2883&quot; target=&quot;_blank&quot;&gt;ichigo&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 17, 2026 11:25 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	I'm much less hostile to AI than some of my peers ;)
-&lt;br /&gt;
-
-&lt;br /&gt;
-It can do some really great things, BUT we still have to point out that you need to prompt/steer LLMs very well to get the best out of them (and therefore be technical/know what you're talking about, because AI isn't actually 'magical').
-&lt;br /&gt;
-
-&lt;br /&gt;
-So far, I haven't seen anything extraordinary.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

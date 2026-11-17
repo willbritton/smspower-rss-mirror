@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 16:20:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 16:30:46 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,28 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: Warlord new game for Sega Master System!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141546#141546</link>
+<pubDate>Tue, 17 Nov 2026 16:28:52 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141546#141546</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=13282&quot; target=&quot;_blank&quot;&gt;xfixium&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 17, 2026 4:28 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;AS_Games wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
+&lt;br /&gt;
+Yes, I know what I’m talking about because this is the reality of the present day; many people claim they don’t use AI, but they actually do. I see AI as a tool, just like any other. Without it, I believe that developing an engine from scratch in assembly which is what I’m currently doing would be an incredibly complicated and difficult task. I have great respect for all the veterans; after all, I am still a learner, and I’m very much in the process of growing and developing my skills. This game means a great deal to me it’s a dream coming true.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+This all seems very performative. For a game that means a great deal to you, you provide no information about it.&lt;br /&gt;
+
+</description>
+<dc:creator>xfixium</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141546</comments>
+</item>
 <item>
 <title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141545#141545</link>
@@ -282,28 +304,6 @@ So, a little humility and gratitude are in order.&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141537</comments>
-</item>
-<item>
-<title>Made By AI :: RE: Warlord new game for Sega Master System!</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141536#141536</link>
-<pubDate>Tue, 17 Nov 2026 11:02:25 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141536#141536</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35585&quot; target=&quot;_blank&quot;&gt;AS_Games&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 17, 2026 11:02 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;ichigo wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;LOL
-&lt;br /&gt;
-Almost all the tools available here were created BEFORE generative AI even existed (or before you were even born...), and I'm not even talking about the code, snippets, and docs yet.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I was born in 1975 and have been gaming since I was 8 years old; I grew up watching the evolution of video games. Today, I feel like a dream has come true as I finish a complete game especially for a system I absolutely love. I’ve been following the forum for a while, but this is my first time posting. It’s true that many of the modern tools shared here were developed with the help of AI though, honestly, some people might prefer to be hypocritical and simply not mention that they used AI in their development process.&lt;br /&gt;
-
-</description>
-<dc:creator>AS_Games</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141536</comments>
 </item>
 </channel>
 </rss>

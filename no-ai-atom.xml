@@ -4,7 +4,39 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-17T09:00:55Z</modified>
+  <modified>2026-11-17T09:10:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Warlord new game for Sega Master System!</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141531#141531" />
+    <dc:creator>AS_Games</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>AS_Games</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141531#141531</id>
+    <issued>2026-11-17T09:03:36Z</issued>
+    <modified>2026-11-17T09:03:36Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35585" target="_blank"&gt;AS_Games&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 17, 2026 9:03 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class="attribution"&gt;Maxim wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Was this made with AI?    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Created by me and a designer, two people leading the project,but why?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141528#141528" />
@@ -141,24 +173,4 @@ I actually got to talk to Mac Senour, Sega's producer for this game for the Hidd
 	Well guys, I think I'll be slowing down for the moment. I have a newborn second child (first daughter!), she takes most of my free time, and while I would love to spend the free time of my free time playing SMS homebrew, the truth is they're all AI ports nowadays, thanks to this current AI craze, and they're all ports of games that play better, look better, control better and are less bug prone on their original systems, which means I have little to zero interest in spending half an hour of my day playing them to take screenshots, and another half hour to gather info and edit a readme, that most of the times (surprise!) is also written by an AI. But oh, no, I'm not giving up. It's just a warning that updating the Homebrew section on a daily basis, like I've been doing for some time now, may become unsustainable for a while. The list this thread started with will probably return, and I'll certainly be faster than Sonic when it comes to adding No AI stuff, but that's the best I can promise for now. Sorry!&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Beta testing a SMS Phantasy Star game. Interested?</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141521#141521" />
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141521#141521</id>
-    <issued>2026-11-16T22:25:22Z</issued>
-    <modified>2026-11-16T22:25:22Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 16, 2026 10:25 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Please can you clarify if this is/will be made with AI?
-&lt;br /&gt;
-
-&lt;br /&gt;
-I think it’s better to ask for testers after you have something made, not before.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

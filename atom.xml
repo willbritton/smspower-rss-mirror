@@ -8,7 +8,28 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-17T09:00:55Z</modified>
+  <modified>2026-11-17T09:10:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Warlord new game for Sega Master System!</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141531#141531"/>
+    <dc:creator>AS_Games</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>AS_Games</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141531#141531</id>
+    <issued>2026-11-17T09:03:36Z</issued>
+    <modified>2026-11-17T09:03:36Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35585&quot; target=&quot;_blank&quot;&gt;AS_Games&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 17, 2026 9:03 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Maxim wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Was this made with AI?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Created by me and a designer, two people leading the project,but why?&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: Ports created by [AI]</title>
     <link rel="alternate" type="text/html"
@@ -212,27 +233,6 @@ I actually got to talk to Mac Senour, Sega's producer for this game for the Hidd
 
 &lt;br /&gt;
 Thanks&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Beta testing a SMS Phantasy Star game. Interested?</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141521#141521"/>
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141521#141521</id>
-    <issued>2026-11-16T22:25:22Z</issued>
-    <modified>2026-11-16T22:25:22Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 16, 2026 10:25 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Please can you clarify if this is/will be made with AI?
-&lt;br /&gt;
-
-&lt;br /&gt;
-I think it’s better to ask for testers after you have something made, not before.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

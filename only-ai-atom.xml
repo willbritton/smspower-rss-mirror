@@ -4,7 +4,83 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-17T09:30:48Z</modified>
+  <modified>2026-11-17T09:40:29Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Juno First for Sega Master System</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141532#141532" />
+    <dc:creator>haroldoop</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>haroldoop</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141532#141532</id>
+    <issued>2026-11-17T09:34:56Z</issued>
+    <modified>2026-11-17T09:34:56Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+	Subject: v1.1.0: make it closer to the arcade.&lt;br /&gt;Posted: Tue Nov 17, 2026 9:34 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/R_IQZBc-4Pk" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;Juno First SMS — v1.1.0 Arcade Fidelity Update&lt;/b&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+The &lt;b&gt;v1.1.0&lt;/b&gt; update brings &lt;b&gt;Juno First&lt;/b&gt; significantly closer to Konami's 1983 arcade cabinet, overhauling flight physics, enemy formations, perspective rendering, visual effects, and audio—expanding the ROM to &lt;b&gt;48 KB&lt;/b&gt; ([icode]junofirst.sms[/icode]) to accommodate a dedicated music bank and deeper Z80 assembly optimizations.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;🕹️ Arcade Gameplay &amp;amp; Visual Overhaul&lt;/b&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+* &lt;b&gt;True Momentum &amp;amp; Inertia:&lt;/b&gt; Thrust now builds gradually and your ship coasts for several seconds after releasing the controls, requiring deliberate reverse-braking to stop. Lateral steering also carries subtle momentum.
+&lt;br /&gt;
+* &lt;b&gt;24-Enemy Formations:&lt;/b&gt; Enemies now spawn in coordinated groups of &lt;b&gt;eight&lt;/b&gt; (columns, diagonals, twin columns, and snaking lines) with up to three formations active simultaneously (&lt;b&gt;24 enemies on screen&lt;/b&gt;). Individual enemies peel off to dive-bomb your ship before rejoining, while bypassed formations turn around to re-engage.
+&lt;br /&gt;
+* &lt;b&gt;True-Perspective Grid &amp;amp; Lanes:&lt;/b&gt; Reduced dot clutter by halving row frequency and adding converging dotted column lines toward the horizon, aligning enemy and projectile scaling to true perspective.
+&lt;br /&gt;
+* &lt;b&gt;Top-Center Tactical Radar:&lt;/b&gt; Added a HUD radar box displaying enemy formations ahead and immediately behind your ship, complete with markers showing the active viewport.
+&lt;br /&gt;
+* &lt;b&gt;Upgraded Shots &amp;amp; Particle Explosions:&lt;/b&gt; Laser shots now render as dashed beams. Destroying enemies triggers an 8-particle burst, while taking a hit turns the entire field into a dramatic expanding ring of particles centered on your ship.
+&lt;br /&gt;
+* &lt;b&gt;Increased Arcade Challenge:&lt;/b&gt; Enemies now fire and execute diving attacks starting right from &lt;b&gt;Wave 1&lt;/b&gt;.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;🎵 Dual Soundtrack &amp;amp; Classical Fanfare&lt;/b&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+* &lt;b&gt;Arcade-Style Growl Soundtrack:&lt;/b&gt; The primary in-game soundtrack is now a menacing 34-second looping bass growl built from two detuned voices creeping chromatically in D minor.
+&lt;br /&gt;
+&lt;i&gt; &lt;b&gt;Bach Intro Fanfare:&lt;/b&gt; Launching a game opens with the iconic opening bars of Bach's &lt;/i&gt;Toccata in D minor*.
+&lt;br /&gt;
+* &lt;b&gt;Soundtrack Toggle:&lt;/b&gt; The original v1.0.0 extended 4-section melodic theme remains included—press &lt;b&gt;Button 2&lt;/b&gt; on the title screen to switch between the two soundtracks.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;⚙️ Engine Optimizations &amp;amp; Technical Details&lt;/b&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+* &lt;b&gt;Z80 Assembly Hot-Paths:&lt;/b&gt; Sprite building ([icode]build_sprites[/icode]), shot loops, and single-sprite emitters were moved into Z80 assembly to handle up to 24 perspective-scaled enemies:
+&lt;br /&gt;
+* &lt;b&gt;Normal Play:&lt;/b&gt; Runs at full 60 FPS over &lt;b&gt;99%&lt;/b&gt; of the time.
+&lt;br /&gt;
+* &lt;b&gt;Heavy Action / Waves 10–11:&lt;/b&gt; Holds &lt;b&gt;97%–98%&lt;/b&gt; speed while flying flat-out and firing continuously (dipping only during extreme congestion of 16–20+ simultaneous on-screen enemies).
+&lt;br /&gt;
+* &lt;b&gt;Zero Sprite Dropouts:&lt;/b&gt; Verified over extended late-wave runs that scanlines never exceed the Master System's 8-sprite hardware limit—enemies never vanish or flicker out.
+&lt;br /&gt;
+
+&lt;br /&gt;
+
+&lt;br /&gt;
+* &lt;b&gt;ROM &amp;amp; HUD Fixes:&lt;/b&gt; Expanded ROM footprint to &lt;b&gt;48 KB&lt;/b&gt; so audio data sits cleanly in its own dedicated bank, and fixed a HUD layout bug where high-score and wave counters overlapped their text labels.
+&lt;br /&gt;
+* &lt;b&gt;Deliverables:&lt;/b&gt; Includes [icode]junofirst.sms[/icode], [icode]junofirst-src.zip[/icode], a full [icode]README.md[/icode], and [icode]junofirst-screenshot.png[/icode], with all three automated test suites passing in headless emulation.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: Ports created by [AI]</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141530#141530" />
@@ -45,24 +121,4 @@ I’m certainly not one to demonize AI in this field; I understand why some peop
 Thanks again, and congratulations!&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141522#141522" />
-    <dc:creator>josemcsantos</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>josemcsantos</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141522#141522</id>
-    <issued>2026-11-16T22:30:37Z</issued>
-    <modified>2026-11-16T22:30:37Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578" target="_blank"&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 16, 2026 10:30 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	For no reason, I didn't think of it. I mean, the second controller feels awkward as the pause button on the console, but adding support for the Mega Drive start button could be a good addition.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

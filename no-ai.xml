@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 09:30:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 09:40:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,22 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: Warlord new game for Sega Master System!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141533#141533</link>
+<pubDate>Tue, 17 Nov 2026 09:39:31 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141533#141533</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 17, 2026 9:39 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;AI generated content is not development, we have a separate forum for that. Also, many users care deeply about this and we want it to be clear.&lt;br /&gt;
+
+</description>
+<dc:creator>Maxim</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141533</comments>
+</item>
 <item>
 <title>Development :: RE: Warlord new game for Sega Master System!</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141531#141531</link>
@@ -167,22 +183,6 @@ Posted: Mon Nov 16, 2026 11:32 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Website</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141524</comments>
-</item>
-<item>
-<title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141523#141523</link>
-<pubDate>Mon, 16 Nov 2026 23:08:19 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141523#141523</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=826" target="_blank"&gt;mateusbond&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 11:08 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Well guys, I think I'll be slowing down for the moment. I have a newborn second child (first daughter!), she takes most of my free time, and while I would love to spend the free time of my free time playing SMS homebrew, the truth is they're all AI ports nowadays, thanks to this current AI craze, and they're all ports of games that play better, look better, control better and are less bug prone on their original systems, which means I have little to zero interest in spending half an hour of my day playing them to take screenshots, and another half hour to gather info and edit a readme, that most of the times (surprise!) is also written by an AI. But oh, no, I'm not giving up. It's just a warning that updating the Homebrew section on a daily basis, like I've been doing for some time now, may become unsustainable for a while. The list this thread started with will probably return, and I'll certainly be faster than Sonic when it comes to adding No AI stuff, but that's the best I can promise for now. Sorry!&lt;br /&gt;
-
-</description>
-<dc:creator>mateusbond</dc:creator>
-<dc:subject>Website</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141523</comments>
 </item>
 </channel>
 </rss>

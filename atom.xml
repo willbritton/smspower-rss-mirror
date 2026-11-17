@@ -8,7 +8,28 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-17T16:40:33Z</modified>
+  <modified>2026-11-17T16:50:36Z</modified>
+  <entry>
+    <title mode="escaped">Website :: RE: Homebrew projects still missing from the Homebrew page</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141547#141547"/>
+    <dc:creator>Bock</dc:creator>
+    <dc:subject>Website</dc:subject>
+    <author>
+		<name>Bock</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141547#141547</id>
+    <issued>2026-11-17T16:41:57Z</issued>
+    <modified>2026-11-17T16:41:57Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=3&quot; target=&quot;_blank&quot;&gt;Bock&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 17, 2026 4:41 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Congratulations!
+&lt;br /&gt;
+
+&lt;br /&gt;
+I think it is reasonable to start ignoring entries that are AI Slop or clearly mostly AI made, unless they are of exceptional nature. Entries with small amount of AI may be added with the tag.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: Warlord new game for Sega Master System!</title>
     <link rel="alternate" type="text/html"
@@ -280,31 +301,6 @@ So far, I haven't seen anything extraordinary.&lt;/span&gt;&lt;br /&gt;
 
 &lt;br /&gt;
 Ichigo: Why the &amp;quot;LOL&amp;quot;? Lately, it feels like some of the forum veterans—a forum we all love so much and to which they have contributed a great deal—are being overly critical and harsh toward anything that deviates from the usual script. Not everything out there is bad; not everyone has ill intentions; and not every use of AI is a sign of laziness or a waste of time.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: Warlord new game for Sega Master System!</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141537#141537"/>
-    <dc:creator>ichigo</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>ichigo</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141537#141537</id>
-    <issued>2026-11-17T11:14:51Z</issued>
-    <modified>2026-11-17T11:14:51Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2883&quot; target=&quot;_blank&quot;&gt;ichigo&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 17, 2026 11:14 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Yes, I am a bit harsh and vehement, but the rules in this forum are what they are. And neither I, nor anyone else, will change them.
-&lt;br /&gt;
-
-&lt;br /&gt;
-And we must not forget that the &amp;quot;sacrosanct LLMs&amp;quot; are based on what people have been willing to make publicly available following years of research and effort. And this across all fields.
-&lt;br /&gt;
-
-&lt;br /&gt;
-So, a little humility and gratitude are in order.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

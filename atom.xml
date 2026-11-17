@@ -8,7 +8,67 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-17T12:00:55Z</modified>
+  <modified>2026-11-17T12:10:33Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: Warlord new game for Sega Master System!</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141543#141543"/>
+    <dc:creator>AS_Games</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>AS_Games</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141543#141543</id>
+    <issued>2026-11-17T12:09:39Z</issued>
+    <modified>2026-11-17T12:09:39Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35585&quot; target=&quot;_blank&quot;&gt;AS_Games&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 17, 2026 12:09 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;baude wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;AS_Games: You shouldn’t make assumptions if you aren’t completely sure about what you’re saying. I say this with the best of intentions, because, honestly, I’m really looking forward to seeing more of your work.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Ichigo: Why the &amp;quot;LOL&amp;quot;? Lately, it feels like some of the forum veterans—a forum we all love so much and to which they have contributed a great deal—are being overly critical and harsh toward anything that deviates from the usual script. Not everything out there is bad; not everyone has ill intentions; and not every use of AI is a sign of laziness or a waste of time.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Yes, I know what I’m talking about because this is the reality of the present day; many people claim they don’t use AI, but they actually do. I see AI as a tool, just like any other. Without it, I believe that developing an engine from scratch in assembly which is what I’m currently doing would be an incredibly complicated and difficult task. I have great respect for all the veterans; after all, I am still a learner, and I’m very much in the process of growing and developing my skills. This game means a great deal to me it’s a dream coming true.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: Warlord new game for Sega Master System!</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141542#141542"/>
+    <dc:creator>ichigo</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>ichigo</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141542#141542</id>
+    <issued>2026-11-17T12:06:31Z</issued>
+    <modified>2026-11-17T12:06:31Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2883&quot; target=&quot;_blank&quot;&gt;ichigo&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 17, 2026 12:06 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	You can do better than this &amp;quot;Bomberman&amp;quot; clone and ports.
+&lt;br /&gt;
+There are many things I don't like about them, and obviously, the biggest one is that they are lazy ports/things (or mixes of several existing games).
+&lt;br /&gt;
+
+&lt;br /&gt;
+At least use the power of LLMs to make new things, FROM SCRATCH.
+&lt;br /&gt;
+With your own idea/universe.
+&lt;br /&gt;
+Not some quick thing ripping music or gfx from existing games — a completely new game.
+&lt;br /&gt;
+
+&lt;br /&gt;
+You'll certainly need to form a group, because gfx (pixel art) and music (PSG) have to be done by humans (LLMs are pretty bad at this; we're dealing with a basic 8-bit machine with heavy constraints, not a Switch or a PC).
+&lt;br /&gt;
+
+&lt;br /&gt;
+At least AS_port showed us &lt;i&gt;something new&lt;/i&gt; 👍&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: Warlord new game for Sega Master System!</title>
     <link rel="alternate" type="text/html"
@@ -215,100 +275,6 @@ Understood, in that case, feel free to move it to the appropriate location or de
 
 &lt;br /&gt;
 As for the use of AI as a development tool, I suspect you’ll need to remove or delete some of the tools created to aid in the development process, since nearly all of them were built with the help of AI.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: Warlord new game for Sega Master System!</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141533#141533"/>
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141533#141533</id>
-    <issued>2026-11-17T09:39:31Z</issued>
-    <modified>2026-11-17T09:39:31Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 17, 2026 9:39 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	AI generated content is not development, we have a separate forum for that. Also, many users care deeply about this and we want it to be clear.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Juno First for Sega Master System</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141532#141532"/>
-    <dc:creator>haroldoop</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>haroldoop</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141532#141532</id>
-    <issued>2026-11-17T09:34:56Z</issued>
-    <modified>2026-11-17T09:34:56Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-	Subject: v1.1.0: make it closer to the arcade.&lt;br /&gt;Posted: Tue Nov 17, 2026 9:34 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;iframe type=&quot;text/html&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/R_IQZBc-4Pk&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;b&gt;Juno First SMS — v1.1.0 Arcade Fidelity Update&lt;/b&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-The &lt;b&gt;v1.1.0&lt;/b&gt; update brings &lt;b&gt;Juno First&lt;/b&gt; significantly closer to Konami's 1983 arcade cabinet, overhauling flight physics, enemy formations, perspective rendering, visual effects, and audio—expanding the ROM to &lt;b&gt;48 KB&lt;/b&gt; ([icode]junofirst.sms[/icode]) to accommodate a dedicated music bank and deeper Z80 assembly optimizations.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;b&gt;🕹️ Arcade Gameplay &amp;amp; Visual Overhaul&lt;/b&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-* &lt;b&gt;True Momentum &amp;amp; Inertia:&lt;/b&gt; Thrust now builds gradually and your ship coasts for several seconds after releasing the controls, requiring deliberate reverse-braking to stop. Lateral steering also carries subtle momentum.
-&lt;br /&gt;
-* &lt;b&gt;24-Enemy Formations:&lt;/b&gt; Enemies now spawn in coordinated groups of &lt;b&gt;eight&lt;/b&gt; (columns, diagonals, twin columns, and snaking lines) with up to three formations active simultaneously (&lt;b&gt;24 enemies on screen&lt;/b&gt;). Individual enemies peel off to dive-bomb your ship before rejoining, while bypassed formations turn around to re-engage.
-&lt;br /&gt;
-* &lt;b&gt;True-Perspective Grid &amp;amp; Lanes:&lt;/b&gt; Reduced dot clutter by halving row frequency and adding converging dotted column lines toward the horizon, aligning enemy and projectile scaling to true perspective.
-&lt;br /&gt;
-* &lt;b&gt;Top-Center Tactical Radar:&lt;/b&gt; Added a HUD radar box displaying enemy formations ahead and immediately behind your ship, complete with markers showing the active viewport.
-&lt;br /&gt;
-* &lt;b&gt;Upgraded Shots &amp;amp; Particle Explosions:&lt;/b&gt; Laser shots now render as dashed beams. Destroying enemies triggers an 8-particle burst, while taking a hit turns the entire field into a dramatic expanding ring of particles centered on your ship.
-&lt;br /&gt;
-* &lt;b&gt;Increased Arcade Challenge:&lt;/b&gt; Enemies now fire and execute diving attacks starting right from &lt;b&gt;Wave 1&lt;/b&gt;.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;b&gt;🎵 Dual Soundtrack &amp;amp; Classical Fanfare&lt;/b&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-* &lt;b&gt;Arcade-Style Growl Soundtrack:&lt;/b&gt; The primary in-game soundtrack is now a menacing 34-second looping bass growl built from two detuned voices creeping chromatically in D minor.
-&lt;br /&gt;
-&lt;i&gt; &lt;b&gt;Bach Intro Fanfare:&lt;/b&gt; Launching a game opens with the iconic opening bars of Bach's &lt;/i&gt;Toccata in D minor*.
-&lt;br /&gt;
-* &lt;b&gt;Soundtrack Toggle:&lt;/b&gt; The original v1.0.0 extended 4-section melodic theme remains included—press &lt;b&gt;Button 2&lt;/b&gt; on the title screen to switch between the two soundtracks.
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;b&gt;⚙️ Engine Optimizations &amp;amp; Technical Details&lt;/b&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-* &lt;b&gt;Z80 Assembly Hot-Paths:&lt;/b&gt; Sprite building ([icode]build_sprites[/icode]), shot loops, and single-sprite emitters were moved into Z80 assembly to handle up to 24 perspective-scaled enemies:
-&lt;br /&gt;
-* &lt;b&gt;Normal Play:&lt;/b&gt; Runs at full 60 FPS over &lt;b&gt;99%&lt;/b&gt; of the time.
-&lt;br /&gt;
-* &lt;b&gt;Heavy Action / Waves 10–11:&lt;/b&gt; Holds &lt;b&gt;97%–98%&lt;/b&gt; speed while flying flat-out and firing continuously (dipping only during extreme congestion of 16–20+ simultaneous on-screen enemies).
-&lt;br /&gt;
-* &lt;b&gt;Zero Sprite Dropouts:&lt;/b&gt; Verified over extended late-wave runs that scanlines never exceed the Master System's 8-sprite hardware limit—enemies never vanish or flicker out.
-&lt;br /&gt;
-
-&lt;br /&gt;
-
-&lt;br /&gt;
-* &lt;b&gt;ROM &amp;amp; HUD Fixes:&lt;/b&gt; Expanded ROM footprint to &lt;b&gt;48 KB&lt;/b&gt; so audio data sits cleanly in its own dedicated bank, and fixed a HUD layout bug where high-score and wave counters overlapped their text labels.
-&lt;br /&gt;
-* &lt;b&gt;Deliverables:&lt;/b&gt; Includes [icode]junofirst.sms[/icode], [icode]junofirst-src.zip[/icode], a full [icode]README.md[/icode], and [icode]junofirst-screenshot.png[/icode], with all three automated test suites passing in headless emulation.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

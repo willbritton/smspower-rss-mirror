@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 12:00:54 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 12:10:32 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,76 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: Warlord new game for Sega Master System!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141543#141543</link>
+<pubDate>Tue, 17 Nov 2026 12:09:39 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141543#141543</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35585" target="_blank"&gt;AS_Games&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 17, 2026 12:09 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;baude wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;AS_Games: You shouldn’t make assumptions if you aren’t completely sure about what you’re saying. I say this with the best of intentions, because, honestly, I’m really looking forward to seeing more of your work.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Ichigo: Why the &amp;quot;LOL&amp;quot;? Lately, it feels like some of the forum veterans—a forum we all love so much and to which they have contributed a great deal—are being overly critical and harsh toward anything that deviates from the usual script. Not everything out there is bad; not everyone has ill intentions; and not every use of AI is a sign of laziness or a waste of time.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Yes, I know what I’m talking about because this is the reality of the present day; many people claim they don’t use AI, but they actually do. I see AI as a tool, just like any other. Without it, I believe that developing an engine from scratch in assembly which is what I’m currently doing would be an incredibly complicated and difficult task. I have great respect for all the veterans; after all, I am still a learner, and I’m very much in the process of growing and developing my skills. This game means a great deal to me it’s a dream coming true.&lt;br /&gt;
+
+</description>
+<dc:creator>AS_Games</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141543</comments>
+</item>
+<item>
+<title>Made By AI :: RE: Warlord new game for Sega Master System!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141542#141542</link>
+<pubDate>Tue, 17 Nov 2026 12:06:31 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141542#141542</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2883" target="_blank"&gt;ichigo&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 17, 2026 12:06 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;You can do better than this &amp;quot;Bomberman&amp;quot; clone and ports.
+&lt;br /&gt;
+There are many things I don't like about them, and obviously, the biggest one is that they are lazy ports/things (or mixes of several existing games).
+&lt;br /&gt;
+
+&lt;br /&gt;
+At least use the power of LLMs to make new things, FROM SCRATCH.
+&lt;br /&gt;
+With your own idea/universe.
+&lt;br /&gt;
+Not some quick thing ripping music or gfx from existing games — a completely new game.
+&lt;br /&gt;
+
+&lt;br /&gt;
+You'll certainly need to form a group, because gfx (pixel art) and music (PSG) have to be done by humans (LLMs are pretty bad at this; we're dealing with a basic 8-bit machine with heavy constraints, not a Switch or a PC).
+&lt;br /&gt;
+
+&lt;br /&gt;
+At least AS_port showed us &lt;i&gt;something new&lt;/i&gt; 👍&lt;br /&gt;
+
+</description>
+<dc:creator>ichigo</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141542</comments>
+</item>
 <item>
 <title>Made By AI :: RE: Warlord new game for Sega Master System!</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141541#141541</link>
@@ -275,22 +345,6 @@ As for the use of AI as a development tool, I suspect you’ll need to remove or
 <dc:subject>Made By AI</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141534</comments>
-</item>
-<item>
-<title>Made By AI :: RE: Warlord new game for Sega Master System!</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141533#141533</link>
-<pubDate>Tue, 17 Nov 2026 09:39:31 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141533#141533</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 17, 2026 9:39 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;AI generated content is not development, we have a separate forum for that. Also, many users care deeply about this and we want it to be clear.&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141533</comments>
 </item>
 </channel>
 </rss>

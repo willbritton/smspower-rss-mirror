@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 10:40:30 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 10:50:38 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,24 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: Warlord new game for Sega Master System!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141535#141535</link>
+<pubDate>Tue, 17 Nov 2026 10:43:48 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141535#141535</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2883" target="_blank"&gt;ichigo&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 17, 2026 10:43 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;LOL
+&lt;br /&gt;
+Almost all the tools available here were created BEFORE generative AI even existed (or before you were even born...), and I'm not even talking about the code, snippets, and docs yet.&lt;br /&gt;
+
+</description>
+<dc:creator>ichigo</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141535</comments>
+</item>
 <item>
 <title>Made By AI :: RE: Warlord new game for Sega Master System!</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141534#141534</link>
@@ -163,42 +181,6 @@ Posted: Tue Nov 17, 2026 12:33 am (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=137539#137539" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141526</comments>
-</item>
-<item>
-<title>Development :: RE: Long lost cheat codes</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141525#141525</link>
-<pubDate>Mon, 16 Nov 2026 23:53:50 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141525#141525</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35467" target="_blank"&gt;bbayles&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 11:53 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Next up was Taz-Mania for Game Gear!
-&lt;br /&gt;
-&lt;ul&gt;
-&lt;br /&gt;
-&lt;li&gt; Pause during gameplay
-&lt;br /&gt;
-&lt;li&gt; While holding 1, press Left, Left, Right, Right.
-&lt;br /&gt;
-&lt;li&gt; While holding 2, press Right, Right, Left, Left.
-&lt;br /&gt;
-&lt;li&gt; Press Start
-&lt;br /&gt;
-&lt;/ul&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-A cheat menu appears! It lets you choose which level to play.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I actually got to talk to Mac Senour, Sega's producer for this game for the Hidden Palace podcast. The interview is up on YouTube (@HiddenPalace) and on podcast indexes. He talks a lot about Taz-Mania and other Game Gear games he worked on.&lt;br /&gt;
-
-</description>
-<dc:creator>bbayles</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141153#141153" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141525</comments>
 </item>
 </channel>
 </rss>

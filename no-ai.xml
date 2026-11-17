@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 09:50:33 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 10:00:59 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,42 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: Warlord new game for Sega Master System!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141534#141534</link>
+<pubDate>Tue, 17 Nov 2026 09:57:29 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141534#141534</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35585" target="_blank"&gt;AS_Games&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 17, 2026 9:57 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;Maxim wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;AI generated content is not development, we have a separate forum for that. Also, many users care deeply about this and we want it to be clear.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Understood, in that case, feel free to move it to the appropriate location or delete it. I used AI to assist with the assembly programming for this game, which is an original, exclusive title for the Master System.
+&lt;br /&gt;
+
+&lt;br /&gt;
+As for the use of AI as a development tool, I suspect you’ll need to remove or delete some of the tools created to aid in the development process, since nearly all of them were built with the help of AI.&lt;br /&gt;
+
+</description>
+<dc:creator>AS_Games</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141534</comments>
+</item>
 <item>
 <title>Development :: RE: Warlord new game for Sega Master System!</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141533#141533</link>
@@ -163,26 +199,6 @@ I actually got to talk to Mac Senour, Sega's producer for this game for the Hidd
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141153#141153" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141525</comments>
-</item>
-<item>
-<title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141524#141524</link>
-<pubDate>Mon, 16 Nov 2026 23:32:45 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141524#141524</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27488" target="_blank"&gt;badcomputer&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 11:32 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Congratulations on your newborn!
-&lt;br /&gt;
-
-&lt;br /&gt;
-(And thank you for updating the homebrew section.)&lt;br /&gt;
-
-</description>
-<dc:creator>badcomputer</dc:creator>
-<dc:subject>Website</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141524</comments>
 </item>
 </channel>
 </rss>

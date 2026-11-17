@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 20:50:30 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 21:00:54 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -121,40 +121,6 @@ Yes, I know what I’m talking about because this is the reality of the present 
 <dc:subject>Made By AI</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141543</comments>
-</item>
-<item>
-<title>Made By AI :: RE: Warlord new game for Sega Master System!</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141542#141542</link>
-<pubDate>Tue, 17 Nov 2026 12:06:31 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141542#141542</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2883" target="_blank"&gt;ichigo&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 17, 2026 12:06 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;You can do better than this &amp;quot;Bomberman&amp;quot; clone and ports.
-&lt;br /&gt;
-There are many things I don't like about them, and obviously, the biggest one is that they are lazy ports/things (or mixes of several existing games).
-&lt;br /&gt;
-
-&lt;br /&gt;
-At least use the power of LLMs to make new things, FROM SCRATCH.
-&lt;br /&gt;
-With your own idea/universe.
-&lt;br /&gt;
-Not some quick thing ripping music or gfx from existing games — a completely new game.
-&lt;br /&gt;
-
-&lt;br /&gt;
-You'll certainly need to form a group, because gfx (pixel art) and music (PSG) have to be done by humans (LLMs are pretty bad at this; we're dealing with a basic 8-bit machine with heavy constraints, not a Switch or a PC).
-&lt;br /&gt;
-
-&lt;br /&gt;
-At least AS_port showed us &lt;i&gt;something new&lt;/i&gt; 👍&lt;br /&gt;
-
-</description>
-<dc:creator>ichigo</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141542</comments>
 </item>
 </channel>
 </rss>

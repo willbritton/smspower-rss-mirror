@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-17T20:50:30Z</modified>
+  <modified>2026-11-17T21:00:55Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141552#141552"/>
+    <dc:creator>AtariBorn</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>AtariBorn</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141552#141552</id>
+    <issued>2026-11-17T20:56:35Z</issued>
+    <modified>2026-11-17T20:56:35Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 17, 2026 8:56 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	I hope FM audio is an option. Those Mega Man tunes sounds so good with the YM2413!!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
     <link rel="alternate" type="text/html"
@@ -254,41 +271,6 @@ Ichigo: Why the &amp;quot;LOL&amp;quot;? Lately, it feels like some of the forum
 
 &lt;br /&gt;
 Yes, I know what I’m talking about because this is the reality of the present day; many people claim they don’t use AI, but they actually do. I see AI as a tool, just like any other. Without it, I believe that developing an engine from scratch in assembly which is what I’m currently doing would be an incredibly complicated and difficult task. I have great respect for all the veterans; after all, I am still a learner, and I’m very much in the process of growing and developing my skills. This game means a great deal to me it’s a dream coming true.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: Warlord new game for Sega Master System!</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141542#141542"/>
-    <dc:creator>ichigo</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>ichigo</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141542#141542</id>
-    <issued>2026-11-17T12:06:31Z</issued>
-    <modified>2026-11-17T12:06:31Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2883&quot; target=&quot;_blank&quot;&gt;ichigo&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 17, 2026 12:06 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	You can do better than this &amp;quot;Bomberman&amp;quot; clone and ports.
-&lt;br /&gt;
-There are many things I don't like about them, and obviously, the biggest one is that they are lazy ports/things (or mixes of several existing games).
-&lt;br /&gt;
-
-&lt;br /&gt;
-At least use the power of LLMs to make new things, FROM SCRATCH.
-&lt;br /&gt;
-With your own idea/universe.
-&lt;br /&gt;
-Not some quick thing ripping music or gfx from existing games — a completely new game.
-&lt;br /&gt;
-
-&lt;br /&gt;
-You'll certainly need to form a group, because gfx (pixel art) and music (PSG) have to be done by humans (LLMs are pretty bad at this; we're dealing with a basic 8-bit machine with heavy constraints, not a Switch or a PC).
-&lt;br /&gt;
-
-&lt;br /&gt;
-At least AS_port showed us &lt;i&gt;something new&lt;/i&gt; 👍&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

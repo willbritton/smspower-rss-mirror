@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 07:50:30 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 08:01:02 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,30 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141529#141529</link>
+<pubDate>Tue, 17 Nov 2026 07:53:33 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141529#141529</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=9683&quot; target=&quot;_blank&quot;&gt;baude&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 17, 2026 7:53 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Fantastic work—congratulations, and a million thanks! Projects like this one—along with a few others we’ve seen around here—are exactly what make using AI worthwhile.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I’m certainly not one to demonize AI in this field; I understand why some people do, especially given that most results end up being incomplete or disappointing. But when you really put in the effort, know what you’re doing, and approach it with care and passion... it shows—it really shows! And this is a magnificent example of that.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks again, and congratulations!&lt;br /&gt;
+
+</description>
+<dc:creator>baude</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141529</comments>
+</item>
 <item>
 <title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141528#141528</link>
@@ -208,42 +232,6 @@ Posted: Mon Nov 16, 2026 10:24 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141520</comments>
-</item>
-<item>
-<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141519#141519</link>
-<pubDate>Mon, 16 Nov 2026 22:03:50 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141519#141519</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641&quot; target=&quot;_blank&quot;&gt;toxa&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 10:03 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;i mean accepting or rejecting pull requests is a good will of the repo maintainer. especially of a free opensource project. reasons for reject may be whatever from lack of time to the personal dislike.
-&lt;br /&gt;
-
-&lt;br /&gt;
-there are a lot of strange guys on the internet
-&lt;br /&gt;
-
-&lt;br /&gt;
-some people fix one letter typo in the depth of the readme to become the contributor of the popular repo
-&lt;br /&gt;
-
-&lt;br /&gt;
-others are searching for the opensource repos which they think violate some licenses to which they have no relation of course
-&lt;br /&gt;
-
-&lt;br /&gt;
-and so on and so forth. now this AI hype...
-&lt;br /&gt;
-
-&lt;br /&gt;
-i don't think there is a way to forbid feeding opensource repos to LLMs, especially the old ones with permissive licenses. if you can't stop that, better keep your nerves safe.&lt;br /&gt;
-
-</description>
-<dc:creator>toxa</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141519</comments>
 </item>
 </channel>
 </rss>

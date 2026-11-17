@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-17T00:20:33Z</modified>
+  <modified>2026-11-17T01:50:34Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [Coding competition 2026] SG-1000 ARPABET speech synthesizer by Digital Fluff</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141526#141526"/>
+    <dc:creator>saturthirtox</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>saturthirtox</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141526#141526</id>
+    <issued>2026-11-17T00:33:17Z</issued>
+    <modified>2026-11-17T00:33:17Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35568&quot; target=&quot;_blank&quot;&gt;saturthirtox&lt;/a&gt;&lt;br /&gt;
+	Subject: wow&lt;br /&gt;Posted: Tue Nov 17, 2026 12:33 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	this is cool. REALLY cool. i remember having an idea about a conceptual sg-1000 tech demo based around sonic's schoolhouse that showcased some fake 3d on the sg-1000, im not saying you have to make that at all i completely get why you wouldn't, this just reminded me of that considering sonic's schoolhouse uses voice clips&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: Long lost cheat codes</title>
     <link rel="alternate" type="text/html"
@@ -212,51 +229,6 @@ i don't think there is a way to forbid feeding opensource repos to LLMs, especia
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35585&quot; target=&quot;_blank&quot;&gt;AS_Games&lt;/a&gt;&lt;br /&gt;
 	Subject: Warlord new game for Sega Master System!&lt;br /&gt;Posted: Mon Nov 16, 2026 9:33 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Segaaaaaaaaaaaaa!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141516#141516"/>
-    <dc:creator>josemcsantos</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>josemcsantos</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141516#141516</id>
-    <issued>2026-11-16T21:16:34Z</issued>
-    <modified>2026-11-16T21:16:34Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 16, 2026 9:16 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Hey,
-&lt;br /&gt;
-
-&lt;br /&gt;
-I haven’t released the ROM yet because I wanted to do one last playthrough from start to finish. While recording the video and taking screenshots, I realised I’d left a debug flag on, which caused a graphical glitch in the ending.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I also ran into a display issue with 50 Hz and 60 Hz modes. Some emulators, including the Genesis Plus GX core in RetroArch, were drawing sprites in the wrong place. Everything looked fine in Mesen and on real hardware.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I’m doing a final check now and plan to release the ROM and make the GitHub repo public in a couple of days.
-&lt;br /&gt;
-
-&lt;br /&gt;
-As for the graphics, The Wily Wars was the main inspiration. A lot of its artwork was too much for the Master System to handle, so I adapted the ideas I could use.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The Master System controller doesn’t have a Start button, so I mapped Start to the Pause button on the console. That’s awkward to reach during gameplay, so Button 1 also handles things like starting the game, entering stages, and confirming menu selections. Button 2 exits the password screen that appears after the “Get Weapon” screen.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The weapon menu was the tricky part. You open it by pressing Buttons 1 and 2 together. That still makes Mega Man jump, but the game cancels the shot when the menu opens so you don’t waste weapon energy. The shortcut also works with Time Stopper and while charging Heat Man’s weapon.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks for the feedback!&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

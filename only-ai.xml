@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 00:20:32 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 01:50:33 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -87,50 +87,6 @@ Posted: Mon Nov 16, 2026 9:35 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141518</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141516#141516</link>
-<pubDate>Mon, 16 Nov 2026 21:16:34 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141516#141516</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578" target="_blank"&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 9:16 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Hey,
-&lt;br /&gt;
-
-&lt;br /&gt;
-I haven’t released the ROM yet because I wanted to do one last playthrough from start to finish. While recording the video and taking screenshots, I realised I’d left a debug flag on, which caused a graphical glitch in the ending.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I also ran into a display issue with 50 Hz and 60 Hz modes. Some emulators, including the Genesis Plus GX core in RetroArch, were drawing sprites in the wrong place. Everything looked fine in Mesen and on real hardware.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I’m doing a final check now and plan to release the ROM and make the GitHub repo public in a couple of days.
-&lt;br /&gt;
-
-&lt;br /&gt;
-As for the graphics, The Wily Wars was the main inspiration. A lot of its artwork was too much for the Master System to handle, so I adapted the ideas I could use.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The Master System controller doesn’t have a Start button, so I mapped Start to the Pause button on the console. That’s awkward to reach during gameplay, so Button 1 also handles things like starting the game, entering stages, and confirming menu selections. Button 2 exits the password screen that appears after the “Get Weapon” screen.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The weapon menu was the tricky part. You open it by pressing Buttons 1 and 2 together. That still makes Mega Man jump, but the game cancels the shot when the menu opens so you don’t waste weapon energy. The shortcut also works with Time Stopper and while charging Heat Man’s weapon.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks for the feedback!&lt;br /&gt;
-
-</description>
-<dc:creator>josemcsantos</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141516</comments>
 </item>
 </channel>
 </rss>

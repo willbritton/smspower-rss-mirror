@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-17T19:10:32Z</modified>
+  <modified>2026-11-17T19:20:31Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141551#141551" />
+    <dc:creator>cireza</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>cireza</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141551#141551</id>
+    <issued>2026-11-17T19:15:51Z</issued>
+    <modified>2026-11-17T19:15:51Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=25359" target="_blank"&gt;cireza&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 17, 2026 7:15 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	No more demos of WIP games thanks to AI. At any moment someone takes the demo, has AI absorb/reverse engineer all the code, produces a clone game using your engine and assets, and then claims you copied his game. Already happens on Steam.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141550#141550" />

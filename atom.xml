@@ -8,7 +8,44 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-17T11:50:30Z</modified>
+  <modified>2026-11-17T12:00:55Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: Warlord new game for Sega Master System!</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141541#141541"/>
+    <dc:creator>haroldoop</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>haroldoop</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141541#141541</id>
+    <issued>2026-11-17T11:59:22Z</issued>
+    <modified>2026-11-17T11:59:22Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 17, 2026 11:59 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;baude wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;ichigo wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;I'm much less hostile to AI than some of my peers ;)
+&lt;br /&gt;
+
+&lt;br /&gt;
+It can do some really great things, BUT we still have to point out that you need to prompt/steer LLMs very well to get the best out of them (and therefore be technical/know what you're talking about, because AI isn't actually 'magical').
+&lt;br /&gt;
+
+&lt;br /&gt;
+So far, I haven't seen anything extraordinary.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Haven’t you noticed anything extraordinary—whether here on this forum or elsewhere?
+&lt;br /&gt;
+
+&lt;br /&gt;
+In my view, Bomberman S and Megaman II, for instance, are on an extraordinary level. You can clearly see the work, effort, and a solid grasp of what an AI can—and should—be capable of doing.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Yes, those games are fantastic!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: Warlord new game for Sega Master System!</title>
     <link rel="alternate" type="text/html"
@@ -272,27 +309,6 @@ The &lt;b&gt;v1.1.0&lt;/b&gt; update brings &lt;b&gt;Juno First&lt;/b&gt; signif
 * &lt;b&gt;ROM &amp;amp; HUD Fixes:&lt;/b&gt; Expanded ROM footprint to &lt;b&gt;48 KB&lt;/b&gt; so audio data sits cleanly in its own dedicated bank, and fixed a HUD layout bug where high-score and wave counters overlapped their text labels.
 &lt;br /&gt;
 * &lt;b&gt;Deliverables:&lt;/b&gt; Includes [icode]junofirst.sms[/icode], [icode]junofirst-src.zip[/icode], a full [icode]README.md[/icode], and [icode]junofirst-screenshot.png[/icode], with all three automated test suites passing in headless emulation.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: Warlord new game for Sega Master System!</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141531#141531"/>
-    <dc:creator>AS_Games</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>AS_Games</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141531#141531</id>
-    <issued>2026-11-17T09:03:36Z</issued>
-    <modified>2026-11-17T09:03:36Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35585&quot; target=&quot;_blank&quot;&gt;AS_Games&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 17, 2026 9:03 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Maxim wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Was this made with AI?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Created by me and a designer, two people leading the project,but why?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

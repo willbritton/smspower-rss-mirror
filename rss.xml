@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 23:50:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 00:00:55 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,42 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: Long lost cheat codes</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141525#141525</link>
+<pubDate>Mon, 16 Nov 2026 23:53:50 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141525#141525</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35467&quot; target=&quot;_blank&quot;&gt;bbayles&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 16, 2026 11:53 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Next up was Taz-Mania for Game Gear!
+&lt;br /&gt;
+&lt;ul&gt;
+&lt;br /&gt;
+&lt;li&gt; Pause during gameplay
+&lt;br /&gt;
+&lt;li&gt; While holding 1, press Left, Left, Right, Right.
+&lt;br /&gt;
+&lt;li&gt; While holding 2, press Right, Right, Left, Left.
+&lt;br /&gt;
+&lt;li&gt; Press Start
+&lt;br /&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+A cheat menu appears! It lets you choose which level to play.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I actually got to talk to Mac Senour, Sega's producer for this game for the Hidden Palace podcast. The interview is up on YouTube (@HiddenPalace) and on podcast indexes. He talks a lot about Taz-Mania and other Game Gear games he worked on.&lt;br /&gt;
+
+</description>
+<dc:creator>bbayles</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141153#141153" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141525</comments>
+</item>
 <item>
 <title>Website :: RE: Homebrew projects still missing from the Homebrew page</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141524#141524</link>
@@ -220,22 +256,6 @@ Thanks for the feedback!&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141516</comments>
-</item>
-<item>
-<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141515#141515</link>
-<pubDate>Mon, 16 Nov 2026 20:53:15 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141515#141515</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 16, 2026 8:53 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;This is a good example of the range of opinions some people have here, from “why do you care” through to “I feel personally violated”. People throughout the spectrum need to be mindful of this range.&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141515</comments>
 </item>
 </channel>
 </rss>

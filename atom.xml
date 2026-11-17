@@ -8,7 +8,28 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-17T06:50:32Z</modified>
+  <modified>2026-11-17T07:00:56Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141528#141528"/>
+    <dc:creator>PatrickBateman</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>PatrickBateman</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141528#141528</id>
+    <issued>2026-11-17T06:58:57Z</issued>
+    <modified>2026-11-17T06:58:57Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413&quot; target=&quot;_blank&quot;&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 17, 2026 6:58 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	hah, that's pretty cool - I'd never seen the thing before myself, but there was a Barcode Battler thing in Japan I've read about..
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Barcode_Battler&quot; target=&quot;_blank&quot;&gt;https://en.wikipedia.org/wiki/Barcode_Battler&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
     <link rel="alternate" type="text/html"
@@ -224,23 +245,6 @@ and so on and so forth. now this AI hype...
 
 &lt;br /&gt;
 i don't think there is a way to forbid feeding opensource repos to LLMs, especially the old ones with permissive licenses. if you can't stop that, better keep your nerves safe.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141518#141518"/>
-    <dc:creator>AtariBorn</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>AtariBorn</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141518#141518</id>
-    <issued>2026-11-16T21:35:20Z</issued>
-    <modified>2026-11-16T21:35:20Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 16, 2026 9:35 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Why not just use &amp;quot;down&amp;quot; or &amp;quot;up&amp;quot; on the second controller and implement Sega Genesis/Mega Drive &amp;quot;start&amp;quot; button for pause?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 21:00:54 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 21:10:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,22 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: OBAKE - New SG-1000 game released</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141553#141553</link>
+<pubDate>Tue, 17 Nov 2026 21:01:36 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141553#141553</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35576" target="_blank"&gt;SeBe&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 17, 2026 9:01 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Congratulations on the Homebrew listing and the final update. A new SG-1000 game that also covers MSX and the other TMS9918 machines is a real treat. Thanks for putting up the free demo with the Halloween round — that's a nice way for people to try it.&lt;br /&gt;
+
+</description>
+<dc:creator>SeBe</dc:creator>
+<dc:subject>Main</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141255#141255" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141553</comments>
+</item>
 <item>
 <title>Made By AI :: RE: Warlord new game for Sega Master System!</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141548#141548</link>
@@ -85,42 +101,6 @@ This all seems very performative. For a game that means a great deal to you, you
 <dc:subject>Made By AI</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141546</comments>
-</item>
-<item>
-<title>Made By AI :: RE: Warlord new game for Sega Master System!</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141543#141543</link>
-<pubDate>Tue, 17 Nov 2026 12:09:39 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141543#141543</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35585" target="_blank"&gt;AS_Games&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 17, 2026 12:09 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;baude wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;AS_Games: You shouldn’t make assumptions if you aren’t completely sure about what you’re saying. I say this with the best of intentions, because, honestly, I’m really looking forward to seeing more of your work.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Ichigo: Why the &amp;quot;LOL&amp;quot;? Lately, it feels like some of the forum veterans—a forum we all love so much and to which they have contributed a great deal—are being overly critical and harsh toward anything that deviates from the usual script. Not everything out there is bad; not everyone has ill intentions; and not every use of AI is a sign of laziness or a waste of time.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Yes, I know what I’m talking about because this is the reality of the present day; many people claim they don’t use AI, but they actually do. I see AI as a tool, just like any other. Without it, I believe that developing an engine from scratch in assembly which is what I’m currently doing would be an incredibly complicated and difficult task. I have great respect for all the veterans; after all, I am still a learner, and I’m very much in the process of growing and developing my skills. This game means a great deal to me it’s a dream coming true.&lt;br /&gt;
-
-</description>
-<dc:creator>AS_Games</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141543</comments>
 </item>
 </channel>
 </rss>

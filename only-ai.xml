@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
 <channel>
 <title>SMS Power!</title>
 <link>https://www.smspower.org:443/forums/</link>
@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 15:30:46 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 15:40:29 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,5 +16,113 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141545#141545</link>
+<pubDate>Tue, 17 Nov 2026 15:34:42 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141545#141545</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=31751" target="_blank"&gt;vebxenon&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 17, 2026 3:34 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;Kagesan wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;A similar thing happened to me recently, when someone grabbed the ROM of my Bruce Lee remake, and ran it through Claude to have it slop-ported to Amiga and Atari ST. Last I checked, he was still asking for donations for all of &amp;quot;his&amp;quot; hard work on itch.io.
+&lt;br /&gt;
+When I called him out for it, he finally bothered to contact me, and we made some small amends, but even after that, when he already knew well how I feel about it, he kept messing with my stuff, producing &amp;quot;enhanced&amp;quot; AGA and STE versions with horribly mangled variations of my artwork.
+&lt;br /&gt;
+    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+My support. I rejected those &amp;quot;remakes&amp;quot; because being slopware, but the real history is far worse. AI is destroying hobbies, homebrew and developper communities.&lt;br /&gt;
+
+</description>
+<dc:creator>vebxenon</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141545</comments>
+</item>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141544#141544</link>
+<pubDate>Tue, 17 Nov 2026 15:32:52 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141544#141544</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=31751" target="_blank"&gt;vebxenon&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 17, 2026 3:32 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class="attribution"&gt;segarule wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Well. like i hate hipocrisy i will leave some sinceres questions for i know if everything is running ethnic. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;blockquote&gt;  &lt;div class="attribution"&gt;Quote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+	var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));	SXBB[id] = new _SXBB(id);	SXBB[id].T['select'] = 'Select';	SXBB[id].T['expand'] = '[+]';	SXBB[id].T['contract'] = '[-]';	SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+      SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;A similar thing happened to me recently, when someone grabbed the ROM of my Bruce Lee remake, and ran it through Claude to have it slop-ported to Amiga and Atari ST. Last I checked, he was still asking for donations for all of &amp;quot;his&amp;quot; hard work on itch.io.
+&lt;br /&gt;
+When I called him out for it, he finally bothered to contact me, and we made some small amends, but even after that, when he already knew well how I feel about it, he kept messing with my stuff, producing &amp;quot;enhanced&amp;quot; AGA and STE versions with horribly mangled variations of my artwork.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The thing is that when we talked, he genuinely didn't give the impression of having ill intentions, and I absolutely believe him. There just seem to be people who can't imagine why someone wouldn't be okay with having his stuff fed to an LLM. It's freely available on the internet, and that's all the justification needed, apparently.
+&lt;br /&gt;
+The guy who did this to your work probably thinks he's doing you a favor.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I really don't know where this will all end. The mutual respect between developers isn't something that applies to people always on the lookout for new stuff to feed to their LLM of choice, it seems, and the consequences are that a lot of communitues just find out that they have never been communities to begin with, rather two groups of people with little overlap, who just happened to gather around the same camp fire.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Personally, I hope Ed Zitron is right and the unsustainable financing of the AI bubble makes it crash rather sooner than later, removing the models from the hands of non-professional users. I just hope that the amount of digital asbestos that gets produced up to that point will not have killed what used to be the comfy niches of the internet entirely.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+The code of Bruce Lee was created for Atari system that use 6502 processor. So obvious that my question no will make sense here. But the game have 2 authors:
+&lt;br /&gt;
+Programmed by Ron J. Fortier
+&lt;br /&gt;
+Graphic Art by Kelly Day
+&lt;br /&gt;
+The SMS version mention Ron in title screen but not Kelly Day. The art cannot be created in SMS by Kelly Day but the art base yes. The characters, tilemap, map design. Kagesan you contacted the original author to use game design and art? Yes or no?    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+I feel this reply as insulting.&lt;br /&gt;
+
+</description>
+<dc:creator>vebxenon</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141544</comments>
+</item>
 </channel>
 </rss>

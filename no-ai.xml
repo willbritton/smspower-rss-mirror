@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 17:50:31 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 18:01:01 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -71,22 +71,6 @@ I would be keen to see Strider 2 or Chakan next, if either of those is on your l
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141153#141153" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141557</comments>
-</item>
-<item>
-<title>Main :: RE: OBAKE - New SG-1000 game released</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141553#141553</link>
-<pubDate>Tue, 17 Nov 2026 21:01:36 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141553#141553</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35576" target="_blank"&gt;SeBe&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 17, 2026 9:01 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Congratulations on the Homebrew listing and the final update. A new SG-1000 game that also covers MSX and the other TMS9918 machines is a real treat. Thanks for putting up the free demo with the Halloween round — that's a nice way for people to try it.&lt;br /&gt;
-
-</description>
-<dc:creator>SeBe</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141255#141255" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141553</comments>
 </item>
 </channel>
 </rss>

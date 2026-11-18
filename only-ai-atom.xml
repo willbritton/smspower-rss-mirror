@@ -4,7 +4,27 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-18T19:01:00Z</modified>
+  <modified>2026-11-18T19:10:31Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Warlord new game for Sega Master System!</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141566#141566" />
+    <dc:creator>Kagesan</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>Kagesan</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141566#141566</id>
+    <issued>2026-11-18T19:07:01Z</issued>
+    <modified>2026-11-18T19:07:01Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7411" target="_blank"&gt;Kagesan&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 18, 2026 7:07 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Well, your first post was just one screenshot snd no description. I think you can't really expect anyone to form an opinion based on such sparse information. And asking a new member for clarification regarding AI use doesn't seem unteasonable to me.
+&lt;br /&gt;
+
+&lt;br /&gt;
+That said, the two screenshots do look interesting, and I'm looking forward to seeing more of your game.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141565#141565" />
@@ -275,44 +295,4 @@ Leveraging the Sega Master System's physical &lt;b&gt;PAUSE&lt;/b&gt; button (ty
 Enabled by default in the setup menu,  &lt;b&gt;AUTO END ROUND&lt;/b&gt; streamlines multiplayer matches involving CPU opponents. The moment every human-controlled tank is destroyed, the round terminates instantly skipping the remaining CPU-vs-CPU skirmishes. The round summary displays &lt;i&gt;&amp;quot;NO HUMANS LEFT STANDING&amp;quot;&lt;/i&gt; and immediately advances players to the shop (this feature remains dormant in pure CPU or pure human matches).&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141555#141555" />
-    <dc:creator>ArugulaZ</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>ArugulaZ</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141555#141555</id>
-    <issued>2026-11-18T00:03:47Z</issued>
-    <modified>2026-11-18T00:03:47Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=278" target="_blank"&gt;ArugulaZ&lt;/a&gt;&lt;br /&gt;
-	Subject: And this was the toned down version of this post!&lt;br /&gt;Posted: Wed Nov 18, 2026 12:03 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Clearly, Segarule doesn't.
-&lt;br /&gt;
-
-&lt;br /&gt;
-There's a difference between using artwork from a forty year old game, from an artist who was already paid for their work, and parasitizing recent code from starving artists who either are doing it out of enthusiasm or for the slim hope of payment. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-The person who made the Master System version of Bruce Lee made no claims that the original artwork was theirs. It's a well known, and very old, game. It can safely be deduced from this information that the artwork is not theirs. Using that as an excuse to lift recent code from others without their consent is frankly kind of craven and pathetic. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-&amp;quot;Well, I can steal any code I want from you, because YOU made a Pac-Man clone!&amp;quot; Yeah, him and just about everyone else on the planet. Why does taking inspiration from a forty year old source give you carte blanche to steal whatever you want from hard-working coders? Try applying that same attitude to a Disney movie, typically inspired by literature in the public domain, and see where it gets you. The only difference is that they have well-paid lawyers, and the average basement coder can't even afford to live above ground.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Personally, I try to keep my software as original as possible. Even the artwork is built from scratch, because I want them to be MY games, not someone else's work. And they will &lt;i&gt;remain&lt;/i&gt; my games. I'll put this as clearly as possible so there's no misunderstanding: you are prohibited from using JessCREATIONS games, code, and audiovisuals to create derivative works with AI, or to train a large language model. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-If you use my code to teach &lt;i&gt;yourself&lt;/i&gt; coding, or study the artwork to teach yourself how to make sprites and tiles, I have no issue with that. I'm happy to offer that as a resource to other humans, as 8-bit game design is a fading art; one I'd like to keep alive for as long as possible. But if you're just going to chuck all my work into the Regurgitron and have a computer poop out something in fifteen minutes, no, you don't get to do that. What makes you think anyone would be okay with that?
-&lt;br /&gt;
-
-&lt;br /&gt;
-It's bad enough that AI is taking peoples' work without their permission. It's worse that AI is turning internet users into shameless, entitled parasites. It's 2026, for God's sake! BASIC and object-oriented programming has made the game design process easier than it's ever been, and you &lt;i&gt;still&lt;/i&gt; want a shortcut? How spoon-fed do you want this process to be?&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

@@ -8,7 +8,44 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-18T12:10:31Z</modified>
+  <modified>2026-11-18T12:20:34Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141560#141560"/>
+    <dc:creator>josemcsantos</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>josemcsantos</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141560#141560</id>
+    <issued>2026-11-18T12:10:51Z</issued>
+    <modified>2026-11-18T12:10:51Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 18, 2026 12:10 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Hey,
+&lt;br /&gt;
+
+&lt;br /&gt;
+This is my first release! I’ve done my best to test it from start to finish, so hopefully everything runs smoothly.
+&lt;br /&gt;
+
+&lt;br /&gt;
+For the sound, I wrote a script to convert the audio for FM support too. I’m no musician, though, so there’s probably room for improvement.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I’ve also tried adding support for the Start button on a Mega Drive controller to open the weapon menu.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Hope you enjoy the port!
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: OBAKE - New SG-1000 game released</title>
     <link rel="alternate" type="text/html"
@@ -322,23 +359,6 @@ I feel this reply as insulting. No respect from an AI-bro. No respect for the co
 I dont consider insulting if the people stop to reflect the next question:
 &lt;br /&gt;
 Some shooting games was developed after consult Power Strike 2 code.for undeerstand game logic, max elements in screen,  Some mention, merit was given to Jemini Hirono and others responsibles with a game logic?&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141549#141549"/>
-    <dc:creator>SavitarSvit</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>SavitarSvit</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141549#141549</id>
-    <issued>2026-11-17T18:06:32Z</issued>
-    <modified>2026-11-17T18:06:32Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11301&quot; target=&quot;_blank&quot;&gt;SavitarSvit&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 17, 2026 6:06 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;b&gt;josemcsantos&lt;/b&gt;, since you already have experience and developments in this game, have you considered making a port of the first Megaman?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 18:30:46 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 18:40:31 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141565#141565</link>
+<pubDate>Wed, 18 Nov 2026 18:35:37 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141565#141565</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 18, 2026 6:35 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Well, unfortunately this beauty game dont work with my real hardware. Master System tectoy, PAL-M with chinese everdrive. What appear? Artifacts. I can see that game is functional. The music play well, i can select the stage (although i cannot see what happening). I can move Megaman but the screen is plenty garbage. My 6 button MD controller dont work with start button.&lt;br /&gt;
+
+</description>
+<dc:creator>segarule</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141565</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] Warlord new game for Sega Master System!</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141564#141564</link>
@@ -318,34 +334,6 @@ It's bad enough that AI is taking peoples' work without their permission. It's w
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141555</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Warlord new game for Sega Master System!</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141554#141554</link>
-<pubDate>Tue, 17 Nov 2026 21:50:58 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141554#141554</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35585&quot; target=&quot;_blank&quot;&gt;AS_Games&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 17, 2026 9:50 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;xfixium wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;AS_Games wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
-&lt;br /&gt;
-Yes, I know what I’m talking about because this is the reality of the present day; many people claim they don’t use AI, but they actually do. I see AI as a tool, just like any other. Without it, I believe that developing an engine from scratch in assembly which is what I’m currently doing would be an incredibly complicated and difficult task. I have great respect for all the veterans; after all, I am still a learner, and I’m very much in the process of growing and developing my skills. This game means a great deal to me it’s a dream coming true.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-This all seems very performative. For a game that means a great deal to you, you provide no information about it.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-
-&lt;br /&gt;
-We started showing it to the world yesterday; we’re currently creating promotional material for it, and yes, a cartridge will be produced a 1-megabit ROM cartridge. I’ve attached a video featuring a boss.&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>AS_Games</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141554</comments>
 </item>
 </channel>
 </rss>

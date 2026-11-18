@@ -8,7 +8,45 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-18T14:30:52Z</modified>
+  <modified>2026-11-18T14:40:30Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141562#141562"/>
+    <dc:creator>haroldoop</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>haroldoop</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141562#141562</id>
+    <issued>2026-11-18T14:39:45Z</issued>
+    <modified>2026-11-18T14:39:45Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 18, 2026 2:39 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;segarule wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;This kind of game is interesting for me! Congratulations!    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks! I'm glad that you like it.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141561#141561"/>
+    <dc:creator>segarule</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>segarule</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141561#141561</id>
+    <issued>2026-11-18T14:38:18Z</issued>
+    <modified>2026-11-18T14:38:18Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 18, 2026 2:38 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	This kind of game is interesting for me! Congratulations!&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
     <link rel="alternate" type="text/html"
@@ -289,76 +327,6 @@ We started showing it to the world yesterday; we’re currently creating promoti
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
 	Posted: Tue Nov 17, 2026 8:56 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	I hope FM audio is an option. Those Mega Man tunes sound so good with the YM2413!!&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141551#141551"/>
-    <dc:creator>cireza</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>cireza</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141551#141551</id>
-    <issued>2026-11-17T19:15:51Z</issued>
-    <modified>2026-11-17T19:15:51Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=25359&quot; target=&quot;_blank&quot;&gt;cireza&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 17, 2026 7:15 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	No more demos of WIP games thanks to AI. At any moment someone takes the demo, has AI absorb/reverse engineer all the code, produces a clone game using your engine and assets, and then claims you copied his game. Already happens on Steam.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141550#141550"/>
-    <dc:creator>segarule</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>segarule</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141550#141550</id>
-    <issued>2026-11-17T18:07:21Z</issued>
-    <modified>2026-11-17T18:07:21Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 17, 2026 6:07 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;vebxenon wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;segarule wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Well. like i hate hipocrisy i will leave some sinceres questions for i know if everything is running ethnic. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Quote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--	var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));	SXBB[id] = new _SXBB(id);	SXBB[id].T['select'] = 'Select';	SXBB[id].T['expand'] = '[+]';	SXBB[id].T['contract'] = '[-]';	SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--      SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;A similar thing happened to me recently, when someone grabbed the ROM of my Bruce Lee remake, and ran it through Claude to have it slop-ported to Amiga and Atari ST. Last I checked, he was still asking for donations for all of &amp;quot;his&amp;quot; hard work on itch.io.
-&lt;br /&gt;
-When I called him out for it, he finally bothered to contact me, and we made some small amends, but even after that, when he already knew well how I feel about it, he kept messing with my stuff, producing &amp;quot;enhanced&amp;quot; AGA and STE versions with horribly mangled variations of my artwork.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The thing is that when we talked, he genuinely didn't give the impression of having ill intentions, and I absolutely believe him. There just seem to be people who can't imagine why someone wouldn't be okay with having his stuff fed to an LLM. It's freely available on the internet, and that's all the justification needed, apparently.
-&lt;br /&gt;
-The guy who did this to your work probably thinks he's doing you a favor.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I really don't know where this will all end. The mutual respect between developers isn't something that applies to people always on the lookout for new stuff to feed to their LLM of choice, it seems, and the consequences are that a lot of communitues just find out that they have never been communities to begin with, rather two groups of people with little overlap, who just happened to gather around the same camp fire.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Personally, I hope Ed Zitron is right and the unsustainable financing of the AI bubble makes it crash rather sooner than later, removing the models from the hands of non-professional users. I just hope that the amount of digital asbestos that gets produced up to that point will not have killed what used to be the comfy niches of the internet entirely.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-The code of Bruce Lee was created for Atari system that use 6502 processor. So obvious that my question no will make sense here. But the game have 2 authors:
-&lt;br /&gt;
-Programmed by Ron J. Fortier
-&lt;br /&gt;
-Graphic Art by Kelly Day
-&lt;br /&gt;
-The SMS version mention Ron in title screen but not Kelly Day. The art cannot be created in SMS by Kelly Day but the art base yes. The characters, tilemap, map design. Kagesan you contacted the original author to use game design and art? Yes or no?    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I feel this reply as insulting. No respect from an AI-bro. No respect for the community.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-I dont consider insulting if the people stop to reflect the next question:
-&lt;br /&gt;
-Some shooting games was developed after consult Power Strike 2 code.for undeerstand game logic, max elements in screen,  Some mention, merit was given to Jemini Hirono and others responsibles with a game logic?&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

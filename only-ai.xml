@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 09:50:30 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 10:00:54 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,100 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141558#141558</link>
+<pubDate>Wed, 18 Nov 2026 09:52:48 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141558#141558</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 18, 2026 9:52 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;iframe type="text/html" width="640" height="360" src="https://www.youtube.com/embed/o7xXZ5AzmNw" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Scorched SMS v1.1.0 Release Overview
+&lt;br /&gt;
+======================================
+&lt;br /&gt;
+
+&lt;br /&gt;
+The &lt;b&gt;v1.1.0&lt;/b&gt; update for &lt;b&gt;Scorched SMS&lt;/b&gt; introduces major quality-of-life enhancements, dynamic environmental skyboxes, and instant round-management tools, while successfully passing all nine automated test suites.
+&lt;br /&gt;
+
+&lt;br /&gt;
+🌟 Major New Features in v1.1.0
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;1. Dynamic Sky Backgrounds&lt;/b&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+A new setup option lets players choose from &lt;b&gt;six distinct sky styles&lt;/b&gt; to set the mood for each match (the title screen permanently displays the classic &lt;i&gt;Shaded&lt;/i&gt; gradient):
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   &lt;b&gt;Random&lt;/b&gt;  &lt;i&gt;(Default)&lt;/i&gt;: Cycles a different sky style automatically each round.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   &lt;b&gt;Plain&lt;/b&gt;: Solid classic blue sky.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   &lt;b&gt;Shaded&lt;/b&gt;: The familiar blue vertical gradient.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   &lt;b&gt;Stars&lt;/b&gt;: A nighttime black sky dotted with twinkling stars.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   &lt;b&gt;Stormy&lt;/b&gt;: Dark, overcast clouds accompanied by periodic lightning flashes, visual lightning bolts, and atmospheric thunder (purely aesthetic/scenery; deals no damage).
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   &lt;b&gt;Sunset&lt;/b&gt;: A vibrant atmospheric fade from purple to orange.
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;2. In-Game System Menu&lt;/b&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Leveraging the Sega Master System's physical &lt;b&gt;PAUSE&lt;/b&gt; button (typically mapped to Enter or Start in emulators), players can now summon the system menu at any point during a round including mid-turn, during CPU thinking time, or while a shell is actively in flight. Options include:
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   &lt;b&gt;Resume&lt;/b&gt;: Dismiss the menu and return to action.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   &lt;b&gt;End Round&lt;/b&gt;: Conclude the current round immediately with no winner declared.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   &lt;b&gt;Mass Kill&lt;/b&gt;: Detonate every remaining tank on the screen simultaneously.
+&lt;br /&gt;
+
+&lt;br /&gt;
+-   &lt;i&gt;Note: The system menu triggers the round summary and moves directly to the shop, and is inactive outside of active rounds.&lt;/i&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;b&gt;3. Automatic Round Ending&lt;/b&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Enabled by default in the setup menu,  &lt;b&gt;AUTO END ROUND&lt;/b&gt; streamlines multiplayer matches involving CPU opponents. The moment every human-controlled tank is destroyed, the round terminates instantly skipping the remaining CPU-vs-CPU skirmishes. The round summary displays &lt;i&gt;&amp;quot;NO HUMANS LEFT STANDING&amp;quot;&lt;/i&gt; and immediately advances players to the shop (this feature remains dormant in pure CPU or pure human matches).&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141499#141499" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141558</comments>
+</item>
 <item>
 <title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141555#141555</link>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 06:40:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 06:50:32 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,46 +17,6 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
-<item>
-<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141556#141556</link>
-<pubDate>Wed, 18 Nov 2026 00:06:24 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141556#141556</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=278&quot; target=&quot;_blank&quot;&gt;ArugulaZ&lt;/a&gt;&lt;br /&gt;
-Subject: And this was the toned down version of this post!&lt;br /&gt;
-Posted: Wed Nov 18, 2026 12:06 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;Clearly, Segarule doesn't.
-&lt;br /&gt;
-
-&lt;br /&gt;
-There's a difference between using artwork from a forty year old game, from an artist who was already paid for their work, and parasitizing recent code from starving artists who either are doing it out of enthusiasm or for the slim hope of payment. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-The person who made the Master System version of Bruce Lee made no claims that the original artwork was theirs. It's a well known, and very old, game. It can safely be deduced from this information that the artwork is not theirs. Using that as an excuse to lift recent code from others without their consent is frankly kind of craven and pathetic. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-&amp;quot;Well, I can steal any code I want from you, because YOU made a Pac-Man clone!&amp;quot; Yeah, him and just about everyone else on the planet. Why does taking inspiration from a forty year old source give you carte blanche to steal whatever you want from hard-working coders? Try applying that same attitude to a Disney movie, typically inspired by literature in the public domain, and see where it gets you. The only difference is that they have well-paid lawyers, and the average basement coder can't even afford to live above ground.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Personally, I try to keep my software as original as possible. Even the artwork is built from scratch, because I want them to be MY games, not someone else's work. And they will &lt;i&gt;remain&lt;/i&gt; my games. I'll put this as clearly as possible so there's no misunderstanding: you are prohibited from using JessCREATIONS games, code, and audiovisuals to create derivative works with AI, or to train a large language model. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-If you use my code to teach &lt;i&gt;yourself&lt;/i&gt; coding, or study the artwork to teach yourself how to make sprites and tiles, I have no issue with that. I'm happy to offer that as a resource to other humans, as 8-bit game design is a fading art; one I'd like to keep alive for as long as possible. But if you're just going to chuck all my work into the Regurgitron and have a computer poop out something in fifteen minutes, no, you don't get to do that. What makes you think anyone would be okay with that?
-&lt;br /&gt;
-
-&lt;br /&gt;
-It's bad enough that AI is taking peoples' work without their permission. It's worse that AI is turning internet users into shameless, entitled parasites. It's 2026, for God's sake! BASIC and object-oriented programming has made the game design process easier than it's ever been, and you &lt;i&gt;still&lt;/i&gt; want a shortcut? How spoon-fed do you want this process to be?&lt;br /&gt;
-
-</description>
-<dc:creator>ArugulaZ</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141556</comments>
-</item>
 <item>
 <title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141555#141555</link>
@@ -276,6 +236,28 @@ I think it is reasonable to start ignoring entries that are AI Slop or clearly m
 <dc:subject>Website</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=130549#130549" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141547</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Warlord new game for Sega Master System!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141546#141546</link>
+<pubDate>Tue, 17 Nov 2026 16:28:52 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141546#141546</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=13282&quot; target=&quot;_blank&quot;&gt;xfixium&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 17, 2026 4:28 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;AS_Games wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;
+&lt;br /&gt;
+Yes, I know what I’m talking about because this is the reality of the present day; many people claim they don’t use AI, but they actually do. I see AI as a tool, just like any other. Without it, I believe that developing an engine from scratch in assembly which is what I’m currently doing would be an incredibly complicated and difficult task. I have great respect for all the veterans; after all, I am still a learner, and I’m very much in the process of growing and developing my skills. This game means a great deal to me it’s a dream coming true.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+This all seems very performative. For a game that means a great deal to you, you provide no information about it.&lt;br /&gt;
+
+</description>
+<dc:creator>xfixium</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141546</comments>
 </item>
 </channel>
 </rss>

@@ -4,7 +4,31 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-18T07:10:32Z</modified>
+  <modified>2026-11-18T07:20:34Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Long lost cheat codes</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141557#141557" />
+    <dc:creator>elizacommunities</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>elizacommunities</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141557#141557</id>
+    <issued>2026-11-18T07:20:28Z</issued>
+    <modified>2026-11-18T07:20:28Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35557" target="_blank"&gt;elizacommunities&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 18, 2026 7:20 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Thanks for sharing these — the Taz-Mania one is a lovely find. A proper cheat menu hidden behind a pause-and-button sequence is exactly the sort of thing that would have been passed around by word of mouth back in the day, and having the exact steps written down makes it genuinely usable rather than just a curiosity.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The Chicago Syndicate details stood out for me too. Explaining not just the code itself but where to enter it — Training mode, Hyde Park, holding the buttons for 256 frames — and then the Valentine's Day condition for invincibility, really shows how much careful checking went into this. That context is what turns a code list into something people can actually try.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I would be keen to see Strider 2 or Chakan next, if either of those is on your list. Thanks again for taking the time to document all of this so clearly.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: OBAKE - New SG-1000 game released</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141553#141553" />
@@ -41,4 +65,4 @@
 I think it is reasonable to start ignoring entries that are AI Slop or clearly mostly AI made, unless they are of exceptional nature. Entries with small amount of AI may be added with the tag.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

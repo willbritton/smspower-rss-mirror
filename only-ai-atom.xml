@@ -4,7 +4,37 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-19T09:20:33Z</modified>
+  <modified>2026-11-19T09:30:54Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141574#141574" />
+    <dc:creator>segarule</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>segarule</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141574#141574</id>
+    <issued>2026-11-19T09:29:53Z</issued>
+    <modified>2026-11-19T09:29:53Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689" target="_blank"&gt;segarule&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 19, 2026 9:29 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class="attribution"&gt;toxa wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;segarule, you see, if you think someone violates some license, that's your problem, the rights owner may sue them, not you. you can complain to the rights owner, may not, that's up to you, but bothering people here not help with your troubles, sorry.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+ What about you eat a sushi tonight? Sorry[/quote]&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141573#141573" />
@@ -235,40 +265,6 @@ That said, the two screenshots do look interesting, and I'm looking forward to s
 	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689" target="_blank"&gt;segarule&lt;/a&gt;&lt;br /&gt;
 	Posted: Wed Nov 18, 2026 6:35 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	Well, unfortunately this beauty game dont work with my real hardware. Master System tectoy, PAL-M with chinese everdrive. What appear? Artifacts. I can see that game is functional. The music play well, i can select the stage (although i cannot see what happening). I can move Megaman but the screen is plenty garbage. My 6 button MD controller dont work with start button.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Warlord new game for Sega Master System!</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141564#141564" />
-    <dc:creator>AS_Games</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>AS_Games</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141564#141564</id>
-    <issued>2026-11-18T17:51:26Z</issued>
-    <modified>2026-11-18T17:51:26Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35585" target="_blank"&gt;AS_Games&lt;/a&gt;&lt;br /&gt;
-	Posted: Wed Nov 18, 2026 5:51 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;Maxim wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;Let’s reserve judgment on the game until we can play it. There’s a range of opinions here and the only wrong attitude is to say someone else’s is wrong. LLMs are a tool, but that doesn’t make using them or not using them a superior position. But for the foreseeable future, we are segregating homebrew/ports where any content was generated by an LLM from those without, to help people easily filter on that axis.    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-
-&lt;br /&gt;
-&amp;quot;What struck me here is that not a single person praised the initiative or the effort behind it—not even one line of feedback or appreciation for the game's artwork. Despite the graphics being hand-crafted by a Brazilian artist, the very first reaction was to ask if it was AI. It's a real shame, but we're living in a different era now, and things are going to change. I will finish this game. I'm Brazilian, and soon I'll be releasing it to the world.&amp;quot;&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

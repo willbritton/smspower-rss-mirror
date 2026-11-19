@@ -4,7 +4,65 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-19T08:40:32Z</modified>
+  <modified>2026-11-19T08:50:31Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141572#141572" />
+    <dc:creator>LackofTrack</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>LackofTrack</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141572#141572</id>
+    <issued>2026-11-19T08:44:26Z</issued>
+    <modified>2026-11-19T08:44:26Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=33777" target="_blank"&gt;LackofTrack&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 19, 2026 8:44 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;blockquote&gt;  &lt;div class="attribution"&gt;xfixium wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
+&lt;!--
+        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        SXBB[id].writeDiv();      
+//--&gt;
+    &lt;/script&gt;Yes, this also produces garbage on my Master System 1 NTSC using an Everdrive. I looked at your screenshots a little more closely, are you running this in 256 x 224 resolution? If so, that may be your problem. There are compatibility issues with certain systems. It won't run on a power base convertor either, I believe.    &lt;script type="text/javascript"&gt;      
+&lt;!--
+        document.write('&lt;/div&gt;');      
+//--&gt;
+    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+That's seems to be the problem. Emulicious reports it running at 256x224 and based on the model number his SMS1 is one of the few that have the 315-5246 VDP.
+&lt;br /&gt;
+
+&lt;br /&gt;
+About the game, I don't mean to be mean, but I think you should have waited a bit more to release this. The game is very wasteful of resources. ALL objects it seems are streamed into VRAM as they appear (or as they perform a specific action) which often causes slowdown. You can't just stream 10+ tiles into VRAM on any given frame. MM2 already suffers from lag in places. The player sprites fill up most of the sprite area in VRAM. Etc, etc. It's just not how a game like this should be ported. I assume AI handled all the &amp;quot;how do I adapt NES sprite &amp;amp; CHR-ROM management to SMS&amp;quot; questions?
+&lt;br /&gt;
+
+&lt;br /&gt;
+Look at how commercial games do it. Usually only player sprites are streamed. The amount is determined by how big the sprite is (for Mega Man it would be at most 10, could probably be reduced to 9 if you merged the face sprite). For enemies, since MM2 has that scroll transition, you could just stream all enemies in the given area then. That's what the NES version does!
+&lt;br /&gt;
+Key Idea: preload as much data for a given scene as possible! Trust me, players won't notice if the game takes an extra half second to load/scroll an area.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I'm not an complete AI hater as it can have practical use (ignoring the societal/economical/environmental issues it presents), but if you are going to use it, monitor EVERY decision it makes. I've done personal test ports with it and, without proper management, it will produce the most convoluted way of doing things. If it &amp;quot;works&amp;quot; it's good enough for the AI, but will produce non-ideal results such as what is seen with this port (Only 224p support (and unaware of the fact that most players cannot use this resolution?), All objects unnecessarily streaming into VRAM, etc). Do not solely (or even majority) rely on AI. For every decision, ask yourself &amp;quot;What's the best way to do this?&amp;quot;, &amp;quot;How have other games/developers done this?&amp;quot;, &amp;quot;How does the original game do this and WHY?&amp;quot;. These forums, other retrodev forums, and Google are your best friends in this regard.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The YM2413 support also isn't that great. It very much sounds like you ran the NES music through a convertor. I guess it fits considering that's what official games did most of the time lol.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Once again, I don't say all of this to be mean. I just think port can be much better as it current stands. You could probably achieve close to Wily Wars level GFX and music if you implemented at least a few of the ideas I suggested. I wish you well on the port.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Edit: Looks like xfixium said my thoughts right before in much more approachable manner lol&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141571#141571" />
@@ -209,38 +267,6 @@ Bruce Lee, if the authors die today have until 2076 copyright reserved. So dont 
 So in everything, do to others what you would have them do to you,(Mt 7,12). Now i can use art, code, music from commercial games but i dont want that others use my code, art or music. 
 &lt;br /&gt;
 To be clear, i think that is unfair use art, code etc without give the merit to artist (And i consider Kagesan the best artist in SMS graphics). But people created a AI as unamed beast and forgot that can to be using copyrighted stuff without give merit. About lazyness i can consider that use Sprite resource stuff is a lazyness method but i dont judge nothing and nobody. Everyone should act according to their own conscience, and I won't discuss this matter any further here.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141562#141562" />
-    <dc:creator>haroldoop</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>haroldoop</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141562#141562</id>
-    <issued>2026-11-18T14:39:45Z</issued>
-    <modified>2026-11-18T14:39:45Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-	Posted: Wed Nov 18, 2026 2:39 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class="attribution"&gt;segarule wrote    &lt;script type="text/javascript" src="./templates/select_expand_bbcodes.js"&gt;&lt;/script&gt;    &lt;script type="text/javascript"&gt;    
-&lt;!--
-        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;  &lt;div class="body"&gt;    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        SXBB[id].writeDiv();      
-//--&gt;
-    &lt;/script&gt;This kind of game is interesting for me! Congratulations!    &lt;script type="text/javascript"&gt;      
-&lt;!--
-        document.write('&lt;/div&gt;');      
-//--&gt;
-    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Thanks! I'm glad that you like it.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 17:20:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 17:30:46 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Website :: RE: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141595#141595</link>
+<pubDate>Thu, 19 Nov 2026 17:28:53 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141595#141595</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Nov 19, 2026 5:28 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>sverx</dc:creator>
+<dc:subject>Website</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141594#141594" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141595</comments>
+</item>
 <item>
 <title>Website :: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141594#141594</link>
@@ -160,22 +176,6 @@ Posted: Thu Nov 19, 2026 1:35 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141490#141490" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141586</comments>
-</item>
-<item>
-<title>Competitions :: RE: Competitions 2027 - 30th Anniversary!</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141585#141585</link>
-<pubDate>Thu, 19 Nov 2026 13:34:48 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141585#141585</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17668&quot; target=&quot;_blank&quot;&gt;armixer24&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Nov 19, 2026 1:34 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>armixer24</dc:creator>
-<dc:subject>Competitions</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=138755#138755" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141585</comments>
 </item>
 </channel>
 </rss>

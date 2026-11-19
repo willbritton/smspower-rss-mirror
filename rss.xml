@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 22:50:38 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 23:00:55 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Website :: RE: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141603#141603</link>
+<pubDate>Thu, 19 Nov 2026 22:55:34 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141603#141603</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=115&quot; target=&quot;_blank&quot;&gt;Tom&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Nov 19, 2026 10:55 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>Tom</dc:creator>
+<dc:subject>Website</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141594#141594" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141603</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141602#141602</link>
@@ -160,22 +176,6 @@ Posted: Thu Nov 19, 2026 5:14 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Website</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141594#141594" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141594</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141593#141593</link>
-<pubDate>Thu, 19 Nov 2026 16:10:43 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141593#141593</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Nov 19, 2026 4:10 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>josemcsantos</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141593</comments>
 </item>
 </channel>
 </rss>

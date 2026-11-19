@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 12:50:36 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 13:00:56 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,54 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141581#141581</link>
+<pubDate>Thu, 19 Nov 2026 12:59:08 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141581#141581</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Nov 19, 2026 12:59 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>josemcsantos</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141581</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141580#141580</link>
+<pubDate>Thu, 19 Nov 2026 12:56:28 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141580#141580</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11301&quot; target=&quot;_blank&quot;&gt;SavitarSvit&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Nov 19, 2026 12:56 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>SavitarSvit</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140905#140905" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141580</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Juno First for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141579#141579</link>
+<pubDate>Thu, 19 Nov 2026 12:52:51 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141579#141579</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11301&quot; target=&quot;_blank&quot;&gt;SavitarSvit&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Nov 19, 2026 12:52 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>SavitarSvit</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141579</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141578#141578</link>
@@ -128,54 +176,6 @@ Posted: Thu Nov 19, 2026 5:43 am (GMT 0)&lt;br /&gt;
 <dc:subject>Music</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141569#141569" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141569</comments>
-</item>
-<item>
-<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141568#141568</link>
-<pubDate>Wed, 18 Nov 2026 21:47:56 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141568#141568</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641&quot; target=&quot;_blank&quot;&gt;toxa&lt;/a&gt;&lt;br /&gt;
-
-Posted: Wed Nov 18, 2026 9:47 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>toxa</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141568</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141567#141567</link>
-<pubDate>Wed, 18 Nov 2026 19:27:04 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141567#141567</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
-
-Posted: Wed Nov 18, 2026 7:27 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>josemcsantos</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141567</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Warlord new game for Sega Master System!</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141566#141566</link>
-<pubDate>Wed, 18 Nov 2026 19:07:01 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141566#141566</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7411&quot; target=&quot;_blank&quot;&gt;Kagesan&lt;/a&gt;&lt;br /&gt;
-
-Posted: Wed Nov 18, 2026 7:07 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>Kagesan</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141566</comments>
 </item>
 </channel>
 </rss>

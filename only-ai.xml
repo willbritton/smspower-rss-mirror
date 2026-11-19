@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 15:10:32 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 15:50:31 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,22 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] Juno First for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141592#141592</link>
+<pubDate>Thu, 19 Nov 2026 15:50:18 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141592#141592</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35284" target="_blank"&gt;Gudako12&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Nov 19, 2026 3:50 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>Gudako12</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141592</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141591#141591</link>
@@ -95,22 +111,6 @@ Posted: Thu Nov 19, 2026 1:27 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141490#141490" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141584</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141582#141582</link>
-<pubDate>Thu, 19 Nov 2026 13:08:14 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141582#141582</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689" target="_blank"&gt;segarule&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Nov 19, 2026 1:08 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>segarule</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141582</comments>
 </item>
 </channel>
 </rss>

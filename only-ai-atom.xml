@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-19T09:00:56Z</modified>
+  <modified>2026-11-19T09:10:38Z</modified>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141572#141572" />
@@ -38,7 +38,7 @@ That's seems to be the problem. Emulicious reports it running at 256x224 and bas
 &lt;br /&gt;
 
 &lt;br /&gt;
-About the game, I don't mean to be mean, but I think you should have waited a bit more to release this. The game is very wasteful of resources. ALL objects it seems are streamed into VRAM as they appear (or as they perform a specific action) which often causes slowdown. You can't just stream 10+ tiles into VRAM on any given frame. MM2 already suffers from lag in places. The player sprites fill up most of the sprite area in VRAM. Etc, etc. It's just not how a game like this should be ported. I assume AI handled all the &amp;quot;how do I adapt NES sprite &amp;amp; CHR-ROM management to SMS&amp;quot; questions?
+About the game, I don't mean to be mean, but I think you should have waited a bit more to release this. The game is very wasteful of resources. ALL objects it seems are streamed into VRAM as they appear (or as they perform a specific action) which often causes slowdown. You can't just stream 10+ tiles into VRAM on any given frame. MM2 already suffers from lag in places. The player sprites fill up most of the sprite area in VRAM. Graphical glitches in the Continue screen and Weapon Get screen. Etc, etc. It's just not how a game like this should be ported. I assume AI handled all the &amp;quot;how do I adapt NES sprite &amp;amp; CHR-ROM management to SMS&amp;quot; questions?
 &lt;br /&gt;
 
 &lt;br /&gt;

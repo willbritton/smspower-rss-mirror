@@ -4,7 +4,39 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-19T08:20:32Z</modified>
+  <modified>2026-11-19T08:30:45Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141571#141571" />
+    <dc:creator>xfixium</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>xfixium</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141571#141571</id>
+    <issued>2026-11-19T08:29:08Z</issued>
+    <modified>2026-11-19T08:29:08Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=13282" target="_blank"&gt;xfixium&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 19, 2026 8:29 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&amp;quot;As for the graphics, The Wily Wars was the main inspiration. A lot of its artwork was too much for the Master System to handle, so I adapted the ideas I could use.&amp;quot;
+&lt;br /&gt;
+
+&lt;br /&gt;
+I don't agree with this. This sounds like something someone would say that doesn't know the capabilities of the console. I could agree with the parallaxing effects, but for color, I think what you've created looks more nes, than SMS. 
+&lt;br /&gt;
+
+&lt;br /&gt;
+For instance, the stage select could easily copy Wily Wars. But we're left with something that doesn't give a lot of color depth in this conversion. For giggles, I inspected your game in Emulicious. I see you are using 50ish sprites to cover the colors that the background can't handle alone, plus the cursor. This does not need to be. You can set what palette each tile points to. So you don't have to worry about overflowing the sprite buffer, and you use less graphic resources.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I've attached an example of the stage select that keeps pretty much all the color depth of the Wily Wars version. The background and sprite palette entries at the bottom, also the Wily Wars styled cursor.
+&lt;br /&gt;
+
+&lt;br /&gt;
+If we're going for a straight conversion, that is one thing. But if we're going for a version that shows what the SMS can really do, I feel this is not showcasing the SMS's true potential. Maybe onboard an artist, maybe a music composer as well.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141570#141570" />
@@ -209,22 +241,6 @@ To be clear, i think that is unfair use art, code etc without give the merit to 
 
 &lt;br /&gt;
 Thanks! I'm glad that you like it.&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141561#141561" />
-    <dc:creator>segarule</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>segarule</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141561#141561</id>
-    <issued>2026-11-18T14:38:18Z</issued>
-    <modified>2026-11-18T14:38:18Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689" target="_blank"&gt;segarule&lt;/a&gt;&lt;br /&gt;
-	Posted: Wed Nov 18, 2026 2:38 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	This kind of game is interesting for me! Congratulations!&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

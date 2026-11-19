@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 08:50:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 09:00:56 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -48,7 +48,7 @@ About the game, I don't mean to be mean, but I think you should have waited a bi
 &lt;br /&gt;
 
 &lt;br /&gt;
-Look at how commercial games do it. Usually only player sprites are streamed. The amount is determined by how big the sprite is (for Mega Man it would be at most 10, could probably be reduced to 9 if you merged the face sprite). For enemies, since MM2 has that scroll transition, you could just stream all enemies in the given area then. That's what the NES version does!
+Look at how commercial games do it. Usually only player sprites are actively streamed. The amount is determined by how big the sprite is (for Mega Man it would be at most 10, could probably be reduced to 9 if you merged the face sprite). For enemies, since MM2 has that scroll transition, you could just stream all enemies in the given area then. That's what the NES version does!
 &lt;br /&gt;
 Key Idea: preload as much data for a given scene as possible! Trust me, players won't notice if the game takes an extra half second to load/scroll an area.
 &lt;br /&gt;

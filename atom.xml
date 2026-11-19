@@ -8,7 +8,7 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-19T08:50:31Z</modified>
+  <modified>2026-11-19T09:00:56Z</modified>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
     <link rel="alternate" type="text/html"
@@ -35,7 +35,7 @@ About the game, I don't mean to be mean, but I think you should have waited a bi
 &lt;br /&gt;
 
 &lt;br /&gt;
-Look at how commercial games do it. Usually only player sprites are streamed. The amount is determined by how big the sprite is (for Mega Man it would be at most 10, could probably be reduced to 9 if you merged the face sprite). For enemies, since MM2 has that scroll transition, you could just stream all enemies in the given area then. That's what the NES version does!
+Look at how commercial games do it. Usually only player sprites are actively streamed. The amount is determined by how big the sprite is (for Mega Man it would be at most 10, could probably be reduced to 9 if you merged the face sprite). For enemies, since MM2 has that scroll transition, you could just stream all enemies in the given area then. That's what the NES version does!
 &lt;br /&gt;
 Key Idea: preload as much data for a given scene as possible! Trust me, players won't notice if the game takes an extra half second to load/scroll an area.
 &lt;br /&gt;

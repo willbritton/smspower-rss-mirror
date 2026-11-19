@@ -8,7 +8,52 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-19T09:10:38Z</modified>
+  <modified>2026-11-19T09:20:33Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141573#141573"/>
+    <dc:creator>josemcsantos</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>josemcsantos</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141573#141573</id>
+    <issued>2026-11-19T09:16:41Z</issued>
+    <modified>2026-11-19T09:16:41Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 19, 2026 9:16 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	Thanks for the feedback! That’s exactly why I released the ROM here.
+&lt;br /&gt;
+
+&lt;br /&gt;
+As for the process, I started by porting the game directly from the NES. I eventually got stuck and started using AI to help with the conversion tools, as the hardware differences became too much for me to handle on my own.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I can actually build the ROM with either the original graphics or the updated ones. For the updated graphics, I took inspiration from Wily Wars, but I was aiming for an enhanced NES look rather than a demake of the Mega Drive version. Maybe that wasn’t the best call 😅
+&lt;br /&gt;
+
+&lt;br /&gt;
+I’m already fixing the vertical resolution, and I’ll need your help testing it. Somehow, all four of my Master System consoles support the taller resolution. They’re all PAL models, apart from one French SECAM model. The emulators I tested handled it fine too, so I never ran into this issue during testing.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I’ll also take another look at the graphics and work out what I can improve.
+&lt;br /&gt;
+
+&lt;br /&gt;
+As I mentioned, music is by far my weakest point. If anyone has better arrangements they’d like to contribute, I’d love to include them.
+&lt;br /&gt;
+
+&lt;br /&gt;
+If anyone wants to help out, I’m happy to add collaborators to the GitHub repo too.
+&lt;br /&gt;
+
+&lt;br /&gt;
+This community is great. Thanks for all the help, and don’t worry, I’m taking the feedback in the spirit it’s intended! I really want to make this port as good as I can.&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
     <link rel="alternate" type="text/html"
@@ -234,37 +279,6 @@ That said, the two screenshots do look interesting, and I'm looking forward to s
 
 &lt;br /&gt;
 &amp;quot;What struck me here is that not a single person praised the initiative or the effort behind it—not even one line of feedback or appreciation for the game's artwork. Despite the graphics being hand-crafted by a Brazilian artist, the very first reaction was to ask if it was AI. It's a real shame, but we're living in a different era now, and things are going to change. I will finish this game. I'm Brazilian, and soon I'll be releasing it to the world.&amp;quot;&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141563#141563"/>
-    <dc:creator>segarule</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>segarule</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141563#141563</id>
-    <issued>2026-11-18T17:39:34Z</issued>
-    <modified>2026-11-18T17:39:34Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
-	Posted: Wed Nov 18, 2026 5:39 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Quote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--	var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));	SXBB[id] = new _SXBB(id);	SXBB[id].T['select'] = 'Select';	SXBB[id].T['expand'] = '[+]';	SXBB[id].T['contract'] = '[-]';	SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--      SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;There's a difference between using artwork from a forty year old game, from an artist who was already paid for their work, and parasitizing recent code from starving artists who either are doing it out of enthusiasm or for the slim hope of payment.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-ArugulaZ estabilished a criteria: A game need have 40 year old and to be paid so can be used for others artists. Any other member could use criteria. smspower criteria used is if my friend used a code is legal or can used it BUT if the friend or enemy of my friend used code, art or music he is a perv. Clearly something is missing in these complains. Copyrights dont cease accord ArugulaZ, segarule, Bock and others. 
-&lt;br /&gt;
-The Summary of Berne guarantee not only the copyrights like after the author´s death.
-&lt;br /&gt;
-(c) As to the duration of protection, the general rule is that protection must be granted until the expiration of the&lt;b&gt; 50th year after the author's death&lt;/b&gt;. There are, however, exceptions to this general rule. In the case of anonymous or pseudonymous works, the term of protection expires 50 years after the work has been lawfully made available to the public, except if the pseudonym leaves no doubt as to the author's identity or if the author discloses his or her identity during that period; in the latter case, the general rule applies. In the case of audiovisual (cinematographic) works, the minimum term of protection is 50 years after the making available of the work to the public (&amp;quot;release&amp;quot;) or – failing such an event – from the creation of the work. In the case of works of applied art and photographic works, the minimum term is 25 years from the creation of the work
-&lt;br /&gt;
-&lt;a href=&quot;https://www.wipo.int/en/web/treaties/ip/berne/summary_berne&quot; target=&quot;_blank&quot;&gt;https://www.wipo.int/en/web/treaties/ip/berne/summary_berne&lt;/a&gt;
-&lt;br /&gt;
-Bruce Lee, if the authors die today have until 2076 copyright reserved. So dont matter what i, you, Bock or anybody says. But we think that i cool see ports of games since that it are of others authors or NOT KNOWN. There is the hipocrisy. Everything is valid since that i dont know the author. 
-&lt;br /&gt;
-So in everything, do to others what you would have them do to you,(Mt 7,12). Now i can use art, code, music from commercial games but i dont want that others use my code, art or music. 
-&lt;br /&gt;
-To be clear, i think that is unfair use art, code etc without give the merit to artist (And i consider Kagesan the best artist in SMS graphics). But people created a AI as unamed beast and forgot that can to be using copyrighted stuff without give merit. About lazyness i can consider that use Sprite resource stuff is a lazyness method but i dont judge nothing and nobody. Everyone should act according to their own conscience, and I won't discuss this matter any further here.&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

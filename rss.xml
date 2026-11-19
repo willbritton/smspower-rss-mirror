@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<channel>
+<title>SMS Power!</title>
+<link>https://www.smspower.org:443/forums/</link>
+<description>Sega 8-bit Discussion</description>
+<managingEditor>noreply@smspower.org</managingEditor>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>RSS Feed 2.2.3</generator>
+<language>en</language>
+<lastBuildDate>Thu, 19 Nov 2026 01:20:31 GMT</lastBuildDate>
+<image>
+	<url>http://www.smspower.org/images/smspower.gif</url>
+	<title>SMS Power!</title>
+	<link>https://www.smspower.org:443/forums/</link>
+	<width>122</width>
+	<height>56</height>
+</image>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141568#141568</link>
+<pubDate>Wed, 18 Nov 2026 21:47:56 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141568#141568</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641&quot; target=&quot;_blank&quot;&gt;toxa&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 18, 2026 9:47 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;segarule, you see, if you think someone violates some license, that's your problem, the rights owner may sue them, not you. you can complain to the rights owner, may not, that's up to you, but bothering people here not help with your troubles, sorry.&lt;br /&gt;
+
+</description>
+<dc:creator>toxa</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141568</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141567#141567</link>
+<pubDate>Wed, 18 Nov 2026 19:27:04 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141567#141567</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 18, 2026 7:27 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Hey,
+&lt;br /&gt;
+
+&lt;br /&gt;
+Can you send me some screenshots so I can take a look?
+&lt;br /&gt;
+I'm also using a Chinese EverDrive on a base Master System 3005-13-B.
+&lt;br /&gt;
+
+&lt;br /&gt;
+The controller I'm using is a plug-and-play 8BitDo M30.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I only implemented the start button for the weapon menu, but I didn't really test with a 6-button controller since I don't have one. Button 1 can be used for everything else, and the press-1-and-2 trick for the weapon is also there for anyone who doesn't have a Mega Drive controller.&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>josemcsantos</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141567</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Warlord new game for Sega Master System!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141566#141566</link>
+<pubDate>Wed, 18 Nov 2026 19:07:01 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141566#141566</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7411&quot; target=&quot;_blank&quot;&gt;Kagesan&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 18, 2026 7:07 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Well, your first post was just one screenshot snd no description. I think you can't really expect anyone to form an opinion based on such sparse information. And asking a new member for clarification regarding AI use doesn't seem unteasonable to me.
+&lt;br /&gt;
+
+&lt;br /&gt;
+That said, the two screenshots do look interesting, and I'm looking forward to seeing more of your game.&lt;br /&gt;
+
+</description>
+<dc:creator>Kagesan</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141566</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141565#141565</link>
+<pubDate>Wed, 18 Nov 2026 18:35:37 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141565#141565</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 18, 2026 6:35 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Well, unfortunately this beauty game dont work with my real hardware. Master System tectoy, PAL-M with chinese everdrive. What appear? Artifacts. I can see that game is functional. The music play well, i can select the stage (although i cannot see what happening). I can move Megaman but the screen is plenty garbage. My 6 button MD controller dont work with start button.&lt;br /&gt;
+
+</description>
+<dc:creator>segarule</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141565</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Warlord new game for Sega Master System!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141564#141564</link>
+<pubDate>Wed, 18 Nov 2026 17:51:26 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141564#141564</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35585&quot; target=&quot;_blank&quot;&gt;AS_Games&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 18, 2026 5:51 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Maxim wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Let’s reserve judgment on the game until we can play it. There’s a range of opinions here and the only wrong attitude is to say someone else’s is wrong. LLMs are a tool, but that doesn’t make using them or not using them a superior position. But for the foreseeable future, we are segregating homebrew/ports where any content was generated by an LLM from those without, to help people easily filter on that axis.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+
+&lt;br /&gt;
+&amp;quot;What struck me here is that not a single person praised the initiative or the effort behind it—not even one line of feedback or appreciation for the game's artwork. Despite the graphics being hand-crafted by a Brazilian artist, the very first reaction was to ask if it was AI. It's a real shame, but we're living in a different era now, and things are going to change. I will finish this game. I'm Brazilian, and soon I'll be releasing it to the world.&amp;quot;&lt;br /&gt;
+
+</description>
+<dc:creator>AS_Games</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141517#141517" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141564</comments>
+</item>
+<item>
+<title>Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141563#141563</link>
+<pubDate>Wed, 18 Nov 2026 17:39:34 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141563#141563</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 18, 2026 5:39 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;Quote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--	var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));	SXBB[id] = new _SXBB(id);	SXBB[id].T['select'] = 'Select';	SXBB[id].T['expand'] = '[+]';	SXBB[id].T['contract'] = '[-]';	SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--      SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;There's a difference between using artwork from a forty year old game, from an artist who was already paid for their work, and parasitizing recent code from starving artists who either are doing it out of enthusiasm or for the slim hope of payment.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+ArugulaZ estabilished a criteria: A game need have 40 year old and to be paid so can be used for others artists. Any other member could use criteria. smspower criteria used is if my friend used a code is legal or can used it BUT if the friend or enemy of my friend used code, art or music he is a perv. Clearly something is missing in these complains. Copyrights dont cease accord ArugulaZ, segarule, Bock and others. 
+&lt;br /&gt;
+The Summary of Berne guarantee not only the copyrights like after the author´s death.
+&lt;br /&gt;
+(c) As to the duration of protection, the general rule is that protection must be granted until the expiration of the&lt;b&gt; 50th year after the author's death&lt;/b&gt;. There are, however, exceptions to this general rule. In the case of anonymous or pseudonymous works, the term of protection expires 50 years after the work has been lawfully made available to the public, except if the pseudonym leaves no doubt as to the author's identity or if the author discloses his or her identity during that period; in the latter case, the general rule applies. In the case of audiovisual (cinematographic) works, the minimum term of protection is 50 years after the making available of the work to the public (&amp;quot;release&amp;quot;) or – failing such an event – from the creation of the work. In the case of works of applied art and photographic works, the minimum term is 25 years from the creation of the work
+&lt;br /&gt;
+&lt;a href=&quot;https://www.wipo.int/en/web/treaties/ip/berne/summary_berne&quot; target=&quot;_blank&quot;&gt;https://www.wipo.int/en/web/treaties/ip/berne/summary_berne&lt;/a&gt;
+&lt;br /&gt;
+Bruce Lee, if the authors die today have until 2076 copyright reserved. So dont matter what i, you, Bock or anybody says. But we think that i cool see ports of games since that it are of others authors or NOT KNOWN. There is the hipocrisy. Everything is valid since that i dont know the author. 
+&lt;br /&gt;
+So in everything, do to others what you would have them do to you,(Mt 7,12). Now i can use art, code, music from commercial games but i dont want that others use my code, art or music. 
+&lt;br /&gt;
+To be clear, i think that is unfair use art, code etc without give the merit to artist (And i consider Kagesan the best artist in SMS graphics). But people created a AI as unamed beast and forgot that can to be using copyrighted stuff without give merit. About lazyness i can consider that use Sprite resource stuff is a lazyness method but i dont judge nothing and nobody. Everyone should act according to their own conscience, and I won't discuss this matter any further here.&lt;br /&gt;
+
+</description>
+<dc:creator>segarule</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141466#141466" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141563</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141562#141562</link>
+<pubDate>Wed, 18 Nov 2026 14:39:45 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141562#141562</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 18, 2026 2:39 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;segarule wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;This kind of game is interesting for me! Congratulations!    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks! I'm glad that you like it.&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141499#141499" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141562</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Scorched SMS: an artillery game for the Sega Master System, inspired by Scorched Earth.</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141561#141561</link>
+<pubDate>Wed, 18 Nov 2026 14:38:18 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141561#141561</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 18, 2026 2:38 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;This kind of game is interesting for me! Congratulations!&lt;br /&gt;
+
+</description>
+<dc:creator>segarule</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141499#141499" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141561</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141560#141560</link>
+<pubDate>Wed, 18 Nov 2026 12:10:51 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141560#141560</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 18, 2026 12:10 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;Hey,
+&lt;br /&gt;
+
+&lt;br /&gt;
+This is my first release! I’ve done my best to test it from start to finish, so hopefully everything runs smoothly.
+&lt;br /&gt;
+
+&lt;br /&gt;
+For the sound, I wrote a script to convert the audio for FM support too. I’m no musician, though, so there’s probably room for improvement.
+&lt;br /&gt;
+
+&lt;br /&gt;
+I’ve also tried adding support for the Start button on a Mega Drive controller to open the weapon menu.
+&lt;br /&gt;
+
+&lt;br /&gt;
+Hope you enjoy the port!
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thanks!&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>josemcsantos</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141560</comments>
+</item>
+<item>
+<title>Main :: RE: OBAKE - New SG-1000 game released</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141559#141559</link>
+<pubDate>Wed, 18 Nov 2026 11:42:13 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141559#141559</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35527&quot; target=&quot;_blank&quot;&gt;Andrs&lt;/a&gt;&lt;br /&gt;
+
+Posted: Wed Nov 18, 2026 11:42 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;SeBe wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Congratulations on the Homebrew listing and the final update. A new SG-1000 game that also covers MSX and the other TMS9918 machines is a real treat. Thanks for putting up the free demo with the Halloween round — that's a nice way for people to try it.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Thank you for your support!&lt;br /&gt;
+
+</description>
+<dc:creator>Andrs</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141255#141255" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141559</comments>
+</item>
+</channel>
+</rss>
+

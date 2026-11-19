@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-19T16:10:37Z</modified>
+  <modified>2026-11-19T16:20:31Z</modified>
   <entry>
     <title mode="escaped">Competitions :: RE: Competitions 2027 - 30th Anniversary!</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141588#141588" />
@@ -53,20 +53,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Competitions :: RE: Competitions 2027 - 30th Anniversary!</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141583#141583" />
-    <dc:creator>segarule</dc:creator>
-    <dc:subject>Competitions</dc:subject>
-    <author>
-		<name>segarule</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141583#141583</id>
-    <issued>2026-11-19T13:16:30Z</issued>
-    <modified>2026-11-19T13:16:30Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689" target="_blank"&gt;segarule&lt;/a&gt;&lt;br /&gt;
-	Posted: Thu Nov 19, 2026 1:16 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

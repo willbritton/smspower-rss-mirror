@@ -8,24 +8,22 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-19T09:40:32Z</modified>
+  <modified>2026-11-19T11:50:31Z</modified>
   <entry>
     <title mode="escaped">Development :: RE: [AI] Someone ran my homebrew through an LLM</title>
     <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141574#141574"/>
-    <dc:creator>segarule</dc:creator>
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141575#141575"/>
+    <dc:creator>Maxim</dc:creator>
     <dc:subject>Development</dc:subject>
     <author>
-		<name>segarule</name>
+		<name>Maxim</name>
     </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141574#141574</id>
-    <issued>2026-11-19T09:29:53Z</issued>
-    <modified>2026-11-19T09:29:53Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
-	Posted: Thu Nov 19, 2026 9:29 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;toxa wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;segarule, you see, if you think someone violates some license, that's your problem, the rights owner may sue them, not you. you can complain to the rights owner, may not, that's up to you, but bothering people here not help with your troubles, sorry.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
- What about you eat a sushi tonight? Sorry[/quote]&lt;/span&gt;&lt;br /&gt;
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141575#141575</id>
+    <issued>2026-11-19T09:45:23Z</issued>
+    <modified>2026-11-19T09:45:23Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 19, 2026 9:45 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>
@@ -42,35 +40,7 @@
     <modified>2026-11-19T09:16:41Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
 	Posted: Thu Nov 19, 2026 9:16 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Thanks for the feedback! That’s exactly why I released the ROM here.
-&lt;br /&gt;
-
-&lt;br /&gt;
-As for the process, I started by porting the game directly from the NES. I eventually got stuck and started using AI to help with the conversion tools, as the hardware differences became too much for me to handle on my own.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I can actually build the ROM with either the original graphics or the updated ones. For the updated graphics, I took inspiration from Wily Wars, but I was aiming for an enhanced NES look rather than a demake of the Mega Drive version. Maybe that wasn’t the best call 😅
-&lt;br /&gt;
-
-&lt;br /&gt;
-I’m already fixing the vertical resolution, and I’ll need your help testing it. Somehow, all four of my Master System consoles support the taller resolution. They’re all PAL models, apart from one French SECAM model. The emulators I tested handled it fine too, so I never ran into this issue during testing.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I’ll also take another look at the graphics and work out what I can improve.
-&lt;br /&gt;
-
-&lt;br /&gt;
-As I mentioned, music is by far my weakest point. If anyone has better arrangements they’d like to contribute, I’d love to include them.
-&lt;br /&gt;
-
-&lt;br /&gt;
-If anyone wants to help out, I’m happy to add collaborators to the GitHub repo too.
-&lt;br /&gt;
-
-&lt;br /&gt;
-This community is great. Thanks for all the help, and don’t worry, I’m taking the feedback in the spirit it’s intended! I really want to make this port as good as I can.&lt;/span&gt;&lt;br /&gt;
+	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>
@@ -87,37 +57,7 @@ This community is great. Thanks for all the help, and don’t worry, I’m takin
     <modified>2026-11-19T08:44:26Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=33777&quot; target=&quot;_blank&quot;&gt;LackofTrack&lt;/a&gt;&lt;br /&gt;
 	Posted: Thu Nov 19, 2026 8:44 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;blockquote&gt;  &lt;div class=&quot;attribution&quot;&gt;xfixium wrote    &lt;script type=&quot;text/javascript&quot; src=&quot;./templates/select_expand_bbcodes.js&quot;&gt;&lt;/script&gt;    &lt;script type=&quot;text/javascript&quot;&gt;    &lt;!--        var id = 'SXBB' + (1000 + Math.floor(Math.random() * 5000));        SXBB[id] = new _SXBB(id);        SXBB[id].T['select'] = 'Select';        SXBB[id].T['expand'] = '[+]';        SXBB[id].T['contract'] = '[-]';        SXBB[id].writeCmd();    //--&gt;    &lt;/script&gt;  &lt;/div&gt;  &lt;div class=&quot;body&quot;&gt;    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        SXBB[id].writeDiv();      //--&gt;    &lt;/script&gt;Yes, this also produces garbage on my Master System 1 NTSC using an Everdrive. I looked at your screenshots a little more closely, are you running this in 256 x 224 resolution? If so, that may be your problem. There are compatibility issues with certain systems. It won't run on a power base convertor either, I believe.    &lt;script type=&quot;text/javascript&quot;&gt;      &lt;!--        document.write('&lt;/div&gt;');      //--&gt;    &lt;/script&gt;  &lt;/div&gt;&lt;/blockquote&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-That's seems to be the problem. Emulicious reports it running at 256x224 and based on the model number his SMS1 is one of the few that have the 315-5246 VDP.
-&lt;br /&gt;
-
-&lt;br /&gt;
-About the game, I don't mean to be mean, but I think you should have waited a bit more to release this. The game is very wasteful of resources. ALL objects it seems are streamed into VRAM as they appear (or as they perform a specific action) which often causes slowdown. You can't just stream 10+ tiles into VRAM on any given frame. MM2 already suffers from lag in places. The player sprites fill up most of the sprite area in VRAM. Graphical glitches in the Continue screen and Weapon Get screen. Etc, etc. It's just not how a game like this should be ported. I assume AI handled all the &amp;quot;how do I adapt NES sprite &amp;amp; CHR-ROM management to SMS&amp;quot; questions?
-&lt;br /&gt;
-
-&lt;br /&gt;
-Look at how commercial games do it. Usually only player sprites are actively streamed. The amount is determined by how big the sprite is (for Mega Man it would be at most 10, could probably be reduced to 9 if you merged the face sprite). For enemies, since MM2 has that scroll transition, you could just stream all enemies in the given area then. That's what the NES version does!
-&lt;br /&gt;
-Key Idea: preload as much data for a given scene as possible! Trust me, players won't notice if the game takes an extra half second to load/scroll an area.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I'm not an complete AI hater as it can have practical use (ignoring the societal/economical/environmental issues it presents), but if you are going to use it, monitor EVERY decision it makes. I've done personal test ports with it and, without proper management, it will produce the most convoluted way of doing things. If it &amp;quot;works&amp;quot; it's good enough for the AI, but will produce non-ideal results such as what is seen with this port (Only 224p support (and unaware of the fact that most players cannot use this resolution?), All objects unnecessarily streaming into VRAM, etc). Do not solely (or even majority) rely on AI. For every decision, ask yourself &amp;quot;What's the best way to do this?&amp;quot;, &amp;quot;How have other games/developers done this?&amp;quot;, &amp;quot;How does the original game do this and WHY?&amp;quot;. These forums, other retrodev forums, and Google are your best friends in this regard.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The YM2413 support also isn't that great. It very much sounds like you ran the NES music through a convertor. I guess it fits considering that's what official games did most of the time lol.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Once again, I don't say all of this to be mean. I just think port can be much better as it current stands. You could probably achieve close to Wily Wars level GFX and music if you implemented at least a few of the ideas I suggested. I wish you well on the port.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Edit: Looks like xfixium said my thoughts right before in much more approachable manner lol&lt;/span&gt;&lt;br /&gt;
+	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>
@@ -134,23 +74,7 @@ Edit: Looks like xfixium said my thoughts right before in much more approachable
     <modified>2026-11-19T08:29:08Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=13282&quot; target=&quot;_blank&quot;&gt;xfixium&lt;/a&gt;&lt;br /&gt;
 	Posted: Thu Nov 19, 2026 8:29 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&amp;quot;As for the graphics, The Wily Wars was the main inspiration. A lot of its artwork was too much for the Master System to handle, so I adapted the ideas I could use.&amp;quot;
-&lt;br /&gt;
-
-&lt;br /&gt;
-I don't agree with this. This sounds like something someone would say that doesn't know the capabilities of the console. I could agree with the parallaxing effects, but for color, I think what you've created looks more nes, than SMS. 
-&lt;br /&gt;
-
-&lt;br /&gt;
-For instance, the stage select could easily copy Wily Wars. But we're left with something that doesn't give a lot of color depth in this conversion. For giggles, I inspected your game in Emulicious. I see you are using 50ish sprites to cover the colors that the background can't handle alone, plus the cursor. This does not need to be. You can set what palette each tile points to. So you don't have to worry about overflowing the sprite buffer, and you use less graphic resources.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I've attached an example of the stage select that keeps pretty much all the color depth of the Wily Wars version. The background and sprite palette entries at the bottom, also the Wily Wars styled cursor.
-&lt;br /&gt;
-
-&lt;br /&gt;
-If we're going for a straight conversion, that is one thing. But if we're going for a version that shows what the SMS can really do, I feel this is not showcasing the SMS's true potential. Maybe onboard an artist, maybe a music composer as well.&lt;/span&gt;&lt;br /&gt;
+	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>
@@ -167,7 +91,7 @@ If we're going for a straight conversion, that is one thing. But if we're going 
     <modified>2026-11-19T06:00:43Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=13282&quot; target=&quot;_blank&quot;&gt;xfixium&lt;/a&gt;&lt;br /&gt;
 	Posted: Thu Nov 19, 2026 6:00 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Yes, this also produces garbage on my Master System 1 NTSC using an Everdrive. I looked at your screenshots a little more closely, are you running this in 256 x 224 resolution? If so, that may be your problem. There are compatibility issues with certain systems. It won't run on a power base convertor either, I believe.&lt;/span&gt;&lt;br /&gt;
+	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>
@@ -184,11 +108,7 @@ If we're going for a straight conversion, that is one thing. But if we're going 
     <modified>2026-11-19T05:43:50Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603&quot; target=&quot;_blank&quot;&gt;bofner&lt;/a&gt;&lt;br /&gt;
 	Subject: Outrun at 50Hz&lt;br /&gt;Posted: Thu Nov 19, 2026 5:43 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Today was the first time I ever thought to listen to the Outrun soundtrack in PAL's 50Hz. I've been playing on a Mark III for so long, and had been so disappointed by the SMS version's soundtrack for so long. Then I heard the game running at PAL 50Hz, and suddenly the entire world made sense. Magical Sound Shower running at 50Hz is &lt;i&gt;perfection.&lt;/i&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Does anyone know why some world-wide released games like Outrun ended up getting soundtracks that seem like they were targeted at 50Hz, even on the Mark III releases?&lt;/span&gt;&lt;br /&gt;
+	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>
@@ -205,7 +125,7 @@ Does anyone know why some world-wide released games like Outrun ended up getting
     <modified>2026-11-18T21:47:56Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641&quot; target=&quot;_blank&quot;&gt;toxa&lt;/a&gt;&lt;br /&gt;
 	Posted: Wed Nov 18, 2026 9:47 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	segarule, you see, if you think someone violates some license, that's your problem, the rights owner may sue them, not you. you can complain to the rights owner, may not, that's up to you, but bothering people here not help with your troubles, sorry.&lt;/span&gt;&lt;br /&gt;
+	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>
@@ -222,21 +142,7 @@ Does anyone know why some world-wide released games like Outrun ended up getting
     <modified>2026-11-18T19:27:04Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
 	Posted: Wed Nov 18, 2026 7:27 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Hey,
-&lt;br /&gt;
-
-&lt;br /&gt;
-Can you send me some screenshots so I can take a look?
-&lt;br /&gt;
-I'm also using a Chinese EverDrive on a base Master System 3005-13-B.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The controller I'm using is a plug-and-play 8BitDo M30.
-&lt;br /&gt;
-
-&lt;br /&gt;
-I only implemented the start button for the weapon menu, but I didn't really test with a 6-button controller since I don't have one. Button 1 can be used for everything else, and the press-1-and-2 trick for the weapon is also there for anyone who doesn't have a Mega Drive controller.&lt;/span&gt;&lt;br /&gt;
+	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>
@@ -253,11 +159,7 @@ I only implemented the start button for the weapon menu, but I didn't really tes
     <modified>2026-11-18T19:07:01Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7411&quot; target=&quot;_blank&quot;&gt;Kagesan&lt;/a&gt;&lt;br /&gt;
 	Posted: Wed Nov 18, 2026 7:07 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Well, your first post was just one screenshot snd no description. I think you can't really expect anyone to form an opinion based on such sparse information. And asking a new member for clarification regarding AI use doesn't seem unteasonable to me.
-&lt;br /&gt;
-
-&lt;br /&gt;
-That said, the two screenshots do look interesting, and I'm looking forward to seeing more of your game.&lt;/span&gt;&lt;br /&gt;
+	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
   <entry>
@@ -274,7 +176,7 @@ That said, the two screenshots do look interesting, and I'm looking forward to s
     <modified>2026-11-18T18:35:37Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
 	Posted: Wed Nov 18, 2026 6:35 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	Well, unfortunately this beauty game dont work with my real hardware. Master System tectoy, PAL-M with chinese everdrive. What appear? Artifacts. I can see that game is functional. The music play well, i can select the stage (although i cannot see what happening). I can move Megaman but the screen is plenty garbage. My 6 button MD controller dont work with start button.&lt;/span&gt;&lt;br /&gt;
+	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
 </feed>

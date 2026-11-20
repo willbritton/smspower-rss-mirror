@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-20T23:20:34Z</modified>
+  <modified>2026-11-20T23:30:45Z</modified>
+  <entry>
+    <title mode="escaped">Music :: [VGM pack] The Dinosaur Dooley</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141622#141622"/>
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141622#141622</id>
+    <issued>2026-11-20T23:23:13Z</issued>
+    <modified>2026-11-20T23:23:13Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Subject: [VGM pack] The Dinosaur Dooley&lt;br /&gt;Posted: Fri Nov 20, 2026 11:23 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Music :: RE: [VGM Pack] Fantastic Dizzy (SMS)</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-20T08:58:15Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
 	Posted: Fri Nov 20, 2026 8:58 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: The pinnacle of every technical aspect of the Master System</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141612#141612"/>
-    <dc:creator>Gudako12</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>Gudako12</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141612#141612</id>
-    <issued>2026-11-20T08:31:31Z</issued>
-    <modified>2026-11-20T08:31:31Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35284&quot; target=&quot;_blank&quot;&gt;Gudako12&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 20, 2026 8:31 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

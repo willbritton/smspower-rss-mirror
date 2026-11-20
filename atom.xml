@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-20T18:30:46Z</modified>
+  <modified>2026-11-20T18:40:36Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141620#141620"/>
+    <dc:creator>josemcsantos</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>josemcsantos</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141620#141620</id>
+    <issued>2026-11-20T18:33:39Z</issued>
+    <modified>2026-11-20T18:33:39Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 20, 2026 6:33 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Music :: RE: [VGM pack] Dr. Robotnik&#039;s Mean Bean Machine</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-20T05:08:13Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35568&quot; target=&quot;_blank&quot;&gt;saturthirtox&lt;/a&gt;&lt;br /&gt;
 	Subject: update&lt;br /&gt;Posted: Fri Nov 20, 2026 5:08 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: Mortal Kombat: Arcade Edition</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141608#141608"/>
-    <dc:creator>KnightWarrior</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>KnightWarrior</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141608#141608</id>
-    <issued>2026-11-20T01:30:38Z</issued>
-    <modified>2026-11-20T01:30:38Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2297&quot; target=&quot;_blank&quot;&gt;KnightWarrior&lt;/a&gt;&lt;br /&gt;
-	Subject: Mortal Kombat: Arcade Edition&lt;br /&gt;Posted: Fri Nov 20, 2026 1:30 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

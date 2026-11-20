@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-20T11:10:32Z</modified>
+  <modified>2026-11-20T11:20:34Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141614#141614" />
+    <dc:creator>PatrickBateman</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>PatrickBateman</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141614#141614</id>
+    <issued>2026-11-20T11:13:39Z</issued>
+    <modified>2026-11-20T11:13:39Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35413" target="_blank"&gt;PatrickBateman&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 20, 2026 11:13 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Website :: RE: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141613#141613" />
@@ -133,4 +149,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

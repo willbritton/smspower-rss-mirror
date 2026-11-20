@@ -1,24 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="0.3">
+<feed xmlns="http://purl.org/atom/ns#" version="0.3">
 
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-20T13:10:33Z</modified>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141604#141604" />
-    <dc:creator>segarule</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>segarule</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141604#141604</id>
-    <issued>2026-11-20T00:13:19Z</issued>
-    <modified>2026-11-20T00:13:19Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689" target="_blank"&gt;segarule&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 20, 2026 12:13 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  <modified>2026-11-20T13:20:32Z</modified>
+  </feed>

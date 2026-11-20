@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-20T13:10:33Z</modified>
+  <modified>2026-11-20T13:20:32Z</modified>
+  <entry>
+    <title mode="escaped">Website :: RE: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141616#141616" />
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Website</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141616#141616</id>
+    <issued>2026-11-20T13:13:27Z</issued>
+    <modified>2026-11-20T13:13:27Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Fri Nov 20, 2026 1:13 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: Mortal Kombat: Arcade Edition</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141615#141615" />
@@ -149,4 +165,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

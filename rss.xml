@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 08:50:37 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 09:00:57 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Website :: RE: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141613#141613</link>
+<pubDate>Fri, 20 Nov 2026 08:58:15 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141613#141613</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 20, 2026 8:58 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>Maxim</dc:creator>
+<dc:subject>Website</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141594#141594" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141613</comments>
+</item>
 <item>
 <title>Main :: RE: The pinnacle of every technical aspect of the Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141612#141612</link>
@@ -160,22 +176,6 @@ Posted: Thu Nov 19, 2026 7:38 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141602</comments>
-</item>
-<item>
-<title>Website :: RE: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141601#141601</link>
-<pubDate>Thu, 19 Nov 2026 19:12:19 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141601#141601</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5915&quot; target=&quot;_blank&quot;&gt;kusfo&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Nov 19, 2026 7:12 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>kusfo</dc:creator>
-<dc:subject>Website</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141594#141594" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141601</comments>
 </item>
 </channel>
 </rss>

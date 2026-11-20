@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 01:20:29 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 01:30:44 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,38 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: Mortal Kombat: Arcade Edition</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141608#141608</link>
+<pubDate>Fri, 20 Nov 2026 01:30:38 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141608#141608</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2297&quot; target=&quot;_blank&quot;&gt;KnightWarrior&lt;/a&gt;&lt;br /&gt;
+Subject: Mortal Kombat: Arcade Edition&lt;br /&gt;
+Posted: Fri Nov 20, 2026 1:30 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>KnightWarrior</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141608#141608" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141608</comments>
+</item>
+<item>
+<title>Main :: The pinnacle of every technical aspect of the Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141607#141607</link>
+<pubDate>Fri, 20 Nov 2026 01:29:54 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141607#141607</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=1585&quot; target=&quot;_blank&quot;&gt;Ron_Stard&lt;/a&gt;&lt;br /&gt;
+Subject: The pinnacle of every technical aspect of the Master System&lt;br /&gt;
+Posted: Fri Nov 20, 2026 1:29 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>Ron_Stard</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141607#141607" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141607</comments>
+</item>
 <item>
 <title>Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141606#141606</link>
@@ -144,38 +176,6 @@ Posted: Thu Nov 19, 2026 6:47 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141599</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Juno First for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141598#141598</link>
-<pubDate>Thu, 19 Nov 2026 18:41:46 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141598#141598</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Nov 19, 2026 6:41 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>haroldoop</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141598</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141597#141597</link>
-<pubDate>Thu, 19 Nov 2026 18:28:09 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141597#141597</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Nov 19, 2026 6:28 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>segarule</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141597</comments>
 </item>
 </channel>
 </rss>

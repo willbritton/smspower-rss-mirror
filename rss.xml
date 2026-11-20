@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 14:30:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 14:40:35 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: [AI] Splat Trooper 3D for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141617#141617</link>
+<pubDate>Fri, 20 Nov 2026 14:39:27 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141617#141617</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+Subject: [AI] Splat Trooper 3D for Sega Master System&lt;br /&gt;
+Posted: Fri Nov 20, 2026 2:39 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141617#141617" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141617</comments>
+</item>
 <item>
 <title>Website :: RE: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141616#141616</link>
@@ -160,22 +176,6 @@ Posted: Fri Nov 20, 2026 1:13 am (GMT 0)&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141214#141214" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141606</comments>
-</item>
-<item>
-<title>Main :: RE: OBAKE - New SG-1000 game released</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141605#141605</link>
-<pubDate>Fri, 20 Nov 2026 01:09:37 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141605#141605</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35596&quot; target=&quot;_blank&quot;&gt;blenser4&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Nov 20, 2026 1:09 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>blenser4</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141255#141255" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141605</comments>
 </item>
 </channel>
 </rss>

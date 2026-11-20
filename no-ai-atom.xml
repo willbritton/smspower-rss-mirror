@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-20T12:30:54Z</modified>
+  <modified>2026-11-20T12:40:34Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: Mortal Kombat: Arcade Edition</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141615#141615" />
+    <dc:creator>haroldoop</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>haroldoop</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141615#141615</id>
+    <issued>2026-11-20T12:40:03Z</issued>
+    <modified>2026-11-20T12:40:03Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+	Subject: Re: Mortal Kombat: Arcade Edition&lt;br /&gt;Posted: Fri Nov 20, 2026 12:40 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141614#141614" />
@@ -133,20 +149,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Website :: RE: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141603#141603" />
-    <dc:creator>Tom</dc:creator>
-    <dc:subject>Website</dc:subject>
-    <author>
-		<name>Tom</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141603#141603</id>
-    <issued>2026-11-19T22:55:34Z</issued>
-    <modified>2026-11-19T22:55:34Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=115" target="_blank"&gt;Tom&lt;/a&gt;&lt;br /&gt;
-	Posted: Thu Nov 19, 2026 10:55 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

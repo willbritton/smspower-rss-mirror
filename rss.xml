@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 20:50:35 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 21:00:54 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Music :: [VGM pack] Cave Dude</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141633#141633</link>
+<pubDate>Sat, 21 Nov 2026 20:58:26 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141633#141633</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+Subject: [VGM pack] Cave Dude&lt;br /&gt;
+Posted: Sat Nov 21, 2026 8:58 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>Maxim</dc:creator>
+<dc:subject>Music</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141633#141633" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141633</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141632#141632</link>
@@ -160,22 +176,6 @@ Posted: Sat Nov 21, 2026 5:49 am (GMT 0)&lt;br /&gt;
 <dc:subject>Music</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141622#141622" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141623</comments>
-</item>
-<item>
-<title>Music :: [VGM pack] The Dinosaur Dooley</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141622#141622</link>
-<pubDate>Fri, 20 Nov 2026 23:23:13 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141622#141622</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-Subject: [VGM pack] The Dinosaur Dooley&lt;br /&gt;
-Posted: Fri Nov 20, 2026 11:23 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Music</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141622#141622" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141622</comments>
 </item>
 </channel>
 </rss>

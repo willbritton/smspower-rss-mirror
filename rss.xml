@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 22:30:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 22:40:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141637#141637</link>
+<pubDate>Sat, 21 Nov 2026 22:40:05 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141637#141637</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=1032&quot; target=&quot;_blank&quot;&gt;chirinea&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 21, 2026 10:40 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>chirinea</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141503#141503" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141637</comments>
+</item>
 <item>
 <title>Development :: RE: Long lost cheat codes</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141636#141636</link>
@@ -160,22 +176,6 @@ Posted: Sat Nov 21, 2026 9:13 am (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141617#141617" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141626</comments>
-</item>
-<item>
-<title>Music :: RE: Outrun at 50Hz</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141625#141625</link>
-<pubDate>Sat, 21 Nov 2026 08:52:49 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141625#141625</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=6428&quot; target=&quot;_blank&quot;&gt;Gordman&lt;/a&gt;&lt;br /&gt;
-Subject: Re: Outrun at 50Hz&lt;br /&gt;
-Posted: Sat Nov 21, 2026 8:52 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>Gordman</dc:creator>
-<dc:subject>Music</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141569#141569" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141625</comments>
 </item>
 </channel>
 </rss>

@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-21T22:30:42Z</modified>
+  <modified>2026-11-21T22:40:30Z</modified>
   <entry>
     <title mode="escaped">Development :: RE: Long lost cheat codes</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141636#141636" />
@@ -101,20 +101,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Music :: RE: Outrun at 50Hz</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141625#141625" />
-    <dc:creator>Gordman</dc:creator>
-    <dc:subject>Music</dc:subject>
-    <author>
-		<name>Gordman</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141625#141625</id>
-    <issued>2026-11-21T08:52:49Z</issued>
-    <modified>2026-11-21T08:52:49Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=6428" target="_blank"&gt;Gordman&lt;/a&gt;&lt;br /&gt;
-	Subject: Re: Outrun at 50Hz&lt;br /&gt;Posted: Sat Nov 21, 2026 8:52 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

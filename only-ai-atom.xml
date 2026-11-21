@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-21T13:20:34Z</modified>
+  <modified>2026-11-21T13:30:46Z</modified>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Splat Trooper 3D for Sega Master System</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141627#141627" />
@@ -53,36 +53,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141620#141620" />
-    <dc:creator>josemcsantos</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>josemcsantos</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141620#141620</id>
-    <issued>2026-11-20T18:33:39Z</issued>
-    <modified>2026-11-20T18:33:39Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578" target="_blank"&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 20, 2026 6:33 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141618#141618" />
-    <dc:creator>SavitarSvit</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>SavitarSvit</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141618#141618</id>
-    <issued>2026-11-20T15:00:36Z</issued>
-    <modified>2026-11-20T15:00:36Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11301" target="_blank"&gt;SavitarSvit&lt;/a&gt;&lt;br /&gt;
-	Posted: Fri Nov 20, 2026 3:00 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

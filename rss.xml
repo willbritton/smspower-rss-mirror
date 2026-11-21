@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 08:50:31 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 09:00:53 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Music :: RE: Outrun at 50Hz</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141625#141625</link>
+<pubDate>Sat, 21 Nov 2026 08:52:49 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141625#141625</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=6428&quot; target=&quot;_blank&quot;&gt;Gordman&lt;/a&gt;&lt;br /&gt;
+Subject: Re: Outrun at 50Hz&lt;br /&gt;
+Posted: Sat Nov 21, 2026 8:52 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>Gordman</dc:creator>
+<dc:subject>Music</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141569#141569" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141625</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141624#141624</link>
@@ -160,22 +176,6 @@ Posted: Fri Nov 20, 2026 1:13 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Website</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141594#141594" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141616</comments>
-</item>
-<item>
-<title>Development :: RE: Mortal Kombat: Arcade Edition</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141615#141615</link>
-<pubDate>Fri, 20 Nov 2026 12:40:03 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141615#141615</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-Subject: Re: Mortal Kombat: Arcade Edition&lt;br /&gt;
-Posted: Fri Nov 20, 2026 12:40 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>haroldoop</dc:creator>
-<dc:subject>Development</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141608#141608" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141615</comments>
 </item>
 </channel>
 </rss>

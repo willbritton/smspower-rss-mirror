@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-21T21:10:32Z</modified>
+  <modified>2026-11-21T21:20:33Z</modified>
+  <entry>
+    <title mode="escaped">Music :: RE: [VGM pack] The Dinosaur Dooley</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141635#141635"/>
+    <dc:creator>asper</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <author>
+		<name>asper</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141635#141635</id>
+    <issued>2026-11-21T21:14:33Z</issued>
+    <modified>2026-11-21T21:14:33Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=9653&quot; target=&quot;_blank&quot;&gt;asper&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Nov 21, 2026 9:14 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Music :: [VGM pack] Cave Dude</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-21T07:58:06Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11301&quot; target=&quot;_blank&quot;&gt;SavitarSvit&lt;/a&gt;&lt;br /&gt;
 	Posted: Sat Nov 21, 2026 7:58 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Music :: RE: [VGM pack] The Dinosaur Dooley</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141623#141623"/>
-    <dc:creator>asper</dc:creator>
-    <dc:subject>Music</dc:subject>
-    <author>
-		<name>asper</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141623#141623</id>
-    <issued>2026-11-21T05:49:09Z</issued>
-    <modified>2026-11-21T05:49:09Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=9653&quot; target=&quot;_blank&quot;&gt;asper&lt;/a&gt;&lt;br /&gt;
-	Subject: Re: [VGM pack] The Dinosaur Dooley&lt;br /&gt;Posted: Sat Nov 21, 2026 5:49 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

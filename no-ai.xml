@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 05:40:37 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 05:50:31 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,22 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Music :: RE: [VGM pack] The Dinosaur Dooley</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141623#141623</link>
+<pubDate>Sat, 21 Nov 2026 05:49:09 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141623#141623</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=9653" target="_blank"&gt;asper&lt;/a&gt;&lt;br /&gt;
+Subject: Re: [VGM pack] The Dinosaur Dooley&lt;br /&gt;
+Posted: Sat Nov 21, 2026 5:49 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>asper</dc:creator>
+<dc:subject>Music</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141622#141622" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141623</comments>
+</item>
 <item>
 <title>Music :: [VGM pack] The Dinosaur Dooley</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141622#141622</link>
@@ -111,22 +127,6 @@ Posted: Fri Nov 20, 2026 11:13 am (GMT 0)&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141614</comments>
-</item>
-<item>
-<title>Website :: RE: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141613#141613</link>
-<pubDate>Fri, 20 Nov 2026 08:58:15 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141613#141613</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Nov 20, 2026 8:58 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Website</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141594#141594" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141613</comments>
 </item>
 </channel>
 </rss>

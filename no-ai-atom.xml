@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-22T11:20:30Z</modified>
+  <modified>2026-11-22T11:30:44Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141644#141644" />
+    <dc:creator>BKK</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>BKK</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141644#141644</id>
+    <issued>2026-11-22T11:21:53Z</issued>
+    <modified>2026-11-22T11:21:53Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4825" target="_blank"&gt;BKK&lt;/a&gt;&lt;br /&gt;
+	Posted: Sun Nov 22, 2026 11:21 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Music :: RE: [VGM pack] Cave Dude</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141642#141642" />
@@ -85,4 +101,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

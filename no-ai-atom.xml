@@ -4,7 +4,7 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-22T18:20:31Z</modified>
+  <modified>2026-11-22T18:30:45Z</modified>
   <entry>
     <title mode="escaped">Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141644#141644" />
@@ -69,36 +69,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: Long lost cheat codes</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141636#141636" />
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141636#141636</id>
-    <issued>2026-11-21T21:58:37Z</issued>
-    <modified>2026-11-21T21:58:37Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Posted: Sat Nov 21, 2026 9:58 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Music :: [VGM pack] Cave Dude</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141633#141633" />
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Music</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141633#141633</id>
-    <issued>2026-11-21T20:58:26Z</issued>
-    <modified>2026-11-21T20:58:26Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Subject: [VGM pack] Cave Dude&lt;br /&gt;Posted: Sat Nov 21, 2026 8:58 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

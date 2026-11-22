@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-22T20:40:32Z</modified>
+  <modified>2026-11-22T20:50:32Z</modified>
+  <entry>
+    <title mode="escaped">Music :: RE: [VGM Pack] Joe Montana Football</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141649#141649"/>
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141649#141649</id>
+    <issued>2026-11-22T20:41:42Z</issued>
+    <modified>2026-11-22T20:41:42Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Subject: Game Gear version&lt;br /&gt;Posted: Sun Nov 22, 2026 8:41 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: Phantasy Star and Y&#039;s Cartridges with FM sound (and question about Golden Axe Warrior PCB)</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-22T07:07:59Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35557&quot; target=&quot;_blank&quot;&gt;elizacommunities&lt;/a&gt;&lt;br /&gt;
 	Posted: Sun Nov 22, 2026 7:07 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: [AI] Star Frag 3D: a first-person two-player deathmatch for Sega Master System</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141639#141639"/>
-    <dc:creator>haroldoop</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>haroldoop</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141639#141639</id>
-    <issued>2026-11-22T01:39:02Z</issued>
-    <modified>2026-11-22T01:39:02Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-	Subject: [AI] Star Frag 3D: a first-person two-player deathmatch for Sega Master System&lt;br /&gt;Posted: Sun Nov 22, 2026 1:39 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

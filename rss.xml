@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 07:00:55 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 07:10:33 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: The pinnacle of every technical aspect of the Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141640#141640</link>
+<pubDate>Sun, 22 Nov 2026 07:07:59 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141640#141640</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35557&quot; target=&quot;_blank&quot;&gt;elizacommunities&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sun Nov 22, 2026 7:07 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>elizacommunities</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141607#141607" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141640</comments>
+</item>
 <item>
 <title>Made By AI :: [AI] Star Frag 3D: a first-person two-player deathmatch for Sega Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141639#141639</link>
@@ -160,22 +176,6 @@ Posted: Sat Nov 21, 2026 1:27 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Website</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141594#141594" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141629</comments>
-</item>
-<item>
-<title>Music :: RE: [VGM pack] The Dinosaur Dooley</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141628#141628</link>
-<pubDate>Sat, 21 Nov 2026 13:25:44 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141628#141628</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Sat Nov 21, 2026 1:25 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Music</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141622#141622" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141628</comments>
 </item>
 </channel>
 </rss>

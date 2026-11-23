@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-23T13:10:40Z</modified>
+  <modified>2026-11-23T13:20:34Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: CrossZGB library for the SMS/GG</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141664#141664" />
+    <dc:creator>toxa</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>toxa</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141664#141664</id>
+    <issued>2026-11-23T13:10:49Z</issued>
+    <modified>2026-11-23T13:10:49Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641" target="_blank"&gt;toxa&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 23, 2026 1:10 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: GBDK-2020 gets support for SMS/GG targets</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141663#141663" />
@@ -85,20 +101,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: The pinnacle of every technical aspect of the Master System</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141654#141654" />
-    <dc:creator>simplyetchedsite</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>simplyetchedsite</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141654#141654</id>
-    <issued>2026-11-23T01:01:24Z</issued>
-    <modified>2026-11-23T01:01:24Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35597" target="_blank"&gt;simplyetchedsite&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 23, 2026 1:01 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

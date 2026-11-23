@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-23T08:50:33Z</modified>
+  <modified>2026-11-23T09:00:58Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Strange Tint on Japanese Sega Sc3000</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141659#141659"/>
+    <dc:creator>lidnariq</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>lidnariq</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141659#141659</id>
+    <issued>2026-11-23T09:00:54Z</issued>
+    <modified>2026-11-23T09:00:54Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=15888&quot; target=&quot;_blank&quot;&gt;lidnariq&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 23, 2026 9:00 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-22T21:04:23Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
 	Subject: SMS version with Clotho&lt;br /&gt;Posted: Sun Nov 22, 2026 9:04 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Music :: RE: [VGM Pack] Joe Montana Football</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141649#141649"/>
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Music</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141649#141649</id>
-    <issued>2026-11-22T20:41:42Z</issued>
-    <modified>2026-11-22T20:41:42Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Subject: Game Gear version&lt;br /&gt;Posted: Sun Nov 22, 2026 8:41 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

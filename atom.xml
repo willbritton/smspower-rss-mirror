@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-23T19:00:58Z</modified>
+  <modified>2026-11-23T19:10:34Z</modified>
+  <entry>
+    <title mode="escaped">Music :: RE: [VGM Pack] The Jungle Book</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141670#141670"/>
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141670#141670</id>
+    <issued>2026-11-23T19:09:37Z</issued>
+    <modified>2026-11-23T19:09:37Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 23, 2026 7:09 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-23T11:34:15Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
 	Subject: Juno First SMS v1.3.0 and 1.3.1: Improve bosses and music, remove lives cap and fix score overflow.&lt;br /&gt;Posted: Mon Nov 23, 2026 11:34 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Mega Man 2 for Sega Master System</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141660#141660"/>
-    <dc:creator>josemcsantos</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>josemcsantos</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141660#141660</id>
-    <issued>2026-11-23T10:44:58Z</issued>
-    <modified>2026-11-23T10:44:58Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35578&quot; target=&quot;_blank&quot;&gt;josemcsantos&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 23, 2026 10:44 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

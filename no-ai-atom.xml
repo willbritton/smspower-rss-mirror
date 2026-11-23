@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-23T22:01:00Z</modified>
+  <modified>2026-11-23T22:10:35Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: The pinnacle of every technical aspect of the Master System</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141674#141674" />
+    <dc:creator>Chewrafa</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>Chewrafa</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141674#141674</id>
+    <issued>2026-11-23T22:02:40Z</issued>
+    <modified>2026-11-23T22:02:40Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27374" target="_blank"&gt;Chewrafa&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 23, 2026 10:02 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141673#141673" />
@@ -117,20 +133,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: CrossZGB library for the SMS/GG</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141664#141664" />
-    <dc:creator>toxa</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>toxa</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141664#141664</id>
-    <issued>2026-11-23T13:10:49Z</issued>
-    <modified>2026-11-23T13:10:49Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641" target="_blank"&gt;toxa&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 23, 2026 1:10 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

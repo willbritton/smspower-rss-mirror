@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-23T06:00:59Z</modified>
+  <modified>2026-11-23T06:10:33Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Juno First for Sega Master System</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141657#141657"/>
+    <dc:creator>SavitarSvit</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>SavitarSvit</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141657#141657</id>
+    <issued>2026-11-23T06:04:03Z</issued>
+    <modified>2026-11-23T06:04:03Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11301&quot; target=&quot;_blank&quot;&gt;SavitarSvit&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 23, 2026 6:04 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: The pinnacle of every technical aspect of the Master System</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-22T19:45:17Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245&quot; target=&quot;_blank&quot;&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
 	Posted: Sun Nov 22, 2026 7:45 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Website :: RE: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141647#141647"/>
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Website</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141647#141647</id>
-    <issued>2026-11-22T19:28:47Z</issued>
-    <modified>2026-11-22T19:28:47Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 22, 2026 7:28 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

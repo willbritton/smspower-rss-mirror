@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 13:40:33 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 13:50:33 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] Juno First for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141666#141666</link>
+<pubDate>Mon, 23 Nov 2026 13:45:28 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141666#141666</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Mon Nov 23, 2026 1:45 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141666</comments>
+</item>
 <item>
 <title>Made By AI :: RE: [AI] Juno First for Sega Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141665#141665</link>
@@ -160,22 +176,6 @@ Posted: Mon Nov 23, 2026 6:04 am (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141657</comments>
-</item>
-<item>
-<title>Main :: RE: The pinnacle of every technical aspect of the Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141656#141656</link>
-<pubDate>Mon, 23 Nov 2026 05:33:00 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141656#141656</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=29&quot; target=&quot;_blank&quot;&gt;unfnknblvbl&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 23, 2026 5:33 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>unfnknblvbl</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141607#141607" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141656</comments>
 </item>
 </channel>
 </rss>

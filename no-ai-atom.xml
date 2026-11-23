@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-23T20:30:45Z</modified>
+  <modified>2026-11-23T20:40:33Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141673#141673" />
+    <dc:creator>Ron_Stard</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>Ron_Stard</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141673#141673</id>
+    <issued>2026-11-23T20:39:06Z</issued>
+    <modified>2026-11-23T20:39:06Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=1585" target="_blank"&gt;Ron_Stard&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 23, 2026 8:39 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Music :: RE: [VGM pack] Sonic Chaos</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141672#141672" />
@@ -114,22 +130,6 @@
     <modified>2026-11-23T13:10:49Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641" target="_blank"&gt;toxa&lt;/a&gt;&lt;br /&gt;
 	Posted: Mon Nov 23, 2026 1:10 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: GBDK-2020 gets support for SMS/GG targets</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141663#141663" />
-    <dc:creator>toxa</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>toxa</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141663#141663</id>
-    <issued>2026-11-23T13:05:56Z</issued>
-    <modified>2026-11-23T13:05:56Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17641" target="_blank"&gt;toxa&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 23, 2026 1:05 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

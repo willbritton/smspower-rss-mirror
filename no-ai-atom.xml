@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-23T01:00:57Z</modified>
+  <modified>2026-11-23T01:10:32Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: The pinnacle of every technical aspect of the Master System</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141654#141654" />
+    <dc:creator>simplyetchedsite</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>simplyetchedsite</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141654#141654</id>
+    <issued>2026-11-23T01:01:24Z</issued>
+    <modified>2026-11-23T01:01:24Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35597" target="_blank"&gt;simplyetchedsite&lt;/a&gt;&lt;br /&gt;
+	Posted: Mon Nov 23, 2026 1:01 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Starting a SMS/GG/Mark III podcast</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141653#141653" />
@@ -117,20 +133,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: The 20 Best SMS Games (according to Sega Retro)</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141644#141644" />
-    <dc:creator>BKK</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>BKK</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141644#141644</id>
-    <issued>2026-11-22T11:21:53Z</issued>
-    <modified>2026-11-22T11:21:53Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=4825" target="_blank"&gt;BKK&lt;/a&gt;&lt;br /&gt;
-	Posted: Sun Nov 22, 2026 11:21 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

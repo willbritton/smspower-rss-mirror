@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 15:40:33 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 15:50:32 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,22 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Music :: RE: Outrun at 50Hz</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141685#141685</link>
+<pubDate>Tue, 24 Nov 2026 15:41:57 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141685#141685</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 24, 2026 3:41 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>sverx</dc:creator>
+<dc:subject>Music</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141569#141569" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141685</comments>
+</item>
 <item>
 <title>Development :: RE: SMS Golden Axe Tyris Flare Edition ROM Hack</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141684#141684</link>
@@ -143,22 +159,6 @@ Posted: Tue Nov 24, 2026 12:33 am (GMT 0)&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141214#141214" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141676</comments>
-</item>
-<item>
-<title>Main :: RE: The pinnacle of every technical aspect of the Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141675#141675</link>
-<pubDate>Mon, 23 Nov 2026 22:25:43 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141675#141675</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35576" target="_blank"&gt;SeBe&lt;/a&gt;&lt;br /&gt;
-
-Posted: Mon Nov 23, 2026 10:25 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>SeBe</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141607#141607" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141675</comments>
 </item>
 </channel>
 </rss>

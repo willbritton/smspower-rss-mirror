@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-24T15:40:33Z</modified>
+  <modified>2026-11-24T15:50:32Z</modified>
+  <entry>
+    <title mode="escaped">Music :: RE: Outrun at 50Hz</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141685#141685"/>
+    <dc:creator>sverx</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <author>
+		<name>sverx</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141685#141685</id>
+    <issued>2026-11-24T15:41:57Z</issued>
+    <modified>2026-11-24T15:41:57Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198&quot; target=&quot;_blank&quot;&gt;sverx&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 24, 2026 3:41 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: SMS Golden Axe Tyris Flare Edition ROM Hack</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-24T00:33:56Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35597&quot; target=&quot;_blank&quot;&gt;simplyetchedsite&lt;/a&gt;&lt;br /&gt;
 	Posted: Tue Nov 24, 2026 12:33 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: The pinnacle of every technical aspect of the Master System</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141675#141675"/>
-    <dc:creator>SeBe</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>SeBe</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141675#141675</id>
-    <issued>2026-11-23T22:25:43Z</issued>
-    <modified>2026-11-23T22:25:43Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35576&quot; target=&quot;_blank&quot;&gt;SeBe&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 23, 2026 10:25 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

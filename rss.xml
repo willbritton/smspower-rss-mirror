@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 18:20:38 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 18:40:32 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -18,20 +18,36 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<height>56</height>
 </image>
 <item>
-<title>Main :: RE: OBAKE - New SG-1000 game released</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141688#141688</link>
-<pubDate>Tue, 24 Nov 2026 18:00:26 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141688#141688</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35557&quot; target=&quot;_blank&quot;&gt;elizacommunities&lt;/a&gt;&lt;br /&gt;
-Subject: Re: OBAKE - New SG-1000 game released&lt;br /&gt;
-Posted: Tue Nov 24, 2026 6:00 pm (GMT 0)&lt;br /&gt;
+<title>Music :: RE: Outrun at 50Hz</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141690#141690</link>
+<pubDate>Tue, 24 Nov 2026 18:34:02 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141690#141690</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 24, 2026 6:34 pm (GMT 0)&lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 
 </description>
-<dc:creator>elizacommunities</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141255#141255" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141688</comments>
+<dc:creator>Maxim</dc:creator>
+<dc:subject>Music</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141569#141569" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141690</comments>
+</item>
+<item>
+<title>Development :: RE: [WIP] Unnamed Caravan Shmup</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141689#141689</link>
+<pubDate>Tue, 24 Nov 2026 18:21:05 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141689#141689</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35284&quot; target=&quot;_blank&quot;&gt;Gudako12&lt;/a&gt;&lt;br /&gt;
+
+Posted: Tue Nov 24, 2026 6:21 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>Gudako12</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141687#141687" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141689</comments>
 </item>
 <item>
 <title>Development :: [WIP] Unnamed Caravan Shmup</title>
@@ -160,22 +176,6 @@ Posted: Tue Nov 24, 2026 8:29 am (GMT 0)&lt;br /&gt;
 <dc:subject>Music</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141569#141569" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141680</comments>
-</item>
-<item>
-<title>Music :: RE: Outrun at 50Hz</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141679#141679</link>
-<pubDate>Tue, 24 Nov 2026 08:27:56 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141679#141679</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17545&quot; target=&quot;_blank&quot;&gt;Adrian&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 24, 2026 8:27 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>Adrian</dc:creator>
-<dc:subject>Music</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141569#141569" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141679</comments>
 </item>
 </channel>
 </rss>

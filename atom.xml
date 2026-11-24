@@ -8,21 +8,38 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-24T18:20:39Z</modified>
+  <modified>2026-11-24T18:40:33Z</modified>
   <entry>
-    <title mode="escaped">Main :: RE: OBAKE - New SG-1000 game released</title>
+    <title mode="escaped">Music :: RE: Outrun at 50Hz</title>
     <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141688#141688"/>
-    <dc:creator>elizacommunities</dc:creator>
-    <dc:subject>Main</dc:subject>
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141690#141690"/>
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Music</dc:subject>
     <author>
-		<name>elizacommunities</name>
+		<name>Maxim</name>
     </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141688#141688</id>
-    <issued>2026-11-24T18:00:26Z</issued>
-    <modified>2026-11-24T18:00:26Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35557&quot; target=&quot;_blank&quot;&gt;elizacommunities&lt;/a&gt;&lt;br /&gt;
-	Subject: Re: OBAKE - New SG-1000 game released&lt;br /&gt;Posted: Tue Nov 24, 2026 6:00 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141690#141690</id>
+    <issued>2026-11-24T18:34:02Z</issued>
+    <modified>2026-11-24T18:34:02Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 24, 2026 6:34 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">Development :: RE: [WIP] Unnamed Caravan Shmup</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141689#141689"/>
+    <dc:creator>Gudako12</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>Gudako12</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141689#141689</id>
+    <issued>2026-11-24T18:21:05Z</issued>
+    <modified>2026-11-24T18:21:05Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35284&quot; target=&quot;_blank&quot;&gt;Gudako12&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 24, 2026 6:21 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
@@ -159,23 +176,6 @@
     <modified>2026-11-24T08:29:20Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
 	Posted: Tue Nov 24, 2026 8:29 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Music :: RE: Outrun at 50Hz</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141679#141679"/>
-    <dc:creator>Adrian</dc:creator>
-    <dc:subject>Music</dc:subject>
-    <author>
-		<name>Adrian</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141679#141679</id>
-    <issued>2026-11-24T08:27:56Z</issued>
-    <modified>2026-11-24T08:27:56Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17545&quot; target=&quot;_blank&quot;&gt;Adrian&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 24, 2026 8:27 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

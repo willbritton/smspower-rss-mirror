@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-24T08:40:32Z</modified>
+  <modified>2026-11-24T08:50:34Z</modified>
+  <entry>
+    <title mode="escaped">Music :: RE: Outrun at 50Hz</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141682#141682"/>
+    <dc:creator>bofner</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <author>
+		<name>bofner</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141682#141682</id>
+    <issued>2026-11-24T08:46:14Z</issued>
+    <modified>2026-11-24T08:46:14Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603&quot; target=&quot;_blank&quot;&gt;bofner&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 24, 2026 8:46 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Music :: RE: Outrun at 50Hz</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-23T20:39:06Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=1585&quot; target=&quot;_blank&quot;&gt;Ron_Stard&lt;/a&gt;&lt;br /&gt;
 	Posted: Mon Nov 23, 2026 8:39 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Music :: RE: [VGM pack] Sonic Chaos</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141672#141672"/>
-    <dc:creator>Splats</dc:creator>
-    <dc:subject>Music</dc:subject>
-    <author>
-		<name>Splats</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141672#141672</id>
-    <issued>2026-11-23T20:09:16Z</issued>
-    <modified>2026-11-23T20:09:16Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=33851&quot; target=&quot;_blank&quot;&gt;Splats&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 23, 2026 8:09 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

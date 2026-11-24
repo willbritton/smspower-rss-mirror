@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-24T14:50:39Z</modified>
+  <modified>2026-11-24T15:01:04Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: SMS Golden Axe Tyris Flare Edition ROM Hack</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141684#141684"/>
+    <dc:creator>xfixium</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>xfixium</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141684#141684</id>
+    <issued>2026-11-24T14:55:52Z</issued>
+    <modified>2026-11-24T14:55:52Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=13282&quot; target=&quot;_blank&quot;&gt;xfixium&lt;/a&gt;&lt;br /&gt;
+	Posted: Tue Nov 24, 2026 2:55 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Star Frag 3D: a first-person two-player deathmatch for Sega Master System</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-23T22:25:43Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35576&quot; target=&quot;_blank&quot;&gt;SeBe&lt;/a&gt;&lt;br /&gt;
 	Posted: Mon Nov 23, 2026 10:25 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: The pinnacle of every technical aspect of the Master System</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141674#141674"/>
-    <dc:creator>Chewrafa</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>Chewrafa</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141674#141674</id>
-    <issued>2026-11-23T22:02:40Z</issued>
-    <modified>2026-11-23T22:44:37Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27374&quot; target=&quot;_blank&quot;&gt;Chewrafa&lt;/a&gt;&lt;br /&gt;
-	Posted: Mon Nov 23, 2026 10:02 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

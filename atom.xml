@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-25T09:50:33Z</modified>
+  <modified>2026-11-25T10:01:00Z</modified>
+  <entry>
+    <title mode="escaped">Music :: RE: [VGM pack] Sonic Chaos</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141701#141701"/>
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141701#141701</id>
+    <issued>2026-11-25T09:59:49Z</issued>
+    <modified>2026-11-25T09:59:49Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 25, 2026 9:59 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] SMS Bomberman S - Homebrew in development</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-24T19:41:02Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35446&quot; target=&quot;_blank&quot;&gt;bandidox&lt;/a&gt;&lt;br /&gt;
 	Posted: Tue Nov 24, 2026 7:41 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Main :: RE: OBAKE - New SG-1000 game released</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141691#141691"/>
-    <dc:creator>Andrs</dc:creator>
-    <dc:subject>Main</dc:subject>
-    <author>
-		<name>Andrs</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141691#141691</id>
-    <issued>2026-11-24T19:21:56Z</issued>
-    <modified>2026-11-24T19:21:56Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35527&quot; target=&quot;_blank&quot;&gt;Andrs&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 24, 2026 7:21 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

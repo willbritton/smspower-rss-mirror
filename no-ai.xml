@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 08:10:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 08:20:31 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -111,22 +111,6 @@ Posted: Tue Nov 24, 2026 6:21 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141687#141687" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141689</comments>
-</item>
-<item>
-<title>Development :: [WIP] Unnamed Caravan Shmup</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141687#141687</link>
-<pubDate>Tue, 24 Nov 2026 17:36:22 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141687#141687</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27488" target="_blank"&gt;badcomputer&lt;/a&gt;&lt;br /&gt;
-Subject: [WIP] Unnamed Caravan Shmup&lt;br /&gt;
-Posted: Tue Nov 24, 2026 5:36 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>badcomputer</dc:creator>
-<dc:subject>Development</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141687#141687" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141687</comments>
 </item>
 </channel>
 </rss>

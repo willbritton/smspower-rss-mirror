@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-25T15:30:46Z</modified>
+  <modified>2026-11-25T15:40:33Z</modified>
+  <entry>
+    <title mode="escaped">Website :: RE: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141710#141710" />
+    <dc:creator>Bock</dc:creator>
+    <dc:subject>Website</dc:subject>
+    <author>
+		<name>Bock</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141710#141710</id>
+    <issued>2026-11-25T15:36:55Z</issued>
+    <modified>2026-11-25T15:36:55Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=3" target="_blank"&gt;Bock&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 25, 2026 3:36 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Development :: RE: [WIP] Unnamed Caravan Shmup</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141705#141705" />
@@ -69,4 +85,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

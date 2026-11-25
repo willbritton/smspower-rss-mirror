@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 08:30:42 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 08:40:33 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -79,22 +79,6 @@ Posted: Tue Nov 24, 2026 7:21 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141255#141255" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141691</comments>
-</item>
-<item>
-<title>Music :: RE: Outrun at 50Hz</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141690#141690</link>
-<pubDate>Tue, 24 Nov 2026 18:34:02 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141690#141690</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5" target="_blank"&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-
-Posted: Tue Nov 24, 2026 6:34 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>Maxim</dc:creator>
-<dc:subject>Music</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141569#141569" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141690</comments>
 </item>
 </channel>
 </rss>

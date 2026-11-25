@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-25T00:40:39Z</modified>
+  <modified>2026-11-25T00:50:30Z</modified>
+  <entry>
+    <title mode="escaped">Development :: RE: [WIP] Unnamed Caravan Shmup</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141695#141695" />
+    <dc:creator>bofner</dc:creator>
+    <dc:subject>Development</dc:subject>
+    <author>
+		<name>bofner</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141695#141695</id>
+    <issued>2026-11-25T00:48:03Z</issued>
+    <modified>2026-11-25T00:48:03Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17603" target="_blank"&gt;bofner&lt;/a&gt;&lt;br /&gt;
+	Posted: Wed Nov 25, 2026 12:48 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: OBAKE - New SG-1000 game released</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141691#141691" />
@@ -98,22 +114,6 @@
     <modified>2026-11-24T15:41:57Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
 	Posted: Tue Nov 24, 2026 3:41 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: SMS Golden Axe Tyris Flare Edition ROM Hack</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141684#141684" />
-    <dc:creator>xfixium</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>xfixium</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141684#141684</id>
-    <issued>2026-11-24T14:55:52Z</issued>
-    <modified>2026-11-24T14:55:52Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=13282" target="_blank"&gt;xfixium&lt;/a&gt;&lt;br /&gt;
-	Posted: Tue Nov 24, 2026 2:55 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-26T18:50:36Z</modified>
+  <modified>2026-11-26T19:01:01Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Dungeon Crawler for Sega Master System</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141734#141734" />
+    <dc:creator>haroldoop</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>haroldoop</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141734#141734</id>
+    <issued>2026-11-26T18:58:39Z</issued>
+    <modified>2026-11-26T18:58:39Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 26, 2026 6:58 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Juno First for Sega Master System</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141733#141733" />
@@ -53,20 +69,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: [AI] Juno First for Sega Master System</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141724#141724" />
-    <dc:creator>haroldoop</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>haroldoop</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141724#141724</id>
-    <issued>2026-11-26T11:51:23Z</issued>
-    <modified>2026-11-26T11:51:23Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-	Subject: Juno First SMS v1.4.1: Fix title logo when in 3D, corrupted options screen and empty radar window.&lt;br /&gt;Posted: Thu Nov 26, 2026 11:51 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

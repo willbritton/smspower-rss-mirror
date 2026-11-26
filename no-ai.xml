@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 14:20:35 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 14:30:46 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,38 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: [WIP] Unnamed Caravan Shmup</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141729#141729</link>
+<pubDate>Thu, 26 Nov 2026 14:28:43 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141729#141729</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=29121" target="_blank"&gt;Maztr_0n&lt;/a&gt;&lt;br /&gt;
+Subject: Re: [WIP] Unnamed Caravan Shmup&lt;br /&gt;
+Posted: Thu Nov 26, 2026 2:28 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>Maztr_0n</dc:creator>
+<dc:subject>Development</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141687#141687" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141729</comments>
+</item>
+<item>
+<title>Main :: RE: Model / Serial Number Request</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141728#141728</link>
+<pubDate>Thu, 26 Nov 2026 14:24:06 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141728#141728</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=29121" target="_blank"&gt;Maztr_0n&lt;/a&gt;&lt;br /&gt;
+Subject: My SMS Serial Number&lt;br /&gt;
+Posted: Thu Nov 26, 2026 2:24 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>Maztr_0n</dc:creator>
+<dc:subject>Main</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=92322#92322" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141728</comments>
+</item>
 <item>
 <title>Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141727#141727</link>
@@ -111,38 +143,6 @@ Posted: Thu Nov 26, 2026 10:27 am (GMT 0)&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141715#141715" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141720</comments>
-</item>
-<item>
-<title>Main :: RE: The pinnacle of every technical aspect of the Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141719#141719</link>
-<pubDate>Thu, 26 Nov 2026 09:16:27 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141719#141719</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=9929" target="_blank"&gt;Flygon&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Nov 26, 2026 9:16 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>Flygon</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141607#141607" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141719</comments>
-</item>
-<item>
-<title>Main :: RE: Questions about the Analogue SG</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141718#141718</link>
-<pubDate>Thu, 26 Nov 2026 09:14:08 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141718#141718</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=7198" target="_blank"&gt;sverx&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Nov 26, 2026 9:14 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>sverx</dc:creator>
-<dc:subject>Main</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141715#141715" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141718</comments>
 </item>
 </channel>
 </rss>

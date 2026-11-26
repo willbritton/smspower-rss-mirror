@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-26T23:10:31Z</modified>
+  <modified>2026-11-26T23:20:31Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: [AI] Mystery House[SC]</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141739#141739"/>
+    <dc:creator>dark</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>dark</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141739#141739</id>
+    <issued>2026-11-26T23:13:46Z</issued>
+    <modified>2026-11-26T23:13:46Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5571&quot; target=&quot;_blank&quot;&gt;dark&lt;/a&gt;&lt;br /&gt;
+	Subject: [AI] Mystery House[SC]&lt;br /&gt;Posted: Thu Nov 26, 2026 11:13 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Bab Be U ported to Sega Master System</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-26T15:04:57Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=29121&quot; target=&quot;_blank&quot;&gt;Maztr_0n&lt;/a&gt;&lt;br /&gt;
 	Posted: Thu Nov 26, 2026 3:04 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [WIP] Unnamed Caravan Shmup</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141729#141729"/>
-    <dc:creator>Maztr_0n</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>Maztr_0n</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141729#141729</id>
-    <issued>2026-11-26T14:28:43Z</issued>
-    <modified>2026-11-26T14:28:43Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=29121&quot; target=&quot;_blank&quot;&gt;Maztr_0n&lt;/a&gt;&lt;br /&gt;
-	Subject: Re: [WIP] Unnamed Caravan Shmup&lt;br /&gt;Posted: Thu Nov 26, 2026 2:28 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

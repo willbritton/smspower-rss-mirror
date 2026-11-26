@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 10:30:46 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 10:40:33 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,22 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: Questions about the Analogue SG</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141722#141722</link>
+<pubDate>Thu, 26 Nov 2026 10:39:44 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141722#141722</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17545" target="_blank"&gt;Adrian&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Nov 26, 2026 10:39 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>Adrian</dc:creator>
+<dc:subject>Main</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141715#141715" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141722</comments>
+</item>
 <item>
 <title>Main :: RE: Questions about the Analogue SG</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141720#141720</link>
@@ -127,22 +143,6 @@ Posted: Wed Nov 25, 2026 7:29 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141712</comments>
-</item>
-<item>
-<title>Website :: RE: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141710#141710</link>
-<pubDate>Wed, 25 Nov 2026 15:36:55 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141710#141710</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=3" target="_blank"&gt;Bock&lt;/a&gt;&lt;br /&gt;
-
-Posted: Wed Nov 25, 2026 3:36 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>Bock</dc:creator>
-<dc:subject>Website</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141594#141594" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141710</comments>
 </item>
 </channel>
 </rss>

@@ -8,7 +8,41 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-26T10:30:47Z</modified>
+  <modified>2026-11-26T10:40:34Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Questions about the Analogue SG</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141722#141722"/>
+    <dc:creator>Adrian</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>Adrian</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141722#141722</id>
+    <issued>2026-11-26T10:39:44Z</issued>
+    <modified>2026-11-26T10:39:44Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=17545&quot; target=&quot;_blank&quot;&gt;Adrian&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 26, 2026 10:39 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
+  <entry>
+    <title mode="escaped">Made By AI :: [AI] Dungeon Crawler for Sega Master System</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141721#141721"/>
+    <dc:creator>haroldoop</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>haroldoop</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141721#141721</id>
+    <issued>2026-11-26T10:33:26Z</issued>
+    <modified>2026-11-26T10:33:26Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+	Subject: [AI] Dungeon Crawler for Sega Master System&lt;br /&gt;Posted: Thu Nov 26, 2026 10:33 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Questions about the Analogue SG</title>
     <link rel="alternate" type="text/html"
@@ -142,40 +176,6 @@
     <modified>2026-11-25T18:32:59Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
 	Posted: Wed Nov 25, 2026 6:32 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Website :: RE: Nov 2026: Updating Site Infrastructure. Report any issues!</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141710#141710"/>
-    <dc:creator>Bock</dc:creator>
-    <dc:subject>Website</dc:subject>
-    <author>
-		<name>Bock</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141710#141710</id>
-    <issued>2026-11-25T15:36:55Z</issued>
-    <modified>2026-11-25T15:36:55Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=3&quot; target=&quot;_blank&quot;&gt;Bock&lt;/a&gt;&lt;br /&gt;
-	Posted: Wed Nov 25, 2026 3:36 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: RE: Ports created by [AI]</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141709#141709"/>
-    <dc:creator>haroldoop</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>haroldoop</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141709#141709</id>
-    <issued>2026-11-25T14:32:36Z</issued>
-    <modified>2026-11-25T14:32:36Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-	Posted: Wed Nov 25, 2026 2:32 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-26T19:50:32Z</modified>
+  <modified>2026-11-26T20:00:54Z</modified>
+  <entry>
+    <title mode="escaped">Main :: RE: Questions about the Analogue SG</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141735#141735"/>
+    <dc:creator>KalexPidd</dc:creator>
+    <dc:subject>Main</dc:subject>
+    <author>
+		<name>KalexPidd</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141735#141735</id>
+    <issued>2026-11-26T19:59:08Z</issued>
+    <modified>2026-11-26T19:59:08Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245&quot; target=&quot;_blank&quot;&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 26, 2026 7:59 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Dungeon Crawler for Sega Master System</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-26T14:17:08Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=29121&quot; target=&quot;_blank&quot;&gt;Maztr_0n&lt;/a&gt;&lt;br /&gt;
 	Subject: Re: OBAKE - New SG-1000 game released&lt;br /&gt;Posted: Thu Nov 26, 2026 2:17 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Development :: RE: [WIP] Unnamed Caravan Shmup</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141725#141725"/>
-    <dc:creator>badcomputer</dc:creator>
-    <dc:subject>Development</dc:subject>
-    <author>
-		<name>badcomputer</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141725#141725</id>
-    <issued>2026-11-26T13:30:55Z</issued>
-    <modified>2026-11-26T13:30:55Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=27488&quot; target=&quot;_blank&quot;&gt;badcomputer&lt;/a&gt;&lt;br /&gt;
-	Posted: Thu Nov 26, 2026 1:30 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 23:00:55 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 23:10:30 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,38 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] Bab Be U ported to Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141738#141738</link>
+<pubDate>Thu, 26 Nov 2026 23:07:27 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141738#141738</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Nov 26, 2026 11:07 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141152#141152" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141738</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Bab Be U ported to Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141737#141737</link>
+<pubDate>Thu, 26 Nov 2026 23:01:00 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141737#141737</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5571&quot; target=&quot;_blank&quot;&gt;dark&lt;/a&gt;&lt;br /&gt;
+
+Posted: Thu Nov 26, 2026 11:01 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>dark</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141152#141152" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141737</comments>
+</item>
 <item>
 <title>Music :: RE: [VGM pack] Sonic Chaos</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141736#141736</link>
@@ -144,38 +176,6 @@ Posted: Thu Nov 26, 2026 2:28 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Development</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141687#141687" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141729</comments>
-</item>
-<item>
-<title>Main :: RE: Model / Serial Number Request</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141728#141728</link>
-<pubDate>Thu, 26 Nov 2026 14:24:06 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141728#141728</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=29121&quot; target=&quot;_blank&quot;&gt;Maztr_0n&lt;/a&gt;&lt;br /&gt;
-Subject: My SMS Serial Number&lt;br /&gt;
-Posted: Thu Nov 26, 2026 2:24 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-[This post has attachments]
-</description>
-<dc:creator>Maztr_0n</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=92322#92322" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141728</comments>
-</item>
-<item>
-<title>Main :: RE: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141727#141727</link>
-<pubDate>Thu, 26 Nov 2026 14:18:54 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141727#141727</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=29121&quot; target=&quot;_blank&quot;&gt;Maztr_0n&lt;/a&gt;&lt;br /&gt;
-Subject: Re: sonic the hedgehog sega sg-1000/sc-3000 demake sprites i did&lt;br /&gt;
-Posted: Thu Nov 26, 2026 2:18 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>Maztr_0n</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141455#141455" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141727</comments>
 </item>
 </channel>
 </rss>

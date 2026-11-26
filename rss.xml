@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 10:20:33 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 10:30:46 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Main :: RE: Questions about the Analogue SG</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141720#141720</link>
+<pubDate>Thu, 26 Nov 2026 10:27:57 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141720#141720</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=29&quot; target=&quot;_blank&quot;&gt;unfnknblvbl&lt;/a&gt;&lt;br /&gt;
+Subject: Re: Questions about the Analogue SG&lt;br /&gt;
+Posted: Thu Nov 26, 2026 10:27 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>unfnknblvbl</dc:creator>
+<dc:subject>Main</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141715#141715" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141720</comments>
+</item>
 <item>
 <title>Main :: RE: The pinnacle of every technical aspect of the Master System</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141719#141719</link>
@@ -160,22 +176,6 @@ Posted: Wed Nov 25, 2026 2:32 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=140783#140783" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141709</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Dragon Blaster has been turned into a full game</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141708#141708</link>
-<pubDate>Wed, 25 Nov 2026 14:24:34 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141708#141708</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689&quot; target=&quot;_blank&quot;&gt;segarule&lt;/a&gt;&lt;br /&gt;
-
-Posted: Wed Nov 25, 2026 2:24 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>segarule</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141477#141477" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141708</comments>
 </item>
 </channel>
 </rss>

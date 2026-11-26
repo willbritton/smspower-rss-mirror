@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-26T17:50:33Z</modified>
+  <modified>2026-11-26T18:00:58Z</modified>
+  <entry>
+    <title mode="escaped">Made By AI :: RE: [AI] Dungeon Crawler for Sega Master System</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141731#141731" />
+    <dc:creator>segarule</dc:creator>
+    <dc:subject>Made By AI</dc:subject>
+    <author>
+		<name>segarule</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141731#141731</id>
+    <issued>2026-11-26T17:55:51Z</issued>
+    <modified>2026-11-26T17:55:51Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2689" target="_blank"&gt;segarule&lt;/a&gt;&lt;br /&gt;
+	Posted: Thu Nov 26, 2026 5:55 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Juno First for Sega Master System</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141724#141724" />
@@ -21,20 +37,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  <entry>
-    <title mode="escaped">Made By AI :: [AI] Dungeon Crawler for Sega Master System</title>
-    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141721#141721" />
-    <dc:creator>haroldoop</dc:creator>
-    <dc:subject>Made By AI</dc:subject>
-    <author>
-		<name>haroldoop</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141721#141721</id>
-    <issued>2026-11-26T10:33:26Z</issued>
-    <modified>2026-11-26T10:33:26Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-	Subject: [AI] Dungeon Crawler for Sega Master System&lt;br /&gt;Posted: Thu Nov 26, 2026 10:33 am (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-</feed>
+  </feed>

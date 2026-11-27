@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 08:40:34 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 08:50:31 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -16,6 +16,38 @@
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] CP/M for SC-3000 with SD-1000</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141743#141743</link>
+<pubDate>Fri, 27 Nov 2026 08:42:01 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141743#141743</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 27, 2026 8:42 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141740#141740" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141743</comments>
+</item>
+<item>
+<title>Made By AI :: RE: [AI] Mystery House[SC]</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141742#141742</link>
+<pubDate>Fri, 27 Nov 2026 08:41:15 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141742#141742</guid>
+<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 27, 2026 8:41 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141739#141739" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141742</comments>
+</item>
 <item>
 <title>Made By AI :: [AI] CP/M for SC-3000 with SD-1000</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141740#141740</link>
@@ -95,38 +127,6 @@ Posted: Thu Nov 26, 2026 6:58 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141721#141721" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141734</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Juno First for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141733#141733</link>
-<pubDate>Thu, 26 Nov 2026 18:49:49 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141733#141733</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Nov 26, 2026 6:49 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>haroldoop</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141733</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Juno First for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141732#141732</link>
-<pubDate>Thu, 26 Nov 2026 18:39:58 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141732#141732</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=11301" target="_blank"&gt;SavitarSvit&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Nov 26, 2026 6:39 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>SavitarSvit</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141478#141478" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141732</comments>
 </item>
 </channel>
 </rss>

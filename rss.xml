@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 21:50:32 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 22:00:52 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Development :: RE: Phantasy Star and Y&#039;s Cartridges with FM sound (and question about Golden Axe Warrior PCB)</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141749#141749</link>
+<pubDate>Fri, 27 Nov 2026 21:51:42 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141749#141749</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=34398&quot; target=&quot;_blank&quot;&gt;AtariBorn&lt;/a&gt;&lt;br /&gt;
+
+Posted: Fri Nov 27, 2026 9:51 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>AtariBorn</dc:creator>
+<dc:subject>Development</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=139898#139898" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141749</comments>
+</item>
 <item>
 <title>Music :: RE: [VGM pack] Out Run 3-D (PSG)</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141748#141748</link>
@@ -160,22 +176,6 @@ Posted: Thu Nov 26, 2026 11:28 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141740#141740" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141740</comments>
-</item>
-<item>
-<title>Made By AI :: [AI] Mystery House[SC]</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141739#141739</link>
-<pubDate>Thu, 26 Nov 2026 23:13:46 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141739#141739</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5571&quot; target=&quot;_blank&quot;&gt;dark&lt;/a&gt;&lt;br /&gt;
-Subject: [AI] Mystery House[SC]&lt;br /&gt;
-Posted: Thu Nov 26, 2026 11:13 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>dark</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141739#141739" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141739</comments>
 </item>
 </channel>
 </rss>

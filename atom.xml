@@ -8,7 +8,24 @@
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html"
    href="https://www.smspower.org:443/forums/"/>
-  <modified>2026-11-27T16:20:38Z</modified>
+  <modified>2026-11-27T16:30:46Z</modified>
+  <entry>
+    <title mode="escaped">Music :: RE: [VGM pack] Sonic Chaos</title>
+    <link rel="alternate" type="text/html"
+     href="https://www.smspower.org:443/forums/viewtopic.php?p=141746#141746"/>
+    <dc:creator>Maxim</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <author>
+		<name>Maxim</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141746#141746</id>
+    <issued>2026-11-27T16:29:38Z</issued>
+    <modified>2026-11-27T16:29:38Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
+	Subject: Game Gear version&lt;br /&gt;Posted: Fri Nov 27, 2026 4:29 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Made By AI :: RE: [AI] Dungeon Crawler for Sega Master System</title>
     <link rel="alternate" type="text/html"
@@ -159,23 +176,6 @@
     <modified>2026-11-26T23:01:00Z</modified>
 	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5571&quot; target=&quot;_blank&quot;&gt;dark&lt;/a&gt;&lt;br /&gt;
 	Posted: Thu Nov 26, 2026 11:01 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
-	&lt;/span&gt;&lt;br /&gt;
-	</content>
-  </entry>
-  <entry>
-    <title mode="escaped">Music :: RE: [VGM pack] Sonic Chaos</title>
-    <link rel="alternate" type="text/html"
-     href="https://www.smspower.org:443/forums/viewtopic.php?p=141736#141736"/>
-    <dc:creator>Maxim</dc:creator>
-    <dc:subject>Music</dc:subject>
-    <author>
-		<name>Maxim</name>
-    </author>
-    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141736#141736</id>
-    <issued>2026-11-26T22:34:08Z</issued>
-    <modified>2026-11-26T22:34:08Z</modified>
-	<content type="text/html" mode="escaped">Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=5&quot; target=&quot;_blank&quot;&gt;Maxim&lt;/a&gt;&lt;br /&gt;
-	Subject: Master System versions&lt;br /&gt;Posted: Thu Nov 26, 2026 10:34 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>

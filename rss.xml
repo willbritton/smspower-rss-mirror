@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 11:00:57 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 11:10:32 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] Dungeon Crawler for Sega Master System</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141745#141745</link>
+<pubDate>Fri, 27 Nov 2026 11:09:30 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141745#141745</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
+Subject: Dungeon Crawler SMS: enemies, shops, items, title screen, ending, music, sounds and modding.&lt;br /&gt;
+Posted: Fri Nov 27, 2026 11:09 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>haroldoop</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141721#141721" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141745</comments>
+</item>
 <item>
 <title>Main :: RE: Starting a SMS/GG/Mark III podcast</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141744#141744</link>
@@ -160,22 +176,6 @@ Posted: Thu Nov 26, 2026 10:34 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Music</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=62804#62804" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141736</comments>
-</item>
-<item>
-<title>Main :: RE: Questions about the Analogue SG</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141735#141735</link>
-<pubDate>Thu, 26 Nov 2026 19:59:08 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141735#141735</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35245&quot; target=&quot;_blank&quot;&gt;KalexPidd&lt;/a&gt;&lt;br /&gt;
-
-Posted: Thu Nov 26, 2026 7:59 pm (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>KalexPidd</dc:creator>
-<dc:subject>Main</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141715#141715" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141735</comments>
 </item>
 </channel>
 </rss>

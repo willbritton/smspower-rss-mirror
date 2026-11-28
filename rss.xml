@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 03:50:30 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 04:00:54 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Made By AI :: RE: [AI] Time Pilot &amp;#039;84 - Game Gear</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141753#141753</link>
+<pubDate>Sat, 28 Nov 2026 04:00:01 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141753#141753</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=35492&quot; target=&quot;_blank&quot;&gt;Toaddio&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 28, 2026 4:00 am (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+[This post has attachments]
+</description>
+<dc:creator>Toaddio</dc:creator>
+<dc:subject>Made By AI</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141752#141752" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141753</comments>
+</item>
 <item>
 <title>Made By AI :: [AI] Time Pilot &amp;#039;84 - Game Gear</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141752#141752</link>
@@ -160,22 +176,6 @@ Posted: Fri Nov 27, 2026 9:33 am (GMT 0)&lt;br /&gt;
 <dc:subject>Main</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141048#141048" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141744</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] CP/M for SC-3000 with SD-1000</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141743#141743</link>
-<pubDate>Fri, 27 Nov 2026 08:42:01 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141743#141743</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-
-Posted: Fri Nov 27, 2026 8:42 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>haroldoop</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141740#141740" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141743</comments>
 </item>
 </channel>
 </rss>

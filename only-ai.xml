@@ -8,7 +8,7 @@
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 14:30:45 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 14:40:32 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -47,22 +47,6 @@ Posted: Sat Nov 28, 2026 3:39 am (GMT 0)&lt;br /&gt;
 <dc:subject>Made By AI</dc:subject>
 <ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141752#141752" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141752</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Dungeon Crawler for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141745#141745</link>
-<pubDate>Fri, 27 Nov 2026 11:09:30 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141745#141745</guid>
-<description>Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601" target="_blank"&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-Subject: Dungeon Crawler SMS: enemies, shops, items, title screen, ending, music, sounds and modding.&lt;br /&gt;
-Posted: Fri Nov 27, 2026 11:09 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>haroldoop</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<ns1:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141721#141721" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141745</comments>
 </item>
 </channel>
 </rss>

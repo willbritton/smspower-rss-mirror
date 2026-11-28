@@ -4,7 +4,23 @@
   <title>SMS Power!</title>
   <generator>RSS Feed 2.2.3</generator>
   <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/" />
-  <modified>2026-11-28T14:30:46Z</modified>
+  <modified>2026-11-28T14:40:32Z</modified>
+  <entry>
+    <title mode="escaped">Music :: RE: [VGM Pack] Out Run (PSG)</title>
+    <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141755#141755" />
+    <dc:creator>Avanze</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <author>
+		<name>Avanze</name>
+    </author>
+    <id>https://www.smspower.org:443/forums/viewtopic.php?p=141755#141755</id>
+    <issued>2026-11-28T14:31:51Z</issued>
+    <modified>2026-11-28T14:31:51Z</modified>
+	<content type="text/html" mode="escaped">Author: &lt;a href="https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2255" target="_blank"&gt;Avanze&lt;/a&gt;&lt;br /&gt;
+	Posted: Sat Nov 28, 2026 2:31 pm (GMT 0)&lt;br /&gt;&lt;br /&gt;&lt;span class="postbody"&gt;
+	&lt;/span&gt;&lt;br /&gt;
+	</content>
+  </entry>
   <entry>
     <title mode="escaped">Main :: RE: Questions about the Analogue SG</title>
     <link rel="alternate" type="text/html" href="https://www.smspower.org:443/forums/viewtopic.php?p=141754#141754" />
@@ -117,4 +133,4 @@
 	&lt;/span&gt;&lt;br /&gt;
 	</content>
   </entry>
-  </feed>
+</feed>

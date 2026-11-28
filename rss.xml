@@ -9,7 +9,7 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <generator>RSS Feed 2.2.3</generator>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 14:30:45 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 14:40:32 GMT</lastBuildDate>
 <image>
 	<url>http://www.smspower.org/images/smspower.gif</url>
 	<title>SMS Power!</title>
@@ -17,6 +17,22 @@ xmlns:annotate="http://purl.org/rss/1.0/modules/annotate/" xmlns:rdf="http://www
 	<width>122</width>
 	<height>56</height>
 </image>
+<item>
+<title>Music :: RE: [VGM Pack] Out Run (PSG)</title>
+<link>https://www.smspower.org:443/forums/viewtopic.php?p=141755#141755</link>
+<pubDate>Sat, 28 Nov 2026 14:31:51 GMT</pubDate>
+<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141755#141755</guid>
+<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=2255&quot; target=&quot;_blank&quot;&gt;Avanze&lt;/a&gt;&lt;br /&gt;
+
+Posted: Sat Nov 28, 2026 2:31 pm (GMT 0)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+</description>
+<dc:creator>Avanze</dc:creator>
+<dc:subject>Music</dc:subject>
+<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=65150#65150" />
+<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141755</comments>
+</item>
 <item>
 <title>Main :: RE: Questions about the Analogue SG</title>
 <link>https://www.smspower.org:443/forums/viewtopic.php?p=141754#141754</link>
@@ -160,22 +176,6 @@ Posted: Fri Nov 27, 2026 4:29 pm (GMT 0)&lt;br /&gt;
 <dc:subject>Music</dc:subject>
 <annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=62804#62804" />
 <comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141746</comments>
-</item>
-<item>
-<title>Made By AI :: RE: [AI] Dungeon Crawler for Sega Master System</title>
-<link>https://www.smspower.org:443/forums/viewtopic.php?p=141745#141745</link>
-<pubDate>Fri, 27 Nov 2026 11:09:30 GMT</pubDate>
-<guid isPermaLink="true">https://www.smspower.org:443/forums/viewtopic.php?p=141745#141745</guid>
-<description>Author: &lt;a href=&quot;https://www.smspower.org:443/forums/profile.php?mode=viewprofile&amp;u=601&quot; target=&quot;_blank&quot;&gt;haroldoop&lt;/a&gt;&lt;br /&gt;
-Subject: Dungeon Crawler SMS: enemies, shops, items, title screen, ending, music, sounds and modding.&lt;br /&gt;
-Posted: Fri Nov 27, 2026 11:09 am (GMT 0)&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-
-</description>
-<dc:creator>haroldoop</dc:creator>
-<dc:subject>Made By AI</dc:subject>
-<annotate:reference rdf:resource="https://www.smspower.org:443/forums/viewtopic.php?p=141721#141721" />
-<comments>https://www.smspower.org:443/forums/posting.php?mode=quote&amp;p=141745</comments>
 </item>
 </channel>
 </rss>
